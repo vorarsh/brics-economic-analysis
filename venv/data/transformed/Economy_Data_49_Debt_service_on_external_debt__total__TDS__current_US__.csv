@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1970,767217413.9,,,767217413.9
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1970,0.0,-100.0,,767217413.9
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1970,1360639537.8,inf,,2127856951.6999998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1970,0.0,-100.0,,2127856951.6999998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1970,0.0,,425571390.34000003,2127856951.6999998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1971,878860792.8,inf,447900066.12000006,3006717744.5
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1971,0.0,-100.0,447900066.12000006,3006717744.5
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1971,576982877.2,inf,291168734.0,3583700621.7
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1971,0.0,-100.0,291168734.0,3583700621.7
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1971,0.0,,291168734.0,3583700621.7
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1972,1203542362.9,inf,356105048.02000004,4787242984.6
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1972,0.0,-100.0,356105048.02000004,4787242984.6
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1972,640550924.6,inf,368818657.5,5427793909.200001
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1972,0.0,-100.0,368818657.5,5427793909.200001
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1972,0.0,,368818657.5,5427793909.200001
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1973,1922815572.8,inf,512673299.48,7350609482.000001
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1973,0.0,-100.0,512673299.48,7350609482.000001
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1973,694863198.4,inf,523535754.24000007,8045472680.400001
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1973,0.0,-100.0,523535754.24000007,8045472680.400001
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1973,0.0,,523535754.24000007,8045472680.400001
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1974,3424374350.0,inf,823847509.6800001,11469847030.400002
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1974,0.0,-100.0,823847509.6800001,11469847030.400002
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1974,815557094.3,inf,847986288.86,12285404124.7
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1974,0.0,-100.0,847986288.86,12285404124.7
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1974,0.0,,847986288.86,12285404124.7
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1975,4356174773.3,inf,1034346373.5200001,16641578898.0
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1975,0.0,-100.0,1034346373.5200001,16641578898.0
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1975,860863583.7,inf,1043407671.4,17502442481.7
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1975,0.0,-100.0,1043407671.4,17502442481.7
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1975,0.0,,1043407671.4,17502442481.7
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1976,4323130572.8,inf,1036798831.3,21825573054.5
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1976,0.0,-100.0,1036798831.3,21825573054.5
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1976,1205891291.3,inf,1105804372.8200002,23031464345.8
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1976,0.0,-100.0,1105804372.8200002,23031464345.8
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1976,0.0,,1105804372.8200002,23031464345.8
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1977,5785021352.5,inf,1398182528.76,28816485698.3
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1977,0.0,-100.0,1398182528.76,28816485698.3
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1977,1224345718.2,inf,1401873414.1399999,30040831416.5
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1977,0.0,-100.0,1401873414.1399999,30040831416.5
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1977,0.0,,1401873414.1399999,30040831416.5
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1978,8462997331.9,inf,1937468610.0199997,38503828748.4
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1978,0.0,-100.0,1937468610.0199997,38503828748.4
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1978,1305458446.3,inf,1953691155.6399999,39809287194.700005
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1978,0.0,-100.0,1953691155.6399999,39809287194.700005
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1978,0.0,,1953691155.6399999,39809287194.700005
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1979,11363528937.1,inf,2533797476.68,51172816131.8
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1979,0.0,-100.0,2533797476.68,51172816131.8
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1979,1281433214.9,inf,2528992430.4,52454249346.700005
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1979,0.0,-100.0,2528992430.4,52454249346.700005
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1979,0.0,,2528992430.4,52454249346.700005
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1980,14811682953.1,inf,3218623233.6,67265932299.8
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1980,0.0,-100.0,3218623233.6,67265932299.8
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1980,1398322464.8,inf,3242001083.58,68664254764.600006
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1980,0.0,-100.0,3242001083.58,68664254764.600006
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1980,0.0,,3242001083.58,68664254764.600006
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1981,17928641539.9,inf,3865392800.94,86592896304.5
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1981,1743635917.8,-90.2745787296848,4214119984.5,88336532222.3
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1981,1551391547.0,-11.025488110072923,4244733800.94,89887923769.3
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1981,0.0,-100.0,4244733800.94,89887923769.3
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1981,0.0,,4244733800.94,89887923769.3
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1982,19272394288.8,inf,4513484350.719999,109160318058.1
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1982,2124828192.7,-88.97475756847282,4589722805.7,111285146250.8
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1982,1974533452.8,-7.073265519365213,4674351186.86,113259679703.6
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1982,0.0,-100.0,4674351186.86,113259679703.6
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1982,0.0,,4674351186.86,113259679703.6
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1983,13366966198.5,inf,3493265568.8,126626645902.1
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1983,2691395954.7,-79.86531936467364,3606579121.2,129318041856.8
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1983,2480386349.9,-7.8401546391385635,3707749700.62,131798428206.7
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1983,0.0,-100.0,3707749700.62,131798428206.7
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1983,0.0,,3707749700.62,131798428206.7
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1984,13771901096.1,inf,3788736680.1400003,145570329302.8
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1984,2286227986.0,-83.3993290392753,3707703086.4,147856557288.8
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1984,2871865636.4,25.615890190576994,3785998943.7,150728422925.19998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1984,0.0,-100.0,3785998943.7,150728422925.19998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1984,0.0,,3785998943.7,150728422925.19998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1985,11531349371.4,inf,3337888598.7599998,162259772296.59998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1985,2481745623.2,-78.47827220155853,3376992126.2,164741517919.8
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1985,3404463637.6,37.18020113641758,3483511726.44,168145981557.4
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1985,0.0,-100.0,3483511726.44,168145981557.4
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1985,0.0,,3483511726.44,168145981557.4
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1986,11681348741.1,inf,3513511600.38,179827330298.5
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1986,2976756251.6,-74.51701582090008,3612513726.06,182804086550.1
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1986,4979874029.6,67.29196510205794,3927595804.4600005,187783960579.7
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1986,0.0,-100.0,3927595804.4600005,187783960579.7
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1986,0.0,,3927595804.4600005,187783960579.7
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1987,12023463619.6,inf,3996018780.160001,199807424199.30002
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1987,3851628282.8,-67.96573429538819,4170993186.4,203659052482.1
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1987,5236762885.4,35.96231258310978,4222370957.56,208895815367.5
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1987,0.0,-100.0,4222370957.56,208895815367.5
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1987,0.0,,4222370957.56,208895815367.5
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1988,16914248968.6,inf,5200528027.360001,225810064336.1
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1988,4564677627.3,-73.0128270207328,5343137896.26,230374741963.4
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1988,5576213792.0,22.160078921023874,5411028077.58,235950955755.4
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1988,0.0,-100.0,5411028077.58,235950955755.4
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1988,0.0,,5411028077.58,235950955755.4
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1989,14184539579.8,inf,4865086199.820001,250135495335.19998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1989,5650229980.4,-60.16627858371651,5082196670.440001,255785725315.59998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1989,6529933340.3,15.569337229663049,5272940580.1,262315658655.89996
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1989,0.0,-100.0,5272940580.1,262315658655.89996
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1989,0.0,,5272940580.1,262315658655.89996
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1990,8223826890.2,inf,4080798042.1800003,270539485546.09998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1990,7056975229.5,-14.188670022839233,4362147092.000001,277596460775.6
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1990,7694369986.1,9.032124045660872,4595034421.160001,285290830761.69995
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1990,0.0,-100.0,4595034421.160001,285290830761.69995
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1990,0.0,,4595034421.160001,285290830761.69995
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1991,8396020490.2,inf,4629473141.160001,293686851251.89996
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1991,8305074273.5,-1.0832062261657671,4879092949.960001,301991925525.39996
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1991,7447476722.2,-10.326187618049843,4829714297.18,309439402247.6
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1991,0.0,-100.0,4829714297.18,309439402247.6
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1991,0.0,,4829714297.18,309439402247.6
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1992,8708489919.0,inf,4892208182.940001,318147892166.6
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1992,8618762657.0,-1.0303423766299002,4954945859.640001,326766654823.6
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1992,7271664522.3,-15.629832126841448,4919783419.660002,334038319345.89996
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1992,1358414235.8,-81.31907444802833,5191466266.820001,335396733581.69995
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1992,0.0,-100.0,5191466266.820002,335396733581.69995
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1993,11296813206.1,inf,5709130924.240001,346693546787.7999
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1993,10167405673.9,-9.99757641022292,6018859527.620001,356860952461.69995
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1993,7929947248.6,-22.00618817682877,6150516072.88,364790899710.2999
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1993,2196350759.1,-72.30308487250332,6318103377.540001,366987250469.3999
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1993,0.0,-100.0,6318103377.540001,366987250469.3999
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1994,15999570619.1,inf,7258654860.140001,382986821088.4999
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1994,11136934634.6,-30.392290519941035,7452560652.280002,394123755723.09985
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1994,10450716133.0,-6.161646127185405,7956714429.160001,404574471856.09985
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1994,3469678704.9,-66.79960817284214,8211380018.320002,408044150560.9999
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1994,2901483200.5,-16.376026506361374,8791676658.420002,410945633761.4999
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1995,21634576207.2,645.6385135530617,9918677776.04,432580209968.6999
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1995,15067444786.4,-30.35479575797956,10704779806.400002,447647654755.0999
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1995,13137306195.0,-12.80999279414754,11242097818.800001,460784960950.0999
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1995,6158457958.3,-53.12236871936591,11779853669.48,466943418908.3999
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1995,3390700020.7,-44.94238584303043,11877697033.52,470334118929.0999
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1996,25280051261.9,645.5702688992526,12606792044.460003,495614170190.99994
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1996,15757292217.3,-37.669065406334504,12744761530.640003,511371462408.2999
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1996,11705406720.7,-25.71435142994566,12458381635.780003,523076869128.99994
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1996,7315000750.2,-37.5075046536909,12689690194.16,530391869879.19995
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1996,4236423520.6,-42.0858088020815,12858834894.140003,534628293399.7999
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1997,38614181184.2,811.4806627910307,15525660878.6,573242474583.9999
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1997,18446442592.2,-52.22883918163246,16063490953.580002,591688917176.1998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1997,12176495139.1,-33.99000876055756,16157708637.26,603865412315.2998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1997,7032658583.0,-42.24398316049586,16101240203.820002,610898070898.2998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1997,6541657391.7,-6.981729391597291,16562286978.040003,617439728289.9998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1998,51426174583.6,686.1337197030389,19124685657.920002,668865902873.5997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1998,18435386883.5,-64.15174367377675,19122474516.18,687301289757.0997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1998,11785462214.1,-36.07152218406547,19044267931.18,699086751971.1997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1998,10811803269.9,-8.261525314086759,19800096868.56,709898555241.0997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1998,4390226667.3,-59.394131046368855,19369810723.68,714288781908.3998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,1999,68188712489.3,1453.1934375323774,22722318304.82,782477494397.6998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,1999,26582555188.6,-61.0161942964222,24351751965.840004,809060049586.2998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,1999,9929098431.0,-62.64806614505546,23980479209.22,818989148017.2998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,1999,12069991740.0,21.561809703848223,24232116903.24,831059139757.2998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,1999,4441972773.5,-63.19821198568608,24242466124.480003,835501112530.7998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,2000,58586704284.1,1218.9343400215687,22322064483.440002,894087816814.8998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,2000,26610813193.0,-54.578750386848476,22327716084.32,920698630007.8998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,2000,10667604836.1,-59.91251842350265,22475417365.34,931366234843.9998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,2000,11625175989.7,8.976440056717383,22386454215.280003,942991410833.6997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,2000,4022514461.4,-65.39824889563839,22302562552.86,947013925295.0997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,2001,50070244251.4,1144.7498879587247,20599270546.32,997084169546.4998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,2001,25000325551.7,-50.06949551479176,20277173018.060005,1022084495098.1997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,2001,11770191324.3,-52.91984778374361,20497690315.7,1033854686422.4998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,2001,16612454296.7,41.14005319865082,21495145977.100002,1050467140719.1997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,2001,4467588769.4,-73.10699135956408,21584160838.700005,1054934729488.5997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,2002,52046584757.5,1064.9815469584926,21979428939.920002,1106981314246.0996
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,2002,31094648268.8,-40.2561216769959,23198293483.340004,1138075962514.8997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,2002,15444032291.1,-50.332185276408616,23933061676.7,1153519994805.9998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,2002,13273101908.4,-14.056758894184984,23265191199.04,1166793096714.3997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,2002,5201191417.6,-60.814047435977415,23411911728.68,1171994288131.9998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,2003,58350696521.4,1021.8717373859877,24672734081.460003,1230344984653.3997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,2003,37522263274.3,-35.69526070603324,25958257082.560005,1267867247927.6997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,2003,25762255084.3,-31.341414839586037,28021901641.200005,1293629503011.9998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,2003,21768324625.9,-15.503031257671129,29720946184.7,1315397827637.8997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,2003,4324623079.0,-80.13341332729597,29545632516.98,1319722450716.8997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,2004,53764235117.5,1143.212047278167,28628340236.2,1373486685834.3997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,2004,23304417949.3,-56.65442296655212,25784771171.200005,1396791103783.6997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,2004,17508281941.5,-24.871404299432843,24133976542.640003,1414299385725.1997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,2004,19923786527.1,13.796354169248959,23765068922.88,1434223172252.2998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,2004,4010586556.8,-79.87035972632577,23702261618.440002,1438233758809.0999
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,2005,62905830413.2,1468.4945212450873,25530580677.58,1501139589222.2998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,2005,27506962818.1,-56.27279278022533,26371089651.340004,1528646552040.4
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,2005,23922412358.1,-13.031429473708789,27653915734.659996,1552568964398.5
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,2005,40642301940.4,69.89215523926349,31797618817.32,1593211266338.9
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,2005,4819763890.3,-88.14101647744276,31959454284.02,1598031030229.2
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,2006,62246189477.7,1191.4779830392388,31827526096.920002,1660277219706.9
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,2006,27552371667.9,-55.73645246546253,31836607866.880005,1687829591374.7998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,2006,17401332481.4,-36.84270562568851,30532391891.54,1705230923856.1997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,2006,47917471695.3,175.36668095111798,31987425842.520008,1753148395551.4998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,2006,7550688524.5,-84.24230607884805,32533610769.360004,1760699084075.9998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,2007,55009017279.4,628.5298168625311,31086176329.700005,1815708101355.3997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,2007,31888239815.3,-42.03088622119117,31953349959.180004,1847596341170.6997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,2007,39403398367.1,23.567178982999938,36353763136.32001,1886999739537.7998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,2007,37878092815.4,-3.8710000023083224,34345887360.340004,1924877832353.1997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,2007,4387245802.3,-88.41745854607471,33713198815.9,1929265078155.4998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,2008,56543249819.1,1188.8097081193257,34020045323.840004,1985808327974.5999
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,2008,33346511112.7,-41.024770915385666,34311699583.320007,2019154839087.2998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,2008,30974407767.4,-7.113497832751037,32625901463.380005,2050129246854.6997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,2008,81059642298.6,161.6987640484084,41262211360.020004,2131188889153.2998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,2008,6773427876.4,-91.64389616789984,41739447774.840004,2137962317029.6997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,2009,44526664671.6,557.3726846157166,39336130745.34001,2182488981701.2998
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,2009,39906332322.9,-10.376551629852793,40648094987.380005,2222395314024.1997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,2009,16525348845.3,-58.5896576222891,37758283202.96001,2238920662869.4995
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,2009,91133471701.4,451.4768405468149,39773049083.520004,2330054134570.8994
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,2009,5296546837.5,-94.18814323802542,39477672875.740005,2335350681408.3994
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,2010,45881467061.8,766.2524559767004,39748633353.78001,2381232148470.199
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,2010,52103926467.0,13.562032349180676,42188152182.6,2433336074937.199
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,2010,24412612396.9,-53.146309592691225,43765604892.92,2457748687334.099
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,2010,55718869340.5,128.23804529651804,36682684420.740005,2513467556674.599
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,2010,6318558148.7,-88.6599311445337,36887086682.98,2519786114823.2993
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,2011,59070172414.9,834.8679085441871,39524827753.600006,2578856287238.199
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,2011,62800988403.2,6.315905025797641,41664240140.840004,2641657275641.3994
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,2011,29280766491.7,-53.375309471708874,42637870959.8,2670938042133.0996
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,2011,44641067671.3,52.45867174943686,40422310625.96,2715579109804.3994
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,2011,6442669593.7,-85.56784160912436,40447132914.96001,2722021779398.0996
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,2012,45476554942.7,605.8650809467165,37728409420.520004,2767498334340.8
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,2012,72240350179.8,58.851852940096535,39616281775.840004,2839738684520.5996
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,2012,30460318153.0,-57.83475844567904,39852192108.1,2870199002673.5996
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,2012,50066479575.9,64.36623978915668,40937274489.020004,2920265482249.4995
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,2012,10355222040.2,-79.31705578679315,41719784978.32,2930620704289.6997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,2013,81947509475.0,691.3640978133702,49013975884.78001,3012568213764.6997
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,2013,77192715847.8,-5.802242993913753,50004449018.380005,3089760929612.4995
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,2013,38716014451.8,-49.84498987166622,51655588278.14001,3128476944064.2993
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,2013,50932429828.4,31.553907471051758,51828778328.64,3179409373892.699
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,2013,13219869917.5,-74.0442975879219,52401707904.100006,3192629243810.199
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,2014,62250211467.0,370.8836914090611,48462248302.5,3254879455277.199
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,2014,81602959227.7,31.088645812808615,49344296978.48,3336482414504.8994
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,2014,92816434569.4,13.741505758891147,60164381002.0,3429298849074.2993
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,2014,88834660809.4,-4.289944747902141,67744827198.2,3518133509883.699
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,2014,8494514983.9,-90.43783709364807,66799756211.48,3526628024867.599
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,2015,89845404198.7,957.6872766601466,72318794757.81999,3616473429066.2993
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,2015,126687328524.2,41.00590859830877,81335668617.12001,3743160757590.4995
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,2015,49662490593.8,-60.79916502121725,72704879822.0,3792823248184.2993
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,2015,101029886822.2,103.43298456081227,75143925024.56001,3893853135006.4995
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,2015,21575242744.4,-78.64469275079983,77760070576.66,3915428377750.8994
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,2016,117495335288.6,444.5840711066702,83290056794.64001,4032923713039.4995
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,2016,167752276369.9,42.773562846435965,91503046363.78,4200675989409.3994
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,2016,76980598505.3,-54.11054909588533,96966667946.08,4277656587914.699
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,2016,71511707032.6,-7.104246497022848,91063031988.16,4349168294947.2993
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,2016,14198812106.9,-80.14477251895667,89587745860.66,4363367107054.199
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,2017,95434116476.6,572.1274692424672,85175502098.26001,4458801223530.799
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,2017,206284424816.7,116.15375342976009,92881931787.62003,4665085648347.499
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,2017,51226856893.9,-75.16688090270553,87731183465.34001,4716312505241.399
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,2017,81133959720.2,58.381686169508626,89655634002.86002,4797446464961.6
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,2017,14738443400.8,-81.83443350771088,89763560261.64001,4812184908362.399
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,2018,95526181348.9,548.1429466541551,89781973236.1,4907711089711.3
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,2018,240939996516.8,152.22404278549595,96713087576.12001,5148651086228.1
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,2018,63646594437.8,-73.58404774718998,99197035084.9,5212297680665.899
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,2018,109984464459.6,72.80494805905863,104967136032.78001,5322282145125.499
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,2018,29039108557.6,-73.59708146029408,107827269064.14,5351321253683.099
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Brazil,BRA,2019,151834559900.0,422.86233097972445,119088944774.36002,5503155813583.099
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,China,CHN,2019,275776826814.9,81.62981273600019,126056310833.98003,5778932640397.999
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,India,IND,2019,51443702247.8,-81.34589376418899,123615732395.98001,5830376342645.799
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,Russian Federation,RUS,2019,94338168333.5,83.38137461234992,120486473170.76001,5924714510979.299
+"Debt service on external debt, total (TDS, current US$)",DT.TDS.DECT.CD,South Africa,ZAF,2019,16744925493.3,-82.25010535067408,118027636557.90002,5941459436472.599

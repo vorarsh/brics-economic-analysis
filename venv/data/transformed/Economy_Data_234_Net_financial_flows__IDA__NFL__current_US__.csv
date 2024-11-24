@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1970,0.0,,,0.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1970,0.0,,,0.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1970,172867000.0,inf,,172867000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1970,0.0,-100.0,,172867000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1970,0.0,,34573400.0,172867000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1971,0.0,,34573400.0,172867000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1971,0.0,,34573400.0,172867000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1971,104951000.0,inf,20990200.0,277818000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1971,0.0,-100.0,20990200.0,277818000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1971,0.0,,20990200.0,277818000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1972,0.0,,20990200.0,277818000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1972,0.0,,20990200.0,277818000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1972,185341000.0,inf,37068200.0,463159000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1972,0.0,-100.0,37068200.0,463159000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1972,0.0,,37068200.0,463159000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1973,0.0,,37068200.0,463159000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1973,0.0,,37068200.0,463159000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1973,320125000.0,inf,64025000.0,783284000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1973,0.0,-100.0,64025000.0,783284000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1973,0.0,,64025000.0,783284000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1974,0.0,,64025000.0,783284000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1974,0.0,,64025000.0,783284000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1974,394812000.0,inf,78962400.0,1178096000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1974,0.0,-100.0,78962400.0,1178096000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1974,0.0,,78962400.0,1178096000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1975,0.0,,78962400.0,1178096000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1975,0.0,,78962400.0,1178096000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1975,484938000.0,inf,96987600.0,1663034000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1975,0.0,-100.0,96987600.0,1663034000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1975,0.0,,96987600.0,1663034000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1976,0.0,,96987600.0,1663034000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1976,0.0,,96987600.0,1663034000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1976,524368000.0,inf,104873600.0,2187402000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1976,0.0,-100.0,104873600.0,2187402000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1976,0.0,,104873600.0,2187402000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1977,0.0,,104873600.0,2187402000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1977,0.0,,104873600.0,2187402000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1977,322873000.0,inf,64574600.0,2510275000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1977,0.0,-100.0,64574600.0,2510275000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1977,0.0,,64574600.0,2510275000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1978,0.0,,64574600.0,2510275000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1978,0.0,,64574600.0,2510275000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1978,316147000.0,inf,63229400.0,2826422000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1978,0.0,-100.0,63229400.0,2826422000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1978,0.0,,63229400.0,2826422000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1979,0.0,,63229400.0,2826422000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1979,0.0,,63229400.0,2826422000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1979,533423000.0,inf,106684600.0,3359845000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1979,0.0,-100.0,106684600.0,3359845000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1979,0.0,,106684600.0,3359845000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1980,0.0,,106684600.0,3359845000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1980,0.0,,106684600.0,3359845000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1980,636597000.0,inf,127319400.0,3996442000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1980,0.0,-100.0,127319400.0,3996442000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1980,0.0,,127319400.0,3996442000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1981,0.0,,127319400.0,3996442000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1981,0.0,,127319400.0,3996442000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1981,767582000.0,inf,153516400.0,4764024000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1981,0.0,-100.0,153516400.0,4764024000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1981,0.0,,153516400.0,4764024000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1982,0.0,,153516400.0,4764024000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1982,883000.0,inf,153693000.0,4764907000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1982,1087257000.0,123032.16308040768,217628000.0,5852164000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1982,0.0,-100.0,217628000.0,5852164000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1982,0.0,,217628000.0,5852164000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1983,0.0,,217628000.0,5852164000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1983,67400000.0,inf,230931400.0,5919564000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1983,844432000.0,1152.86646884273,182366400.0,6763996000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1983,0.0,-100.0,182366400.0,6763996000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1983,0.0,,182366400.0,6763996000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1984,0.0,,182366400.0,6763996000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1984,123570000.0,inf,193600400.0,6887566000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1984,789125000.0,538.6056486202152,182539000.0,7676691000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1984,0.0,-100.0,182539000.0,7676691000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1984,0.0,,182539000.0,7676691000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1985,0.0,,182539000.0,7676691000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1985,211786000.0,inf,200182200.0,7888477000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1985,968121000.0,357.1222838147942,235981400.0,8856598000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1985,0.0,-100.0,235981400.0,8856598000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1985,0.0,,235981400.0,8856598000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1986,0.0,,235981400.0,8856598000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1986,282263000.0,inf,250076800.0,9138861000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1986,582041000.0,106.20520578325889,172860800.0,9720902000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1986,0.0,-100.0,172860800.0,9720902000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1986,0.0,,172860800.0,9720902000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1987,0.0,,172860800.0,9720902000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1987,399248000.0,inf,196257800.0,10120150000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1987,831541000.0,108.2768104035587,246157800.0,10951691000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1987,0.0,-100.0,246157800.0,10951691000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1987,0.0,,246157800.0,10951691000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1988,0.0,,246157800.0,10951691000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1988,557100000.0,inf,277728200.0,11508791000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1988,681045000.0,22.24824986537426,247629000.0,12189836000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1988,0.0,-100.0,247629000.0,12189836000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1988,0.0,,247629000.0,12189836000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1989,0.0,,247629000.0,12189836000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1989,507023000.0,inf,237613600.0,12696859000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1989,467913000.0,-7.713654015695537,194987200.0,13164772000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1989,0.0,-100.0,194987200.0,13164772000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1989,0.0,,194987200.0,13164772000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1990,0.0,,194987200.0,13164772000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1990,506900000.0,inf,194962600.0,13671672000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1990,634811000.0,25.233971197474858,228342200.0,14306483000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1990,0.0,-100.0,228342200.0,14306483000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1990,0.0,,228342200.0,14306483000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1991,0.0,,228342200.0,14306483000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1991,611300000.0,inf,249222200.0,14917783000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1991,812046000.0,32.83919515786029,284669200.0,15729829000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1991,0.0,-100.0,284669200.0,15729829000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1991,0.0,,284669200.0,15729829000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1992,0.0,,284669200.0,15729829000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1992,827495000.0,inf,327908200.0,16557324000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1992,1030437000.0,24.52486117740893,371586400.0,17587761000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1992,0.0,-100.0,371586400.0,17587761000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1992,0.0,,371586400.0,17587761000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1993,0.0,,371586400.0,17587761000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1993,919266000.0,inf,389940600.0,18507027000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1993,495232000.0,-46.12745385992738,282899600.0,19002259000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1993,0.0,-100.0,282899600.0,19002259000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1993,0.0,,282899600.0,19002259000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1994,0.0,,282899600.0,19002259000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1994,707681000.0,inf,240582600.0,19709940000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1994,772458000.0,9.153417994831003,296027800.0,20482398000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1994,0.0,-100.0,296027800.0,20482398000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1994,0.0,,296027800.0,20482398000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1995,0.0,,296027800.0,20482398000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1995,807438000.0,inf,315979200.0,21289836000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1995,502834000.0,-37.724754098766724,262054400.0,21792670000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1995,0.0,-100.0,262054400.0,21792670000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1995,0.0,,262054400.0,21792670000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1996,0.0,,262054400.0,21792670000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1996,793251000.0,inf,259217000.0,22585921000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1996,671903000.0,-15.297553989846847,293030800.0,23257824000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1996,0.0,-100.0,293030800.0,23257824000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1996,0.0,,293030800.0,23257824000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1997,0.0,,293030800.0,23257824000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1997,687118000.0,inf,271804200.0,23944942000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1997,579879000.0,-15.607071856653443,253399400.0,24524821000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1997,0.0,-100.0,253399400.0,24524821000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1997,0.0,,253399400.0,24524821000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1998,0.0,,253399400.0,24524821000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1998,553788000.0,inf,226733400.0,25078609000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1998,578463000.0,4.4556761793321575,226450200.0,25657072000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1998,0.0,-100.0,226450200.0,25657072000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1998,0.0,,226450200.0,25657072000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,1999,0.0,,226450200.0,25657072000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,1999,406807000.0,inf,197054000.0,26063879000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,1999,486110000.0,19.494010673366002,178583400.0,26549989000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,1999,0.0,-100.0,178583400.0,26549989000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,1999,0.0,,178583400.0,26549989000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,2000,0.0,,178583400.0,26549989000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,2000,313626000.0,inf,159947200.0,26863615000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,2000,687789000.0,119.30228998871266,200283000.0,27551404000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,2000,0.0,-100.0,200283000.0,27551404000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,2000,0.0,,200283000.0,27551404000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,2001,0.0,,200283000.0,27551404000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,2001,223665000.0,inf,182290800.0,27775069000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,2001,766013000.0,242.48228377260634,197935600.0,28541082000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,2001,0.0,-100.0,197935600.0,28541082000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,2001,0.0,,197935600.0,28541082000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,2002,0.0,,197935600.0,28541082000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,2002,94747000.0,inf,172152000.0,28635829000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,2002,429800000.0,353.6291386534666,104909400.0,29065629000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,2002,0.0,-100.0,104909400.0,29065629000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,2002,0.0,,104909400.0,29065629000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,2003,0.0,,104909400.0,29065629000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,2003,-6329000.0,-inf,84694200.0,29059300000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,2003,198827000.0,-3241.523147416653,38499600.0,29258127000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,2003,0.0,-100.0,38499600.0,29258127000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,2003,0.0,,38499600.0,29258127000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,2004,0.0,,38499600.0,29258127000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,2004,-138355000.0,-inf,12094400.0,29119772000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,2004,530960000.0,-483.7663980340428,78521000.0,29650732000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,2004,0.0,-100.0,78521000.0,29650732000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,2004,0.0,,78521000.0,29650732000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,2005,0.0,,78521000.0,29650732000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,2005,-152377000.0,-inf,75716600.0,29498355000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,2005,683237000.0,-548.3859112595733,106172000.0,30181592000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,2005,0.0,-100.0,106172000.0,30181592000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,2005,0.0,,106172000.0,30181592000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,2006,0.0,,106172000.0,30181592000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,2006,-213835000.0,-inf,93880400.0,29967757000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,2006,351310000.0,-264.2902237706643,27495000.0,30319067000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,2006,0.0,-100.0,27495000.0,30319067000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,2006,0.0,,27495000.0,30319067000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,2007,0.0,,27495000.0,30319067000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,2007,-267100000.0,-inf,16842000.0,30051967000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,2007,102108000.0,-138.22837888431297,-32998400.0,30154075000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,2007,0.0,-100.0,-32998400.0,30154075000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,2007,0.0,,-32998400.0,30154075000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,2008,0.0,,-32998400.0,30154075000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,2008,-306380000.0,-inf,-40854400.0,29847695000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,2008,196782000.0,-164.22808277302696,-21919600.0,30044477000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,2008,0.0,-100.0,-21919600.0,30044477000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,2008,0.0,,-21919600.0,30044477000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,2009,0.0,,-21919600.0,30044477000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,2009,-336646000.0,-inf,-27972800.0,29707831000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,2009,464318000.0,-237.92470428877812,25534400.0,30172149000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,2009,0.0,-100.0,25534400.0,30172149000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,2009,0.0,,25534400.0,30172149000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,2010,0.0,,25534400.0,30172149000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,2010,-355179000.0,-inf,21827800.0,29816970000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,2010,231541000.0,-165.18994647769154,-24727600.0,30048511000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,2010,0.0,-100.0,-24727600.0,30048511000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,2010,0.0,,-24727600.0,30048511000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,2011,0.0,,-24727600.0,30048511000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,2011,-1555734000.0,-inf,-264838600.0,28492777000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,2011,806407000.0,-151.83450384191644,-149865400.0,29299184000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,2011,0.0,-100.0,-149865400.0,29299184000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,2011,0.0,,-149865400.0,29299184000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,2012,0.0,,-149865400.0,29299184000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,2012,-740916000.0,-inf,13098200.0,28558268000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,2012,-247865000.0,-66.54614018323265,-197756200.0,28310403000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,2012,0.0,-100.0,-197756200.0,28310403000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,2012,0.0,,-197756200.0,28310403000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,2013,0.0,,-197756200.0,28310403000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,2013,-780210000.0,-inf,-205615000.0,27530193000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,2013,-12516000.0,-98.39581651093935,-158545200.0,27517677000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,2013,0.0,-100.0,-158545200.0,27517677000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,2013,0.0,,-158545200.0,27517677000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,2014,0.0,,-158545200.0,27517677000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,2014,-822868000.0,-inf,-167076800.0,26694809000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,2014,371798000.0,-145.18318855515102,-90214000.0,27066607000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,2014,0.0,-100.0,-90214000.0,27066607000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,2014,0.0,,-90214000.0,27066607000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,2015,0.0,,-90214000.0,27066607000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,2015,-799584000.0,-inf,-85557200.0,26267023000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,2015,-232411000.0,-70.93351042542122,-206399000.0,26034612000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,2015,0.0,-100.0,-206399000.0,26034612000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,2015,0.0,,-206399000.0,26034612000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,2016,0.0,,-206399000.0,26034612000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,2016,-817487000.0,-inf,-209979600.0,25217125000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,2016,65688000.0,-108.03535713717771,-150359800.0,25282813000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,2016,0.0,-100.0,-150359800.0,25282813000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,2016,0.0,,-150359800.0,25282813000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,2017,0.0,,-150359800.0,25282813000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,2017,-780177000.0,-inf,-142897800.0,24502636000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,2017,-395979000.0,-49.24497902399071,-235231200.0,24106657000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,2017,0.0,-100.0,-235231200.0,24106657000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,2017,0.0,,-235231200.0,24106657000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,2018,0.0,,-235231200.0,24106657000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,2018,-681363000.0,-inf,-215468400.0,23425294000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,2018,-783752000.0,15.027085415556751,-293023000.0,22641542000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,2018,0.0,-100.0,-293023000.0,22641542000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,2018,0.0,,-293023000.0,22641542000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Brazil,BRA,2019,0.0,,-293023000.0,22641542000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,China,CHN,2019,-510210000.0,-inf,-258792400.0,22131332000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,India,IND,2019,-930716000.0,82.4182199486486,-288185200.0,21200616000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,Russian Federation,RUS,2019,0.0,-100.0,-288185200.0,21200616000.0
+"Net financial flows, IDA (NFL, current US$)",DT.NFL.MIDA.CD,South Africa,ZAF,2019,0.0,,-288185200.0,21200616000.0

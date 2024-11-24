@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1970,4390904238.75018,,,4390904238.75018
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1970,32224388658.705,633.8895796068944,,36615292897.455185
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1970,24923928060.2093,-22.655078660502614,,61539220957.66449
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1970,0.0,-100.0,,61539220957.66449
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1970,1244599502.65804,inf,12556764092.064505,62783820460.32253
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1971,5419467730.85808,335.4386868453623,12762476790.486084,68203288191.18061
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1971,33564871232.4316,519.3388889708764,13030573305.231403,101768159423.61221
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1971,25660577256.7808,-23.549305227226323,13177903144.545704,127428736680.393
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1971,0.0,-100.0,13177903144.545704,127428736680.393
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1971,1491855094.09914,inf,13227354262.833923,128920591774.49214
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1972,6479656891.15567,334.3355408166117,13439392094.893442,135400248665.64781
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1972,36853592267.605,468.75839086337845,14097136301.928125,172253840933.2528
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1972,27168678557.165,-26.279429261915453,14398756562.004963,199422519490.41782
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1972,0.0,-100.0,14398756562.004963,199422519490.41782
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1972,1540212214.59922,inf,14408427986.10498,200962731705.01703
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1973,9074168979.6725,489.1505659844217,14927330403.808346,210036900684.6895
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1973,45616768875.0377,402.71015425463315,16679965725.294886,255653669559.7272
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1973,35199833920.0471,-22.83575801593202,18286196797.8713,290853503479.7743
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1973,0.0,-100.0,18286196797.8713,290853503479.7743
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1973,2011645937.03125,inf,18380483542.357708,292865149416.80554
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1974,11805727206.0522,486.8690403578114,18926795187.633648,304670876622.8577
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1974,48194982663.6753,308.2339175088525,19442437945.361168,352865859286.533
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1974,38018588193.949,-21.115049549330543,20006188800.14155,390884447480.482
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1974,0.0,-100.0,20006188800.14155,390884447480.482
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1974,3031743516.2278,inf,20210208315.980858,393916190996.7098
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1975,13215473676.3705,335.9034201156188,20492157610.044518,407131664673.08026
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1975,52220668889.1279,295.14791651016924,21297294855.13504,459352333562.2081
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1975,34730864275.353,-33.49211142987906,20639750071.41584,494083197837.56116
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1975,0.0,-100.0,20639750071.41584,494083197837.56116
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1975,2770762017.47056,inf,20587553771.66439,496853959855.03174
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1976,17488792499.4264,531.1907117664327,21442217536.27557,514342752354.4581
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1976,49814566807.4585,184.8370852881486,20960997119.941692,564157319161.9166
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1976,34351671820.6672,-31.04091027541791,20885158629.00453,598508990982.5839
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1976,0.0,-100.0,20885158629.00453,598508990982.5839
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1976,2336799997.968,inf,20798366225.10402,600845790980.5519
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1977,22780422683.1598,874.8554734238645,21856692261.8507,623626213663.7117
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1977,50715900527.5057,122.62932182113073,22036959005.860138,674342114191.2174
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1977,42457056541.9936,-16.28452595657436,23658035950.12542,716799170733.211
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1977,0.0,-100.0,23658035950.12542,716799170733.211
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1977,2693299997.658,inf,23729335950.063423,719492470730.869
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1978,20635507897.7901,666.1793307739213,23300352992.98948,740127978628.6592
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1978,41400982231.7073,100.62981941986035,21437369333.829796,781528960860.3665
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1978,45528830485.1917,9.970411403242153,22051724122.46942,827057791345.5581
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1978,0.0,-100.0,22051724122.46942,827057791345.5581
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1978,2941699997.442,inf,22101404122.426216,829999491343.0001
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1979,22271744190.9144,657.104538541698,22428651381.05108,852271235533.9146
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1979,54737987765.2174,145.77324207749916,25096052487.7531,907009223299.132
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1979,47857257182.8996,-12.57030238639879,25561737827.294678,954866480482.0315
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1979,0.0,-100.0,25561737827.294678,954866480482.0315
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1979,3219628539.38861,inf,25617323535.684002,958086109021.42
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1980,23384778420.9235,626.3191431817828,25839930381.68582,981470887442.3435
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1980,56645039529.1667,142.23038811641518,26221340734.475685,1038115926971.5103
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1980,61594472500.7475,8.737628241979278,28968783798.045265,1099710399472.2578
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1980,0.0,-100.0,28968783798.045265,1099710399472.2578
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1980,4843138938.9891,inf,29293485877.965363,1104553538411.2468
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1981,25397776715.1497,424.4073530636916,29696085536.8106,1129951315126.3965
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1981,61336696047.619,141.50419438498267,30634416840.50106,1191288011174.0154
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1981,61365822478.0086,0.0474861416842165,30588686835.953278,1252653833652.024
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1981,0.0,-100.0,30588686835.953278,1252653833652.024
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1981,5166486772.97342,inf,30653356402.75014,1257820320424.9973
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1982,22711381551.5812,339.5904325234598,30116077370.036446,1280531701976.5786
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1982,67240100091.6031,196.06345144125217,31296758178.833263,1347771802068.1816
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1982,61359563464.0861,-8.745579824399108,31295506376.04876,1409131365532.2678
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1982,0.0,-100.0,31295506376.04876,1409131365532.2678
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1982,4125008922.81266,inf,31087210806.016613,1413256374455.0806
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1983,19977112648.1064,384.292592377834,30540357025.321655,1433233487103.187
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1983,75130342134.0996,276.0820868235985,32118405433.820946,1508363829237.2866
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1983,68368791476.2066,-8.999760237780308,33520251036.24505,1576732620713.4932
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1983,0.0,-100.0,33520251036.24505,1576732620713.4932
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1983,3589444395.38404,inf,33413138130.759327,1580322065108.8772
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1984,21839449808.1673,508.43538449160644,33785605562.771507,1602161514917.0444
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1984,81986338178.5714,275.4047785027577,35156804771.66587,1684147853095.6157
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1984,63958902685.6631,-21.988340854598732,34274827013.557167,1748106755781.2788
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1984,0.0,-100.0,34274827013.557167,1748106755781.2788
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1984,3429863195.8106,inf,34242910773.64248,1751536618977.0894
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1985,23417382758.3592,582.7497606015984,34558497363.68086,1774954001735.4485
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1985,86453492251.7007,269.18511835333,35451928178.30672,1861407493987.1492
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1985,66580437366.9865,-22.986989151179436,35976235114.571396,1927987931354.1357
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1985,0.0,-100.0,35976235114.571396,1927987931354.1357
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1985,2821407339.17947,inf,35854543943.24517,1930809338693.3152
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1986,26626058417.942,843.7155014165897,36496279075.161736,1957435397111.257
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1986,80117436063.7681,200.89859642830527,35229067837.57521,2037552833175.0251
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1986,68393366637.7789,-14.633605369819403,35591653691.73369,2105946199812.804
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1986,0.0,-100.0,35591653691.73369,2105946199812.804
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1986,3086171672.64853,inf,35644606558.427505,2109032371485.4524
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1987,26493865934.7073,758.4702584600699,35618168061.78056,2135526237420.1597
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1987,71848942733.1839,171.1908594625327,33964469395.663727,2207375180153.3438
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1987,75015584849.83,4.407360771341695,35288913038.07395,2282390765003.174
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1987,0.0,-100.0,35288913038.07395,2282390765003.174
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1987,4560337911.95299,inf,35583746285.93484,2286951102915.127
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1988,30206070508.5321,562.3647433967494,36326187200.6998,2317157173423.659
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1988,78830830316.8724,160.97678046075407,37722564717.4375,2395988003740.5317
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1988,82992211449.7807,5.278875176350417,39317890037.427635,2478980215190.3125
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1988,0.0,-100.0,39317890037.427635,2478980215190.3125
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1988,5062751061.97911,inf,39418372667.43286,2484042966252.2915
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1989,35927000000.0,609.6339432884453,40562558565.72644,2519969966252.2915
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1989,85591114645.749,138.23618628259803,41914615431.501755,2605561080898.0405
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1989,79688512801.3293,-6.896278742074835,41253875701.81148,2685249593699.3696
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1989,79024634471.2881,-0.833091629776439,57058802596.06911,2764274228170.6577
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1989,4854199572.76486,-93.85735903083673,57017092298.22624,2769128427743.4224
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1990,31751335800.0,554.1003377394111,56181959458.22624,2800879763543.4224
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1990,95931579346.0803,202.133995087162,58250052398.29252,2896811342889.5024
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1990,86331925636.2927,-10.006771258457182,59578734965.285194,2983143268525.795
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1990,79904845843.8168,-7.44461535533506,59754777239.79094,3063048114369.612
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1990,4861399420.5718,-93.91601426767788,59756217209.35232,3067909513790.1836
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1991,40927000000.0,741.8769259487455,61591350049.35232,3108836513790.1836
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1991,92140201609.7561,125.13304569051265,60833074502.08748,3200976715399.9395
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1991,73828482315.4666,-19.87375648671318,58332385837.922264,3274805197715.4062
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1991,71333333333.3333,-3.3796563384191125,56618083335.82556,3346138531048.7397
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1991,5168551939.92717,-92.75436643935443,56679513839.69664,3351307082988.667
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1992,27160437500.0,425.49413870034005,53926201339.69663,3378467520488.667
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1992,91056260554.1601,235.25329094628938,53709413128.57743,3469523781042.827
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1992,76864531185.5153,-15.585671190838745,54316622902.58717,3546388312228.3423
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1992,33432578692.4939,-56.504543543233,46736471974.4193,3579820890920.8364
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1992,4726133606.74634,-85.86368808037106,46647988307.78313,3584547024527.583
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1993,28735214285.7143,508.00681226396335,46962943664.92599,3613282238813.2974
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1993,85866351835.7374,198.81925007403137,45924961921.24145,3699148590649.0347
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1993,75079800665.0874,-12.56202335378671,45568015817.15587,3774228391314.122
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1993,32880162861.4916,-56.206379651749536,45457532650.95541,3807108554175.614
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1993,5144531650.15931,-84.3536917021039,45541212259.638,3812253085825.773
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1994,47642734240.5756,826.0849671145526,49322716250.61026,3859895820066.3486
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1994,109898181742.026,130.67144128858516,54129082231.86798,3969794001808.3745
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1994,86363506441.5546,-21.414981510537167,56385823387.16142,4056157508249.929
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1994,24137488841.4516,-72.0512866649453,54637288583.15342,4080294997091.381
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1994,5890506313.36897,-75.59602677784305,54786483515.79535,4086185503404.75
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1995,38555020050.1253,554.5281169230161,52968940677.70529,4124740523454.8755
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1995,143945822921.432,273.3517003344528,59778468913.5865,4268686346376.3076
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1995,88113635729.2706,-38.78694501794298,60128494771.129684,4356799982105.578
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1995,26470262487.5401,-69.95894872744775,60595049500.34739,4383270244593.118
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1995,5498906146.3958,-79.22609891388797,60516729466.95276,4388769150739.514
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1996,40551829370.2119,637.4526549574076,60916091330.97008,4429320980109.726
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1996,166923247062.856,311.62938800850395,65511576159.25488,4596244227172.582
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1996,99862765103.885,-40.17444133094234,67861402034.17776,4696106992276.467
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1996,25655533010.7695,-74.30921026062055,67698456138.82363,4721762525287.236
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1996,5697606556.34118,-77.79189949415793,67738196220.812706,4727460131843.577
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1997,41378317810.7607,626.2403502521333,67903493908.92247,4768838449654.338
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1997,172081688484.644,315.8740557594467,68935182193.28008,4940920138138.981
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1997,101244489721.004,-41.16486732983288,69211527116.70389,5042164627859.985
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1997,23768366464.9957,-76.52379252392562,68834093807.54912,5065932994324.981
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1997,5634378468.86023,-76.2946331328317,68821448190.05293,5071567372793.842
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1998,41027248858.2507,628.1592652143944,68751234399.55093,5112594621652.093
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1998,176573862806.344,330.38192352698894,69649669263.89091,5289168484458.437
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1998,102720522680.697,-41.82574869908411,69944875855.82953,5391889007139.134
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1998,13827923750.644,-86.53830472258441,67956787312.95918,5405716930889.777
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1998,4750660278.70914,-65.64444261932027,67780043674.92897,5410467591168.486
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,1999,27847482779.5228,486.1813126130245,65144090459.18339,5438315073948.009
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,1999,175748346819.999,531.1103528152021,64978987261.91438,5614063420768.008
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,1999,105478046711.373,-39.983477159302474,65530492068.04958,5719541467479.381
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,1999,12891957757.9204,-87.77759148953757,65343298869.50487,5732433425237.301
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,1999,4424105090.15968,-65.68321760562974,65277987831.79497,5736857530327.461
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,2000,31135495435.9115,603.7693454697686,65935590363.072716,5767993025763.372
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,2000,177780193867.172,470.98880675629573,66341959772.507324,5945773219630.544
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,2000,101215262787.974,-43.06718842730214,65489402987.827515,6046988482418.518
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,2000,14937788837.54,-85.24156493192956,65898569203.75144,6061926271256.058
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,2000,4083674500.11372,-72.66212192094268,65830483085.74225,6066009945756.171
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,2001,26855703596.6329,557.635754169071,64974524717.88652,6092865649352.804
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,2001,187293882702.879,597.4082135995924,66877262485.02793,6280159532055.683
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,2001,104954796939.212,-43.96250671693791,67625169315.27553,6385114328994.895
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,2001,18015083990.4011,-82.83538769472811,68240628345.847755,6403129412985.296
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,2001,3908377084.97886,-78.30497439222962,68205568862.82076,6407037790070.274
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,2002,27812342556.8938,611.6084746219987,68396896654.87295,6434850132627.168
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,2002,195605029567.476,603.3029640251993,70059126027.79236,6630455162194.644
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,2002,100601880717.513,-48.56886812166079,69188542783.45255,6731057042912.156
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,2002,19227898819.7767,-80.88713781229593,69431105749.32767,6750284941731.933
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,2002,3908374206.64662,-79.67342015224934,69431105173.66122,6754193315938.579
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,2003,34432618979.5255,780.9959630009082,70755160458.18756,6788625934918.1045
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,2003,205028943701.824,495.4497502026767,72639943285.05716,6993654878619.929
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,2003,118991207540.395,-41.96370259145201,76317808649.63358,7112646086160.323
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,2003,23681805659.4552,-80.09785248089383,77208590017.56927,7136327891819.778
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,2003,5349452060.22711,-77.41113098742414,77496805588.28537,7141677343880.006
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,2004,37918873880.3419,608.8365958500068,78194056568.44865,7179596217760.348
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,2004,252565293074.618,566.0674941761765,87701326443.00745,7432161510834.966
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,2004,126332614150.78,-49.98021596203394,89169607765.08444,7558494124985.746
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,2004,28986070499.8265,-77.05575025524988,90230460733.1587,7587480195485.572
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,2004,6317011625.9269,-78.20673338262696,90423972646.29866,7593797207111.499
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,2005,41471224819.2573,556.5006885383434,91134442834.08174,7635268431930.756
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,2005,266120618838.705,541.6994434057106,93845507986.89914,7901389050769.461
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,2005,144552934947.689,-45.68142236460747,97489572146.28093,8045941985717.15
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,2005,32515926386.9836,-77.50586911379523,98195543323.71236,8078457912104.134
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,2005,6159797461.98481,-81.05606037892056,98164100490.92393,8084617709566.118
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,2006,48404365558.7735,685.8109922850717,99550728638.82718,8133022075124.892
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,2006,292434931645.22,504.14991141685334,104813591200.13017,8425457006770.111
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,2006,158052441543.0,-45.952954165288254,107513492519.19238,8583509448313.111
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,2006,38224311485.418,-75.81542486009707,108655169538.87924,8621733759798.529
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,2006,6333013364.83792,-83.4319753090808,108689812719.44987,8628066773163.367
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,2007,61708034307.4316,874.3866111201692,111350546469.18149,8689774807470.799
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,2007,363773907328.294,489.50817573601444,125618341605.7963,9053548714799.094
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,2007,203804643612.754,-43.97491422362325,134768782019.7471,9257353358411.848
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,2007,49114603323.5864,-75.90113627788173,136946840387.38078,9306467961735.434
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,2007,7914667726.45982,-83.88530662802087,137263171259.70517,9314382629461.893
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,2008,77462742501.9086,878.723872929498,140414112898.60056,9391845371963.8
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,2008,467196741836.603,503.12445279753916,161098679800.26236,9859042113800.404
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,2008,201305866150.943,-56.911971312217005,160598924307.90015,10060347979951.348
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,2008,62337231538.3718,-69.033574266718,163243449950.85724,10122685211489.719
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,2008,8200140415.43601,-86.84551717637893,163300544488.6525,10130885351905.154
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,2009,74628708112.4337,810.0906122528343,162733737610.7575,10205514060017.588
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,2009,491609333372.369,558.740243274375,167616255917.9107,10697123393389.957
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,2009,224689117965.083,-54.29518873782398,172292906280.7387,10921812511355.04
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,2009,49938278455.8481,-77.77450064866578,169813115664.23395,10971750789810.887
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,2009,8030022304.30627,-83.9201058734817,169779092042.008,10979780812115.193
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,2010,90911778080.9459,1032.1485126161174,173035706035.71048,11070692590196.139
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,2010,567638066259.989,524.3834168049998,188241452613.23447,11638330656456.127
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,2010,285298796155.585,-49.73931222841691,200363388251.33487,11923629452611.713
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,2010,50991688526.3716,-82.12691773905567,200574070265.43958,11974621141138.084
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,2010,8960990930.44856,-82.42656560428634,200760263990.66803,11983582132068.533
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,2011,113596365375.418,1167.676379287795,205297181449.56244,12097178497443.951
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,2011,693051149113.983,510.09975699799793,230379798020.36127,12790229646557.934
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,2011,313418286562.399,-54.77703385051995,236003696101.72406,13103647933120.332
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,2011,64461504379.6,-79.43275579526014,238697659272.36978,13168109437499.932
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,2011,9517139028.52185,-85.23593403517631,238808888891.98438,13177626576528.453
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,2012,102757155291.588,979.7063590605934,236641046875.2184,13280383731820.041
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,2012,777602458691.761,656.7380164283487,253551308790.77402,14057986190511.803
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,2012,307872488771.18,-60.40746973856732,252442149232.5302,14365858679282.982
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,2012,64615416209.2468,-79.01227989965972,252472931598.45956,14430474095492.229
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,2012,8598349748.4744,-86.69303665764528,252289173742.4501,14439072445240.703
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,2013,111447057186.587,1196.1447306369573,254027154121.4499,14550519502427.291
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,2013,855871719551.954,667.9626013982904,269681006293.48846,15406391221979.244
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,2013,318398573401.827,-62.79832992162569,271786223219.61786,15724789795381.07
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,2013,68627490291.3302,-78.44604341090418,272588638036.03458,15793417285672.4
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,2013,7695186690.43128,-88.78702010263747,272408005424.42596,15801112472362.832
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,2014,106236719082.023,1280.5606459700969,271365937803.51312,15907349191444.855
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,2014,905464400820.393,752.3083248846419,281284474057.2009,16812813592265.248
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,2014,342408945451.364,-62.184162608587854,286086548467.1083,17155222537716.611
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,2014,69202998505.3158,-79.78937191197143,286201650109.90546,17224425536221.928
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,2014,7631145522.1128,-88.97281087968086,286188841876.24176,17232056681744.041
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,2015,77840031260.3324,920.0307546851917,280509504311.9036,17309896713004.373
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,2015,927733440385.388,1091.8461816679212,284963312224.90265,18237630153389.76
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,2015,340244988047.687,-63.3251348677971,284530520744.16724,18577875141437.45
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,2015,52809046251.4342,-84.47911119736091,281251730293.3909,18630684187688.883
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,2015,6634302430.4548,-87.43718566916057,281052361675.05927,18637318490119.336
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,2016,87834044625.2112,1223.9379052424345,283051164348.03503,18725152534744.547
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,2016,905097449017.985,930.4631340615651,278523966074.5545,19630249983762.53
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,2016,375516161736.641,-58.51096894107154,285578200812.34534,20005766145499.17
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,2016,49031394263.5758,-86.94293368444612,284822670414.7736,20054797539762.746
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,2016,6591156314.58719,-86.55727332746154,284814041191.6001,20061388696077.332
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,2017,94933571473.3346,1340.317403233675,286233946561.2248,20156322267550.668
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,2017,918794756465.645,867.8291274691172,288973408050.7567,21075117024016.312
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,2017,433932579214.303,-52.771543790310226,300656691546.2892,21509049603230.617
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,2017,55941254578.4484,-87.10830731360663,302038663609.26373,21564990857809.066
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,2017,8253798946.8861,-85.24559556434062,302371192135.72345,21573244656755.953
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,2018,83310756445.3446,909.3625611849335,300046629130.1255,21656555413201.297
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,2018,978615477629.988,1074.6568142998453,312010773362.994,22635170890831.285
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,2018,418009908055.873,-57.2855817620819,308826239131.30804,23053180798887.156
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,2018,56305901495.239,-86.53000792323016,308899168514.66614,23109486700382.395
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,2018,8014039701.07074,-85.76696316326917,308851216665.5031,23117500740083.465
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Brazil,BRA,2019,81621689567.7526,918.483718727364,308513403289.98474,23199122429651.22
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,China,CHN,2019,1020014764634.36,1149.685922989459,316793260690.8591,24219137194285.58
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,India,IND,2019,459004919376.958,-55.00016908662146,324992262955.07605,24678142113662.535
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,Russian Federation,RUS,2019,58616709310.2503,-87.22961196367673,325454424518.07837,24736758822972.785
+"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,South Africa,ZAF,2019,6622878657.84447,-88.70138099566375,325176192309.43317,24743381701630.63

@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1970,0.999979976563466,,,0.999979976563466
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1970,7.7000000066306,670.0154190179329,,8.699979983194066
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1970,7.09216539547366,-7.893955982253553,,15.792145378667726
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1970,0.0,-100.0,,15.792145378667726
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1970,-6.65054413542926,-inf,1.828320248647693,9.141601243238465
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1971,10.1566333805295,-252.7188328308709,3.6596509294409003,19.298234623767968
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1971,1.90000000126524,-81.29301383559257,2.4996509283678288,21.19823462503321
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1971,-1.87736673463445,-198.808775441278,0.7057445023462063,19.32086789039876
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1971,0.0,-100.0,0.7057445023462063,19.32086789039876
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1971,18.7643926309729,inf,5.788731855626638,38.08526052137166
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1972,3.96981905368594,-78.84387130584086,4.5513689902579255,42.0550795750576
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1972,-0.900000005659962,-122.67105864244165,3.9913689888728854,41.155079569397635
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1972,-5.01847976132164,457.6088588623545,3.3631463835354474,36.136599808076
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1972,0.0,-100.0,3.3631463835354474,36.136599808076
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1972,-0.639258339140184,-inf,-0.5175838104871693,35.497341468935815
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1973,0.0300571182359306,-104.70187346736188,-1.305536197577171,35.527398587171746
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1973,8.99999999903687,29842.990303967912,0.6744638033621954,44.52739858620862
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1973,7.20190654789815,-19.978816125901577,3.1185410652061534,51.72930513410677
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1973,0.0,-100.0,3.1185410652061534,51.72930513410677
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1973,-12.6600804976217,-inf,0.7143766335098505,39.06922463648507
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1974,0.989973467820931,-107.81964591778785,0.9063599034268506,40.059198104306
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1974,4.09999999910455,314.1525134132351,-0.07364009655961343,44.159198103410546
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1974,-1.52335692471422,-137.15504695236402,-1.8186927910820874,42.635841178696325
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1974,0.0,-100.0,-1.8186927910820874,42.635841178696325
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1974,30.3763440860215,inf,6.788592125646552,73.01218526471783
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1975,7.21000617012596,-76.26440446648799,8.032598666107559,80.2221914348438
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1975,2.00000000891907,-72.26077257456592,7.612598668070463,82.22219144376287
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1975,12.8897836529565,544.4891797737031,10.495226783604606,95.11197509671936
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1975,0.0,-100.0,10.495226783604606,95.11197509671936
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1975,-8.57946177533806,-inf,2.7040656113326946,86.5325133213813
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1976,2.44006608279692,-128.44078272848034,1.7500775938668867,88.97257940417822
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1976,-1.80000000566284,-173.768494154863,0.9900775909505045,87.17257939851538
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1976,-5.77818281952759,221.01015563051658,-2.7435157035463136,81.3943965789878
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1976,0.0,-100.0,-2.7435157035463136,81.3943965789878
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1976,-2.41937845991623,-inf,-1.5114990404619477,78.97501811907156
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1977,12.1297882393368,-601.359685568036,0.4264453908460286,91.10480635840837
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1977,-2.20000000269268,-118.13716743675786,0.3464453914400606,88.90480635571569
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1977,10.0362538184803,-556.1933548271124,3.509332719041639,98.941060174196
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1977,0.0,-100.0,3.509332719041639,98.941060174196
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1977,11.7514633048176,inf,6.343501071988404,110.6925234790136
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1978,-2.77408869891487,-123.60632567160901,3.362725684338071,107.91843478009874
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1978,-1.12049146093892,-59.608664950864096,3.578627392688823,106.79794331915981
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1978,2.30250676649888,-305.49079102927624,2.0318779822925386,109.1004500856587
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1978,0.0,-100.0,2.0318779822925386,109.1004500856587
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1978,4.00752081654581,inf,0.4830894846381808,113.1079709022045
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1979,4.76939911845579,19.011212587204064,1.9917870481123128,117.8773700206603
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1979,6.10000000000016,27.898711105880047,3.4358853403001293,123.97737002066046
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1979,-12.7746904613253,-309.4211551036879,0.42044589473529326,111.20267955933517
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1979,0.0,-100.0,0.4204458947352931,111.20267955933517
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1979,-2.16672692526213,-inf,-0.8144036536262949,109.03595263407304
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1980,9.54906967264277,-540.7140355948419,0.1415304572111012,118.58502230671581
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1980,-1.41376060320482,-114.805218221992,-1.361221663429895,117.171261703511
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1980,12.8882253291302,-1011.6271382802854,3.7713614946612046,130.0594870326412
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1980,0.0,-100.0,3.7713614946612046,130.0594870326412
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1980,9.97809043634348,inf,6.200324966982326,140.03757746898467
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1981,7.97012377482902,-20.12375688840008,5.884535787419577,148.0077012438137
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1981,6.97896749522045,-12.435895697615218,7.56308140710463,154.98666873903414
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1981,4.60167330115434,-34.06369489031439,5.905771001509459,159.58834204018848
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1981,0.0,-100.0,5.905771001509459,159.58834204018848
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1981,5.78210882557666,inf,5.066574679356095,165.37045086576515
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1982,-0.49075899758391,-108.48754342728868,3.374398124873508,164.87969186818125
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1982,11.528150134048,-2449.045089504837,4.284234652639019,176.40784200222924
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1982,-0.280834935457918,-102.43607978897222,3.3077330053165674,176.1270070667713
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1982,0.0,-100.0,3.3077330053165674,176.1270070667713
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1982,-8.44527137411508,-inf,0.4622569653782193,167.68173569265622
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1983,-0.577100358471512,-93.16658597566993,0.44498869320069884,167.1046353341847
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1983,8.25320512820478,-1530.1160980152451,-0.21000030796794533,175.35784046238948
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1983,10.1209740845157,22.630831625981806,1.8703614960267785,185.47881454690517
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1983,0.0,-100.0,1.8703614960267785,185.47881454690517
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1983,-22.7063197026022,-inf,-0.9818481696706456,162.77249484430297
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1984,3.3696732073971,-114.84024382432582,-0.19249345649692326,166.14216805170008
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1984,12.953367875648,284.4102106760024,0.7475390929917207,179.0955359273481
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1984,1.58509236688022,-87.76308692768502,-0.9596372505353752,180.6806282942283
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1984,0.0,-100.0,-0.9596372505353752,180.6806282942283
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1984,11.4018212132872,inf,5.861990932642504,192.08244950751552
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1985,9.96260320750699,-12.622702802101514,7.180576932664482,202.0450527150225
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1985,1.83486238532082,-81.58250060648587,4.956875834599046,203.87991510034334
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1985,0.314273271349094,-82.87210671147176,4.702712015492821,204.19418837169243
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1985,0.0,-100.0,4.702712015492821,204.19418837169243
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1985,20.3373244301174,inf,6.489812658858861,224.53151280180984
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1986,-8.02195880755733,-139.44451412535696,2.892900255845997,216.5095539942525
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1986,3.28185328185324,-140.91087177811823,3.182298435152481,219.79140727610576
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1986,-0.409484449306802,-112.47723204358388,3.037546891021302,219.38192282679896
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1986,0.0,-100.0,3.037546891021302,219.38192282679896
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1986,6.58933269552739,inf,0.2879485441033001,225.97125552232635
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1987,14.9716160811313,127.20989776845708,4.886663521841026,240.94287160345763
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1987,4.73520249221215,-68.37213520202461,5.177333363912807,245.67807409566979
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1987,-1.58779659757656,-133.5317570935554,4.941670934258856,244.09027749809323
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1987,0.0,-100.0,4.941670934258856,244.09027749809323
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1987,2.54459777852576,inf,4.132723950858531,246.634875276619
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1988,0.840627866427226,-66.96421440270797,1.3065263079177156,247.4755031430462
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1988,2.4985127900061,197.21983885986236,0.8591883674765055,249.9740159330523
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1988,15.6396474783356,525.9582716923942,4.304677182658938,265.6136634113879
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1988,0.0,-100.0,4.304677182658938,265.6136634113879
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1988,2.80531302654326,inf,4.356820232262438,268.4189764379312
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1989,2.85029970275295,1.6036241155277908,4.758754599527583,271.26927614068416
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1989,3.07603017991831,7.919534810579343,4.874258077510025,274.34530632060245
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1989,1.18915474256059,-61.34125242580779,1.9841595303550228,275.53446106316306
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1989,0.0,-100.0,1.9841595303550228,275.53446106316306
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1989,14.7016879163917,inf,4.363434508324711,290.23614897955474
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1990,-3.70036763933794,-125.16967888572985,3.0533010399065335,286.53578134021683
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1990,7.37612612612615,-299.3349538492307,3.913320229148101,293.911907466343
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1990,4.01509580471968,-45.56633473906771,4.478508441579919,297.9270032710627
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1990,0.0,-100.0,4.478508441579919,297.9270032710627
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1990,-7.135169239905,-inf,0.11113701032057861,290.7918340311577
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1991,-3.60307819085568,-49.502554603685155,0.13059490001703056,287.188755840302
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1991,2.35972732039862,-165.49198200548122,-0.8726848611284753,289.54848316070064
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1991,-1.95248823523526,-182.74211254652224,-2.0662016691194633,287.5959949254654
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1991,-3.69999999726028,89.50178190520357,-2.806201668571519,283.8959949282051
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1991,4.46615910317128,-220.70700287779226,-0.48593599995626346,288.36215403137635
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1992,5.43728066171639,21.743998279316724,1.3221357705581505,293.79943469309273
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1992,4.61065573770503,-15.202910709237116,1.7723214540194323,298.41009043079777
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1992,6.65100678352499,44.25294712711629,3.4930204577714825,305.06109721432273
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1992,-9.00000001099201,-235.31785944476317,2.4330204550251366,296.06109720333075
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1992,-27.2600329010291,202.88925408594974,-3.912217945814939,268.80106430230165
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1993,0.986634642575098,-103.61934501751043,-4.8023471496431975,269.78769894487675
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1993,4.65230166503407,371.532365100383,-4.79401796417739,274.44000060991084
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1993,3.32270683139868,-28.57929105561673,-5.459677954602652,277.76270744130954
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1993,-3.99999999958473,-220.38377752096014,-4.459677952321195,273.76270744172484
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1993,23.9325537118363,-698.3138428580229,5.778839370251885,297.69526115356115
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1994,7.44106778706598,-68.90817471189521,7.069725999150061,305.13632894062715
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1994,3.97753860552186,-46.54613128997973,6.934773387247619,309.11386754614904
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1994,4.71598013566729,18.565288822597005,7.21342804810134,313.8298476818163
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1994,-11.9999999949527,-354.4539978910398,5.613428049027747,301.8298476868636
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1994,7.89999990706131,-165.8333325865343,2.406917288072749,309.72984759392494
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1995,5.73618805301031,-27.390023791226948,2.0659413412616154,315.46603564693527
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1995,4.905490549055,-14.481699279704863,2.251531729968243,320.37152619599027
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1995,-0.695377068207918,-114.1754848216327,1.1692602891932016,319.67614912778237
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1995,-8.00000000360524,1050.4549645593488,1.9692602874626934,311.67614912417713
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1995,-19.8999999034433,148.74999868094082,-3.590739674638229,291.7761492207338
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1996,2.45424711376769,-112.33290012902476,-4.247127862486753,294.2303963345015
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1996,5.06220506220501,106.26305451506295,-4.215784959856751,299.2926013967065
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1996,9.92029923999971,95.9679451562675,-2.092649698215226,309.21290063670625
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1996,-5.30000000441288,-153.42580779259873,-1.5526496983767533,303.9129006322934
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1996,23.9999998330534,-552.8301851522746,7.227350248922588,327.91290046534675
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1997,0.813027956476802,-96.61238349111537,6.8991064174644094,328.72592842182354
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1997,3.42997141690506,321.8761962096105,6.5726596884044195,332.1558998387286
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1997,-2.55372783862185,-174.45332710457794,4.077854272680108,329.60217200010675
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1997,2.50000001187338,-197.89610208512022,5.63785427593736,332.10217201198014
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1997,0.900000183340268,-63.999992837365994,1.0178543459947336,333.00217219532044
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1998,3.40888810633113,278.7652679890969,1.537026375965599,336.41106030165156
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1998,3.43466245558605,0.7560925571904464,1.5379645837017972,339.8457227572376
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1998,6.320454459082,84.01966833167461,3.3128010432425667,346.16617721631957
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1998,-18.8000000019087,-397.44696561960933,-0.9471989595138492,327.36617721441087
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1998,-5.30000001000749,-71.80851058792874,-2.1871989981834004,322.0661772044034
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,1999,6.52523771926805,-223.1176925839068,-1.5639290755960167,328.59141492367144
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,1999,2.74809160305347,-57.885187922904834,-1.7012432461025326,331.3395065267249
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,1999,2.66912734360052,-2.873421663426745,-2.4315086691988284,334.0086338703254
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,1999,17.0999999906895,540.6588292495048,4.748491329320812,351.10863386101494
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,1999,6.20000000870272,-63.74268998784529,7.048491333062853,357.30863386971765
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,2000,2.7234059715778,-56.07409729427335,6.288124983524804,360.03203984129544
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,2000,2.30312035661213,-15.43235269922606,6.199130734236535,362.33516019790756
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,2000,-0.0076181457891095,-100.33077497523037,5.6637816363586095,362.3275420521185
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,2000,12.7000000077004,-166807.23243253827,4.7837816397607895,375.02754205981887
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,2000,4.69999996312407,-62.99212629705263,4.48378163064506,379.72754202294294
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,2001,5.2003402503352,10.645538109293007,4.9791684863965395,384.92788227327816
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,2001,2.6506899055921,-49.02852932707157,5.048682396192534,387.5785721788703
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,2001,6.00708957037696,126.62362570981767,6.251623939425747,393.5856617492472
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,2001,11.3993336522012,89.76466920711927,5.991490668325907,404.98499540144843
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,2001,-3.30000002907094,-128.9490607938624,4.391490669886905,401.6849953723775
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,2002,8.02017084309917,-343.0354779529234,4.955456788439699,409.70516621547665
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,2002,2.68836222143601,-66.47998809465301,4.962991251608481,412.3935284369127
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,2002,-6.60423450695563,-345.6601440942704,2.440726436141963,405.78929392995707
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,2002,2.9053621010755,-143.9924127166525,0.7419321259168232,408.6946560310326
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,2002,6.49999995663988,123.72426329350566,2.7019321230589872,415.1946559876725
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,2003,8.30634217547757,27.789880475190998,2.759166389534667,423.5009981631501
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,2003,2.37685153289706,-71.38509969028088,2.696864251826877,425.8778496960471
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,2003,9.04858115778949,280.6961029139458,5.827427384775902,434.9264308538366
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,2003,-1.7909113529272,-119.7921787040114,4.888172693975361,433.1355195009094
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,2003,0.681069551576314,-138.02921626819344,3.7243866129626477,433.8165890524857
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,2004,1.99512359270958,192.93977217039426,2.4621428964090506,435.8117126451953
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,2004,6.12382234185731,206.93949809598203,3.2115370582011002,441.9355349870526
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,2004,0.183532765386602,-97.00297044654404,1.4385273797205227,442.1190677524392
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,2004,1.03617672670471,464.5731564726652,2.0039449956469046,443.1552444791439
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,2004,0.859440043642337,-17.056615778703886,2.039619094060109,444.01468452278624
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,2005,1.12006620559862,30.325112715453685,1.864607616637917,445.13475072838486
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,2005,5.07292327203555,352.9128052144314,1.654427802673565,450.2076740004204
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,2005,4.80936404944374,-5.195411175341014,2.5795940594849927,455.01703804986414
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,2005,-0.149568621725876,-103.10994593439386,2.3424449897988753,454.8674694281383
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,2005,2.80978559842026,-1978.5929602065426,2.73251410075446,457.67725502655856
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,2006,4.63942272917225,65.1166100282051,3.4363854054691862,462.3166777557308
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,2006,4.73747736873875,2.113509487935672,3.369296224809826,467.0541551244695
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,2006,2.93879548470738,-37.96708129732407,2.9951825118625544,469.9929506091769
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,2006,2.50239434737803,-14.849659991661612,3.5255751056833353,472.4953449565549
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,2006,-5.46278022787861,-318.3021326595637,1.8710619404235616,467.0325647286763
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,2007,3.2470010170295,-159.43861699686983,1.5925775979950114,470.2795657457058
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,2007,3.51483722270223,8.248725647698073,1.3480495687877074,473.794402968408
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,2007,5.50647663431845,56.66377375180507,1.8615857987099218,479.30087960272647
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,2007,0.918552343771253,-83.3186917012144,1.5448173979885662,480.2194319464977
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,2007,2.97916196950034,224.33230285700952,3.233205837464356,483.19859391599806
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,2008,5.77096721064999,93.71109290905343,3.737999076188454,488.96956112664805
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,2008,5.17673253548578,-10.296968488533153,4.0703781387451645,494.1462936621338
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,2008,-0.244194260259448,-104.71715041458161,2.9202439598295844,493.90209940187435
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,2008,5.7283488610792,-2445.8163410528273,3.8822032632911734,499.63044826295356
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,2008,19.4115081635552,238.8674229575142,7.168672502102146,519.0419564265088
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,2009,-3.72867988743376,-119.20860479266777,5.268743082485395,515.3132765390751
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,2009,3.99576607568129,-207.16302274023715,5.032549790524497,519.3090426147564
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,2009,-0.880233004818365,-122.02914255105092,4.905342041612714,518.4288096099381
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,2009,1.68050648883585,-290.9160960378463,4.095773567164045,520.1093160987739
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,2009,-1.89228172816355,-212.60186977762902,-0.16498441117970558,518.2170343706103
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,2010,6.69694248560597,-453.90832062334175,1.9201400634282404,524.9139768562163
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,2010,4.24936386768455,-36.54770252517634,1.9708596218288925,529.1633407239009
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,2010,8.79175828828511,106.89586870035868,3.905257880449587,537.955099012186
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,2010,-11.9809490601988,-236.2747776649324,1.1729667706426574,525.9741499519872
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,2010,-0.300341362342877,-97.49317553364263,1.491354843806792,525.6738085896443
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,2011,5.63864642473051,-1977.4125484232486,1.2796956316317,531.3124550143748
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,2011,4.17378569685138,-25.978942773471402,1.264579997465066,535.4862407112262
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,2011,6.39780412843058,53.285400667718875,0.7857891654941602,541.8840448396568
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,2011,14.212610540501,122.14825985908138,6.02450108563412,556.0966553801578
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,2011,1.99403006425452,-85.9699943330451,6.4833753709536,558.0906854444123
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,2012,-3.08224226102396,-254.57351001256217,4.739197633802705,555.0084431833884
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,2012,4.47516401124639,-245.1918321877685,4.799473296681708,559.4836071946348
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,2012,1.48746252213647,-66.76183222786078,3.8174049754228863,560.9710697167714
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,2012,-1.44199439364277,-196.94324207722605,0.6864839885941316,559.5290753231286
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,2012,1.76339737410409,-222.28878155686803,0.6403574505640457,561.2924726972327
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,2013,8.36144402163974,374.16675018515593,2.9290947070967857,569.6539167188724
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,2013,3.79008746355677,-54.67185507972214,2.7920793975588616,573.4440041824292
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,2013,5.57047565594284,46.97485769141807,3.608682024320136,579.014479838372
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,2013,3.91944591225528,-29.638936522883196,4.680970085499745,582.9339257506273
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,2013,4.47989932626484,14.299302160469685,5.224270475931895,587.4138250768921
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,2014,2.79079441538288,-37.70408189708735,4.110140554680524,590.2046194922749
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,2014,4.06222990492668,45.55819241057806,4.164569042954506,594.2668493972016
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,2014,-0.21644819129213,-105.32830973031884,3.0071842735075114,594.0504012059095
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,2014,2.83379768543253,-1409.226780097176,2.7900546281429617,596.884198891342
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,2014,6.80147062001659,140.01256882170344,3.2543688868933116,603.6856695113586
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,2015,3.314331451855,-51.27037023285832,3.359076294187736,607.0000009632136
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,2015,3.90365448504977,17.781053034539784,3.3273612102123535,610.9036554482633
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,2015,0.649599312381739,-83.35920059345476,3.5005707109471276,611.553254760645
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,2015,2.88032076746822,343.3996022729148,3.5098753273542656,614.4335755281132
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,2015,-5.87927928036298,-304.11890740665046,0.9737253472783515,608.5542962477502
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,2016,-5.22421773471419,-11.141868151028667,-0.7339844900354866,603.330078513036
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,2016,3.2773780975219,-162.73433198896333,-0.8592397675410606,606.607456610558
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,2016,6.79755863058386,107.4084352892835,0.3703520960993636,613.4050152411418
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,2016,1.78276669617685,-73.77342671005806,0.15084128184108953,615.1877819373186
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,2016,-10.0818010207649,-665.5143234605716,-0.6896630662392944,605.1059809165537
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,2017,14.1523861983183,-240.3755754469807,3.185657720367204,619.2583671148719
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,2017,3.94736842105274,-72.10810695992879,3.3196557850733717,623.2057355359246
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,2017,5.92839223907764,50.185936723296074,3.145822506772128,629.1341277750023
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,2017,1.49328218631891,-74.81134638029215,3.0879256048005397,630.6274099613212
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,2017,21.0745665189332,1311.2916307455669,9.31919911274016,651.7019764802544
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,2018,1.36685646560363,-93.51418941701289,6.762093166197225,653.068832945858
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,2018,3.48101265822784,154.6728750110977,6.668822013632246,656.5498456040859
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,2018,2.40715056348537,-30.84912926714739,5.9645736785137915,658.9569961675713
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,2018,0.942194131226046,-60.858529353401934,5.854356067495218,659.8991902987974
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,2018,-4.75230229780237,-604.3867436977512,0.6889823041481046,655.1468880009951
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Brazil,BRA,2019,1.2517386470122,-126.33962590281867,0.6659587404298186,656.3986266480073
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,China,CHN,2019,3.07609282245009,145.74561389412057,0.5849747732742687,659.4747194704573
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,India,IND,2019,3.65703415657505,18.885689335676293,0.8349514918922047,663.1317536270324
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,Russian Federation,RUS,2019,0.603791441361906,-83.489587039368,0.7672709539193767,663.7355450683942
+"Agriculture, forestry, and fishing, value added (annual % growth)",NV.AGR.TOTL.KD.ZG,South Africa,ZAF,2019,-6.88846703615302,-1240.8686119524089,0.34003800624924685,656.8470780322413

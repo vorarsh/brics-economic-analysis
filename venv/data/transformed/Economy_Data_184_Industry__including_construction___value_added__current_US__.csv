@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1970,13622585421.9581,,,13622585421.9581
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1970,37293850028.4345,173.76484619667676,,50916435450.3926
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1970,13563974410.7213,-63.62946062050574,,64480409861.1139
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1970,0.0,-100.0,,64480409861.1139
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1970,6656997339.86386,inf,14227481440.195553,71137407200.97775
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1971,16100750952.153,141.8620607783249,14723114546.234533,87238158153.13075
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1971,41835242505.4838,159.8341073022409,15631393041.64439,129073400658.61456
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1971,15081238563.2418,-63.95087572095479,15934845872.148493,144154639221.85635
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1971,0.0,-100.0,15934845872.148493,144154639221.85635
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1971,7028636886.63202,inf,16009173781.502125,151183276108.48837
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1972,19166337452.185,172.6892534260526,16622291081.508526,170349613560.67337
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1972,48621442252.0155,153.68144734649115,17979531030.814865,218971055812.68887
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1972,16013474323.2673,-67.06499523344868,18165978182.819965,234984530135.95618
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1972,0.0,-100.0,18165978182.819965,234984530135.95618
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1972,7649026876.55691,inf,18290056180.80494,242633557012.5131
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1973,26496716609.6275,246.40637348047315,19756132012.29344,269130273622.1406
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1973,59329446064.1399,123.9124452219213,21897732774.718323,328459719686.2805
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1973,18255996684.8696,-69.22945030510921,22346237247.03878,346715716371.15015
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1973,0.0,-100.0,22346237247.03878,346715716371.15015
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1973,11059729632.3172,inf,23028377798.190838,357775446003.46735
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1974,36606872242.0549,230.9924696087272,25050408924.67632,394382318245.5222
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1974,61176830511.9315,67.11843095310942,25419885814.234642,455559148757.45374
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1974,22568187733.4708,-63.109910165958574,26282324023.95488,478127336490.92456
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1974,0.0,-100.0,26282324023.95488,478127336490.92456
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1974,14200627761.2049,inf,26910503649.73242,492327964252.12946
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1975,43881294192.9237,209.00953768258228,28365388039.906178,536209258445.05316
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1975,74131627056.6728,68.9367381252563,30956347348.854443,610340885501.726
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1975,22846921732.9662,-69.18060126280517,31012094148.75352,633187807234.6921
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1975,0.0,-100.0,31012094148.75352,633187807234.6921
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1975,14957246791.2357,inf,31163417954.75968,648145054025.9279
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1976,53406528922.4241,257.06122702821233,33068464900.659767,701551582948.3519
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1976,69331410322.4477,29.81822957106115,32108421553.81474,770882993270.7996
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1976,25145699499.2415,-63.73115824084141,32568177107.0698,796028692770.041
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1976,0.0,-100.0,32568177107.0698,796028692770.041
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1976,14443999987.44,inf,32465527746.310658,810472692757.481
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1977,59989144498.933,315.32224142271855,33782050861.61244,870461837256.414
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1977,81698783507.3743,36.18927922672317,36255525498.59776,952160620763.7882
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1977,29643225639.7244,-63.71644182798788,37155030726.69434,981803846403.5126
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1977,0.0,-100.0,37155030726.694336,981803846403.5126
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1977,15572149986.459,inf,37380660726.498146,997375996389.9716
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1978,71325709050.1031,358.03379181503817,39647973636.73216,1068701705440.0747
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1978,71348003752.0325,0.03125759593043398,37577817685.6638,1140049709192.1072
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1978,34770502916.4936,-51.26632689354944,38603273141.01764,1174820212108.6008
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1978,0.0,-100.0,38603273141.01764,1174820212108.6008
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1978,18535699983.882,inf,39195983140.50224,1193355912092.483
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1979,82157935532.0915,343.24161269082464,41362428436.89992,1275513847624.5745
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1979,83712365660.8696,1.8920024203516128,43835300818.66734,1359226213285.444
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1979,39765906161.0656,-52.49697479323091,44834381467.58174,1398992119446.5098
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1979,0.0,-100.0,44834381467.58174,1398992119446.5098
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1979,24486278578.0577,inf,46024497186.41688,1423478398024.5674
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1980,93051936803.5367,280.0166550703262,48203297440.70592,1516530334828.104
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1980,91864345908.3333,-1.276266712976426,49833693490.198654,1608394680736.4373
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1980,47207847596.4436,-48.611349561504646,51322081777.274254,1655602528332.8809
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1980,0.0,-100.0,51322081777.274254,1655602528332.8809
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1980,37571561938.6795,inf,53939138449.39862,1693174090271.5603
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1981,103428380079.121,175.28368463341062,56014427104.51548,1796602470350.6814
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1981,90042866563.4921,-12.941818778742553,55650131235.54724,1886645336914.1736
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1981,50506697608.2436,-43.908163371687294,56309901237.90724,1937152034522.4172
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1981,0.0,-100.0,56309901237.90724,1937152034522.4172
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1981,36473072039.9941,inf,56090203258.170166,1973625106562.4114
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1982,115451747816.331,216.53968629166687,58494876805.61216,2089076854378.7424
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1982,91514706229.0076,-20.73337306716584,58789244738.715256,2180591560607.75
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1982,52486618689.3772,-42.64679322902049,59185228954.94198,2233078179297.127
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1982,0.0,-100.0,59185228954.94198,2233078179297.127
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1982,32023846899.7638,inf,58295383926.89592,2265102026196.8906
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1983,80274258180.7172,150.67025342701496,51259885999.773155,2345376284377.608
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1983,102032264417.625,27.10458711175525,53363397637.496635,2447408548795.233
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1983,57400453236.9605,-43.74284098800695,54346164547.0133,2504809002032.1934
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1983,0.0,-100.0,54346164547.0133,2504809002032.1934
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1983,36231038514.5478,inf,55187602869.97009,2541040040546.741
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1984,87112445817.7195,140.43596151057432,56555240397.37056,2628152486364.461
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1984,111596428571.429,28.106182215273346,58468073228.13136,2739748914935.89
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1984,56729284398.8071,-49.165681084053105,58333839460.50069,2796478199334.6973
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1984,0.0,-100.0,58333839460.50069,2796478199334.6973
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1984,30778616231.6545,inf,57243355003.92202,2827256815566.3516
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1985,91942790976.6297,198.7229519502259,58209424035.70406,2919199606542.9814
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1985,132190476190.476,43.774704668337264,62328233559.51345,3051390082733.4575
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1985,61915753548.3101,-53.16171381431867,63365527389.41406,3113305836281.7676
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1985,0.0,-100.0,63365527389.41406,3113305836281.7676
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1985,23621658614.9973,inf,61934135866.08262,3136927494896.7646
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1986,107772919327.99,356.2461979683569,65100161536.35469,3244700414224.755
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1986,130872463768.116,21.43353319568726,64836559051.882675,3375572877992.871
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1986,66556037283.1048,-49.14435369610608,65764615798.84163,3442128915275.976
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1986,0.0,-100.0,65764615798.84163,3442128915275.976
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1986,27137041867.4508,inf,66467692449.33231,3469265957143.427
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1987,121435683792.282,347.49049798952683,69200245342.19072,3590701640935.709
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1987,118246636771.3,-2.626120199098081,66675079942.827515,3708948277707.009
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1987,74499836577.7615,-36.996232102693014,68263839801.758865,3783448114284.7705
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1987,0.0,-100.0,68263839801.758865,3783448114284.7705
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1987,33829996234.5083,inf,69602430675.17036,3817278110519.279
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1988,130331771193.478,285.25505675502563,71381648155.40958,3947609881712.757
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1988,135950617283.951,4.311186780491005,74922444257.93976,4083560498996.708
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1988,79223617939.6962,-41.7261800479897,75867200530.32669,4162784116936.4043
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1988,0.0,-100.0,75867200530.3267,4162784116936.4043
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1988,35927938270.5053,inf,76286788937.52611,4198712055206.9097
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1989,179958000000.0,400.8859641348661,86212034698.83049,4378670055206.9097
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1989,147787449392.713,-17.876699345006607,88579401120.58292,4526457504599.623
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1989,81562609926.0515,-44.81086840512648,89047199517.85396,4608020114525.675
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1989,236013170065.256,189.364416218702,136249833530.90518,4844033284590.931
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1989,36417744842.8181,-84.56961328355158,136347794845.36772,4880451029433.749
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1990,151661627420.0,316.4498051007379,130688520329.36772,5032112656853.749
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1990,148070745697.897,-2.3676929907646915,130745179590.40454,5180183402551.646
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1990,88120604519.0545,-40.487498659023736,132056778509.00513,5268304007070.701
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1990,232584875232.113,163.93926426346823,131371119542.37651,5500888882302.814
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1990,42068999946.8563,-81.91240943553503,132501370563.18416,5542957882249.671
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1991,189977000000.0,351.5843025505446,140164445079.18414,5732934882249.671
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1991,159052264808.362,-16.278146929174586,142360748901.27716,5891987147058.033
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1991,71420498682.6328,-55.0962076719338,139020727733.99283,5963407645740.666
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1991,237562962962.963,232.62574099154364,140016345280.1628,6200970608703.629
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1991,43498840226.4863,-81.68955308354697,140302313336.0888,6244469448930.115
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1992,136154062500.0,213.00619002962807,129537725836.08882,6380623511430.115
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1992,184065934065.934,35.18945427422262,134540459687.60323,6564689445496.049
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1992,77218944834.2187,-58.04821504529012,135700148917.92041,6641908390330.268
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1992,194474009685.23,151.84753573458707,127082358262.37381,6836382400015.498
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1992,45309732858.3863,-76.70139422140608,127444536788.75381,6881692132873.885
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1993,158157714285.714,249.05903060613798,131845267145.89658,7039849847159.599
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1993,205361973744.904,29.846321232181495,136104475081.6906,7245211820904.503
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1993,74799816004.1831,-63.576598607735555,135620649315.68347,7320011636908.686
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1993,176319873160.832,135.72233540116127,131989822010.80388,7496331510069.518
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1993,43904940565.6032,-75.09926715659847,131708863552.24724,7540236450635.121
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1994,193480369153.762,340.68017553664987,138773394525.85687,7733716819788.883
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1994,260509125506.167,34.64369881325591,149802824878.10947,7994225945295.05
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1994,90420356850.9795,-65.29090615336659,152926933047.46875,8084646302146.029
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1994,162832265993.919,80.08363565992171,150229411614.08612,8247478568139.948
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1994,44782041972.7207,-72.49805393336902,150404831895.50964,8292260610112.669
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1995,179874834150.594,301.66733410719866,147683724894.87604,8472135444263.263
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1995,343404744512.436,90.91316811162822,164262848696.12982,8815540188775.7
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1995,103039951865.09,-69.99460446844277,166786767698.95193,8918580140640.79
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1995,136615350537.158,32.58483536175192,161543384607.59973,9055195491177.947
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1995,49618633144.7981,-63.68004550754907,162510702842.01523,9104814124322.746
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1996,189986239379.166,282.89293222718226,164532983887.72964,9294800363701.912
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1996,406861754588.535,114.15327547830375,177224385902.9494,9701662118290.447
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1996,109666488084.776,-73.04576140471025,178549693146.88663,9811328606375.223
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1996,138461838614.016,26.257201294692845,178918990762.2582,9949790444989.238
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1996,45477115819.2742,-67.15548755202596,178090687297.1534,9995267560808.512
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1997,199551427087.199,338.7952566741815,180003724838.76,10194818987895.71
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1997,452905980843.929,126.96203552882656,189212570089.83884,10647724968739.64
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1997,115765234574.779,-74.43945554459975,190432319387.83945,10763490203314.42
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1997,140466724286.949,21.33757151091329,190833296522.42606,10903956927601.37
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1997,45991702043.2389,-67.25793793746774,190936213767.219,10949948629644.607
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1998,191045170874.623,315.3905213053709,189234962524.7038,11140993800519.23
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1998,471277071179.235,146.68358222387076,192909180591.76498,11612270871698.465
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1998,115041753391.406,-75.58935912083582,192764484355.0904,11727312625089.871
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1998,91973209685.729,-20.0523227659709,183065781434.84637,11819285834775.6
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1998,40625805987.7228,-55.82865257552658,181992602223.74316,11859911640763.322
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,1999,130347303741.665,220.84853597995374,169853028797.15155,11990258944504.986
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,1999,496235942162.038,280.7028821597467,174844802993.71216,12486494886667.023
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,1999,121675932418.275,-75.4802258199702,176171638799.08597,12608170819085.299
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,1999,65621445978.879,-46.06867218958492,170901286057.71597,12673792265064.178
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,1999,39001492351.8502,-40.56593576983466,170576423330.54144,12712793757416.027
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,2000,150790128341.077,286.62656028833635,174664988250.42383,12863583885757.104
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,2000,551600550831.078,265.8068050604713,185737909984.23187,13415184436588.182
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,2000,127992796683.849,-76.79610789166063,187001282837.34665,13543177233272.031
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,2000,88091006043.3701,-31.17502834088317,191495194850.24487,13631268239315.4
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,2000,39634409784.8722,-55.00742747181378,191621778336.8493,13670902649100.273
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,2001,126639242581.413,219.51842671251055,186791601184.91647,13797541891681.686
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,2001,599961339116.357,373.7562598186402,196463758841.9723,14397503230798.043
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,2001,128582535067.598,-78.5681965346336,196581706518.7221,14526085765865.64
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,2001,97613986972.9174,-24.084568000156416,198486302704.63153,14623699752838.559
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,2001,35908098313.4321,-63.21418740595581,197741040410.34354,14659607851151.99
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,2002,114267826810.877,218.2229975351632,195266757256.23633,14773875677962.867
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,2002,653667995650.598,472.0490306798906,206008088563.08453,15427543673613.465
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,2002,142435205180.752,-78.20985483020539,208778622585.71533,15569978878794.217
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,2002,100381263907.496,-29.524962750528594,209332077972.63104,15670360142701.713
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,2002,34290227404.2521,-65.84001229965439,209008503790.79504,15704650370105.965
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,2003,128881553363.666,275.85505585677237,211931249101.35284,15833531923469.63
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,2003,757470097861.544,487.72576687075235,232691669543.54205,16591002021331.176
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,2003,166959952655.459,-77.95821206318072,237596619038.48346,16757961973986.635
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,2003,123308127691.255,-26.145087052273276,242181991795.23526,16881270101677.89
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,2003,49085489180.0071,-60.192819322575566,245141044150.3863,16930355590857.898
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,2004,162688277709.402,231.43863986521333,251902389019.53345,17093043868567.3
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,2004,897508699014.112,451.67385852917147,279910109250.04706,17990552567581.414
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,2004,207206858403.18,-76.91310862715973,287959490399.59125,18197759425984.594
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,2004,187365425876.432,-9.575663990880468,300770950036.62665,18385124851861.027
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,2004,62436181246.8071,-66.67678630955962,303441088449.9867,18447561033107.836
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,2005,215530002546.829,245.20048831117603,314009433417.47205,18663091035654.664
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,2005,1074920371477.73,398.73352144752,349491767910.1956,19738011407132.395
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,2005,242289565890.282,-77.45976610740028,356508309407.6161,19980300973022.676
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,2005,249292915243.031,2.8904873914052054,368893807280.93585,20229593888265.707
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,2005,69952824996.4619,-71.9395054094232,370397136030.8668,20299546713262.168
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,2006,260783069829.449,272.7984821808683,379447749487.3908,20560329783091.617
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,2006,1308841899315.22,401.88913727075794,426232055054.8888,21869171682406.836
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,2006,290796431900.905,-77.78215748952961,435933428257.0134,22159968114307.742
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,2006,314602505968.887,8.186508311798812,448995346402.1847,22474570620276.63
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,2006,71266041497.4526,-77.34727468938199,449257989702.3828,22545836661774.082
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,2007,323081070617.842,353.34504881878485,461717589860.06134,22868917732391.926
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,2007,1664548143279.66,415.21066836149583,532858838652.9494,24533465875671.586
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,2007,376010652380.609,-77.41064721385858,549901682748.8901,24909476528052.195
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,2007,405794664205.185,7.921055330748383,568140114396.1498,25315271192257.38
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,2007,79423737474.0966,-80.42760428364406,569771653591.4785,25394694929731.477
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,2008,391486082615.334,392.9081595322985,583452655990.9769,25786181012346.812
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,2008,2157999338005.67,451.23270885879094,682142894936.179,27944180350352.484
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,2008,373296751400.195,-82.70172076395632,681600114740.0962,28317477101752.68
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,2008,511322812573.18,36.97488945597958,702705744413.6951,28828799914325.86
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,2008,81110734517.9877,-84.137078862215,703043143822.4734,28909910648843.848
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,2009,364720467490.247,349.6574586060048,697690020797.4559,29274631116334.094
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,2009,2344597007933.95,542.8476646972512,735009554783.112,31619228124268.043
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,2009,417613522969.33,-82.18826000561481,743872909096.9391,32036841647237.37
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,2009,358564143145.644,-14.139719280120788,713321175211.4319,32395405790383.016
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,2009,81629984540.4015,-77.23420311237187,713425025215.9146,32477035774923.418
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,2010,513959185993.633,529.6205847488025,743272768916.5917,32990994960917.05
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,2010,2830398948347.93,450.7050025530614,840433156999.3877,35821393909264.984
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,2010,514834122665.28,-81.81054571950776,859877276938.5778,36336228031930.266
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,2010,457468961199.161,-11.142455198801004,879658240549.281,36793696993129.43
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,2010,102775690392.285,-77.53384401798985,883887381719.6578,36896472683521.71
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,2011,604396221903.396,488.07313246592975,901974788901.6106,37500868905425.11
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,2011,3513659367020.04,481.35031948986074,1038626872636.0325,41014528272445.15
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,2011,549862587773.755,-84.35071444503463,1045632565657.7273,41564390860218.91
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,2011,601780146355.65,9.4419150777461,1074494802689.0251,42166171006574.555
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,2011,112193821721.227,-81.35634377427253,1076378428954.8137,42278364828295.78
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,2012,545636168142.952,386.33352511934083,1064626418202.7249,42824000996438.734
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,2012,3875593682176.07,610.2889999697926,1137013281233.931,46699594678614.805
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,2012,537298622212.093,-86.13635313002135,1134500488121.5984,47236893300826.9
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,2012,642677405645.183,19.61270308106109,1142679939979.505,47879570706472.08
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,2012,105745768048.332,-83.54605792587745,1141390329244.926,47985316474520.41
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,2013,524849032976.207,396.3310046945049,1137232902211.577,48510165507496.61
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,2013,4227889860873.49,705.5439936506758,1207692137951.061,52738055368370.1
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,2013,527400053692.529,-87.52569080445328,1205712424247.1482,53265455422062.63
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,2013,646277762312.698,22.540329260086487,1206432495580.6511,53911733184375.33
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,2013,97826397639.4272,-84.86310324381942,1204848621498.87,54009559582014.76
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,2014,502802379940.501,413.97413384652253,1200439290891.729,54512361961955.26
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,2014,4513507178435.39,797.6702097093284,1257562754404.109,59025869140390.65
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,2014,563949267588.398,-87.50529809096501,1264872597183.2825,59589818407979.05
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,2014,575177726820.711,1.9910406622796195,1250652590084.8853,60164996134799.76
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,2014,93148094269.8536,-83.80533704169514,1249716929410.9705,60258144229069.61
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,2015,348909495325.979,274.57502277521087,1218938352488.066,60607053724395.586
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,2015,4517686069851.46,1194.8016979677434,1219774130771.28,65124739794247.05
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,2015,575276394525.657,-87.26612726889694,1222039556158.732,65700016188772.7
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,2015,406236365960.829,-29.384141288155863,1188251283986.7554,66106252554733.53
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,2015,82671461174.6806,-79.64941888470611,1186155957367.721,66188924015908.21
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,2016,329449775155.386,298.50484130100875,1182264013333.6023,66518373791063.59
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,2016,4446200617051.7,1249.5837460974549,1167966922773.6504,70964574408115.3
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,2016,610852273055.177,-86.26125256893522,1175082098479.5542,71575426681170.47
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,2016,372488621218.808,-39.02148888538852,1168332549531.1501,71947915302389.28
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,2016,77786155226.803,-79.11717276831666,1167355488341.5747,72025701457616.08
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,2017,375048881368.678,382.15377180571375,1176475309584.233,72400750338984.75
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,2017,4905907853465.11,1208.0715867120634,1268416756866.915,77306658192449.86
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,2017,702417863921.46,-85.68220429526959,1286729875040.1716,78009076056371.31
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,2017,482858851559.094,-31.25760656720936,1308803921108.2288,78491934907930.4
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,2017,91908750159.6196,-80.96571081531235,1311628440094.7922,78583843658090.03
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,2018,341821869259.401,271.9143919003933,1304983037672.9368,78925665527349.44
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,2018,5514437726723.1,1513.248952932943,1426689012324.5347,84440103254072.53
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,2018,708892378604.886,-87.14479310973853,1427983915261.2197,85148995632677.42
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,2018,547934792934.306,-22.70550375888476,1440999103536.2622,85696930425611.73
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,2018,95215544926.2878,-82.62283283447131,1441660462489.5957,85792145970538.02
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Brazil,BRA,2019,329725601647.864,246.29387659664695,1439241208967.2886,86121871572185.88
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,China,CHN,2019,5589793584621.62,1595.2864917633342,1454312380546.9927,91711665156807.5
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,India,IND,2019,715364380958.969,-87.20231131741527,1455606781017.809,92427029537766.47
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,Russian Federation,RUS,2019,546787457628.04,-23.56518269821405,1455377313956.556,92973816995394.52
+"Industry (including construction), value added (current US$)",NV.IND.TOTL.CD,South Africa,ZAF,2019,91369494200.0498,-83.28976041323077,1454608103811.3083,93065186489594.56

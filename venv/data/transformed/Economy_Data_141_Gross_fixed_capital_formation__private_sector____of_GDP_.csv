@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1970,0.0,,,0.0
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1970,0.0,,,0.0
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1970,9.65691499288545,inf,,9.65691499288545
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1970,0.0,-100.0,,9.65691499288545
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1970,16.5779872301611,inf,5.24698044460931,26.23490222304655
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1971,0.0,-100.0,5.24698044460931,26.23490222304655
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1971,0.0,,5.24698044460931,26.23490222304655
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1971,10.1005327230575,inf,5.33570399064372,36.33543494610405
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1971,0.0,-100.0,5.33570399064372,36.33543494610405
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1971,16.7503266176167,inf,5.37017186813484,53.08576156372075
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1972,0.0,-100.0,5.37017186813484,53.08576156372075
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1972,0.0,,5.37017186813484,53.08576156372075
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1972,9.51251153641332,inf,5.252567630806004,62.59827310013407
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1972,0.0,-100.0,5.252567630806004,62.59827310013407
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1972,16.4636374710683,inf,5.195229801496324,79.06191057120238
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1973,0.0,-100.0,5.195229801496324,79.06191057120238
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1973,0.0,,5.195229801496324,79.06191057120238
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1973,9.03137020562906,inf,5.099001535339472,88.09328077683143
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1973,0.0,-100.0,5.099001535339472,88.09328077683143
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1973,16.9355632070831,inf,5.193386682542432,105.02884398391453
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1974,0.0,-100.0,5.193386682542432,105.02884398391453
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1974,0.0,,5.193386682542432,105.02884398391453
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1974,10.3860202055142,inf,5.46431668251946,115.41486418942873
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1974,0.0,-100.0,5.46431668251946,115.41486418942873
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1974,17.0011995201919,inf,5.47744394514122,132.41606370962063
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1975,0.0,-100.0,5.47744394514122,132.41606370962063
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1975,0.0,,5.47744394514122,132.41606370962063
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1975,10.2135458446367,inf,5.44294907296572,142.62960955425734
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1975,0.0,-100.0,5.44294907296572,142.62960955425734
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1975,19.6054778968282,inf,5.96380474829298,162.23508745108555
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1976,0.0,-100.0,5.96380474829298,162.23508745108555
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1976,0.0,,5.96380474829298,162.23508745108555
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1976,9.76703639626772,inf,5.874502858619183,172.00212384735326
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1976,0.0,-100.0,5.874502858619183,172.00212384735326
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1976,19.4351063495554,inf,5.840428549164624,191.43723019690867
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1977,0.0,-100.0,5.840428549164624,191.43723019690867
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1977,0.0,,5.840428549164624,191.43723019690867
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1977,10.3696192920359,inf,5.96094512831826,201.80684948894458
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1977,0.0,-100.0,5.96094512831826,201.80684948894458
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1977,18.9510311465671,inf,5.8641300877206,220.75788063551167
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1978,0.0,-100.0,5.8641300877206,220.75788063551167
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1978,0.0,,5.8641300877206,220.75788063551167
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1978,10.8701925609434,inf,5.9642447415021,231.62807319645506
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1978,0.0,-100.0,5.9642447415021,231.62807319645506
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1978,18.7387742046601,inf,5.9217933531207,250.36684740111517
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1979,0.0,-100.0,5.9217933531207,250.36684740111517
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1979,0.0,,5.9217933531207,250.36684740111517
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1979,11.067585184788,inf,5.9612718778896205,261.43443258590315
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1979,0.0,-100.0,5.9612718778896205,261.43443258590315
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1979,18.9270483528709,inf,5.99892670753178,280.36148093877404
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1980,20.536223908604,8.501988929980286,10.10617148925258,300.897704847378
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1980,0.0,-100.0,10.10617148925258,300.897704847378
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1980,10.4168353857051,inf,9.976021529436,311.3145402330831
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1980,0.0,-100.0,9.976021529436,311.3145402330831
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1980,19.9062325926843,inf,10.171858377398681,331.2207728257674
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1981,20.3408341238704,2.183243510104571,10.132780420451962,351.56160694963785
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1981,0.0,-100.0,10.132780420451962,351.56160694963785
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1981,9.79817909519813,inf,10.009049162350568,361.35978604483597
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1981,0.0,-100.0,10.009049162350568,361.35978604483597
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1981,20.7606043230702,inf,10.179923508427745,382.12039036790617
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1982,19.0854999214559,-8.068668789919775,9.928856667944846,401.20589028936206
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1982,0.0,-100.0,9.928856667944846,401.20589028936206
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1982,9.506902307438,inf,9.87060131039282,410.71279259680006
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1982,0.0,-100.0,9.87060131039282,410.71279259680006
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1982,20.5371507756626,inf,9.8259106009113,431.24994337246267
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1983,16.3025113741594,-20.61941039319547,9.269312891452,447.55245474662206
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1983,0.0,-100.0,9.269312891452,447.55245474662206
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1983,9.8687688628889,inf,9.341686202542181,457.42122360951095
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1983,0.0,-100.0,9.341686202542181,457.42122360951095
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1983,20.0092411951946,inf,9.23610428644858,477.43046480470554
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1984,14.9876451681138,-25.096384106193803,8.97313104523946,492.41810997281937
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1984,0.0,-100.0,8.97313104523946,492.41810997281937
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1984,9.87487341674943,inf,8.974351956011565,502.2929833895688
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1984,0.0,-100.0,8.974351956011565,502.2929833895688
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1984,18.6987309822618,inf,8.712249913425007,520.9917143718307
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1985,14.6278757965803,-21.770756472956588,8.640296039118306,535.6195901684109
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1985,0.0,-100.0,8.640296039118306,535.6195901684109
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1985,10.4204010852537,inf,8.74940157281916,546.0399912536647
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1985,0.0,-100.0,8.74940157281916,546.0399912536647
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1985,17.4845833713053,inf,8.50657205062786,563.52457462497
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1986,16.0134339553357,-8.413980389054998,8.783683682378939,579.5380085803057
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1986,0.0,-100.0,8.783683682378939,579.5380085803057
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1986,10.4849893162735,inf,8.796601328582899,590.0229978965792
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1986,0.0,-100.0,8.796601328582899,590.0229978965792
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1986,14.940792927558,inf,8.287843239833439,604.9637908241373
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1987,19.093563643961,27.794848215473866,8.903869177558501,624.0573544680983
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1987,0.0,-100.0,8.903869177558501,624.0573544680983
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1987,13.0920993249009,inf,9.425291179283981,637.1494537929992
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1987,0.0,-100.0,9.425291179283981,637.1494537929992
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1987,13.8339460682382,inf,9.20392180742002,650.9833998612374
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1988,19.5598157847615,41.38999594388697,9.29717223558012,670.543215645999
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1988,0.0,-100.0,9.29717223558012,670.543215645999
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1988,12.5163210687045,inf,9.18201658434084,683.0595367147035
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1988,0.0,-100.0,9.18201658434084,683.0595367147035
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1988,15.3021753296269,inf,9.475662436618581,698.3617120443305
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1989,23.7284099770742,55.06559992900533,10.309381275081119,722.0901220214047
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1989,0.0,-100.0,10.309381275081119,722.0901220214047
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1989,13.9642409039808,inf,10.59896524213638,736.0543629253855
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1989,0.0,-100.0,10.59896524213638,736.0543629253855
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1989,15.9583561137506,inf,10.73020139896112,752.0127190391361
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1990,16.9281736854519,6.077177152762303,9.37015414063666,768.940892724588
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1990,0.0,-100.0,9.37015414063666,768.940892724588
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1990,15.6452740123231,inf,9.70636076230512,784.5861667369111
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1990,0.0,-100.0,9.70636076230512,784.5861667369111
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1990,15.6011787096407,inf,9.63492528148314,800.1873454465518
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1991,15.2257572238994,-2.4063661645598033,9.29444198917264,815.4131026704513
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1991,0.0,-100.0,9.29444198917264,815.4131026704513
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1991,13.8847994611543,inf,8.94234707893888,829.2979021316056
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1991,0.0,-100.0,8.94234707893888,829.2979021316056
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1991,14.1004251340414,inf,8.642196363819021,843.398327265647
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1992,14.9611800321643,6.104460609807116,8.589280925472,858.3595072978113
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1992,0.0,-100.0,8.589280925472,858.3595072978113
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1992,15.6949887260836,inf,8.95131877845786,874.0544960238949
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1992,0.0,-100.0,8.95131877845786,874.0544960238949
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1992,13.0753173513185,inf,8.746297221913279,887.1298133752134
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1993,16.0682389875227,22.889858469877964,8.96770901298496,903.1980523627361
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1993,0.0,-100.0,8.96770901298496,903.1980523627361
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1993,14.5752408001261,inf,8.74375942779346,917.7732931628623
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1993,0.0,-100.0,8.74375942779346,917.7732931628623
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1993,12.4698097902863,inf,8.622657915587022,930.2431029531485
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1994,16.7724630816618,34.50456232882695,8.763502734414839,947.0155660348104
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1994,0.0,-100.0,8.763502734414839,947.0155660348104
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1994,13.4054130803926,inf,8.52953719046814,960.420979115203
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1994,0.0,-100.0,8.52953719046814,960.420979115203
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1994,13.1113811455506,inf,8.657851461521,973.5323602607535
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1995,0.0,-100.0,5.303358845188639,973.5323602607535
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1995,0.0,,5.303358845188639,973.5323602607535
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1995,16.3348620886622,inf,5.889248646842558,989.8672223494158
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1995,18.7416001474531,14.73375193330455,9.637568676333178,1008.6088224968689
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1995,13.9367230035292,-25.63749683122366,9.802637047928899,1022.5455455003981
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1996,0.0,-100.0,9.802637047928899,1022.5455455003981
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1996,0.0,,9.802637047928899,1022.5455455003981
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1996,16.7004381011697,inf,9.875752250430399,1039.2459836015678
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1996,17.8026163733086,6.599696759222762,9.687955495601496,1057.0485999748764
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1996,14.2444741739428,-19.986625138429137,9.749505729684218,1071.2930741488192
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1997,0.0,-100.0,9.749505729684218,1071.2930741488192
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1997,0.0,,9.749505729684218,1071.2930741488192
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1997,18.0160758120306,inf,10.012633271856398,1089.3091499608497
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1997,16.4962471942537,-8.435958161110769,9.75135943604542,1105.8053971551035
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1997,14.5035605738448,-12.079636034449305,9.803176716025819,1120.3089577289484
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1998,0.0,-100.0,9.803176716025819,1120.3089577289484
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1998,0.0,,9.803176716025819,1120.3089577289484
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1998,18.1614571436556,inf,9.83225298235082,1138.470414872604
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1998,13.1805205537067,-27.42586429354269,9.169107654241419,1151.6509354263105
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1998,15.0822285067576,14.428170308615694,9.28484124082398,1166.7331639330682
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,1999,0.0,-100.0,9.28484124082398,1166.7331639330682
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,1999,0.0,,9.28484124082398,1166.7331639330682
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,1999,20.5450661933879,inf,9.761563050770437,1187.278230126456
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,1999,12.5552059629707,-38.889435328218156,9.636500132623237,1199.8334360894266
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,1999,13.402527454229,6.748766159291386,9.300559922117518,1213.2359635436555
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,2000,0.0,-100.0,9.300559922117518,1213.2359635436555
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,2000,0.0,,9.300559922117518,1213.2359635436555
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,2000,19.1405652256787,inf,9.019659728575679,1232.3765287693343
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,2000,15.1197793410831,-21.006620427286926,9.532574404198158,1247.4963081104174
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,2000,12.9522235513418,-14.335895655908615,9.442513623620718,1260.4485316617593
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,2001,0.0,-100.0,9.442513623620718,1260.4485316617593
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,2001,0.0,,9.442513623620718,1260.4485316617593
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,2001,22.8726238624782,inf,10.18892535098062,1283.3211555242374
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,2001,16.7882547825578,-26.601097961050336,10.52262043927556,1300.109410306795
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,2001,13.0102548023981,-22.50382799816014,10.534226689486818,1313.1196651091932
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,2002,0.0,-100.0,10.534226689486818,1313.1196651091932
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,2002,0.0,,10.534226689486818,1313.1196651091932
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,2002,21.4329468477438,inf,10.246291286539938,1334.552611956937
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,2002,15.4651705830756,-27.843937219936766,9.981674446643499,1350.0177825400126
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,2002,12.6790797402373,-18.01526098837394,9.915439434211338,1362.69686228025
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,2003,0.0,-100.0,9.915439434211338,1362.69686228025
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,2003,0.0,,9.915439434211338,1362.69686228025
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,2003,21.3283917842883,inf,9.894528421520238,1384.025254064538
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,2003,15.954177032379,-25.197468267946256,9.992329711380917,1399.979431096917
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,2003,13.3162262420367,-16.53454631341108,10.119759011740797,1413.2956573389538
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,2004,0.0,-100.0,10.119759011740797,1413.2956573389538
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,2004,0.0,,10.119759011740797,1413.2956573389538
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,2004,23.5556627511255,inf,10.565213205108238,1436.8513200900793
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,2004,16.1048291670567,-31.630753347038798,10.595343632043777,1452.956149257136
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,2004,13.8069771363442,-14.268093171785267,10.693493810905277,1466.7631263934802
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,2005,0.0,-100.0,10.693493810905277,1466.7631263934802
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,2005,0.0,,10.693493810905277,1466.7631263934802
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,2005,25.2188274270561,inf,11.026126746091396,1491.9819538205363
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,2005,14.0236547291572,-44.39212223597726,10.609891858511498,1506.0056085496935
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,2005,14.6576430498263,4.520849471221999,10.780025041207917,1520.6632515995198
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,2006,0.0,-100.0,10.780025041207917,1520.6632515995198
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,2006,0.0,,10.780025041207917,1520.6632515995198
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,2006,25.5025002660386,inf,10.836759609004417,1546.1657518655584
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,2006,14.8087512682035,-41.9321591462773,10.993778916813676,1560.9745031337618
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,2006,16.1227030553441,8.87280610865444,11.286790917917237,1577.097206189106
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,2007,0.0,-100.0,11.286790917917237,1577.097206189106
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,2007,0.0,,11.286790917917237,1577.097206189106
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,2007,27.5280395600256,inf,11.691898776714638,1604.6252457491314
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,2007,16.5938488753528,-39.720193880245326,12.048918298144496,1621.2190946244841
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,2007,17.3510620042076,4.563215770751672,12.294590087917197,1638.5701566286916
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,2008,0.0,-100.0,12.294590087917197,1638.5701566286916
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,2008,0.0,,12.294590087917197,1638.5701566286916
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,2008,25.9026395288506,inf,11.969510081682197,1664.4727961575422
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,2008,20.1810192979156,-22.088946667239085,12.686944166194758,1684.6538154554578
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,2008,19.8558248556497,-1.6113875987398107,13.187896736483179,1704.5096403111074
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,2009,0.0,-100.0,13.187896736483179,1704.5096403111074
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,2009,0.0,,13.187896736483179,1704.5096403111074
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,2009,25.3215989559546,inf,13.071688621903979,1729.831239267062
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,2009,21.7765593885868,-14.000062055852725,13.390796640038218,1751.6077986556488
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,2009,18.2330499502129,-16.27212717648624,13.066241658950858,1769.8408486058618
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,2010,0.0,-100.0,13.066241658950858,1769.8408486058618
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,2010,0.0,,13.066241658950858,1769.8408486058618
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,2010,25.1992056214181,inf,13.041762992043559,1795.0400542272798
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,2010,19.8389261763308,-21.27162072335852,12.654236349592358,1814.8789804036105
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,2010,16.4929266499811,-16.86582981664455,12.306211689545998,1831.3719070535917
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,2011,0.0,-100.0,12.306211689545998,1831.3719070535917
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,2011,0.0,,12.306211689545998,1831.3719070535917
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,2011,26.9732509977014,inf,12.661020764802657,1858.345158051293
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,2011,0.0,-100.0,8.693235529536498,1858.345158051293
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,2011,16.3747994368474,inf,8.669610086909758,1874.7199574881404
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,2012,0.0,-100.0,8.669610086909758,1874.7199574881404
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,2012,0.0,,8.669610086909758,1874.7199574881404
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,2012,26.4173280798844,inf,8.558425503346358,1901.1372855680247
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,2012,0.0,-100.0,8.558425503346358,1901.1372855680247
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,2012,16.334927815411,inf,8.550451179059078,1917.4722133834357
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,2013,0.0,-100.0,8.550451179059078,1917.4722133834357
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,2013,0.0,,8.550451179059078,1917.4722133834357
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,2013,24.2014102954407,inf,8.107267622170337,1941.6736236788763
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,2013,0.0,-100.0,8.107267622170337,1941.6736236788763
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,2013,17.322308898379,inf,8.304743838763937,1958.9959325772554
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,2014,0.0,-100.0,8.304743838763937,1958.9959325772554
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,2014,0.0,,8.304743838763937,1958.9959325772554
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,2014,23.0824440088575,inf,8.080950581447297,1982.0783765861129
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,2014,0.0,-100.0,8.080950581447297,1982.0783765861129
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,2014,17.2294900154086,inf,8.062386804853219,1999.3078666015215
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,2015,0.0,-100.0,8.062386804853219,1999.3078666015215
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,2015,0.0,,8.062386804853219,1999.3078666015215
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,2015,21.27779663151,inf,7.701457329383717,2020.5856632330315
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,2015,0.0,-100.0,7.701457329383717,2020.5856632330315
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,2015,16.8079628947397,inf,7.617151905249938,2037.393626127771
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,2016,0.0,-100.0,7.617151905249938,2037.393626127771
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,2016,0.0,,7.617151905249938,2037.393626127771
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,2016,21.2688928691905,inf,7.615371152786037,2058.662518996962
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,2016,0.0,-100.0,7.615371152786037,2058.662518996962
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,2016,16.1673388299312,inf,7.487246339824338,2074.829857826893
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,2017,0.0,-100.0,7.487246339824338,2074.829857826893
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,2017,0.0,,7.487246339824338,2074.829857826893
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,2017,21.3252056717515,inf,7.498508900336537,2096.1550634986447
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,2017,0.0,-100.0,7.498508900336537,2096.1550634986447
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,2017,15.6041188942962,inf,7.385864913209538,2111.759182392941
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,2018,0.0,-100.0,7.385864913209538,2111.759182392941
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,2018,0.0,,7.385864913209538,2111.759182392941
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,2018,21.8847654541611,inf,7.497776869691458,2133.643947847102
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,2018,0.0,-100.0,7.497776869691458,2133.643947847102
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,2018,15.1992891112434,inf,7.416810913080899,2148.8432369583456
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Brazil,BRA,2019,0.0,-100.0,7.416810913080899,2148.8432369583456
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,China,CHN,2019,0.0,,7.416810913080899,2148.8432369583456
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,India,IND,2019,0.0,,3.039857822248678,2148.8432369583456
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,Russian Federation,RUS,2019,0.0,,3.039857822248678,2148.8432369583456
+"Gross fixed capital formation, private sector (% of GDP)",NE.GDI.FPRV.ZS,South Africa,ZAF,2019,15.1953677395454,inf,3.039073547909078,2164.038604697891

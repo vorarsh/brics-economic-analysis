@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1970,28952000.0,,,28952000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1970,0.0,-100.0,,28952000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1970,0.0,,,28952000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1970,0.0,,,28952000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1970,0.0,,5790400.0,28952000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1971,27705000.0,inf,5541000.0,56657000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1971,0.0,-100.0,5541000.0,56657000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1971,0.0,,5541000.0,56657000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1971,0.0,,5541000.0,56657000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1971,0.0,,5541000.0,56657000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1972,55021000.0,inf,11004200.0,111678000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1972,0.0,-100.0,11004200.0,111678000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1972,0.0,,11004200.0,111678000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1972,0.0,,11004200.0,111678000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1972,0.0,,11004200.0,111678000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1973,35801000.0,inf,7160200.0,147479000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1973,0.0,-100.0,7160200.0,147479000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1973,0.0,,7160200.0,147479000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1973,0.0,,7160200.0,147479000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1973,0.0,,7160200.0,147479000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1974,109185000.0,inf,21837000.0,256664000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1974,0.0,-100.0,21837000.0,256664000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1974,0.0,,21837000.0,256664000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1974,0.0,,21837000.0,256664000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1974,0.0,,21837000.0,256664000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1975,87363000.0,inf,17472600.0,344027000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1975,0.0,-100.0,17472600.0,344027000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1975,0.0,,17472600.0,344027000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1975,0.0,,17472600.0,344027000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1975,0.0,,17472600.0,344027000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1976,74032000.0,inf,14806400.0,418059000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1976,0.0,-100.0,14806400.0,418059000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1976,0.0,,14806400.0,418059000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1976,0.0,,14806400.0,418059000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1976,0.0,,14806400.0,418059000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1977,42470000.0,inf,8494000.0,460529000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1977,0.0,-100.0,8494000.0,460529000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1977,0.0,,8494000.0,460529000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1977,0.0,,8494000.0,460529000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1977,0.0,,8494000.0,460529000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1978,74428000.0,inf,14885600.0,534957000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1978,0.0,-100.0,14885600.0,534957000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1978,0.0,,14885600.0,534957000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1978,0.0,,14885600.0,534957000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1978,0.0,,14885600.0,534957000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1979,133836000.0,inf,26767200.0,668793000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1979,0.0,-100.0,26767200.0,668793000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1979,0.0,,26767200.0,668793000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1979,0.0,,26767200.0,668793000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1979,0.0,,26767200.0,668793000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1980,121666000.0,inf,24333200.0,790459000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1980,0.0,-100.0,24333200.0,790459000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1980,0.0,,24333200.0,790459000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1980,0.0,,24333200.0,790459000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1980,0.0,,24333200.0,790459000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1981,127824000.0,inf,25564800.0,918283000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1981,0.0,-100.0,25564800.0,918283000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1981,0.0,,25564800.0,918283000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1981,0.0,,25564800.0,918283000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1981,0.0,,25564800.0,918283000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1982,205135000.0,inf,41027000.0,1123418000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1982,0.0,-100.0,41027000.0,1123418000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1982,0.0,,41027000.0,1123418000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1982,0.0,,41027000.0,1123418000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1982,0.0,,41027000.0,1123418000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1983,142026000.0,inf,28405200.0,1265444000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1983,0.0,-100.0,28405200.0,1265444000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1983,0.0,,28405200.0,1265444000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1983,0.0,,28405200.0,1265444000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1983,0.0,,28405200.0,1265444000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1984,204424000.0,inf,40884800.0,1469868000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1984,0.0,-100.0,40884800.0,1469868000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1984,0.0,,40884800.0,1469868000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1984,0.0,,40884800.0,1469868000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1984,0.0,,40884800.0,1469868000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1985,255115000.0,inf,51023000.0,1724983000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1985,0.0,-100.0,51023000.0,1724983000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1985,0.0,,51023000.0,1724983000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1985,0.0,,51023000.0,1724983000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1985,0.0,,51023000.0,1724983000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1986,132797000.0,inf,26559400.0,1857780000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1986,0.0,-100.0,26559400.0,1857780000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1986,0.0,,26559400.0,1857780000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1986,0.0,,26559400.0,1857780000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1986,0.0,,26559400.0,1857780000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1987,92327000.0,inf,18465400.0,1950107000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1987,0.0,-100.0,18465400.0,1950107000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1987,11580000.0,inf,20781400.0,1961687000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1987,0.0,-100.0,20781400.0,1961687000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1987,0.0,,20781400.0,1961687000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1988,92611000.0,inf,20838200.0,2054298000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1988,2708000.0,-97.07594130286898,21379800.0,2057006000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1988,78199000.0,2787.7031019202363,34703600.0,2135205000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1988,0.0,-100.0,34703600.0,2135205000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1988,0.0,,34703600.0,2135205000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1989,49217000.0,inf,26024800.0,2184422000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1989,52036000.0,5.7276957148952645,35890400.0,2236458000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1989,59606000.0,14.547620877853795,32171800.0,2296064000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1989,0.0,-100.0,32171800.0,2296064000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1989,0.0,,32171800.0,2296064000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1990,-15133000.0,-inf,19301800.0,2280931000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1990,52909000.0,-449.62664375867314,19476400.0,2333840000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1990,187901000.0,255.13995728514996,45135400.0,2521741000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1990,0.0,-100.0,45135400.0,2521741000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1990,0.0,,45135400.0,2521741000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1991,-13564000.0,-inf,45449200.0,2508177000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1991,167620000.0,-1335.7711589501623,68391400.0,2675797000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1991,542558000.0,223.68333134470828,139322800.0,3218355000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1991,0.0,-100.0,139322800.0,3218355000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1991,0.0,,139322800.0,3218355000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1992,38682000.0,inf,149772000.0,3257037000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1992,166284000.0,329.87436016751974,149504800.0,3423321000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1992,347383000.0,108.90945611123138,110469800.0,3770704000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1992,0.0,-100.0,110469800.0,3770704000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1992,0.0,,110469800.0,3770704000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1993,78982000.0,inf,118529800.0,3849686000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1993,352989000.0,346.92334962396495,155870800.0,4202675000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1993,147627000.0,-58.17801687871294,115919600.0,4350302000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1993,0.0,-100.0,115919600.0,4350302000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1993,0.0,,115919600.0,4350302000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1994,8149000.0,inf,101753000.0,4358451000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1994,464321000.0,5597.889311571972,124019400.0,4822772000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1994,448849000.0,-3.332177523738966,184263800.0,5271621000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1994,8500000.0,-98.10626736385734,185963800.0,5280121000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1994,0.0,-100.0,185963800.0,5280121000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1995,109512000.0,inf,206236400.0,5389633000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1995,511048000.0,366.65936153115643,215581800.0,5900681000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1995,250400000.0,-51.00264554405849,175892000.0,6151081000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1995,31900000.0,-87.26038338658147,180572000.0,6182981000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1995,0.0,-100.0,180572000.0,6182981000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1996,463685000.0,inf,251406600.0,6646666000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1996,653285000.0,40.88982822390199,279854000.0,7299951000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1996,502356000.0,-23.10308670794523,330245200.0,7802307000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1996,85900000.0,-82.90057250236885,341045200.0,7888207000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1996,0.0,-100.0,341045200.0,7888207000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1997,1013930000.0,inf,451094200.0,8902137000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1997,495582000.0,-51.12266132770507,419553600.0,9397719000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1997,473164000.0,-4.52357026687813,413715200.0,9870883000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1997,38100000.0,-91.9478235875933,404155200.0,9908983000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1997,0.0,-100.0,404155200.0,9908983000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1998,1313699000.0,inf,464109000.0,11222682000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1998,621976000.0,-52.65460352790099,489387800.0,11844658000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1998,488557000.0,-21.450827684669505,492466400.0,12333215000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1998,54800000.0,-88.78329447741,495806400.0,12388015000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1998,0.0,-100.0,495806400.0,12388015000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,1999,2711694000.0,inf,775405400.0,15099709000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,1999,466611000.0,-82.79263810739708,744332400.0,15566320000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,1999,359444000.0,-22.967096789402742,718509800.0,15925764000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,1999,-13305000.0,-103.70155017193221,704888800.0,15912459000.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,1999,36766449.6,-376.33558511837657,712242089.92,15949225449.6
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,2000,2490057000.0,6672.633819937838,667914689.92,18439282449.6
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,2000,445148000.0,-82.12297951412357,663622089.92,18884430449.6
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,2000,228261000.0,-48.72244736581991,637385489.92,19112691449.6
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,2000,-9400000.0,-104.11809288489931,638166489.92,19103291449.6
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,2000,88608118.5,-1042.6395585106382,648534823.7,19191899568.1
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,2001,729015166.0,722.7408259436183,296326456.9,19920914734.1
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,2001,643691000.0,-11.704031682655003,336035056.9,20564605734.1
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,2001,159706000.0,-75.18902703315722,322324056.9,20724311734.1
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,2001,26805000.0,-83.21603446332637,329565056.9,20751116734.1
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,2001,0.0,-100.0,311843433.2,20751116734.1
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,2002,589927720.7,inf,284025944.14,21341044454.8
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,2002,2151000.0,-99.63537906009101,155717944.14000002,21343195454.8
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,2002,-1341708000.0,-62476.01115760111,-144564855.85999998,20001487454.8
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,2002,-15400000.0,-98.85220927355282,-153005855.85999998,19986087454.8
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,2002,-796337.3,-94.82897857142856,-153165123.32,19985291117.5
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,2003,-913334000.0,114591.85230931666,-453817467.46000004,19071957117.5
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,2003,-1347889000.0,47.57897986935775,-723825467.46,17724068117.5
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,2003,-1010003000.0,-25.067791190520882,-657484467.46,16714065117.5
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,2003,82300000.0,-108.14849064804757,-637944467.46,16796365117.5
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,2003,65769768.8,-20.085335601458087,-624631246.24,16862134886.3
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,2004,-1366607000.0,-2177.8649901533486,-715285846.24,15495527886.3
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,2004,237946000.0,-117.41144308495419,-398118846.23999995,15733473886.3
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,2004,-864941000.0,-463.50306372033987,-369106446.24,14868532886.3
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,2004,131110000.0,-115.15825934948163,-359344446.24,14999642886.3
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,2004,30496853.2,-76.73949111433149,-366399029.36,15030139739.5
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,2005,721305000.0,2265.1784506081435,51183370.64000001,15751444739.5
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,2005,688261000.0,-4.5811411261532875,141246370.64000002,16439705739.5
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,2005,545335000.0,-20.766250012713204,423301570.64,16985040739.5
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,2005,86920000.0,-84.06117340717174,414463570.64,17071960739.5
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,2005,22824903.0,-73.74033248964564,412929180.6,17094785642.5
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,2006,793232000.0,3375.2918774726004,427314580.6,17888017642.5
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,2006,800523000.0,0.9191510176089768,449766980.6,18688540642.5
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,2006,496284000.0,-38.00502921215255,439956780.6,19184824642.5
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,2006,119870000.0,-75.84649112201885,446546780.6,19304694642.5
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,2006,24526891.5,-79.53875740385418,446887178.3,19329221534.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,2007,535290000.0,2082.46164623022,395298778.3,19864511534.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,2007,983341000.0,83.70247903005847,431862378.3,20847852534.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,2007,1246647000.0,26.776672588654392,581934978.3,22094499534.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,2007,93900000.0,-92.46779561495757,576740978.3,22188399534.0
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,2007,-23141235.6,-124.64455335463258,567207352.88,22165258298.4
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,2008,-309700000.0,1238.3036470187442,398209352.88,21855558298.4
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,2008,1001668000.0,-423.4317081046173,401874752.88,22857226298.4
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,2008,1349837000.0,34.75892211790732,422512752.88,24207063298.4
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,2008,-201465000.0,-114.92513540523781,363439752.88,24005598298.4
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,2008,-22403415.3,-88.87974819447547,363587316.94,23983194883.100002
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,2009,1018162000.0,-4644.673150794111,629159716.94,25001356883.100002
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,2009,1069098000.0,5.002740231908076,642645716.94,26070454883.100002
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,2009,1147476000.0,7.331226884719633,602173516.94,27217930883.100002
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,2009,-130515000.0,-111.3740940987001,616363516.94,27087415883.100002
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,2009,-131111.1,-99.8995432708884,620817977.7800001,27087284772.000004
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,2010,950502000.0,-725059.2139795944,607285977.78,28037786772.000004
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,2010,1033256000.0,8.706346751506056,600117577.78,29071042772.000004
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,2010,1440136000.0,39.37843090192557,658649577.78,30511178772.000004
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,2010,-61022000.0,-104.23723870523341,672548177.78,30450156772.000004
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,2010,509771329.5,-935.3894161122219,774528665.9,30959928101.500004
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,2011,-350280000.0,-168.71316210418615,514372265.9,30609648101.500004
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,2011,1222891000.0,-449.1181340641772,552299265.9,31832539101.500004
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,2011,1119149000.0,-8.483339888837193,488101865.9,32951688101.500004
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,2011,-59706000.0,-105.33494646378631,488365065.9,32891982101.500004
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,2011,248681501.9,-516.5100691722774,436147100.38,33140663603.400005
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,2012,175238000.0,-29.533158413018256,541250700.38,33315901603.400005
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,2012,937510000.0,434.9924103219621,484174500.38,34253411603.400005
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,2012,891081000.0,-4.9523738413456915,438560900.38,35144492603.40001
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,2012,-56760721.3,-106.36987224505965,439149956.12,35087731882.100006
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,2012,884040963.7,-1657.487190882474,566221848.48,35971772845.8
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,2013,-1643088000.0,-285.8610706367203,202556648.48000002,34328684845.800003
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,2013,615490235.7,-137.45935918830884,138152695.62000006,34944175081.5
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,2013,519374583.4,-15.61611325818797,63811412.30000005,35463549664.9
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,2013,-50278578.4,-109.68060047737794,65107840.880000055,35413271086.5
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,2013,217397237.6,-532.3854104832844,-68220904.33999994,35630668324.1
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,2014,886727000.0,307.88328765774526,437742095.66,36517395324.1
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,2014,822010000.0,-7.298413153089955,479046048.5200001,37339405324.1
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,2014,883629000.0,7.49613751657523,551896931.8399999,38223034324.1
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,2014,-47740361.9,-105.40276087588796,552404575.1400001,38175293962.2
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,2014,104898664.7,-319.727418321058,529904860.56000006,38280192626.899994
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,2015,113904000.0,8.584794978805865,375340260.56000006,38394096626.899994
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,2015,610096000.0,435.62298075572414,332957460.56000006,39004192626.899994
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,2015,783042000.0,28.347342057643377,312840060.56000006,39787234626.899994
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,2015,-46551584.8,-105.94496652797677,313077815.9800001,39740683042.09999
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,2015,-17193842.5,-63.06496852068504,288659314.5400001,39723489199.59999
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,2016,63813000.0,-471.13867944294594,278641114.5400001,39787302199.59999
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,2016,983138000.0,1440.6547255261466,353249514.5400001,40770440199.59999
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,2016,699390000.0,-28.861461971767955,336519114.5400001,41469830199.59999
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,2016,-47854449.3,-106.84231248659546,336258541.64000005,41421975750.29999
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,2016,-57786122.8,20.753918695706307,328140085.58000004,41364189627.499985
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,2017,686057000.0,-1287.2348701685175,452588885.58000004,42050246627.499985
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,2017,668358000.0,-2.579814796729718,389632885.58000004,42718604627.499985
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,2017,1202813000.0,79.96537783642898,490317485.58000004,43921417627.499985
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,2017,-42342000.0,-103.52024795209229,491419975.44000006,43879075627.499985
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,2017,371283968.2,-976.869227244816,577233993.64,44250359595.69998
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,2018,659019000.0,77.49729491282677,571826393.64,44909378595.69998
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,2018,742267000.0,12.632109241159961,586608193.64,45651645595.69998
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,2018,1401419000.0,88.80254679246147,626329393.64,47053064595.69998
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,2018,0.0,-100.0,634797793.64,47053064595.69998
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,2018,-122002322.4,-inf,536140535.5200001,46931062273.29998
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Brazil,BRA,2019,-99613000.0,-18.351554265167014,384414135.52,46831449273.29998
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,China,CHN,2019,671412000.0,-774.020459177015,370243135.52,47502861273.29998
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,India,IND,2019,1238655000.0,84.48508516380404,337690335.52,48741516273.29998
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,Russian Federation,RUS,2019,0.0,-100.0,337690335.52,48741516273.29998
+"Net financial flows, RDB nonconcessional (NFL, current US$)",DT.NFL.RDBN.CD,South Africa,ZAF,2019,-124778435.8,-inf,337135112.84000003,48616737837.49998

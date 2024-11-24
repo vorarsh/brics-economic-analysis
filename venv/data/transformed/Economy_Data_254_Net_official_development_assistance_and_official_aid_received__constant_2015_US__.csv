@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1970,701260009.765625,,,701260009.765625
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1970,0.0,-100.0,,701260009.765625
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1970,4678390136.71875,inf,,5379650146.484375
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1970,0.0,-100.0,,5379650146.484375
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1970,0.0,,1075930029.296875,5379650146.484375
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1971,573780029.296875,inf,1050434033.203125,5953430175.78125
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1971,0.0,-100.0,1050434033.203125,5953430175.78125
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1971,5356020019.53125,inf,1185960009.765625,11309450195.3125
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1971,0.0,-100.0,1185960009.765625,11309450195.3125
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1971,0.0,,1185960009.765625,11309450195.3125
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1972,449920013.427734,inf,1161188006.5917969,11759370208.740234
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1972,0.0,-100.0,1161188006.5917969,11759370208.740234
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1972,3154840087.89063,inf,720952020.2636727,14914210296.630863
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1972,0.0,-100.0,720952020.2636727,14914210296.630863
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1972,0.0,,720952020.2636727,14914210296.630863
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1973,280489990.234375,inf,687066015.625001,15194700286.865238
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1973,0.0,-100.0,687066015.625001,15194700286.865238
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1973,3497270019.53125,inf,755552001.953125,18691970306.39649
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1973,0.0,-100.0,755552001.953125,18691970306.39649
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1973,0.0,,755552001.953125,18691970306.39649
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1974,514549987.792969,inf,802364001.4648438,19206520294.189457
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1974,0.0,-100.0,802364001.4648438,19206520294.189457
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1974,4965250000.0,inf,1095959997.5585938,24171770294.189457
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1974,0.0,-100.0,1095959997.5585938,24171770294.189457
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1974,0.0,,1095959997.5585938,24171770294.189457
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1975,468660003.662109,inf,1086782000.7324219,24640430297.851566
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1975,0.0,-100.0,1086782000.7324219,24640430297.851566
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1975,5685250000.0,inf,1230782000.7324219,30325680297.851566
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1975,0.0,-100.0,1230782000.7324219,30325680297.851566
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1975,0.0,,1230782000.7324219,30325680297.851566
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1976,316579986.572266,inf,1200365997.3144531,30642260284.423832
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1976,0.0,-100.0,1200365997.3144531,30642260284.423832
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1976,5994419921.875,inf,1262199981.6894531,36636680206.29883
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1976,0.0,-100.0,1262199981.6894531,36636680206.29883
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1976,0.0,,1262199981.6894531,36636680206.29883
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1977,201960006.713867,inf,1239275985.7177734,36838640213.012695
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1977,0.0,-100.0,1239275985.7177734,36838640213.012695
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1977,3166350097.65625,inf,673662020.8740234,40004990310.668945
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1977,0.0,-100.0,673662020.8740234,40004990310.668945
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1977,0.0,,673662020.8740234,40004990310.668945
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1978,204490005.493164,inf,674168020.6298828,40209480316.16211
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1978,0.0,-100.0,674168020.6298828,40209480316.16211
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1978,3118729980.46875,inf,664643997.1923828,43328210296.63086
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1978,0.0,-100.0,664643997.1923828,43328210296.63086
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1978,0.0,,664643997.1923828,43328210296.63086
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1979,185630004.882813,inf,660871997.0703126,43513840301.51367
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1979,39819999.6948242,-78.548726688898,668835997.0092775,43553660301.208496
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1979,3285840087.89063,8151.733081549279,702258018.4936534,46839500389.09913
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1979,0.0,-100.0,702258018.4936534,46839500389.09913
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1979,0.0,,702258018.4936534,46839500389.09913
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1980,160169998.168945,inf,697166017.1508797,46999670387.268074
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1980,142289993.286133,-11.163142340772492,717660015.8691416,47141960380.55421
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1980,4825359863.28125,3291.215187970291,1025563970.9472656,51967320243.83546
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1980,0.0,-100.0,1025563970.9472656,51967320243.83546
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1980,0.0,,1025563970.9472656,51967320243.83546
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1981,512260009.765625,inf,1095981973.2666016,52479580253.60108
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1981,1087579956.05469,112.31014237326309,1285039965.820313,53567160209.65577
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1981,4528629882.8125,316.39512181160256,1225693969.726563,58095790092.46827
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1981,0.0,-100.0,1225693969.726563,58095790092.46827
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1981,0.0,,1225693969.726563,58095790092.46827
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1982,422130004.882813,inf,1207667968.7500005,58517920097.35108
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1982,1208550048.82813,186.29806809483588,1231861987.3046887,59726470146.179214
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1982,3900909912.10938,222.77603363566905,1106317993.1640646,63627380058.2886
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1982,0.0,-100.0,1106317993.1640646,63627380058.2886
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1982,0.0,,1106317993.1640646,63627380058.2886
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1983,261070007.324219,inf,1074105993.6523457,63888450065.612816
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1983,1525630004.88281,484.37582337374846,1137521984.8632817,65414080070.49563
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1983,4382419921.875,187.25312873035892,1233823986.8164058,69796499992.37064
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1983,0.0,-100.0,1233823986.8164058,69796499992.37064
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1983,0.0,,1233823986.8164058,69796499992.37064
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1984,380440002.441406,inf,1257697985.8398433,70176939994.81204
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1984,1831699951.17188,381.4688096460077,1318911975.0976572,72008639945.98392
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1984,4155810058.59375,126.88268654126222,1273590002.4414072,76164450004.57767
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1984,0.0,-100.0,1273590002.4414072,76164450004.57767
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1984,0.0,,1273590002.4414072,76164450004.57767
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1985,238789993.286133,inf,1245260000.6103525,76403239997.8638
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1985,2188639892.57813,816.5542753525544,1316647988.8916025,78591879890.44193
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1985,3936429931.64063,79.8573600430756,1272771963.5009785,82528309822.08255
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1985,0.0,-100.0,1272771963.5009785,82528309822.08255
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1985,0.0,,1272771963.5009785,82528309822.08255
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1986,278989990.234375,inf,1280811962.890627,82807299812.31693
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1986,1924270019.53125,589.7272615102434,1227937988.281251,84731569831.84818
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1986,3868239990.23438,101.02376230840405,1214300000.000001,88599809822.08255
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1986,0.0,-100.0,1214300000.000001,88599809822.08255
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1986,0.0,,1214300000.000001,88599809822.08255
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1987,448500000.0,inf,1248202001.953126,89048309822.08255
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1987,2123739990.23438,373.52062212583724,1288095996.093752,91172049812.31693
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1987,2793979980.46875,31.55941844653032,1073243994.140626,93966029792.78568
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1987,0.0,-100.0,1073243994.140626,93966029792.78568
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1987,0.0,,1073243994.140626,93966029792.78568
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1988,321239990.234375,inf,1047791992.187501,94287269783.02005
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1988,2751969970.70313,756.6710417016596,1173437988.281251,97039239753.72318
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1988,3068750000.0,11.511027833488052,1228391992.187501,100107989753.72318
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1988,0.0,-100.0,1228391992.187501,100107989753.72318
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1988,0.0,,1228391992.187501,100107989753.72318
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1989,319470001.220703,inf,1228037994.3847666,100427459754.94388
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1989,2971330078.125,830.0810926758294,1271910015.8691406,103398789833.06888
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1989,2751629882.8125,-7.394001660399086,1208485992.4316406,106150419715.88138
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1989,0.0,-100.0,1208485992.4316406,106150419715.88138
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1989,0.0,,1208485992.4316406,106150419715.88138
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1990,227559997.558594,inf,1190103991.6992188,106377979713.43997
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1990,2714280029.29688,1092.775557399092,1138693981.9335947,109092259742.73685
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1990,1963640014.64844,-27.65521635742534,981096008.3007828,111055899757.38528
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1990,347700012.207031,-82.29308785657021,1050636010.7421888,111403599769.59232
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1990,0.0,-100.0,1050636010.7421888,111403599769.59232
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1991,260160003.662109,inf,1057156011.9628919,111663759773.25443
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1991,2486040039.0625,855.5811823754902,1011508013.916016,114149799812.31693
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1991,3509520019.53125,41.16908675592812,1320684014.8925781,117659319831.84818
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1991,775590026.855469,-77.90039599320876,1406262017.8222656,118434909858.70364
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1991,0.0,-100.0,1406262017.8222656,118434909858.70364
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1992,-436429992.675781,-inf,1266944018.5546877,117998479866.02786
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1992,3561780029.29688,-916.1171525951669,1482092016.6015637,121560259895.32474
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1992,3028469970.70313,-14.97313293373227,1385882006.8359394,124588729866.02786
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1992,2413949951.17188,-20.291435129818204,1713553991.6992218,127002679817.19974
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1992,0.0,-100.0,1713553991.6992218,127002679817.19974
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1993,215089996.337891,inf,1843857989.5019562,127217769813.53763
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1993,3739250000.0,1638.4583493720022,1879351983.64258,130957019813.53763
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1993,1864880004.88281,-50.12689697445183,1646633990.4785163,132821899818.42044
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1993,3327669921.875,78.4388225066584,1829377984.6191401,136149569740.29544
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1993,397769989.013672,-88.04659120789402,1908931982.4218745,136547339729.30911
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1994,297899993.896484,-25.107473634406162,1925493981.9335933,136845239723.2056
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1994,3411239990.23438,1045.0956898709226,1859891979.9804692,140256479713.43997
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1994,2591550048.82813,-24.029090411487896,2005225988.7695327,142848029762.2681
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1994,2324530029.29688,-10.303486890094737,1804598010.2539089,145172559791.56497
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1994,419859985.351563,-81.9378549616517,1809016009.521487,145592419776.91653
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1995,269320007.324219,-35.85480476337648,1803300012.2070339,145861739784.24075
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1995,3425659912.10938,1171.9663667561924,1806183996.5820343,149287399696.35013
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1995,1820800048.82813,-46.84819580625105,1652033996.5820343,151108199745.17825
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1995,2222870117.1875,22.08205500753051,1631702014.1601584,153331069862.36575
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1995,509690002.441406,-77.07063500919729,1649668017.578127,153840759864.80716
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1996,288100006.103516,-43.47544493250366,1653424017.3339863,154128859870.91068
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1996,2879090087.89063,899.3370450870995,1544110052.4902363,157007949958.8013
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1996,2120949951.17188,-26.33262987870596,1604140032.9589863,159128899909.97318
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1996,1771469970.70313,-16.477521323671652,1513860003.6621125,160900369880.6763
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1996,467040008.544922,-73.63545438145107,1505330004.8828156,161367409889.22122
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1997,280850006.103516,-39.86596416471618,1503880004.8828156,161648259895.32474
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1997,2493280029.29688,787.7621417525994,1426717993.1640656,164141539924.6216
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1997,1977729980.46875,-20.677583054059035,1398073999.0234396,166119269905.09036
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1997,1240349975.58594,-37.28415972680157,1291850000.0000014,167359619880.6763
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1997,671219970.703125,-45.88463063531392,1332685992.431642,168030839851.37943
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1998,313779998.779297,-53.25228502206183,1339271990.9667983,168344619850.15872
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1998,2933550048.82813,834.9066416726888,1427325994.8730483,171278169898.98685
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1998,1965550048.82813,-32.997562130794,1424890008.5449243,173243719947.81497
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1998,1644290039.0625,-16.34453469944287,1505678021.2402363,174888009986.87747
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1998,700380004.882813,-57.40532459333403,1511510028.0761738,175588389991.76028
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,1999,119440002.441406,-82.94640029573794,1472642028.8085957,175707829994.2017
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,1999,2706040039.0625,2165.6061484844736,1427140026.85547,178413870033.2642
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,1999,1698250000.0,-37.242244183927376,1373680017.0898438,180112120033.2642
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,1999,2740989990.23438,61.400853245068745,1593020007.3242197,182853110023.49857
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,1999,745289978.027344,-72.80946006068359,1602002001.953126,183598400001.5259
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,2000,285799987.792969,-61.65251161038915,1635273999.0234387,183884199989.31888
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,2000,2085639892.57813,629.7550670607269,1511193969.7265646,185969839881.897
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,2000,1697359985.35156,-18.616823959317543,1511015966.7968764,187667199867.24857
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,2000,2259959960.9375,33.14558964752625,1414809960.9375005,189927159828.18607
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,2000,723140014.648438,-68.0020873312969,1410379968.2617195,190650299842.8345
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,2001,345660003.662109,-52.20012768479487,1422351971.4355474,190995959846.4966
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,2001,1903089965.82031,450.5670154654706,1385841986.0839832,192899049812.31693
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,2001,2267120117.1875,19.128373219616957,1499794012.4511714,195166169929.50443
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,2001,1558449951.17188,-31.258606927927946,1359492010.4980474,196724619880.6763
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,2001,646049987.792969,-58.54534903047928,1344074005.1269536,197370669868.46927
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,2002,295880004.882813,-54.20168555476705,1334118005.3710945,197666549873.35208
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,2002,1845910034.17969,523.8711652417289,1322682019.0429702,199512459907.53177
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,2002,2169300048.82813,17.519272806388543,1303118005.3710961,201681759956.3599
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,2002,1769969970.70313,-18.408245477186092,1345422009.2773461,203451729927.06302
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,2002,725320007.324219,-59.02077327130687,1361276013.1835964,204177049934.38724
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,2003,250729995.727539,-65.43181034637276,1352246011.3525414,204427779930.11478
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,2003,1487709960.9375,493.351408402747,1280605996.7041035,205915489891.05228
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,2003,692890014.648438,-53.42573264671804,985323989.8681653,206608379905.7007
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,2003,1589689941.40625,129.42890037358018,949267984.0087893,208198069847.10696
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,2003,773919982.910156,-51.316293652487886,958987979.1259766,208971989830.01712
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,2004,176889999.389648,-77.14363199093374,944219979.8583984,209148879829.40677
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,2004,1712329956.05469,868.0196517400741,989143978.8818363,210861209785.46146
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,2004,849549987.792969,-50.38631516145505,1020475973.5107425,211710759773.25443
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,2004,1583569946.28906,86.40103219858655,1019251974.4873047,213294329719.5435
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,2004,693429992.675781,-56.21096533811053,1003153976.4404294,213987759712.21927
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,2005,224259994.506836,-67.65931718045968,1012627975.4638672,214212019706.7261
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,2005,1794750000.0,700.2987799704471,1029111984.2529291,216006769706.7261
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,2005,1929859985.35156,7.528067159858476,1245173983.7646475,217936629692.07767
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,2005,0.0,-100.0,928459994.5068356,217936629692.07767
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,2005,735760009.765625,inf,936925997.9248043,218672389701.8433
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,2006,104870002.746582,-85.74671069986691,913047999.5727535,218777259704.58987
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,2006,1301609985.35156,1141.1652057422905,814419996.6430655,220078869689.94144
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,2006,1399479980.46875,7.51914907066078,708343995.6665034,221478349670.4102
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,2006,0.0,-100.0,708343995.6665034,221478349670.4102
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,2006,769539978.027344,inf,715099989.3188473,222247889648.43753
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,2007,304149993.896484,-60.47638815644785,754955987.5488276,222552039642.334
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,2007,1381800048.82813,354.31533011913154,770994000.2441416,223933839691.16214
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,2007,1206319946.28906,-12.69938459532478,732361993.4082036,225140159637.4512
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,2007,0.0,-100.0,732361993.4082036,225140159637.4512
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,2007,799609985.351563,inf,738375994.8730474,225939769622.80276
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,2008,416660003.662109,-47.89209598490483,760877996.8261724,226356429626.46487
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,2008,1158569946.28906,178.06123364521542,716231976.3183584,227514999572.75394
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,2008,1787560058.59375,54.29021478758076,832479998.7792964,229302559631.3477
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,2008,0.0,-100.0,832479998.7792964,229302559631.3477
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,2008,1073869995.11719,inf,887332000.7324219,230376429626.46487
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,2009,348140014.648438,-67.58080435886971,873628002.9296875,230724569641.1133
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,2009,1026310058.59375,194.7980741685635,847176025.3906256,231750879699.70706
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,2009,2267649902.34375,120.95173708527068,943193994.1406256,234018529602.0508
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,2009,0.0,-100.0,943193994.1406256,234018529602.0508
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,2009,1098020019.53125,inf,948023999.0234375,235116549621.58206
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,2010,444980010.986328,-59.47432623530015,967391998.2910156,235561529632.5684
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,2010,658760009.765625,48.042607196093876,893881988.5253906,236220289642.334
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,2010,2531000000.0,284.20668566394676,946552008.0566406,238751289642.334
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,2010,0.0,-100.0,946552008.0566406,238751289642.334
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,2010,1060650024.41406,inf,939078009.0332025,239811939666.74808
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,2011,710729980.46875,-32.991093752967004,992228002.9296869,240522669647.21683
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,2011,-503260009.765625,-170.8088899575769,759823999.023437,240019409637.4512
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,2011,2798929931.64063,-656.1598134817287,813409985.351563,242818339569.09183
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,2011,0.0,-100.0,813409985.351563,242818339569.09183
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,2011,1335680053.71094,inf,868415991.210939,244154019622.80276
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,2012,1183569946.28906,-11.388214340647673,962983984.375001,245337589569.09183
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,2012,-6559999.94277954,-100.55425536643168,1062323986.33957,245331029569.14905
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,2012,1403959960.9375,-21501.828859508,783329992.1989441,246734989530.08655
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,2012,0.0,-100.0,783329992.1989441,246734989530.08655
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,2012,1065739990.23438,inf,729341979.5036322,247800729520.32092
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,2013,911599975.585938,-14.463191403237408,674947985.3630078,248712329495.90686
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,2013,-608349975.585938,-166.73431240439825,554589990.234376,248103979520.32092
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,2013,2211639892.57813,-463.5472970058013,716125976.5625019,250315619412.89905
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,2013,0.0,-100.0,716125976.5625019,250315619412.89905
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,2013,1225109985.35156,inf,747999975.585938,251540729398.2506
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,2014,794559997.558594,-35.14378243104554,724591979.9804691,252335289395.8092
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,2014,-918659973.144531,-215.61870418436024,662529980.4687505,251416629422.66467
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,2014,2711500000.0,-395.1581737820425,762502001.9531245,254128129422.66467
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,2014,0.0,-100.0,762502001.9531245,254128129422.66467
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,2014,1037420043.94531,inf,724964013.6718745,255165549466.61
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,2015,1028579956.05469,-0.8521223338813777,771768005.3710936,256194129422.66467
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,2015,-347880004.882813,-133.82138674150053,885923999.0234375,255846249417.78186
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,2015,3266530029.29688,-1038.981828057995,996930004.8828132,259112779447.07874
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,2015,0.0,-100.0,996930004.8828132,259112779447.07874
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,2015,1461359985.35156,inf,1081717993.1640632,260574139432.4303
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,2016,694659973.144531,-52.4648286453925,1014933996.5820316,261268799405.57483
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,2016,-749840026.855469,-207.94346239083757,934541992.1875004,260518959378.71936
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,2016,2681100097.65625,-457.5562788905412,817456005.8593743,263200059476.3756
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,2016,0.0,-100.0,817456005.8593743,263200059476.3756
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,2016,1209239990.23438,inf,767032006.8359382,264409299466.61
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,2017,273890014.648438,-77.3502351178982,682878015.1367197,264683189481.25842
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,2017,-989940002.441406,-461.4370548382647,634858020.0195323,263693249478.81702
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,2017,3198389892.57813,-423.0892664899094,738315979.0039083,266891639371.39514
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,2017,0.0,-100.0,738315979.0039083,266891639371.39514
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,2017,1014809997.55859,inf,699429980.4687502,267906449368.95374
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,2018,404119995.117188,-60.177767652130754,725475976.5625002,268310569364.07092
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,2018,-744840026.855469,-284.3115994890275,774495971.6796877,267565729337.21545
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,2018,2376010009.76563,-418.9960158017499,610019995.1171877,269941739346.98108
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,2018,0.0,-100.0,610019995.1171877,269941739346.98108
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,2018,886109985.351563,inf,584279992.6757823,270827849332.33264
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Brazil,BRA,2019,0.0,-100.0,503455993.6523447,270827849332.33264
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,China,CHN,2019,0.0,,652423999.0234385,270827849332.33264
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,India,IND,2019,0.0,,177221997.0703125,270827849332.33264
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,Russian Federation,RUS,2019,0.0,,177221997.0703125,270827849332.33264
+Net official development assistance and official aid received (constant 2015 US$),DT.ODA.ALLD.KD,South Africa,ZAF,2019,0.0,,0.0,270827849332.33264

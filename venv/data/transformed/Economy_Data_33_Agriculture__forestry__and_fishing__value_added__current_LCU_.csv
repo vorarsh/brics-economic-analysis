@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1970,0.0073299999,,,0.0073299999
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1970,79330000000.0,1082264680521928.4,,79330000000.00732
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1970,186929460451.57,135.63527095874198,,266259460451.57733
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1970,0.0,-100.0,,266259460451.57733
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1970,889000000.0,inf,53429692090.31547,267148460451.57733
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1971,0.0104160002,-99.99999999882834,53429692090.316086,267148460451.58774
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1971,82630000000.0,793298755888940.8,54089692090.316086,349778460451.58777
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1971,190955751714.06,131.09736380740648,54894950342.81409,540734212165.64777
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1971,0.0,-100.0,54894950342.81409,540734212165.64777
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1971,1067000000.0,inf,54930550342.81409,541801212165.64777
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1972,0.013975,-99.99999999869024,54930550342.814804,541801212165.66174
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1972,82740000000.0,592057245080400.9,54952550342.8148,624541212165.6617
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1972,210030186454.02,153.8435901063814,58767437290.806786,834571398619.6818
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1972,0.0,-100.0,58767437290.806786,834571398619.6818
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1972,1184000000.0,inf,58790837290.806786,835755398619.6818
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1973,0.0202040002,-99.99999999829357,58790837290.808044,835755398619.702
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1973,90750000000.0,449168477042381.94,60392837290.80803,926505398619.702
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1973,276776294113.33,204.98765191551516,73742058822.67004,1203281692733.032
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1973,0.0,-100.0,73742058822.67004,1203281692733.032
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1973,1396000000.0,inf,73784458822.67004,1204677692733.032
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1974,0.029135,-99.99999999791297,73784458822.67183,1204677692733.061
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1974,94520000000.0,324420799725316.2,74538458822.67183,1299197692733.061
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1974,303221051999.66,220.800943715256,79827410399.93782,1602418744732.721
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1974,0.0,-100.0,79827410399.93782,1602418744732.721
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1974,2060000000.0,inf,79960210399.93782,1604478744732.721
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1975,0.0390359983,-99.99999999810505,79960210399.9398,1604478744732.76
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1975,97120000000.0,248795994029851.56,80480210399.93979,1701598744732.76
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1975,300540060920.34,209.45228677959227,79944012184.07582,2002138805653.1
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1975,0.0,-100.0,79944012184.07582,2002138805653.1
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1975,2049000000.0,inf,79941812184.07582,2004187805653.1
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1976,0.0678419992,-99.99999999668901,79941812184.08157,2004187805653.168
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1976,96710000000.0,142551813243045.1,79859812184.08159,2100897805653.168
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1976,307045548234.67,217.49100220728982,81160909646.94756,2407943353887.838
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1976,0.0,-100.0,81160909646.94756,2407943353887.838
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1976,2032000000.0,inf,81157509646.94756,2409975353887.838
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1977,0.1171080023,-99.99999999423682,81157509646.95741,2409975353887.955
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1977,94220000000.0,80455646197871.22,80659509646.95743,2504195353887.955
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1977,363538546640.82,285.8401046920187,91958109328.18741,2867733900528.775
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1977,0.0,-100.0,91958109328.18741,2867733900528.775
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1977,2342000000.0,inf,92020109328.18741,2870075900528.775
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1978,0.1355269998,-99.9999999942132,92020109328.19109,2870075900528.9106
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1978,101846416290.0,75148432740458.62,93545392586.19109,2971922316818.9106
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1978,373618688727.58,266.8451992102785,95561421003.5431,3345541005546.4907
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1978,0.0,-100.0,95561421003.5431,3345541005546.4907
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1978,2558000000.0,inf,95604621003.5431,3348099005546.4907
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1979,0.2181230038,-99.9999999914729,95604621003.55963,3348099005546.709
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1979,125897371860.0,57718521048435.09,100414812117.55962,3473996377406.709
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1979,386514351911.97,207.00748252456012,102993944754.43762,3860510729318.6787
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1979,0.0,-100.0,102993944754.43762,3860510729318.6787
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1979,2711000000.0,inf,103024544754.43762,3863221729318.6787
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1980,0.4480359852,-99.99999998347342,103024544754.48361,3863221729319.127
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1980,135948094870.0,30343119606534.668,105034689356.4836,3999169824189.127
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1980,486152852553.9,257.6018134117895,124962389484.8696,4485322676743.027
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1980,0.0,-100.0,124962389484.8696,4485322676743.027
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1980,3772000000.0,inf,125174589484.8696,4489094676743.027
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1981,0.8596360087,-99.99999997721008,125174589484.95193,4489094676743.887
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1981,154568474040.0,17980688625746.297,128898665318.95193,4643663150783.887
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1981,547959975235.13,254.5095328387121,141260089855.19794,5191623126019.017
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1981,0.0,-100.0,141260089855.19794,5191623126019.017
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1981,4534000000.0,inf,141412489855.19794,5196157126019.017
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1982,1.4818199873,-99.99999996731759,141412489855.32236,5196157126020.498
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1982,176169062240.0,11888695236154.355,145732607495.32236,5372326188260.498
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1982,590788284901.26,235.35302815906047,154298269428.54837,5963114473161.758
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1982,0.0,-100.0,154298269428.54837,5963114473161.758
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1982,4479000000.0,inf,154287269428.54837,5967593473161.758
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1983,4.1898198128,-99.99999990645637,154287269429.08997,5967593473165.947
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1983,196090192970.0,4680158138704.437,158271495575.08997,6163683666135.947
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1983,705025814581.79,259.54159864060745,181119001511.19598,6868709480717.737
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1983,0.0,-100.0,181119001511.19598,6868709480717.737
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1983,3999000000.0,inf,181023001511.19598,6872708480717.737
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1984,14.6690998077,-99.9999996331808,181023001513.2918,6872708480732.406
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1984,229561746900.0,1564934112486.1047,187717312299.2918,7102270227632.406
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1984,760266684443.94,231.18178211769825,198765486271.7218,7862536912076.346
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1984,0.0,-100.0,198765486271.7218,7862536912076.346
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1984,5060000000.0,inf,198977686271.7218,7867596912076.346
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1985,52.8061981201,-99.99999895639925,198977686279.3492,7867596912129.152
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1985,254173267220.0,481332260635.6052,203899990343.3492,8121770179349.152
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1985,814771444234.76,220.55748944263817,214800942301.51324,8936541623583.912
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1985,0.0,-100.0,214800942301.51324,8936541623583.912
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1985,6288000000.0,inf,215046542301.51324,8942829623583.912
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1986,132.2250061035,-99.99999789718503,215046542317.397,8942829623716.137
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1986,276405154420.0,209041513729.57172,219492919757.397,9219234778136.137
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1986,874511782513.96,216.38765360545045,231440987413.237,10093746560650.098
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1986,0.0,-100.0,231440987413.237,10093746560650.098
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1986,7052000000.0,inf,231593787413.237,10100798560650.098
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1987,377.9349975586,-99.99999464074025,231593787462.37897,10100798561028.033
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1987,320446284590.0,84788729882.67746,240402013496.379,10421244845618.033
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1987,972839612125.02,203.58898165092936,260067579418.591,11394084457743.053
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1987,0.0,-100.0,260067579418.591,11394084457743.053
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1987,9285000000.0,inf,260514179418.591,11403369457743.053
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1988,2877.8000488281,-99.999969005923,260514179918.56403,11403369460620.854
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1988,383117835340.0,13312871845.221264,273048490068.56403,11786487295960.854
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1988,1201453347495.04,213.59890787355374,318771237142.568,12987940643455.895
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1988,0.0,-100.0,318771237142.568,12987940643455.895
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1988,11510000000.0,inf,319216237142.568,12999450643455.895
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1989,35927.0,-99.99968786272805,319216243752.408,12999450679382.895
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1989,422820106350.0,1176886660.2360342,327156697954.408,13422270785732.895
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1989,1327801875700.87,214.03470548341156,352426403595.57404,14750072661433.766
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1989,89400000.0,-99.9932670678031,352444283595.57404,14750162061433.766
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1989,12731000000.0,14140.492170022373,352688483595.57404,14762893061433.766
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1990,793783.395,-99.99376495644489,352688635166.853,14762893855217.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1990,501722159980.0,63206331.77223429,368469045892.853,15264616015197.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1990,1549528567283.0,208.8419629192317,412814384209.279,16814144582480.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1990,99600000.0,-99.99357223854383,412816424209.279,16814244182480.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1990,12578000000.0,12528.5140562249,412785824209.279,16826822182480.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1991,4092700.0,-99.96746144061059,412786483992.6,16826826275180.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1991,528884757240.0,12922536.822635423,418219003444.6,17355711032420.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1991,1810171026500.0,242.26190142942076,470347495288.0,19165882058920.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1991,192600000.0,-99.98936012138188,470366095288.0,19166074658920.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1991,14272000000.0,7310.176531671858,470704895288.0,19180346658920.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1992,43456700.0,-99.69551079035874,470712768088.0,19180390115620.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1992,580028379730.0,1334627.164579915,480941492586.0,19760418495350.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1992,2030092192500.0,249.99876961968596,524925725786.0,21790510687850.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1992,1380765500.0,-99.93198508397298,525163358886.0,21791891453350.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1992,13479000000.0,876.1976237094568,525004758886.0,21805370453350.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1993,925273900.0,-93.13544105645819,525181122326.0,21806295727250.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1993,688759767980.0,74338.47362170272,546927399976.0,22495055495230.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1993,2354825392000.0,241.89357472290376,611874039876.0,24849880887230.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1993,12961360200.0,-99.44958296084145,614190158816.0,24862842247430.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1993,16811000000.0,29.70089358368422,614856558816.0,24879653247430.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1994,30458000000.0,81.17898994705848,620763104036.0,24910111247430.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1994,947179458980.0,3009.7887549412308,672447042236.0,25857290706410.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1994,2711615466200.0,186.28317902080443,743805057076.0,28568906172610.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1994,37314144000.0,-98.62391461971224,748675613836.0,28606220316610.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1994,20916000000.0,-43.94618834080718,749496613836.0,28627136316610.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1995,35381941900.0,69.16208596289921,750481402216.0,28662518258510.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1995,1202048383470.0,3297.3499444076588,801455187114.0,29864566641980.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1995,2948476101500.0,145.28763917043995,848827314174.0,32813042743480.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1995,95600000000.0,-96.75764711298271,860484485374.0,32908642743480.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1995,19945000000.0,-79.13702928870293,860290285374.0,32928587743480.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1996,40758643700.0,104.35519528703936,861365625734.0,32969346387180.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1996,1387833260730.0,3305.003539727697,898522601186.0,34357179647910.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1996,3545208051400.0,155.44913439639149,1017868991166.0,37902387699310.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1996,131500000000.0,-96.29076776049658,1025048991166.0,38033887699310.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1996,24496000000.0,-81.37186311787073,1025959191166.0,38058383699310.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1997,44605826600.0,82.09432805355976,1026728627746.0,38102989525910.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1997,1426522781200.0,3098.063773130482,1034466531840.0,39529512307110.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1997,3762073122400.0,163.72331181667636,1077839546040.0,43291585429510.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1997,137500000000.0,-96.34510028044637,1079039546040.0,43429085429510.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1997,25963000000.0,-81.11781818181818,1079332946040.0,43455048429510.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1998,47612122300.0,83.38451758271385,1079934205180.0,43502660551810.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1998,1461872667560.0,2970.3791323328596,1087004182452.0,44964533219370.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1998,4320651169100.0,195.55591707666062,1198719791792.0,49285184388470.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1998,134200000000.0,-96.89398669904763,1198059791792.0,49419384388470.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1998,26263000000.0,-80.42995529061103,1198119791792.0,49445647388470.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,1999,50534827000.0,92.41833377755778,1198704332732.0,49496182215470.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,1999,1454897539480.0,2778.999743048492,1197309307116.0,50951079754950.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,1999,4570806771800.0,214.1669188219033,1247340427656.0,55521886526750.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,1999,317400000000.0,-93.05593047690776,1283980427656.0,55839286526750.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,1999,27029000000.0,-91.48424700693131,1284133627656.0,55866315526750.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,2000,56962388900.0,110.74545451182063,1285419140036.0,55923277915650.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,2000,1471735556910.0,2483.6970417334446,1288786743522.0,57395013472560.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,2000,4624069888100.0,214.19162677624786,1299439366782.0,62019083360660.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,2000,420200000000.0,-90.91276710411795,1319999366782.0,62439283360660.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,2000,28340000000.0,-93.2555925749643,1320261566782.0,62467623360660.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,2001,63169986000.0,122.9004446012703,1321503086202.0,62530793346660.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,2001,1550250196520.0,2354.0929873247082,1337206014124.0,64081043543180.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,2001,5005672103300.0,222.89446661814506,1413526457164.0,69086715646480.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,2001,525500000000.0,-89.50190925103618,1434586457164.0,69612215646480.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,2001,33648000000.0,-93.59695528068505,1435648057164.0,69645863646480.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,2002,81515194800.0,142.25866262482168,1439317098924.0,69727378841280.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,2002,1619022829730.0,1886.1607810694945,1453071625566.0,71346401671010.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,2002,4869744698200.0,200.78295430905774,1425886144546.0,76216146369210.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,2002,602794628000.0,-87.62163798396227,1441345070146.0,76818940997210.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,2002,41197000000.0,-93.16566570331148,1442854870146.0,76860137997210.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,2003,105949168600.0,157.17690268708887,1447741664906.0,76966087165810.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,2003,1697024567020.0,1501.734670922184,1463342012364.0,78663111732830.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,2003,5467943464500.0,222.20767870802183,1582981765624.0,84131055197330.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,2003,726841979300.0,-86.70721480536625,1607791235884.0,84857897176630.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,2003,40467000000.0,-94.4324899837276,1607645235884.0,84898364176630.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,2004,110912706100.0,174.081859539872,1608637943384.0,85009276882730.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,2004,2090432417720.0,1784.754678905089,1687319513524.0,87099709300450.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,2004,5676351752500.0,171.53959651520822,1729001171124.0,92776061052950.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,2004,835088691100.0,-85.28828501982446,1750650513484.0,93611149744050.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,2004,40806000000.0,-95.1135729132855,1750718313484.0,93651955744050.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,2005,100957549700.0,147.40859113855805,1748727282204.0,93752913293750.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,2005,2180672186950.0,2059.989216685595,1766775236050.0,95933585480700.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,2005,6399878820700.0,193.48192997550902,1911480649690.0,102333464301400.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,2005,919693468300.0,-85.62951746327899,1928401605130.0,103253157769700.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,2005,39172000000.0,-95.74075478948359,1928074805130.0,103292329769700.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,2006,105294016400.0,168.79918411109975,1928942098470.0,103397623786100.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,2006,2331700683980.0,2114.4664660925596,1959147797876.0,105729324470080.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,2006,7151793953600.0,206.72006929262216,2109530824456.0,112881118423680.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,2006,1039357253600.0,-85.46718123671869,2133463581516.0,113920475677280.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,2006,42884000000.0,-95.87398848168293,2134205981516.0,113963359677280.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,2007,120151713600.0,180.17841992351458,2137177520956.0,114083511390880.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,2007,2767410000000.0,2203.2630306156534,2224319384160.0,116850921390880.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,2007,8205317615100.0,196.49808359079427,2435024116460.0,125056239005980.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,2007,1256390844700.0,-84.68809004555897,2478430834680.0,126312629850680.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,2007,55762000000.0,-95.5617314281437,2481006434680.0,126368391850680.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,2008,142051177200.0,154.74548473871096,2485386327400.0,126510443027880.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,2008,3246410000000.0,2185.380567757801,2581186327400.0,129756853027880.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,2008,9258781485400.0,185.20062115998903,2791879101460.0,139015634513280.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,2008,1549260981700.0,-83.26711798800955,2850453128860.0,140564895494980.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,2008,67743000000.0,-95.62739907606363,2852849328860.0,140632638494980.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,2009,149212639000.0,120.26281534623502,2854281621220.0,140781851133980.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,2009,3358380000000.0,2150.734269233051,2876675621220.0,144140231133980.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,2009,10660083106000.0,217.41741869591888,3156935945340.0,154800314239980.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,2009,1585060933500.0,-85.13087639431392,3164095935700.0,156385375173480.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,2009,68044000000.0,-95.70716818755031,3164156135700.0,156453419173480.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,2010,159932000000.0,135.04203162659456,3166300007900.0,156613351173480.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,2010,3843080000000.0,2302.946252157167,3263240007900.0,160456431173480.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,2010,12998840810200.0,238.24018261914924,3730991548740.0,173455271983680.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,2010,1548510498000.0,-88.0873185493209,3723681461640.0,175003782481680.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,2010,65605206800.0,-95.7633347087583,3723193703000.0,175069387688480.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,2011,190024000000.0,189.647741800884,3729212103000.0,175259411688480.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,2011,4478150000000.0,2256.623373889614,3856226103000.0,179737561688480.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,2011,15019474419500.0,235.39462544800864,4260352824860.0,194757036107980.16
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,2011,1894027260132.72,-87.38952371280264,4329456177286.544,196651063368112.88
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,2011,69104898200.0,-96.35143064439539,4330156115566.544,196720168266312.88
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,2012,200695000000.0,190.42080261685416,4332290315566.544,196920863266312.88
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,2012,4908460000000.0,2345.731084481427,4418352315566.544,201829323266312.88
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,2012,16751065028800.0,241.2692581542887,4764670437426.544,218580388295112.88
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,2012,1992726512809.93,-88.1038816971706,4784410287961.986,220573114807922.8
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,2012,70591591600.0,-96.45753739179898,4784707626641.986,220643706399522.8
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,2013,240291000000.0,240.39606496136855,4792626826641.986,220883997399522.8
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,2013,5302810000000.0,2106.8283872471293,4871496826641.986,226186807399522.8
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,2013,19263718648100.0,263.27378593802155,5374027550501.986,245450526047622.8
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,2013,2184900271154.11,-88.65795171188503,5412462302170.822,247635426318776.94
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,2013,74260090600.0,-96.60121372218174,5413196001970.822,247709686409376.94
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,2014,249975000000.0,236.62091977032952,5415132801970.822,247959661409376.94
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,2014,5562630000000.0,2125.274527452745,5467096801970.822,253522291409376.94
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,2014,20936115597100.0,276.3708101581446,5801576191770.822,274458407006476.94
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,2014,2655886517236.71,-87.31433008707405,5895773440987.342,277114293523713.66
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,2014,82755194500.0,-96.88408394097719,5897472461767.342,277197048718213.66
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,2015,258966000000.0,212.93020524530334,5899270661767.342,277456014718213.66
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,2015,5777460000000.0,2130.972405643984,5942236661767.342,283233474718213.6
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,2015,22275329000000.0,285.5557459506427,6210079342347.342,305508803718213.6
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,2015,3218061817756.02,-85.55324674326462,6322514402451.204,308726865535969.6
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,2015,84592000000.0,-97.3713370099588,6322881763551.204,308811457535969.6
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,2016,306655000000.0,262.5106393039531,6332419563551.204,309118112535969.6
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,2016,6013920000000.0,1861.1354779801406,6379711563551.204,315132032535969.6
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,2016,25186620000000.0,318.80537153803175,6961969763551.204,340318652535969.6
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,2016,3287844270598.91,-86.94606790987076,6975926254119.782,343606496806568.56
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,2016,96948000000.0,-97.0513201958212,6978397454119.782,343703444806568.56
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,2017,302971000000.0,212.50876758674755,6977660654119.782,344006415806568.56
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,2017,6209950000000.0,1949.6846232807761,7016866654119.782,350216365806568.56
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,2017,27969081000000.0,350.39140411758547,7573358854119.781,378185446806568.56
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,2017,3263769427619.5,-88.33079489590845,7568543885523.9,381449216234188.06
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,2017,109882000000.0,-96.63327932818633,7571130685523.9,381559098234188.06
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,2018,304400841900.0,177.02521058954153,7571416653903.9,381863499076088.06
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,2018,6474520000000.0,2026.9717782603807,7624330653903.9,388338019076088.06
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,2018,29228465000000.0,351.4383305635012,7876207453903.9,417566484076088.06
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,2018,3528583865493.79,-87.92757722482591,7929170341478.758,421095067941581.9
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,2018,106057000000.0,-96.99434662621634,7928405341478.758,421201124941581.9
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Brazil,BRA,2019,321956754500.0,203.56954703602779,7931916523998.758,421523081696081.9
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,China,CHN,2019,7046670000000.0,2088.7007809305023,8046346523998.758,428569751696081.9
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,India,IND,2019,32543448783826.3,361.8273423308641,8709343280764.019,461113200479908.2
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,Russian Federation,RUS,2019,3794710942314.19,-88.33955501298892,8762568696128.099,464907911422222.4
+"Agriculture, forestry, and fishing, value added (current LCU)",NV.AGR.TOTL.CN,South Africa,ZAF,2019,95690000000.0,-97.47833230370786,8760495296128.099,465003601422222.4

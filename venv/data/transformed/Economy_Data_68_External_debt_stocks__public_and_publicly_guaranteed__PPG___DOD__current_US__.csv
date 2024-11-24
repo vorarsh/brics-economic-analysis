@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1970,3563841591.8,,,3563841591.8
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1970,0.0,-100.0,,3563841591.8
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1970,8042121119.4,inf,,11605962711.2
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1970,0.0,-100.0,,11605962711.2
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1970,0.0,,2321192542.2400002,11605962711.2
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1971,4376151343.7,inf,2483654492.62,15982114054.900002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1971,0.0,-100.0,2483654492.62,15982114054.900002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1971,8910742281.7,inf,2657378725.08,24892856336.600002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1971,0.0,-100.0,2657378725.08,24892856336.600002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1971,0.0,,2657378725.08,24892856336.600002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1972,6209808907.8,inf,3024110237.9,31102665244.4
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1972,0.0,-100.0,3024110237.9,31102665244.4
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1972,9579268976.8,inf,3157815576.9199996,40681934221.2
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1972,0.0,-100.0,3157815576.9199996,40681934221.2
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1972,0.0,,3157815576.9199996,40681934221.2
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1973,8114945243.1,inf,3538842843.9800005,48796879464.299995
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1973,0.0,-100.0,3538842843.9800005,48796879464.299995
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1973,10374020720.3,inf,3697793192.6800003,59170900184.59999
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1973,0.0,-100.0,3697793192.6800003,59170900184.59999
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1973,0.0,,3697793192.6800003,59170900184.59999
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1974,11580997097.7,inf,4391003563.6,70751897282.29999
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1974,0.0,-100.0,4391003563.6,70751897282.29999
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1974,11384438629.8,inf,4593087145.5,82136335912.09999
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1974,0.0,-100.0,4593087145.5,82136335912.09999
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1974,0.0,,4593087145.5,82136335912.09999
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1975,14882558034.8,inf,5253399332.92,97018893946.9
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1975,0.0,-100.0,5253399332.92,97018893946.9
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1975,12298090794.8,inf,5436129765.92,109316984741.7
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1975,0.0,-100.0,5436129765.92,109316984741.7
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1975,0.0,,5436129765.92,109316984741.7
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1976,18623475423.8,inf,6184313243.719999,127940460165.5
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1976,0.0,-100.0,6184313243.719999,127940460165.5
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1976,13320327138.4,inf,6388760512.44,141260787303.9
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1976,0.0,-100.0,6388760512.44,141260787303.9
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1976,0.0,,6388760512.44,141260787303.9
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1977,23493399632.3,inf,7362745354.139999,164754186936.19998
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1977,0.0,-100.0,7362745354.139999,164754186936.19998
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1977,14535697348.6,inf,7605819396.18,179289884284.8
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1977,0.0,-100.0,7605819396.18,179289884284.8
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1977,0.0,,7605819396.18,179289884284.8
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1978,31802650621.5,inf,9267669594.02,211092534906.3
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1978,0.0,-100.0,9267669594.02,211092534906.3
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1978,15521249175.3,inf,9464779959.36,226613784081.59998
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1978,0.0,-100.0,9464779959.36,226613784081.59998
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1978,0.0,,9464779959.36,226613784081.59998
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1979,37288368959.0,inf,10561923626.86,263902153040.59998
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1979,0.0,-100.0,10561923626.86,263902153040.59998
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1979,17157384895.1,inf,10889150770.82,281059537935.69995
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1979,0.0,-100.0,10889150770.820002,281059537935.69995
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1979,0.0,,10889150770.820002,281059537935.69995
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1980,41839110578.5,inf,11799299094.720001,322898648514.19995
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1980,0.0,-100.0,11799299094.720001,322898648514.19995
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1980,18102398267.7,inf,11988301769.240002,341001046781.89996
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1980,0.0,-100.0,11988301769.240002,341001046781.89996
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1980,0.0,,11988301769.240002,341001046781.89996
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1981,46770175735.5,inf,12974514800.640003,387771222517.39996
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1981,4913954562.5,-89.49340154227781,13957305713.140003,392685177079.89996
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1981,18386340033.5,274.16585358383645,14014094066.300003,411071517113.39996
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1981,0.0,-100.0,14014094066.300003,411071517113.39996
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1981,0.0,,14014094066.300003,411071517113.39996
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1982,53271501811.2,inf,15314359281.440002,464343018924.6
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1982,5222125925.8,-90.19714904170004,15375993554.100002,469565144850.39996
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1982,19992414223.2,282.8405233283852,15697208392.040003,489557559073.6
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1982,0.0,-100.0,15697208392.040003,489557559073.6
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1982,0.0,,15697208392.040003,489557559073.6
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1983,60603760812.4,inf,17163660192.280005,550161319886.0
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1983,5303637603.3,-91.2486658712196,17179962527.780003,555464957489.3
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1983,21490064957.4,305.19482221086474,17479492674.620003,576955022446.7001
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1983,0.0,-100.0,17479492674.620003,576955022446.7001
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1983,0.0,,17479492674.620003,576955022446.7001
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1984,69857773423.2,inf,19330295196.780006,646812795869.9
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1984,6185533891.8,-91.14553243154789,19506674454.480003,652998329761.7001
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1984,23344418438.3,277.403452097273,19877545150.660004,676342748200.0001
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1984,0.0,-100.0,19877545150.660004,676342748200.0001
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1984,0.0,,19877545150.660004,676342748200.0001
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1985,72998962764.9,inf,20505783019.000004,749341710964.9001
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1985,9940225348.3,-86.38305946851132,21256721310.300003,759281936313.2002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1985,28416786295.9,185.87668086176646,22271194881.82,787698722609.1002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1985,0.0,-100.0,22271194881.82,787698722609.1002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1985,0.0,,22271194881.82,787698722609.1002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1986,81073390256.7,inf,23886080380.18,868772112865.8002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1986,16571434200.4,-79.55995901006432,25212322150.6,885343547066.2002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1986,34038628690.1,105.40544818551902,26336690629.440002,919382175756.3002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1986,0.0,-100.0,26336690629.440002,919382175756.3002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1986,0.0,,26336690629.440002,919382175756.3002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1987,88692776420.9,inf,27860567862.280006,1008074952177.2002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1987,25963179948.8,-70.72683819752213,29738917011.960003,1034038132126.0002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1987,41985960928.6,61.71347659029942,31328383459.659996,1076024093054.6002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1987,0.0,-100.0,31328383459.659996,1076024093054.6002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1987,0.0,,31328383459.659996,1076024093054.6002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1988,92700054835.0,inf,32129839142.480003,1168724147889.6
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1988,32620334460.8,-64.81087900232416,33461270044.879997,1201344482350.4001
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1988,48778967923.5,49.53546225014309,34819871443.86,1250123450273.9001
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1988,0.0,-100.0,34819871443.86,1250123450273.9001
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1988,0.0,,34819871443.86,1250123450273.9001
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1989,88486466771.6,inf,33977153831.180004,1338609917045.5002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1989,37117932607.8,-58.05241867820503,34876673460.58,1375727849653.3003
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1989,63086800566.1,69.96313138637163,37738239989.100006,1438814650219.4004
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1989,0.0,-100.0,37738239989.100006,1438814650219.4004
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1989,0.0,,37738239989.100006,1438814650219.4004
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1990,88105161011.2,inf,37661978837.020004,1526919811230.6003
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1990,45515193868.2,-48.33992317156759,39341431089.1,1572435005098.8003
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1990,70668176610.5,55.26282677194876,40857706297.98,1643103181709.3003
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1990,0.0,-100.0,40857706297.98,1643103181709.3003
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1990,0.0,,40857706297.98,1643103181709.3003
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1991,85950307951.4,inf,40426735686.02,1729053489660.7002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1991,49479186451.5,-42.432799101222926,41219534202.67999,1778532676112.2002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1991,72638616392.8,46.80640811263361,41613622159.14,1851171292505.0002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1991,0.0,-100.0,41613622159.14,1851171292505.0002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1991,0.0,,41613622159.14,1851171292505.0002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1992,91467585844.6,inf,42717077737.78001,1942638878349.6003
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1992,58573494534.7,-35.962566417556744,44535939354.42,2001212372884.3003
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1992,75510006181.5,28.91497558979772,45110217312.159996,2076722379065.8003
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1992,64571299242.1,-14.486433643121577,58024477160.579994,2141293678307.9004
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1992,0.0,-100.0,58024477160.579994,2141293678307.9004
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1993,92057533816.6,inf,58142466754.98,2233351212124.5005
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1993,70241238669.9,-23.698543988983168,60476015582.02,2303592450794.4004
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1993,81033169952.3,15.364095916811626,61580648336.18001,2384625620746.7
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1993,101701066418.2,25.50547692761631,69006601771.4,2486326687164.9004
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1993,0.0,-100.0,69006601771.4,2486326687164.9004
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1994,95840926759.6,inf,69763280360.0,2582167613924.5005
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1994,82601707411.3,-13.813743038512394,72235374108.28,2664769321335.8003
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1994,83174277344.0,0.6931696094960804,72663595586.62,2747943598679.8003
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1994,108301652541.7,30.21051219209978,73983712811.31999,2856245251221.5005
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1994,7789024059.0,-92.80802843151359,75541517623.12,2864034275280.5005
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1995,98763857925.5,1167.9875832631576,76126103856.3,2962798133206.0005
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1995,94899530047.0,-3.912694339476852,78585668383.43999,3057697663253.0005
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1995,79726262374.7,-15.988770086411686,77896065389.57999,3137423925627.7007
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1995,102097010119.0,28.059446257697694,76655136905.04,3239520935746.7007
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1995,9836655821.1,-90.36538307083156,77064663257.45999,3249357591567.801
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1996,96829028507.9,884.3693859878481,76677697373.94,3346186620075.7007
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1996,102480131407.6,5.8361660617497035,78193817646.06,3448666751483.301
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1996,78496831453.6,-23.402877830640033,77947931461.84,3527163582936.901
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1996,102391857383.0,30.44075217676079,78006900914.64,3629555440319.901
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1996,10347474379.0,-89.89424096459648,78109064626.22,3639902914698.901
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1997,88266784835.1,753.0273340346292,76396615891.66,3728169699534.001
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1997,113035590729.7,28.061298415789217,78507707756.08,3841205290263.701
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1997,79134165510.6,-29.991814967524576,78635174567.48001,3920339455774.3013
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1997,106937580211.9,35.13452694155943,79544319133.26001,4027277035986.201
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1997,16878392969.6,-84.2165935154368,80850502851.38,4044155428955.8013
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1998,99176483490.9,487.5943501820859,83032442582.54,4143331912446.701
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1998,99650380396.4,0.47783193033203997,80355400515.88,4242982292843.101
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1998,85297283935.0,-14.403453759338102,81588024200.76,4328279576778.101
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1998,119242285204.6,39.79611038432065,84048965199.3,4447521861982.701
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1998,11929749566.3,-89.99536989262616,83059236518.64,4459451611549.001
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,1999,93029551709.0,679.8114385552271,81829850162.26001,4552481163258.001
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,1999,95658535107.4,2.825965889445059,81031481104.45999,4648139698365.401
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,1999,86941297896.5,-9.112869229193999,81360283896.76,4735080996261.901
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,1999,118812116899.6,36.65785969866806,81274250235.76,4853893113161.501
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,1999,9375071777.1,-92.10933024194642,80763314677.92,4863268184938.601
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,2000,96621779221.7,930.6244210067061,81481760180.45999,4959889964160.301
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,2000,94759138895.7,-1.9277644657382575,81301880938.12001,5054649103056.001
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,2000,81195987974.9,-14.313290600634065,80152818953.8,5135845091030.901
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,2000,90270420402.2,11.175961588280892,74444479654.31999,5226115511433.102
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,2000,10170343862.0,-88.73347014815482,74603534071.3,5236285855295.102
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,2001,96618417433.9,850.0014822006221,74602861713.73999,5332904272729.002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,2001,91005032090.2,-5.809850226060997,73852040352.63998,5423909304819.202
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,2001,78977934811.4,-13.215859609696412,73408429719.94,5502887239630.603
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,2001,85292632574.9,7.99552150683549,72412872154.48,5588179872205.503
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,2001,8840148722.7,-89.63550724625952,72146833126.62,5597020020928.203
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,2002,99686853023.3,1027.6603612710846,72760520244.5,5696706873951.503
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,2002,87656055951.7,-12.068589494733095,72090725016.8,5784362929903.203
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,2002,82052143163.6,-6.393069739742618,72705566687.24,5866415073066.803
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,2002,79421946677.8,-3.2055183257745923,71531429507.81999,5945837019744.603
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,2002,16066867777.4,-79.77024179150345,72976773318.76,5961903887522.003
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,2003,100064364208.9,522.7994503673746,73052275555.87999,6061968251730.903
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,2003,83735890671.5,-16.31797060471174,72268242499.84,6145704142402.403
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,2003,63672563184.6,-23.96024849799403,68592326504.04,6209376705587.003
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,2003,84962852957.8,33.4371489199752,69700507760.04001,6294339558544.803
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,2003,18111159750.1,-78.68343738516457,70109366154.57999,6312450718294.902
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,2004,97455861807.8,438.09840536171026,69587665674.36002,6409906580102.702
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,2004,89091886600.6,-8.582321321723285,70658864860.18001,6498998466703.302
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,2004,64879489000.4,-27.176882793766033,70900250023.34,6563877955703.702
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,2004,92130795237.9,42.002960654224594,72333838479.36,6656008750941.603
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,2004,17724668694.6,-80.76140703134995,72256540268.26,6673733419636.202
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,2005,94354180319.0,432.33254705486235,71636203970.5,6768087599955.202
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,2005,86786427720.6,-8.020580087511064,71175112194.5,6854874027675.802
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,2005,54726130598.6,-36.94160246486333,69144440514.13998,6909600158274.401
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,2005,76005809710.6,38.88394607702155,65919443408.68001,6985605967985.001
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,2005,18298476716.0,-75.924897339199,66034205012.96001,7003904444701.001
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,2006,84551656462.0,362.06937208094973,64073700241.56001,7088456101163.001
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,2006,89045515644.3,5.314927430569827,64525517826.3,7177501616807.301
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,2006,60043036763.4,-32.570398038631055,65588899059.259995,7237544653570.701
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,2006,97195350768.4,61.87614086109426,69826807270.81999,7334740004339.102
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,2006,17709071301.9,-81.77991934604186,69708926188.0,7352449075641.002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,2007,79869902875.0,351.0112445390108,68772575470.6,7432318978516.002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,2007,91417699315.9,14.458257773235083,69247012204.92,7523736677831.902
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,2007,69907662407.0,-23.529400837982827,71219937333.63998,7593644340238.902
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,2007,125218443689.2,79.11976938977381,76824555917.8,7718862783928.103
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,2007,17238960138.7,-86.23289059438545,76730533685.16,7736101744066.803
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,2008,79918497337.9,363.59233210644624,76740252577.74,7816020241404.703
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,2008,97118690618.0,21.522168024977507,77880450838.16,7913138932022.703
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,2008,76316355718.7,-21.41949687225756,79162189500.5,7989455287741.403
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,2008,125254489467.1,64.12535463405071,79169398656.07999,8114709777208.503
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,2008,21242654160.7,-83.04040497783538,79970137460.48,8135952431369.203
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,2009,87513195186.8,311.9692130972216,81489077030.26,8223465626556.003
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,2009,100891560798.0,15.287255347771733,82243651066.26,8324357187354.003
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,2009,85292987532.0,-15.460731445349207,84038977428.92,8409650174886.003
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,2009,145865260317.6,71.01670903821334,88161131599.02,8555515435203.603
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,2009,23200748678.7,-84.09439737180477,88552750502.62001,8578716183882.303
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,2010,97485566992.5,320.18284988362876,90547224863.76001,8676201750874.803
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,2010,102293110378.6,4.931543749927481,90827534779.88,8778494861253.402
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,2010,100563268387.3,-1.6910640265973331,93881590950.94002,8879058129640.703
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,2010,165630662825.3,64.7029432132272,97834671452.48001,9044688792466.004
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,2010,36226938820.9,-78.12787909983153,100439909480.92,9080915731286.904
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,2011,94712068704.8,161.4409933255493,99885209823.38,9175627799991.705
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,2011,114648968610.6,21.05000997068245,102356381469.78,9290276768602.305
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,2011,107925728806.8,-5.864195627119139,103828873553.68,9398202497409.105
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,2011,195433855960.0,81.08180331109929,109789512180.62,9593636353369.105
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,2011,43215551662.5,-77.88737706155425,111187234748.93999,9636851905031.605
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,2012,116665074441.1,169.96085888760115,115577835896.2,9753516979472.705
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,2012,138524252708.4,18.73669422663069,120352892715.76001,9892041232181.105
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,2012,119894787271.8,-13.44852260334216,122746704408.76001,10011936019452.906
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,2012,209994494112.2,75.14897760829675,125658832039.2,10221930513565.105
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,2012,58452771900.4,-72.1646169117326,128706276086.78,10280383285465.506
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,2013,136557492665.0,133.6202171860827,132684759731.56001,10416940778130.506
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,2013,152561906065.3,11.719908653831013,135492290402.93999,10569502684195.807
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,2013,121461809816.6,-20.385230527592146,135805694911.9,10690964494012.406
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,2013,273803162166.7,125.42325244463774,148567428522.8,10964767656179.105
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,2013,54989942122.7,-79.91625016762211,147874862567.25998,11019757598301.805
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,2014,174931295064.9,218.1150739794794,155549623047.24,11194688893366.705
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,2014,179064199001.1,2.3625869428718804,160850081634.4,11373753092367.805
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,2014,152515175893.8,-14.826538892420881,167060754849.84,11526268268261.605
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,2014,228372506844.7,49.737562512284896,157974623785.44,11754640775106.305
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,2014,56490925000.8,-75.26369273547648,158274820361.06,11811131700107.105
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,2015,172887433044.3,206.04461343455012,157866047956.94,11984019133151.406
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,2015,146069937131.2,-15.511535709034652,151267195582.96002,12130089070282.605
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,2015,162305462267.5,11.11489842137554,153225252857.7,12292394532550.105
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,2015,194185224930.2,19.64182980493787,146387796474.8,12486579757480.305
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,2015,44064646311.7,-77.30793044242215,143902540736.98,12530644403792.004
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,2016,174682574897.5,296.42341314133836,144261569107.62003,12705326978689.504
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,2016,160191732378.2,-8.295528347806247,147085928157.02002,12865518711067.703
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,2016,152973478921.7,-4.506008736741962,145219531487.86002,13018492189989.402
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,2016,189423409008.2,23.8276140043576,144267168303.46002,13207915598997.602
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,2016,58412776864.2,-69.16285206245479,147136794413.96002,13266328375861.8
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,2017,181160603497.2,210.13866010576473,148432400133.90002,13447488979359.0
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,2017,196294033779.8,8.353598956096375,155652860414.22003,13643783013138.8
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,2017,182916362967.3,-6.815118399118991,161641437223.34003,13826699376106.102
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,2017,220078777962.8,20.31661596187737,167772511014.26,14046778154068.902
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,2017,78678394273.0,-64.24989496883747,171825634496.02002,14125456548341.902
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,2018,190192024469.7,141.73348506550298,173631918690.52,14315648572811.602
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,2018,259689276891.4,36.54057135964277,186310967312.84003,14575337849703.002
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,2018,180398585591.5,-30.532909271051167,185807411837.68,14755736435294.502
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,2018,177149818233.7,-1.800882943260207,177221619891.86002,14932886253528.201
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,2018,71647211193.0,-59.555583004617375,175815383275.86002,15004533464721.201
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Brazil,BRA,2019,193733623756.4,170.3993924264954,176523703133.2,15198267088477.602
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,China,CHN,2019,318065160742.0,64.17654022821256,188198879903.32,15516332249219.602
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,India,IND,2019,191797163545.0,-39.69878275961914,190478595494.02,15708129412764.602
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,Russian Federation,RUS,2019,194170858345.1,1.2376068322528022,193882803516.3,15902300271109.701
+"External debt stocks, public and publicly guaranteed (PPG) (DOD, current US$)",DT.DOD.DPPG.CD,South Africa,ZAF,2019,86306705614.8,-55.55115409676614,196814702400.66,15988606976724.502

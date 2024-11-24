@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1970,0.0,,,0.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1970,0.0,,,0.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1970,0.0,,,0.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1970,0.0,,,0.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1970,0.0,,0.0,0.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1971,0.0,,0.0,0.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1971,0.0,,0.0,0.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1971,0.0,,0.0,0.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1971,0.0,,0.0,0.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1971,0.0,,0.0,0.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1972,96450000.0,inf,19290000.0,96450000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1972,0.0,-100.0,19290000.0,96450000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1972,0.0,,19290000.0,96450000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1972,0.0,,19290000.0,96450000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1972,0.0,,19290000.0,96450000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1973,35855000.0,inf,7171000.0,132305000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1973,0.0,-100.0,7171000.0,132305000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1973,0.0,,7171000.0,132305000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1973,0.0,,7171000.0,132305000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1973,0.0,,7171000.0,132305000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1974,23100000.0,inf,4620000.0,155405000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1974,0.0,-100.0,4620000.0,155405000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1974,0.0,,4620000.0,155405000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1974,0.0,,4620000.0,155405000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1974,0.0,,4620000.0,155405000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1975,-3722000.0,-inf,-744400.0,151683000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1975,0.0,-100.0,-744400.0,151683000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1975,0.0,,-744400.0,151683000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1975,0.0,,-744400.0,151683000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1975,0.0,,-744400.0,151683000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1976,184032000.0,inf,36806400.0,335715000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1976,0.0,-100.0,36806400.0,335715000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1976,0.0,,36806400.0,335715000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1976,0.0,,36806400.0,335715000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1976,0.0,,36806400.0,335715000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1977,767266000.0,inf,153453200.0,1102981000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1977,0.0,-100.0,153453200.0,1102981000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1977,0.0,,153453200.0,1102981000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1977,0.0,,153453200.0,1102981000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1977,0.0,,153453200.0,1102981000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1978,926861000.0,inf,185372200.0,2029842000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1978,0.0,-100.0,185372200.0,2029842000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1978,0.0,,185372200.0,2029842000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1978,0.0,,185372200.0,2029842000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1978,0.0,,185372200.0,2029842000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1979,634967000.0,inf,126993400.0,2664809000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1979,0.0,-100.0,126993400.0,2664809000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1979,0.0,,126993400.0,2664809000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1979,0.0,,126993400.0,2664809000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1979,0.0,,126993400.0,2664809000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1980,346002000.0,inf,69200400.0,3010811000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1980,0.0,-100.0,69200400.0,3010811000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1980,0.0,,69200400.0,3010811000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1980,0.0,,69200400.0,3010811000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1980,0.0,,69200400.0,3010811000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1981,-57086000.0,-inf,-11417200.0,2953725000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1981,-16700000.0,-70.74589216270188,-14757200.0,2937025000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1981,0.0,-100.0,-14757200.0,2937025000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1981,0.0,,-14757200.0,2937025000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1981,0.0,,-14757200.0,2937025000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1982,-158665000.0,-inf,-35073000.0,2778360000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1982,23580000.0,-114.86150064601519,-27017000.0,2801940000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1982,9500000.0,-59.71162001696353,-25117000.0,2811440000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1982,0.0,-100.0,-25117000.0,2811440000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1982,0.0,,-25117000.0,2811440000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1983,-236966000.0,-inf,-40777200.0,2574474000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1983,4458000.0,-101.88128254686326,-44601600.0,2578932000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1983,18708000.0,319.65006729475107,-42760000.0,2597640000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1983,0.0,-100.0,-42760000.0,2597640000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1983,0.0,,-42760000.0,2597640000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1984,-319955000.0,-inf,-59357800.0,2277685000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1984,84300000.0,-126.34745511087498,-43389400.0,2361985000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1984,234300000.0,177.93594306049823,-271000.0,2596285000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1984,0.0,-100.0,-271000.0,2596285000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1984,0.0,,-271000.0,2596285000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1985,-215042000.0,-inf,20711600.0,2381243000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1985,971418000.0,-551.7340798541679,198135200.0,3352661000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1985,305970000.0,-68.50274547105366,212469200.0,3658631000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1985,0.0,-100.0,212469200.0,3658631000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1985,0.0,,212469200.0,3658631000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1986,-446504000.0,-inf,166176800.0,3212127000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1986,1332990000.0,-398.53931879669614,238491200.0,4545117000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1986,271179000.0,-79.65633650665046,231533000.0,4816296000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1986,0.0,-100.0,231533000.0,4816296000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1986,0.0,,231533000.0,4816296000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1987,-648240000.0,-inf,191185800.0,4168056000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1987,1064288000.0,-264.1811674688387,137445400.0,5232344000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1987,107638000.0,-89.88638413662467,104737200.0,5339982000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1987,0.0,-100.0,104737200.0,5339982000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1987,0.0,,104737200.0,5339982000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1988,109000000.0,inf,256185200.0,5448982000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1988,770677000.0,607.0431192660551,197463000.0,6219659000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1988,675250000.0,-12.382230169059149,310985400.0,6894909000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1988,0.0,-100.0,310985400.0,6894909000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1988,0.0,,310985400.0,6894909000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1989,-384196000.0,-inf,212346200.0,6510713000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1989,416614000.0,-208.43788066507722,141533600.0,6927327000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1989,687833000.0,65.1007887396967,144050200.0,7615160000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1989,0.0,-100.0,144050200.0,7615160000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1989,0.0,,144050200.0,7615160000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1990,128980000.0,inf,246685400.0,7744140000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1990,-47835000.0,-137.087145293844,153795600.0,7696305000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1990,137061000.0,-386.52869238005644,43641200.0,7833366000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1990,0.0,-100.0,43641200.0,7833366000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1990,0.0,,43641200.0,7833366000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1991,1187121000.0,inf,255269400.0,9020487000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1991,23869000.0,-97.98933722847123,269610200.0,9044356000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1991,1387223000.0,5711.818676944991,519642600.0,10431579000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1991,0.0,-100.0,519642600.0,10431579000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1991,0.0,,519642600.0,10431579000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1992,2923057000.0,inf,866829800.0,13354636000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1992,-3192000.0,-100.10920074428928,861417600.0,13351444000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1992,-204095000.0,6293.953634085213,543154000.0,13147349000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1992,0.0,-100.0,543154000.0,13147349000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1992,0.0,,543154000.0,13147349000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1993,5380203000.0,inf,1034583200.0,18527552000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1993,2237923000.0,-58.40448771170902,1482806200.0,20765475000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1993,456433000.0,-79.60461552966747,1614911800.0,21221908000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1993,0.0,-100.0,1614911800.0,21221908000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1993,0.0,,1614911800.0,21221908000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1994,1807062000.0,inf,900283600.0,23028970000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1994,2876338000.0,59.172070465761564,1027966600.0,25905308000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1994,-29681000.0,-101.03190237030557,930743800.0,25875627000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1994,-34143000.0,15.033186213402505,923915200.0,25841484000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1994,1503217000.0,-4502.709193685382,1224558600.0,27344701000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1995,2636202000.0,75.37068833042736,1390386600.0,29980903000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1995,316676000.0,-87.98741522842332,878454200.0,30297579000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1995,292778000.0,-7.546514418522399,942946000.0,30590357000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1995,-810149000.0,-376.7110233692422,787744800.0,29780208000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1995,730889000.0,-190.21661447462134,633279200.0,30511097000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1996,5999189000.0,720.8071266635563,1305876600.0,36510286000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1996,1190004000.0,-80.16391882302759,1480542200.0,37700290000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1996,-186482000.0,-115.67070362788697,1384690200.0,37513808000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1996,20659000.0,-111.07828101371715,1550851800.0,37534467000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1996,366480000.0,1673.948400212982,1477970000.0,37900947000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1997,4086084000.0,1014.954158480681,1095349000.0,41987031000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1997,3329739000.0,-18.510265574569683,1523296000.0,45316770000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1997,1869209000.0,-43.86319768606488,1934434200.0,47185979000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1997,5459961000.0,192.10008083633235,3022294600.0,52645940000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1997,6738919000.0,23.42430651061427,4296782400.0,59384859000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1998,1356741000.0,-79.8670825394993,3750913800.0,60741600000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1998,1587000000.0,16.97147797553107,3402366000.0,62328600000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1998,4125557000.0,159.95948330182736,3853635600.0,66454157000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1998,9037984000.0,119.07306092244028,4569240200.0,75492141000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1998,1124123000.0,-87.56223733080297,3446281000.0,76616264000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,1999,5834870000.0,419.05974702056625,4341906800.0,82451134000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,1999,-1254000000.0,-121.49148138690322,3773706800.0,81197134000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,1999,-1118033000.0,-10.842663476874003,2724988800.0,80079101000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,1999,0.0,-100.0,917392000.0,80079101000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,1999,1252974000.0,inf,943162200.0,81332075000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,2000,8891745000.0,609.6511978700275,1554537200.0,90223820000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,2000,261367000.0,-97.06056572697486,1857610600.0,90485187000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,2000,5484815000.0,1998.5109061205126,3178180200.0,95970002000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,2000,-1017800000.0,-118.55668787370222,2974620200.0,94952202000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,2000,1171043000.0,-215.0562978974258,2958234000.0,96123245000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,2001,8384875000.0,616.0176867971543,2856860000.0,104508120000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,2001,1035647000.0,-87.64862922822344,3011716000.0,105543767000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,2001,-401949000.0,-138.81139036756733,1834363200.0,105141818000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,2001,1321003000.0,-428.64940577038374,2302123800.0,106462821000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,2001,1938000000.0,46.70670694918937,2455515200.0,108400821000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,2002,1375442000.0,-29.027760577915373,1053628600.0,109776263000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,2002,-1054483000.0,-176.6650284054144,635602600.0,108721780000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,2002,-532739000.0,-49.478654468587926,609444600.0,108189041000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,2002,5745387000.0,-1178.4618734502262,1494321400.0,113934428000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,2002,1983000000.0,-65.48535372813006,1503321400.0,115917428000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,2003,7783661000.0,292.51946545637924,2784965200.0,123701089000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,2003,1164320000.0,-85.04148626205587,3228725800.0,124865409000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,2003,-3533648000.0,-403.4945719389858,2628544000.0,121331761000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,2003,851812000.0,-124.10574001711545,1649829000.0,122183573000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,2003,635443000.0,-25.40102745676276,1380317600.0,122819016000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,2004,-4435766000.0,-798.0588345453488,-1063567800.0,118383250000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,2004,3689595000.0,-183.17830561846588,-558512800.0,122072845000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,2004,3488198000.0,-5.45851238415056,845856400.0,125561043000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,2004,4757746000.0,36.39552571270323,1627043200.0,130318789000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,2004,358742000.0,-92.45983287043907,1571703000.0,130677531000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,2005,3580492000.0,898.0688071092875,3174954600.0,134258023000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,2005,4910145000.0,37.13604163897028,3419064600.0,139168168000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,2005,-3939701000.0,-180.23594007916262,1933484800.0,135228467000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,2005,4133778000.0,-204.92618602274638,1808691200.0,139362245000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,2005,-1090675000.0,-126.38445992987528,1518807800.0,138271570000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,2006,-8116129000.0,644.1381713159282,-820516400.0,130155441000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,2006,1705472000.0,-121.0133673331215,-1461451000.0,131860913000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,2006,5346601000.0,213.49685013884718,395809400.0,137207514000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,2006,12216602000.0,128.49286864682816,2012374200.0,149424116000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,2006,485765000.0,-96.02373065767388,2327662200.0,149909881000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,2007,539520000.0,11.066050456496445,4058792000.0,150449401000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,2007,2196374000.0,307.09779062870706,4156972400.0,152645775000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,2007,9459642000.0,330.6935886146895,4979580600.0,162105417000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,2007,3830479000.0,-59.50714625352629,3302356000.0,165935896000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,2007,5794532000.0,51.27434454019981,4364109400.0,171730428000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,2008,2587036000.0,-55.35384048271715,4773612600.0,174317464000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,2008,-1092486000.0,-142.22925386426783,4115840600.0,173224978000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,2008,1753880000.0,-260.5402723696231,2574688200.0,174978858000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,2008,-23042123000.0,-1413.779905124638,-2799832200.0,151936735000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,2008,3021082000.0,-113.11112695648747,-3354522200.0,154957817000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,2009,17769769000.0,488.19221060533937,-317975600.0,172727586000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,2009,-38801000.0,-100.21835399210872,-107238600.0,172688785000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,2009,1971617000.0,-5181.356150614674,-63691200.0,174660402000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,2009,-9323914000.0,-572.9069591102126,2679950600.0,165336488000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,2009,1809127000.0,-119.40308544244402,2437559600.0,167145615000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,2010,29391315000.0,1524.613142139828,4761868800.0,196536930000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,2010,-1459326000.0,-104.96516062653203,4477763800.0,195077604000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,2010,10338667000.0,-808.4549305638357,6151173800.0,205416271000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,2010,3674379000.0,-64.45983800426109,8750832400.0,209090650000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,2010,6495723000.0,76.78424027570374,9688151600.0,215586373000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,2011,26449159000.0,307.17806162608844,9099720400.0,242035532000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,2011,25029333000.0,-5.368132877117193,14397452200.0,267064865000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,2011,-277730000.0,-101.10961806293439,12274172800.0,266787135000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,2011,15975543000.0,-5852.184855795197,14734405600.0,282762678000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,2011,15040182000.0,-5.854955916052429,16443297400.0,297802860000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,2012,4986328000.0,-66.84662459536726,12150731200.0,302789188000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,2012,35631256000.0,614.5790649953233,14271115800.0,338420444000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,2012,4465028000.0,-87.46878863882878,15219667400.0,342885472000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,2012,19499864000.0,336.72433857077715,15924531600.0,362385336000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,2012,13698563000.0,-29.750469028912196,15656207800.0,376083899000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,2013,-2226063000.0,-116.2503395429141,14213729600.0,373857836000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,2013,28480896000.0,-1379.4290188552616,12783657600.0,402338732000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,2013,-1716998000.0,-106.02859544868251,11547252400.0,400621734000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,2013,7047688000.0,-510.4657081720537,9056817200.0,407669422000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,2013,2619825000.0,-62.827171123352784,6841069600.0,410289247000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,2014,-401111000.0,-115.31060280743944,7206060000.0,409888136000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,2014,53880131000.0,-13532.723360865197,12285907000.0,463768267000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,2014,27437010000.0,-49.077685056110944,18116708600.0,491205277000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,2014,-23102513000.0,-184.20200670554118,12086668400.0,468102764000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,2014,1690075000.0,-107.31554614859431,11900718400.0,469792839000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,2015,-5442605000.0,-422.0333417156043,10892419600.0,464350234000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,2015,8775622000.0,-261.2393697503309,1871517800.0,473125856000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,2015,10705332000.0,21.98943846943271,-1474817800.0,483831188000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,2015,-9154629000.0,-185.51466689683232,1314759000.0,474676559000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,2015,-10294631000.0,12.452738390599993,-1082182200.0,464381928000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,2016,-7709917000.0,-25.10739821563298,-1535644600.0,456672011000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,2016,22273277000.0,-388.8912682198784,1163886400.0,478945288000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,2016,-3796397000.0,-117.04462706587807,-1736459400.0,475148891000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,2016,16109463000.0,-524.3355739665793,3316359000.0,491258354000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,2016,5477354000.0,-65.99915217533943,6470756000.0,496735708000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,2017,-642953000.0,-111.7383868196213,7884148800.0,496092755000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,2017,82188602000.0,-12882.98755896621,19867213800.0,578281357000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,2017,33309782000.0,-59.47153110111303,27288449600.0,611591139000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,2017,20325720000.0,-38.97972673612814,28131701000.0,631916859000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,2017,10043981000.0,-50.58486981026995,29045026400.0,641960840000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,2018,1287120000.0,-87.18516094365371,29431041000.0,643247960000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,2018,94184976000.0,7217.497669214991,31830315800.0,737432936000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,2018,-8416584000.0,-108.93622779072535,23485042600.0,729016352000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,2018,-5159490000.0,-38.698526623152574,18388000600.0,723856862000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,2018,-5927962000.0,14.894340332087097,15193612000.0,717928900000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Brazil,BRA,2019,-521359000.0,-91.20508869658745,14831916200.0,717407541000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,China,CHN,2019,105319115000.0,-20300.881734083425,17058744000.0,822726656000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,India,IND,2019,12938992000.0,-87.71448848577963,21329859200.0,835665648000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,Russian Federation,RUS,2019,36344796000.0,180.89356574298833,29630716400.0,872010444000.0
+"Portfolio investment, bonds (PPG + PNG) (NFL, current US$)",DT.NFL.BOND.CD,South Africa,ZAF,2019,6732308000.0,-81.47655581833504,32162770400.0,878742752000.0

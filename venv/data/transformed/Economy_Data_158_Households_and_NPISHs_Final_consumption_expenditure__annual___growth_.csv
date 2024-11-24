@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1970,18.3594840921885,,,18.3594840921885
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1970,0.0,-100.0,,18.3594840921885
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1970,3.39596814971065,inf,,21.75545224189915
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1970,0.0,-100.0,,21.75545224189915
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1970,6.55440827564544,inf,5.661972103508917,28.30986051754459
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1971,12.9793000991625,98.02397948553754,4.585935304903718,41.28916061670709
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1971,0.0,-100.0,4.585935304903718,41.28916061670709
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1971,1.94576170717251,inf,4.29589401639609,43.2349223238796
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1971,0.0,-100.0,4.29589401639609,43.2349223238796
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1971,4.70627384068393,inf,3.926267129403788,47.94119616456353
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1972,11.5325412129573,145.04611510836685,3.636915352162748,59.47373737752083
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1972,0.0,-100.0,3.636915352162748,59.47373737752083
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1972,0.669884048280167,inf,3.38173982038428,60.143621425800994
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1972,0.0,-100.0,3.38173982038428,60.143621425800994
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1972,4.27653960758217,inf,3.2957929737639278,64.42016103338317
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1973,9.15080894067641,113.97694819550632,2.819446519307749,73.57096997405958
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1973,0.0,-100.0,2.819446519307749,73.57096997405958
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1973,2.4540157825198,inf,3.1762728661556756,76.02498575657938
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1973,0.0,-100.0,3.1762728661556756,76.02498575657938
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1973,7.58089292617721,inf,3.837143529874684,83.6058786827566
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1974,12.0060198840701,58.3721073623491,4.408185718553422,95.6118985668267
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1974,0.0,-100.0,4.408185718553422,95.6118985668267
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1974,-0.0754016724607567,-inf,3.9023022275573105,95.53649689436594
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1974,0.0,-100.0,3.9023022275573105,95.53649689436594
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1974,5.24518536968412,inf,3.435160716258692,100.78168226405006
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1975,-5.27737844655024,-200.6137643304694,-0.021518949865375347,95.50430381749982
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1975,0.0,-100.0,-0.021518949865375347,95.50430381749982
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1975,5.67890380560374,inf,1.1293421457475241,101.18320762310356
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1975,0.0,-100.0,1.1293421457475241,101.18320762310356
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1975,3.63029685512777,inf,0.806364442836254,104.81350447823132
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1976,17.4895372483619,381.7660358451967,5.359747581818682,122.30304172659322
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1976,0.0,-100.0,5.359747581818682,122.30304172659322
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1976,1.99396294574437,inf,4.622759409846808,124.2970046723376
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1976,0.0,-100.0,4.622759409846808,124.2970046723376
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1976,1.57697195583921,inf,4.2120944299890954,125.8739766281768
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1977,11.4926655361003,628.7805907736832,3.0127200875367763,137.3666421642771
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1977,0.0,-100.0,3.0127200875367763,137.3666421642771
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1977,8.15426120068645,inf,4.244779738525192,145.52090336496354
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1977,0.0,-100.0,4.244779738525192,145.52090336496354
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1977,-0.868920516855823,-inf,3.755601243986186,144.65198284810774
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1978,1.89868066343539,-318.51028104454707,1.8368042694532036,146.55066351154312
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1978,0.0,-100.0,1.8368042694532036,146.55066351154312
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1978,6.1117944788369,inf,1.4283109250832933,152.66245799038003
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1978,0.0,-100.0,1.4283109250832933,152.66245799038003
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1978,1.64019570162772,inf,1.9301341687800018,154.30265369200777
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1979,10.528933218408,541.9315212178128,3.6561846797745234,164.83158691041575
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1979,0.0,-100.0,3.6561846797745234,164.83158691041575
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1979,-2.24298248447863,-inf,1.985229287111418,162.58860442593712
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1979,0.0,-100.0,1.985229287111418,162.58860442593712
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1979,2.47594909110728,inf,2.15237996500733,165.0645535170444
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1980,8.92532236112886,260.4808512899321,1.8316577935515022,173.98987587817325
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1980,0.0,-100.0,1.8316577935515022,173.98987587817325
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1980,9.00088644210142,inf,4.080431578867513,182.99076232027468
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1980,0.0,-100.0,4.080431578867513,182.99076232027468
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1980,8.58958419211999,inf,5.303158599070054,191.58034651239467
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1981,-2.33522045374637,-127.18665306160781,3.051050036095008,189.2451260586483
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1981,0.0,-100.0,3.051050036095008,189.2451260586483
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1981,4.3485715946409,inf,2.120587066602904,193.5936976532892
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1981,0.0,-100.0,2.120587066602904,193.5936976532892
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1981,7.30383085285344,inf,1.8634363987495939,200.89752850614266
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1982,3.24553742795482,-55.563902103690374,2.979587975089832,204.14306593409748
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1982,0.0,-100.0,2.979587975089832,204.14306593409748
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1982,1.0001308998951,inf,2.309899836140672,205.1431968339926
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1982,0.0,-100.0,2.309899836140672,205.1431968339926
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1982,2.09780932559408,inf,1.2686955306888001,207.24100615958668
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1983,5.14063604807934,145.04782133254938,1.6477152547137042,212.381642207666
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1983,0.0,-100.0,1.6477152547137042,212.381642207666
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1983,7.76160642393067,inf,3.000010359520818,220.14324863159666
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1983,0.0,-100.0,3.000010359520818,220.14324863159666
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1983,3.00563206715448,inf,3.181574907832898,223.14888069875116
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1984,9.48186963115573,215.47007149589317,4.049821624448176,232.63075032990687
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1984,0.0,-100.0,4.049821624448176,232.63075032990687
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1984,2.88235911267145,inf,3.0739721621963323,235.51310944257833
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1984,0.0,-100.0,3.073972162196332,235.51310944257833
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1984,4.59514266143088,inf,3.3918742810516123,240.1082521040092
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1985,-1.23453445963163,-126.86607469216655,1.24859346289414,238.8737176443776
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1985,0.0,-100.0,1.24859346289414,238.8737176443776
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1985,4.17355834400782,inf,1.506833309161414,243.04727598838542
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1985,0.0,-100.0,1.506833309161414,243.04727598838542
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1985,-3.45656662067249,-inf,-0.10350854725926002,239.59070936771292
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1986,0.857838923051204,-124.81765917430249,0.3149661292773068,240.4485482907641
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1986,0.0,-100.0,0.3149661292773068,240.4485482907641
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1986,3.15565795599649,inf,0.11138605167504076,243.6042062467606
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1986,0.0,-100.0,0.11138605167504076,243.6042062467606
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1986,0.15863890239612,inf,0.8344271562887627,243.76284514915673
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1987,-3.92401875142718,-2573.55389640111,-0.12194437860691405,239.83882639772955
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1987,0.0,-100.0,-0.12194437860691405,239.83882639772955
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1987,3.42736522455694,inf,-0.06760292489482404,243.2661916222865
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1987,0.0,-100.0,-0.06760292489482404,243.2661916222865
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1987,3.85535091378,inf,0.671739477381952,247.1215425360665
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1988,1.32681900544966,-65.58500029900591,1.72190702875732,248.44836154151616
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1988,0.0,-100.0,1.72190702875732,248.44836154151616
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1988,6.24177594772371,inf,2.2847891733906738,254.69013748923987
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1988,0.0,-100.0,2.2847891733906738,254.69013748923987
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1988,5.31143383273975,inf,2.5760057571826236,260.0015713219796
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1989,-3.88906063164349,-173.22054183695687,1.532829829763994,256.11251069033614
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1989,0.0,-100.0,1.5328298297639937,256.11251069033614
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1989,4.96238035858742,inf,1.2769507119367358,261.0748910489236
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1989,0.0,-100.0,1.2769507119367358,261.0748910489236
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1989,2.74022491254013,inf,0.7627089278968118,263.81511596146373
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1990,2.91937769564288,6.537886079456134,2.124396593354086,266.7344936571066
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1990,0.0,-100.0,2.124396593354086,266.7344936571066
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1990,4.46648779577414,inf,2.02521808079143,271.20098145288074
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1990,0.0,-100.0,2.02521808079143,271.20098145288074
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1990,2.87349736950151,inf,2.0518725721837057,274.0744788223823
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1991,8.27649742008472,188.0287105159423,3.123296517072074,282.35097624246697
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1991,0.0,-100.0,3.123296517072074,282.35097624246697
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1991,2.1572589940628,inf,2.6614507567298062,284.50823523652974
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1991,0.0,-100.0,2.6614507567298062,284.50823523652974
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1991,-0.517205373923957,-inf,1.9833102080447127,283.9910298626058
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1992,-0.645533737532745,24.81187746275344,0.19890397652121963,283.34549612507305
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1992,0.0,-100.0,0.19890397652121963,283.34549612507305
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1992,2.57879871696052,inf,0.28321192110076365,285.9242948420336
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1992,0.0,-100.0,0.28321192110076365,285.9242948420336
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1992,-1.42323687261073,-inf,0.10200562136340903,284.50105796942285
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1993,4.53832336983456,-418.87336937172216,1.13877704283687,289.03938133925743
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1993,0.0,-100.0,1.1387770428368702,289.03938133925743
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1993,4.34692545676798,inf,1.4924023907983621,293.3863067960254
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1993,0.0,-100.0,1.4924023907983621,293.3863067960254
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1993,1.89073890483367,inf,2.155197546287242,295.27704570085905
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1994,7.44334935208231,293.67409921345586,2.736202742736792,302.72039505294134
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1994,0.0,-100.0,2.736202742736792,302.72039505294134
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1994,4.86011682563053,inf,2.838841016509302,307.5805118785719
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1994,0.0,-100.0,2.838841016509302,307.5805118785719
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1994,4.00726842068597,inf,3.2621469196797626,311.5877802992579
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1995,8.62170322673055,115.15162753321806,3.4978176946094104,320.20948352598845
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1995,0.0,-100.0,3.4978176946094104,320.20948352598845
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1995,6.08788889081239,inf,3.743372107645782,326.29737241680084
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1995,0.0,-100.0,3.743372107645782,326.29737241680084
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1995,5.92661310398952,inf,4.127241044306492,332.22398552079034
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1996,3.06392956379564,-48.302183556859056,3.0156863117195103,335.28791508458596
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1996,11.576983184479,277.84756285772005,5.331082948615309,346.86489826906495
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1996,7.77366130381729,-32.852443681189214,5.66823743121629,354.63855957288223
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1996,0.0,-100.0,5.66823743121629,354.63855957288223
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1996,4.47177777168861,inf,5.377270364756108,359.11033734457084
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1997,3.0329738782635,-32.17521010400739,5.3710792276496795,362.1433112228343
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1997,5.94352073691333,95.96346607232358,4.244386738136546,368.08683195974766
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1997,2.98965643034433,-49.69889796503075,3.2875857634419545,371.076488390092
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1997,4.81653144871179,61.1065204625219,4.250892053184312,375.89301983880375
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1997,3.25746272797245,-32.369117431099134,4.00802904444108,379.1504825667762
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1998,-0.72001366033362,-122.10351185757939,3.257431536721657,378.43046890644257
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1998,6.76588409909742,-1039.6882964640465,3.421904209158474,385.19635300554
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1998,6.50118943292921,-3.9121962819836154,4.124210809675451,391.6975424384692
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1998,-3.28291116594274,-150.49708518435793,2.5043222867445443,388.4146312725265
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1998,1.74250476756181,-153.078035910284,2.201330694662416,390.1571360400883
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,1999,0.37825757392271,-78.2923076616895,2.4209849415136824,390.535393614011
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,1999,9.33772615750921,2368.6157796320035,2.93535335319604,399.87311977152024
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,1999,6.07935341657169,-34.89471297374899,2.8509861499245366,405.9524731880919
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,1999,-2.85361581933459,-146.93946253487957,2.936845219246167,403.0988573687573
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,1999,1.73772349292311,-160.89549550255558,2.9358889643184263,404.83658086168043
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,2000,4.03263241004016,132.06410147892234,3.6667639315419165,408.8692132717206
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,2000,11.5903130854217,187.41308175188416,4.117281317124414,420.4595263571423
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,2000,3.43958937699496,-70.32358529364254,3.5893285092090688,423.89911573413724
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,2000,7.11947430524353,106.98616971144234,5.583946534124692,431.0185900393808
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,2000,4.13820637139375,-41.87483241078714,6.0640431098188206,435.1567964107745
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,2001,0.771306568131692,-81.36133148255931,5.411777941437127,435.9281029789062
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,2001,6.98492719064791,805.5967470324084,4.490700762482368,442.91303016955413
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,2001,5.95289739426153,-14.775097409292393,4.993362365935683,448.86592756381566
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,2001,9.27187418029112,55.753972665966224,5.4238423409452015,458.13780174410675
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,2001,3.49314187002996,-62.32539611618972,5.2948294406724425,461.6309436141367
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,2002,1.31884705494474,-62.24467530906701,5.404337538035053,462.94979066908144
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,2002,9.1271846515417,592.0578559372171,5.83278903021381,472.07697532062315
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,2002,2.87047855734042,-68.55023025248472,5.2163052628295885,474.9474538779636
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,2002,8.28457185007763,188.612915393227,5.018844796786891,483.2320257280412
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,2002,3.17259594501816,-61.70476878671247,4.954735611784531,486.40462167305935
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,2003,-0.545992777760461,-117.20965377320798,4.581767645243491,485.85862889529886
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,2003,6.15899084031564,-1228.0352215607008,3.9881288829982777,492.0176197356145
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,2003,5.92532039013784,-3.7939730101274938,4.5990972495577624,497.94294012575233
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,2003,7.50202006465727,26.609526079698618,4.44258689247369,505.4449601904096
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,2003,2.83151633263505,-62.25661477533775,4.374370969997068,508.2764765230446
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,2004,3.9234940897198,38.565123022565786,5.268268343493121,512.1999706127644
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,2004,8.08646938829227,106.10377391621797,5.653764053088447,520.2864400010567
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,2004,5.17112560043114,-36.05212173414043,5.502925095147107,525.4575656014879
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,2004,11.9280536914797,130.6664856580781,6.388131820511593,537.3856192929676
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,2004,6.24049208784878,-47.682226713093925,7.06992697155434,543.6261113808164
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,2005,4.42187781382211,-29.142161362047037,7.169603716374802,548.0479891946385
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,2005,11.0246219371927,149.31991342527436,7.757234226154887,559.0726111318312
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,2005,7.45569538762926,-32.372325961793734,8.214148183594512,566.5283065194604
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,2005,11.612694582765,55.75602246348708,8.15107636185157,578.1410011022255
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,2005,6.13350695442603,-47.18274117422252,8.129679335167022,584.2745080566515
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,2006,5.28469938185864,-13.83886215299517,8.302243648774326,589.5592074385102
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,2006,10.2170970893207,93.33355317038536,8.140738679199927,599.7763045278308
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,2006,4.93577551189072,-51.69101880171246,7.636754704052218,604.7120800397215
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,2006,12.0042348778743,143.20868825891768,7.715062763074078,616.7163149175958
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,2006,8.77625659022662,-26.890329292018055,8.243612690234196,625.4925715078224
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,2007,6.37627068163236,-27.346350735311475,8.461926950188941,631.8688421894548
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,2007,13.7761581709988,116.0535344066044,9.17373916652456,645.6450003604535
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,2007,7.28156444490158,-47.14372211382899,9.642896953126732,652.9265648053552
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,2007,14.1565998996477,94.41701033848429,10.073369957481413,667.0831647050029
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,2007,6.51796019314568,-53.958152103261135,9.621710678065224,673.6011248981486
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,2008,6.46426515069916,-0.8238013251904541,9.639309571878584,680.0653900488477
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,2008,8.783058580348,35.87095169507464,8.640689653748426,688.8484486291957
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,2008,4.45219735718867,-49.309260362325105,8.074816236205843,693.3006459863843
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,2008,10.4661845933886,135.0790801420683,7.3367331749540226,703.7668305797729
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,2008,1.21103604613917,-88.42905898196969,6.27534834555272,704.977866625912
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,2009,4.45639648445035,267.9821503792158,5.873774612302959,709.4342631103624
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,2009,9.99143863603405,124.20443672139712,6.115450623440169,719.4257017463965
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,2009,5.00077725309529,-49.949377309289346,6.225166602621493,724.4264789994918
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,2009,-5.12876559892413,-202.55936906107186,3.1061765641589467,719.2977134005677
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,2009,-2.59091292147981,-49.48271915520353,2.3457867706351507,716.7068004790879
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,2010,6.22932673394376,-340.429799176186,2.700372820533833,722.9361272130316
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,2010,11.5987041518833,86.1951483244837,3.021825923703683,734.5348313649149
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,2010,6.72040849323014,-42.05897137104806,3.365752171730653,741.255239858145
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,2010,5.44212044841447,-19.020987282296375,5.479929381198373,746.6973603065595
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,2010,3.93450167260518,-27.702782216967027,6.785012300015372,750.6318619791647
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,2011,4.81826743060108,22.461948971817968,6.502800439346835,755.4501294097657
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,2011,15.0469270229885,212.2891628518717,7.192445013567875,770.4970564327542
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,2011,7.42198426729065,-50.674418398178986,7.332760168379977,777.9190407000449
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,2011,6.69353680689393,-9.814726549705222,7.583043440075869,784.6125775069388
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,2011,5.14260688281591,-23.170559433999948,7.824664482118015,789.7551843897547
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,2012,3.49950195849243,-31.950817197673366,7.560911387696285,793.2546863482471
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,2012,9.20528229644633,163.04549634862684,6.392582442387851,802.4599686446934
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,2012,5.47085841651187,-40.56827112598298,6.002357272232095,807.9308270612053
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,2012,7.52544098829615,37.55503095425104,6.168738108512539,815.4562680495014
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,2012,3.70182351649689,-50.80921473898865,5.880581435248735,819.1580915659983
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,2013,3.47117235416916,-6.230744423656365,5.874915514384081,822.6292639201675
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,2013,8.86300268493625,155.33167992338565,5.806459592082065,831.4922666051039
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,2013,7.30317749188303,-17.599286026442616,6.172923407156297,838.7954440969869
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,2013,5.08577362409137,-30.362179616422424,5.684989934315341,843.8812177210783
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,2013,1.99393830475087,-60.79380538477842,5.343412891966137,845.8751560258291
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,2014,2.25028057377521,12.85607826548918,5.099234535887346,848.1254365996043
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,2014,9.19450821634047,308.59385818343503,5.165535642168192,857.3199448159448
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,2014,6.39385555914225,-30.460059323465536,4.9836712556200355,863.7138003750871
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,2014,2.06961429915333,-67.63120029832244,4.380439390632427,865.7834146742405
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,2014,0.82532605685455,-60.12174552561861,4.146716941053163,866.608740731095
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,2015,-3.21655640279886,-489.7315946933352,3.053349545738349,863.3921843282961
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,2015,8.70314097326919,-370.57324304017254,2.955076097124093,872.0953253015654
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,2015,7.92811112124639,-8.905174056162302,3.2619272095449205,880.0234364228118
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,2015,-9.43035278627579,-218.94829224837142,0.9619337924590969,870.593083636536
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,2015,1.93267759391932,-120.49422368092092,1.183404099872051,872.5257612304553
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,2016,-3.88340449937786,-300.9339018362922,1.0500344805562505,868.6423567310774
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,2016,8.93698558002546,-330.13275030858125,1.0968034019075048,877.5793423111028
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,2016,8.13012454472745,-9.02833542779099,1.1372060866037166,885.7094668558302
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,2016,-2.53743404681073,-131.21027276828505,2.5157898344967284,883.1720328090195
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,2016,0.581499166242722,-122.91681894051992,2.2455541489614093,883.7535319752621
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,2017,2.02714376484789,248.60647831122517,3.427663801806559,885.78067574011
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,2017,9.53506689157548,370.36954442601956,3.5472800641165634,895.3157426316856
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,2017,6.95024597094256,-27.108576688818907,3.3113043493595855,902.2659886026281
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,2017,3.7024525814511,-46.729186320452044,4.559281675011951,905.9684411840792
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,2017,2.06040861686859,-44.350168664116815,4.855063565137125,908.0288498009478
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,2018,2.055013934654,-0.2618258422345643,4.860637599098347,910.0838637356018
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,2018,8.32140486864898,304.9317977033593,4.617905194513047,918.4052686042508
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,2018,7.15787277543747,-13.982399745926733,4.659430555412028,925.5631413796882
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,2018,3.29486468993116,-53.968660895488085,4.577912977108041,928.8580060696194
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,2018,1.81543378856253,-44.90111250667292,4.528918011446829,930.673439858182
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Brazil,BRA,2019,1.83609960302735,1.1383403016412608,4.4851351451214985,932.5095394612093
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,China,CHN,2019,0.0,-100.0,2.820854171391703,932.5095394612093
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,India,IND,2019,5.33866523371003,inf,2.457012663046215,937.8482046949193
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,Russian Federation,RUS,2019,2.52793630706287,-52.648532987221664,2.303626986472557,940.3761410019822
+Households and NPISHs Final consumption expenditure (annual % growth),NE.CON.PRVT.KD.ZG,South Africa,ZAF,2019,1.04572278460367,-58.63334128783242,2.1496847856807846,941.4218637865858

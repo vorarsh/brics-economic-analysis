@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1970,14000000.0,,,14000000.0
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1970,0.0,-100.0,,14000000.0
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1970,0.0,,,14000000.0
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1970,0.0,,,14000000.0
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1970,16799993.28,inf,6159998.656,30799993.28
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1971,1000000.0,-94.04761666666572,3559998.6560000004,31799993.28
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1971,0.0,-100.0,3559998.6560000004,31799993.28
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1971,0.0,,3559998.6560000004,31799993.28
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1971,0.0,,3559998.6560000004,31799993.28
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1971,29361718.1918,inf,6072343.638359999,61161711.4718
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1972,19000000.0,-35.289890476143086,9672343.63836,80161711.4718
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1972,0.0,-100.0,9672343.63836,80161711.4718
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1972,0.0,,9672343.63836,80161711.4718
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1972,0.0,,9672343.63836,80161711.4718
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1972,19513337.3661,inf,7702667.47322,99675048.8379
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1973,33100000.0,69.62756999991066,10522667.47322,132775048.8379
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1973,0.0,-100.0,10522667.47322,132775048.8379
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1973,0.0,,10522667.47322,132775048.8379
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1973,0.0,,10522667.47322,132775048.8379
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1973,51876263.5833,inf,16995252.71666,184651312.4212
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1974,53800000.0,3.7083172222127647,21135252.71666,238451312.4212
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1974,0.0,-100.0,21135252.71666,238451312.4212
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1974,0.0,,21135252.71666,238451312.4212
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1974,0.0,,21135252.71666,238451312.4212
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1974,114794172.5768,inf,33718834.515360005,353245484.998
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1975,112000000.0,-2.434071794829684,45358834.515360005,465245484.998
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1975,0.0,-100.0,45358834.515360005,465245484.998
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1975,0.0,,45358834.515360005,465245484.998
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1975,0.0,,45358834.515360005,465245484.998
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1975,125759288.6081,inf,47551857.72162,591004773.6061001
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1976,183000000.0,45.5160903225825,61751857.72162,774004773.6061001
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1976,0.0,-100.0,61751857.72162,774004773.6061001
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1976,0.0,,61751857.72162,774004773.6061001
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1976,0.0,,61751857.72162,774004773.6061001
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1976,32200008.05,inf,43040001.61,806204781.6561
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1977,146000000.0,353.4160357143141,35640001.61,952204781.6561
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1977,0.0,-100.0,35640001.61,952204781.6561
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1977,0.0,,35640001.61,952204781.6561
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1977,0.0,,35640001.61,952204781.6561
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1977,67850016.9625,inf,42770003.3925,1020054798.6186
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1978,124000000.0,82.75603389831649,38370003.3925,1144054798.6186
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1978,0.0,-100.0,38370003.3925,1144054798.6186
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1978,0.0,,38370003.3925,1144054798.6186
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1978,0.0,,38370003.3925,1144054798.6186
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1978,238050059.5125,inf,72410011.9025,1382104858.1311
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1979,196000000.0,-17.664376811589054,86810011.9025,1578104858.1311
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1979,0.0,-100.0,86810011.9025,1578104858.1311
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1979,0.0,,86810011.9025,1578104858.1311
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1979,0.0,,86810011.9025,1578104858.1311
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1979,10688544.1372,inf,41337708.82744,1588793402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1980,367000000.0,3333.58267776345,75537708.82744,1955793402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1980,0.0,-100.0,75537708.82744,1955793402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1980,4000000.0,inf,76337708.82744,1959793402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1980,0.0,-100.0,76337708.82744,1959793402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1980,755000000.0,inf,225200000.0,2714793402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1981,207000000.0,-72.58278145695365,193200000.0,2921793402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1981,0.0,-100.0,193200000.0,2921793402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1981,2000000.0,inf,192800000.0,2923793402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1981,0.0,-100.0,192800000.0,2923793402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1981,643900000.0,inf,170580000.0,3567693402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1982,376000000.0,-41.6058394160584,204380000.0,3943693402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1982,44000000.0,-88.29787234042553,213180000.0,3987693402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1982,1000000.0,-97.72727272727273,212980000.0,3988693402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1982,0.0,-100.0,212980000.0,3988693402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1982,-5500000.0,-inf,83100000.0,3983193402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1983,187000000.0,-3500.0,45300000.0,4170193402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1983,93000000.0,-50.26737967914438,55100000.0,4263193402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1983,5000000.0,-94.6236559139785,55900000.0,4268193402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1983,0.0,-100.0,55900000.0,4268193402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1983,156200000.0,inf,88240000.0,4424393402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1984,42000000.0,-73.11139564660691,59240000.0,4466393402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1984,134000000.0,219.04761904761907,67440000.0,4600393402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1984,4000000.0,-97.01492537313433,67240000.0,4604393402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1984,0.0,-100.0,67240000.0,4604393402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1984,193100000.0,inf,74620000.0,4797493402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1985,81000000.0,-58.05282237182807,82420000.0,4878493402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1985,629000000.0,676.5432098765432,181420000.0,5507493402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1985,3000000.0,-99.52305246422894,181220000.0,5510493402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1985,0.0,-100.0,181220000.0,5510493402.2683
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1985,47356780.1445254,inf,152071356.0289051,5557850182.412826
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1986,143000000.0,201.96309707625102,164471356.0289051,5700850182.412826
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1986,450000000.0,214.68531468531467,128671356.02890508,6150850182.412826
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1986,-1000000.0,-100.22222222222221,127871356.02890508,6149850182.412826
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1986,0.0,-100.0,127871356.02890508,6149850182.412826
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1986,70980336.0066132,inf,132596067.20132264,6220830518.419438
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1987,138000000.0,94.42004330205287,131596067.20132264,6358830518.419438
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1987,645000000.0,367.39130434782606,170596067.20132264,7003830518.419438
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1987,5000000.0,-99.2248062015504,171796067.20132264,7008830518.419438
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1987,0.0,-100.0,171796067.20132264,7008830518.419438
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1987,112124716.802204,inf,180024943.3604408,7120955235.2216425
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1988,175000000.0,56.076202456513215,187424943.36044082,7295955235.2216425
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1988,850000000.0,385.71428571428567,228424943.36044082,8145955235.2216425
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1988,11000000.0,-98.70588235294117,229624943.36044082,8156955235.2216425
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1988,0.0,-100.0,229624943.36044082,8156955235.2216425
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1988,64566099.5242019,inf,220113219.9048404,8221521334.745845
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1989,523000000.0,710.0226029666841,289713219.90484035,8744521334.745846
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1989,780000000.0,49.13957934990441,275713219.90484035,9524521334.745846
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1989,10000000.0,-98.71794871794873,275513219.90484035,9534521334.745846
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1989,0.0,-100.0,275513219.90484035,9534521334.745846
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1989,162699554.86216,inf,295139910.972432,9697220889.608006
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1990,665000000.0,308.7288379881505,323539910.972432,10362220889.608006
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1990,830000000.0,24.812030075187973,333539910.972432,11192220889.608006
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1990,6000000.0,-99.27710843373494,332739910.972432,11198220889.608006
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1990,0.0,-100.0,332739910.972432,11198220889.608006
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1990,27974221.2609344,inf,305794844.2521869,11226195110.86894
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1991,1014000000.0,3524.7657818308476,375594844.2521869,12240195110.86894
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1991,913000000.0,-9.960552268244571,392194844.2521869,13153195110.86894
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1991,-11000000.0,-101.20481927710843,388794844.2521869,13142195110.86894
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1991,0.0,-100.0,388794844.2521869,13142195110.86894
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1991,206437797.580552,inf,424487559.5161104,13348632908.449492
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1992,137000000.0,-33.63618406820941,249087559.51611042,13485632908.449492
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1992,4000000000.0,2819.70802919708,866487559.5161104,17485632908.449493
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1992,24000000.0,-99.4,873487559.5161104,17509632908.449493
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1992,1566000000.0,6425.0,1186687559.5161104,19075632908.449493
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1992,1939027488.34505,23.8204015546009,1533205497.66901,21014660396.794544
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1993,491000000.0,-74.67802787989014,1604005497.66901,21505660396.794544
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1993,4400000000.0,796.1303462321792,1684005497.66901,25905660396.794544
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1993,350640.561866436,-99.99203089632121,1679275625.7813833,25906011037.35641
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1993,1021942000.0,291350.0235113336,1570464025.7813833,26927953037.35641
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1993,291914248.53766,-71.43534089628766,1241041377.8199053,27219867285.89407
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1994,1037000000.0,255.24130980068148,1350241377.8199053,28256867285.89407
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1994,2000000000.0,92.86403085824493,870241377.8199053,30256867285.89407
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1994,82583302.703618,-95.8708348648191,886687910.2482555,30339450588.597687
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1994,310960000.0,276.5410074673324,744491510.2482556,30650410588.597687
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1994,1260506545.07751,305.3597070612009,938209969.5562255,31910917133.675198
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1995,1384000000.0,9.797129210058642,1007609969.5562255,33294917133.675198
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1995,2000000000.0,44.50867052023122,1007609969.5562255,35294917133.6752
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1995,117189079.191142,-94.1405460404429,1014531124.8537304,35412106212.86634
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1995,605780000.0,416.9253007030959,1073495124.8537304,36017886212.86634
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1995,2493914011.35083,311.6864226865909,1320176618.1083944,38511800224.21717
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1996,885000000.0,-64.51361209841235,1220376618.1083944,39396800224.21717
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1996,2114000000.0,138.8700564971751,1243176618.1083944,41510800224.21717
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1996,239324706.532613,-88.67905834755851,1267603743.5766885,41750124930.74979
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1996,922830000.0,285.5974643697077,1331013743.5766885,42672954930.74979
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1996,1047974476.01688,13.560945788160339,1041825836.5098985,43720929406.76666
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1997,1042000000.0,-0.5700974740899922,1073225836.5098985,44762929406.76666
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1997,3765000000.0,261.3243761996161,1403425836.5098987,48527929406.76666
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1997,112918990.371739,-97.00082362890467,1378144693.2777238,48640848397.138405
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1997,3183910000.0,2719.6408677745835,1830360693.2777238,51824758397.138405
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1997,2323603598.20083,-27.020437191979983,2085486517.7145138,54148361995.33923
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1998,2721000000.0,17.102590222655657,2421286517.714514,56869361995.33923
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1998,4527000000.0,66.37265711135612,2573686517.714514,61396361995.33923
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1998,47593027.4887399,-98.94868505657742,2560621325.1379137,61443955022.82797
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1998,1209750000.0,2441.863932245572,2165789325.137914,62653705022.82797
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1998,1634005239.21988,35.069662262441014,2027869653.341724,64287710262.04785
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,1999,1498000000.0,-8.323427364578883,1783269653.341724,65785710262.04785
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,1999,4036000000.0,169.42590120160213,1685069653.341724,69821710262.04785
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,1999,79357457.3169451,-98.03375972951078,1691422539.307365,69901067719.36479
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,1999,2195120000.0,2666.116851794946,1888496539.307365,72096187719.36479
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,1999,1584183080.40416,-27.83159552078428,1878532107.5442212,73680370799.76895
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,2000,2497066000.0,57.62483710929065,2078345307.5442212,76177436799.76895
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,2000,4612000000.0,84.6967601176741,2193545307.544221,80789436799.76895
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,2000,509532974.710015,-88.95201702710288,2279580411.022835,81298969774.47897
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,2000,3178830000.0,523.8713013243417,2476322411.022835,84477799774.47897
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,2000,277178617.396324,-91.2804831527221,2214921518.4212675,84754978391.87529
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,2001,-1489093000.0,-637.232277867531,1417689718.4212677,83265885391.87529
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,2001,9696000000.0,-751.1346168439446,2434489718.4212675,92961885391.87529
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,2001,1054132218.32253,-89.1281743159805,2543409567.143771,94016017610.19781
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,2001,2541040000.0,141.05514999281854,2415851567.1437707,96557057610.19781
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,2001,-3514732729.23595,-238.3186698846122,1657469297.817316,93042324880.96187
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,2002,2478504000.0,-170.51756679486664,2450988697.817316,95520828880.96187
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,2002,6284049718.62298,153.5420446617387,1768598641.541912,101804878599.58485
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,2002,1261071114.73545,-79.93219068591667,1809986420.824496,103065949714.3203
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,2002,3532650000.0,180.13091083614947,2008308420.824496,106598599714.3203
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,2002,-402262421.186722,-111.38698770573711,2630802482.434342,106196337293.13358
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,2003,228789000.0,-156.87555882675923,2180859482.434342,106425126293.13358
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,2003,8456083723.56331,3596.018481466902,2615266283.4224076,114881210016.69688
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,2003,1237846245.27551,-85.36147127036848,2610621309.5304193,116119056261.9724
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,2003,9723950000.0,685.5539439662573,3848881309.53042,125843006261.9724
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,2003,552543632.214808,-94.31770389384141,4039842520.2107263,126395549894.18721
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,2004,9486289000.0,1616.8398017682864,5891342520.210726,135881838894.18721
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,2004,7972601713.71155,-15.95657992591677,5794646118.240374,143854440607.89877
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,2004,1837062923.45086,-76.95779885389965,5914489453.875443,145691503531.34964
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,2004,13782020000.0,650.2203557682687,6726103453.875443,159473523531.34964
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,2004,1305424326.22046,-90.52806245949098,6876679592.676573,160778947857.5701
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,2005,2910390869.14063,122.9459655901282,5561499966.5047,163689338726.71072
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,2005,13729566302.8637,371.74303796925125,6712892884.335131,177418905029.57443
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,2005,2640754960.27173,-80.76592587108216,6873631291.699305,180059659989.84616
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,2005,17879650000.0,577.0658493115245,7693157291.699305,197939309989.84616
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,2005,909414375.586361,-94.9136902814856,7613955301.572485,198848724365.43253
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,2006,28798368645.1416,3066.693799685467,12791550856.772678,227647093010.57413
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,2006,23932198467.5382,-16.897381367553066,14832077289.707577,251579291478.11234
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,2006,14036833331.6417,-41.34749738649644,17111292963.981573,265616124809.75403
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,2006,29993150000.0,113.6746179951408,19533992963.981575,295609274809.754
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,2006,5928796515.33874,-80.23283144538422,20537869391.932045,301538071325.0928
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,2007,17061251190.3687,187.7692149870303,18190445900.977467,318599322515.4615
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,2007,17154799701.5885,0.5483097937893922,16834966147.787527,335754122217.05
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,2007,17026111929.0617,-0.7501560773972904,17432821867.271526,352780234146.1117
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,2007,44801220000.0,163.13241793934904,20394435867.271526,397581454146.1117
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,2007,2982112484.38287,-93.34368018464035,19805099061.080357,400563566630.49457
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,2008,26115312437.8662,775.7319710316226,21615911310.579857,426678879068.3608
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,2008,56742276629.6973,117.27588656922667,29533406696.20162,483421155698.0581
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,2008,19256527246.1021,-66.06317477923722,29979489759.60969,502677682944.1602
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,2008,55662610000.0,189.05840232052853,32151767759.60969,558340292944.1602
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,2008,-2119582844.48363,-103.80791135105527,31131428693.836395,556220710099.6765
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,2009,-4551874100.0,114.7532997753113,24997991386.263157,551668835999.6765
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,2009,43889985500.0,-1064.2179141114646,22427533160.323692,595558821499.6765
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,2009,16095583746.9764,-63.32743434837453,21795344460.498558,611654405246.653
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,2009,43280520000.0,168.8968643844953,19318926460.498558,654934925246.653
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,2009,1311299639.40389,-96.97023132022468,20005102957.27606,656246224886.0569
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,2010,26763010595.47,1940.953096550559,26268079896.37006,683009235481.5269
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,2010,57953599366.3569,116.54364765736159,29080802669.64144,740962834847.8838
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,2010,15968099287.9994,-72.44675143116449,29055305777.84604,756930934135.8832
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,2010,52616270000.0,229.5086600541307,30922455777.84604,809547204135.8832
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,2010,-161293236.931745,-100.30654631529706,30627937202.57891,809385910898.9514
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,2011,16067117026.88,-10061.432563771521,28488758488.860912,825453027925.8314
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,2011,48420641059.6476,201.36483713064845,26582166827.51905,873873668985.479
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,2011,12607994609.7209,-73.96152893930179,25910145891.86335,886481663595.2
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,2011,66850790000.0,430.22540117884665,28757049891.86335,953332453595.2
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,2011,-153398301.646755,-100.22946370812784,28758628878.92035,953179055293.5532
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,2012,2083264650.91,-1458.075434047069,25961858403.72635,955262319944.4633
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,2012,64963386524.0,3018.3453573996494,29270407496.596825,1020225706468.4633
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,2012,8553237671.30214,-86.83375647582314,28459456108.91308,1028778944139.7654
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,2012,48822420000.0,470.80630605892304,24853782108.91308,1077601364139.7654
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,2012,2898869629.96875,-94.06242126062422,25464235695.23618,1080500233769.7341
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,2013,15643503704.82,439.6415051955488,28176283506.018177,1096143737474.5541
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,2013,72970879683.31,366.46122927580836,29777782137.880177,1169114617157.864
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,2013,1764948800.03303,-97.58129707673415,28420124363.62635,1170879565957.897
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,2013,86506530000.0,4801.362011089562,35956946363.62636,1257386095957.897
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,2013,6519873357.51593,-92.46314312050671,36681147109.13579,1263905969315.4128
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,2014,20606853865.14,216.06217997140985,37673817141.19979,1284512823180.5527
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,2014,123129554305.76,497.5174818609967,47705552065.68979,1407642377486.3127
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,2014,11686480933.1168,-90.50879295469836,49689858492.30654,1419328858419.4294
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,2014,57082180000.0,388.4462681853373,43804988492.30654,1476411038419.4294
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,2014,7692076889.07784,-86.52455654448053,44039429198.61893,1484103115308.5073
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,2015,3133977129.73,-59.25707484567649,40544853851.53693,1487237092438.2373
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,2015,174390681862.62,5464.5167352463795,50797079362.90892,1661627774300.8574
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,2015,7514275638.80775,-95.69112548987721,49962638304.04711,1669142049939.6653
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,2015,22085070000.0,193.9081697501334,42963216304.04711,1691227119939.6653
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,2015,5514928846.02681,-75.02870108165014,42527786695.436905,1696742048785.6921
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,2016,14693481918.84,166.4310334561399,44839687653.2589,1711435530704.5322
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,2016,216424460753.575,1372.9283497880467,53246443431.449905,1927859991458.1072
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,2016,5047292605.54428,-97.66787331340923,52753046824.79722,1932907284063.6514
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,2016,22314330000.0,342.10494108244217,52798898824.79722,1955221614063.6514
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,2016,4490478135.44759,-79.8762582813484,52594008682.68137,1959712092199.0989
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,2017,21340512975.24,375.2392135434121,53923414893.96137,1981052605174.3389
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,2017,138292767802.139,548.0292576030906,38297076303.67417,2119345372976.4778
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,2017,11090150305.4241,-91.9806722494041,39505647843.65013,2130435523281.9019
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,2017,36757030000.0,231.4385196566943,42394187843.65013,2167192553281.9019
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,2017,7449223483.92817,-79.7338808823015,42985936913.346245,2174641776765.83
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,2018,2024569614.32,-72.82173613547715,39122748241.16225,2176666346380.1501
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,2018,143026576683.861,6964.542294432286,40069510017.506645,2319692923064.011
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,2018,11417789536.2385,-92.01701543799385,40135037863.669525,2331110712600.2495
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,2018,31376880000.0,174.80695716464277,39059007863.669525,2362487592600.2495
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,2018,4026961507.92188,-87.16583195039826,38374555468.46827,2366514554108.1714
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Brazil,BRA,2019,22819604501.96,466.67053948911706,42533562445.99627,2389334158610.1313
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,China,CHN,2019,97703443776.919,328.1557279773501,33468935864.607872,2487037602387.0503
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,India,IND,2019,13140702031.5759,-86.55042082080612,33813518363.675354,2500178304418.626
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,Russian Federation,RUS,2019,21923140000.0,66.83385672485922,31922770363.675354,2522101444418.626
+"Foreign direct investment, net outflows (BoP, current US$)",BM.KLT.DINV.CD.WD,South Africa,ZAF,2019,3113483460.31635,-85.79818648096783,31740074754.154247,2525214927878.9424

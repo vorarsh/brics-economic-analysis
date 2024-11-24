@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1970,0.0,,,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1970,0.0,,,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1970,0.0,,,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1970,0.0,,,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1970,0.0,,0.0,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1971,0.0,,0.0,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1971,0.0,,0.0,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1971,0.0,,0.0,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1971,0.0,,0.0,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1971,0.0,,0.0,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1972,0.0,,0.0,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1972,0.0,,0.0,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1972,0.0,,0.0,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1972,0.0,,0.0,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1972,0.0,,0.0,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1973,0.0,,0.0,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1973,0.0,,0.0,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1973,0.0,,0.0,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1973,0.0,,0.0,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1973,0.0,,0.0,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1974,0.0,,0.0,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1974,0.0,,0.0,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1974,0.0,,0.0,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1974,0.0,,0.0,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1974,0.0,,0.0,0.0
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1975,43.8291052751786,inf,8.765821055035719,43.8291052751786
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1975,0.0,-100.0,8.765821055035719,43.8291052751786
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1975,15.2717461739867,inf,11.82017028983306,59.1008514491653
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1975,0.0,-100.0,11.82017028983306,59.1008514491653
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1975,0.0,,11.82017028983306,59.1008514491653
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1976,38.3154353700257,inf,10.71743630880248,97.416286819191
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1976,0.0,-100.0,10.71743630880248,97.416286819191
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1976,18.1022335305653,inf,11.283533780118201,115.5185203497563
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1976,0.0,-100.0,11.283533780118201,115.5185203497563
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1976,0.0,,11.283533780118201,115.5185203497563
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1977,42.8202912842339,inf,12.18450496295984,158.3388116339902
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1977,0.0,-100.0,12.18450496295984,158.3388116339902
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1977,15.6147263717526,inf,11.6870035311973,173.9535380057428
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1977,0.0,-100.0,11.6870035311973,173.9535380057428
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1977,0.0,,11.6870035311973,173.9535380057428
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1978,58.4098097308303,inf,14.80490722051658,232.36334773657308
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1978,0.0,-100.0,14.80490722051658,232.36334773657308
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1978,15.3319644912079,inf,14.74835484440764,247.695312227781
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1978,0.0,-100.0,14.74835484440764,247.695312227781
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1978,0.0,,14.74835484440764,247.695312227781
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1979,63.1377316207356,inf,15.693939222388702,310.8330438485166
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1979,0.0,-100.0,15.693939222388702,310.8330438485166
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1979,12.2877956569457,inf,15.08510545553626,323.1208395054623
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1979,0.0,-100.0,15.08510545553626,323.1208395054623
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1979,0.0,,15.08510545553626,323.1208395054623
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1980,63.6377355664876,inf,15.18510624468666,386.7585750719499
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1980,0.0,-100.0,15.18510624468666,386.7585750719499
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1980,11.3387105698748,inf,14.99528922727248,398.0972856418247
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1980,0.0,-100.0,14.99528922727248,398.0972856418247
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1980,0.0,,14.99528922727248,398.0972856418247
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1981,66.5922874118783,inf,15.586199596350621,464.68957305370304
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1981,0.0,-100.0,15.586199596350621,464.68957305370304
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1981,12.709720341225,inf,15.86040155062066,477.39929339492807
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1981,0.0,-100.0,15.86040155062066,477.39929339492807
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1981,0.0,,15.86040155062066,477.39929339492807
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1982,82.1185150147003,inf,18.965647071185057,559.5178084096284
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1982,8.5924549828137,-89.5365192840183,20.6841380677478,568.1102633924421
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1982,15.4660806571717,79.99606268646578,21.23541013093714,583.5763440496138
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1982,0.0,-100.0,21.23541013093714,583.5763440496138
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1982,0.0,,21.23541013093714,583.5763440496138
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1983,54.9154356784849,inf,15.794794263694058,638.4917797280987
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1983,10.8809215876289,-80.18604158704346,16.252487584657096,649.3727013157276
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1983,18.3192686626908,68.36137008393621,16.823125185760922,667.6919699784183
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1983,0.0,-100.0,16.823125185760922,667.6919699784183
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1983,0.0,,16.823125185760922,667.6919699784183
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1984,45.5947727068366,inf,14.95899259143126,713.2867426852549
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1984,7.95929531402312,-82.5434039002684,14.374667336710104,721.2460379992781
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1984,20.6447470238425,159.37908080215917,14.839763008940443,741.8907850231205
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1984,0.0,-100.0,14.839763008940443,741.8907850231205
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1984,0.0,,14.839763008940443,741.8907850231205
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1985,39.3440559944044,inf,13.589619666454002,781.2348410175249
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1985,8.37267846293985,-78.71933065535838,13.672296296237349,789.6075194804647
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1985,25.4488699714259,203.95135898351677,14.633120885754028,815.0563894518906
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1985,0.0,-100.0,14.633120885754028,815.0563894518906
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1985,0.0,,14.633120885754028,815.0563894518906
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1986,46.4818301742867,inf,16.06067572173049,861.5382196261774
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1986,9.70164668252778,-79.12808801600364,16.326469365648073,871.2398663087051
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1986,35.5860223675205,266.80394093931795,18.353899844866994,906.8258886762256
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1986,0.0,-100.0,18.353899844866994,906.8258886762256
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1986,0.0,,18.353899844866994,906.8258886762256
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1987,41.8498559679777,inf,17.427505003605194,948.6757446442034
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1987,9.59381344259845,-77.075635696478,17.40593835561933,958.2695580868019
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1987,33.3612208889683,247.73681069133374,16.96097805990889,991.6307789757702
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1987,0.0,-100.0,16.96097805990889,991.6307789757702
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1987,0.0,,16.96097805990889,991.6307789757702
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1988,45.9339243641203,inf,17.777791739137406,1037.5647033398905
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1988,9.63398329984593,-79.02643104587166,17.785825710586902,1047.1986866397365
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1988,31.4538639024471,226.48866957191137,17.404354313282663,1078.6525505421837
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1988,0.0,-100.0,17.404354313282663,1078.6525505421837
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1988,0.0,,17.404354313282663,1078.6525505421837
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1989,36.5420809949249,inf,15.525985639443585,1115.1946315371085
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1989,11.364784641873,-68.89945965734304,15.872145907849,1126.5594161789816
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1989,31.5000418110789,177.17236009047213,15.881381489575357,1158.0594579900605
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1989,0.0,-100.0,15.881381489575357,1158.0594579900605
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1989,0.0,,15.881381489575357,1158.0594579900605
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1990,22.6383320676081,inf,13.100631704111999,1180.6977900576687
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1990,11.6854750368432,-48.381908163794094,13.164769783106038,1192.383265094512
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1990,32.9559412252542,182.02483100898533,13.455949665941096,1225.3392063197662
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1990,0.0,-100.0,13.455949665941096,1225.3392063197662
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1990,0.0,,13.455949665941096,1225.3392063197662
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1991,23.4250892533899,inf,13.613301103097456,1248.764295573156
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1991,11.9296641244236,-49.07313267676353,13.662138920613534,1260.6939596975797
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1991,32.02937158448,168.48510779868712,13.476824992458697,1292.7233312820597
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1991,0.0,-100.0,13.476824992458697,1292.7233312820597
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1991,0.0,,13.476824992458697,1292.7233312820597
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1992,21.2407373813995,inf,13.039954618060616,1313.964068663459
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1992,10.2103523871014,-51.93032989503181,12.696092270596179,1324.1744210505606
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1992,28.7074007344373,181.15974499276803,12.031698100587636,1352.8818217849978
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1992,0.0,-100.0,12.031698100587636,1352.8818217849978
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1992,0.0,,12.031698100587636,1352.8818217849978
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1993,25.1582593726477,inf,12.815202498837277,1378.0400811576455
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1993,11.1433393326538,-55.70703375143295,13.001799887947758,1389.1834204902993
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1993,28.8378744758912,158.79023885942658,13.027894636238537,1418.0212949661905
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1993,0.0,-100.0,13.027894636238537,1418.0212949661905
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1993,0.0,,13.027894636238537,1418.0212949661905
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1994,31.2418390594001,inf,14.244610573589018,1449.2631340255905
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1994,8.91539620759218,-71.46327976838579,13.79902194857669,1458.1785302331828
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1994,32.2737817581946,262.00053263713477,14.486203405037372,1490.4523119913774
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1994,4.37524946262674,-86.44333194229455,15.36125329756272,1494.8275614540041
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1994,9.36758930091833,114.10411865508516,17.234771157746387,1504.1951507549225
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1995,38.5656818553246,311.6927057374718,18.699539716931287,1542.760832610247
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1995,9.8847479020214,-74.36905708265947,18.89341005581713,1552.6455805122685
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1995,33.2599833686784,236.47781105147692,19.090650377913892,1585.9055638809468
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1995,6.33164963097484,-80.96316056207809,19.481930411583512,1592.2372135119217
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1995,9.54104315338023,50.6881098837944,19.51662118207589,1601.778256665302
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1996,43.6947788680517,357.9664735356676,20.54244058462131,1645.4730355333538
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1996,8.80315326448636,-79.8530774327297,20.326121657114303,1654.2761887978402
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1996,27.6157662410767,213.7031176372232,19.197278231593963,1681.8919550389169
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1996,6.81739112907681,-75.31340948658388,19.294426531214356,1688.7093461679938
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1996,11.5837638315913,69.91490751037395,19.702970666856572,1700.293109999585
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1997,59.8465348008431,416.64153094721536,22.93332185341485,1760.1396448004282
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1997,12.6135559255486,-78.92349829856666,23.6954023856273,1772.7532007259767
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1997,26.3011796853357,108.51518668152087,23.4324850744791,1799.0543804113124
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1997,6.73682054051216,-74.38586169475776,23.416370956766166,1805.7912009518245
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1997,17.2331902439244,155.80598652275017,24.546256239232786,1823.0243911957489
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1998,80.7559155534618,368.6068824774477,28.72813238975653,1903.7803067492107
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1998,12.5455173826796,-84.46489362828875,28.71452468118273,1916.3258241318904
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1998,24.7734738173638,97.46872975973213,28.408983507588353,1941.0992979492542
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1998,11.9403383818957,-51.80192140221094,29.449687075865064,1953.03963633115
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1998,12.1717277298192,1.9378793173427944,28.43739457304402,1965.2113640609691
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,1999,116.563894236312,857.6610389562455,35.59899030961405,2081.775258297281
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,1999,16.801645359197,-85.58589221021157,36.450215904917535,2098.5769036564784
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,1999,18.6266943306296,10.86232290002236,35.22086000757069,2117.203597987108
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,1999,14.2615464725866,-23.434903588152967,35.685101625708874,2131.465144459695
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,1999,12.5002617390156,-12.349886016614843,35.75080842754816,2143.9654061987103
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,2000,87.0046232489443,596.0224118938804,29.838954230074613,2230.9700294476547
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,2000,13.1353517355584,-84.90269683948344,29.105695505346894,2244.105381183213
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,2000,17.081068777064,30.03891422887628,28.79657039463378,2261.186449960277
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,2000,10.0849071171994,-40.958570866823386,27.961242523556336,2271.2713570774763
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,2000,10.1818865876371,0.9616297831073428,27.497567493280638,2281.4532436651134
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,2001,71.737227000055,604.5573173753351,24.444088243502776,2353.1904706651685
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,2001,11.4701438574509,-84.01089038827483,24.111046667881276,2364.660614522619
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,2001,17.9276097726641,56.298037718319364,24.280354867001297,2382.5882242952835
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,2001,14.3120967481448,-20.1672898415728,25.125792793190378,2396.9003210434284
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,2001,11.6377300747438,-18.686057818520997,25.41696149061172,2408.5380511181725
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,2002,72.04845901011,519.0937454931143,25.479207892622718,2480.5865101282825
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,2002,12.1477507881095,-83.13947174580805,25.614729278754435,2492.734260916392
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,2002,20.9247343304358,72.25192297258367,26.21415419030878,2513.658995246828
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,2002,10.8032279601964,-48.371014945299905,25.512380432719095,2524.462223207024
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,2002,13.3155624326026,23.25540552937222,25.847946904290858,2537.777785639627
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,2003,67.9217723764045,410.0931539331817,25.02260957754976,2605.6995580160315
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,2003,8.1204558336828,-88.04439938834136,24.217150586664417,2613.820013849714
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,2003,29.1805226437216,259.34586975627457,25.86830824932158,2643.000536493436
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,2003,13.7302805985854,-52.94710527900853,26.45371877699938,2656.7308170920214
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,2003,8.61218728962493,-37.27595566756135,25.513043748403845,2665.3430043816466
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,2004,48.3562270957065,461.4860135933303,21.59993469226424,2713.699231477353
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,2004,3.7267261912107,-92.29318246058615,20.721188763769824,2717.4259576685636
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,2004,14.504454851842,289.20097983184394,17.785975205393903,2731.9304125204058
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,2004,9.36146262490913,-35.45801810179535,16.91221161065865,2741.291875145315
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,2004,6.5006970711573,-30.55895930343042,16.48991356696512,2747.7925722164723
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,2005,46.1865309932005,610.485821560949,16.05597434646392,2793.9791032096728
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,2005,3.38500640767235,-92.67100963228721,15.987630389756253,2797.364109617345
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,2005,14.9302344477445,341.06960666024435,16.072786308936752,2812.2943440650897
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,2005,14.1931979949332,-4.936536364455035,17.039133382941564,2826.487542060023
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,2005,6.62692157554221,-53.309172619814504,17.06437828381855,2833.1144636355652
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,2006,38.2485470826774,477.1691523231574,15.47678150171393,2871.3630107182425
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,2006,2.63332835379313,-93.11521991122702,15.326445890938084,2873.996339072036
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,2006,8.63523314642692,227.92086615360577,14.06744563067457,2882.6315722184627
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,2006,13.2014855472473,52.8793180611435,13.86910314113739,2895.83305776571
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,2006,8.85244777893686,-32.94354830557139,14.31420838181632,2904.6855055446467
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,2007,28.0520816048806,216.88502779566275,12.27491528625696,2932.7375871495274
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,2007,2.37878066388935,-91.52012782012055,12.224005748276202,2935.1163678134167
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,2007,15.5909922080123,555.4194947305795,13.615157560593278,2950.707360021429
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,2007,8.68814450226536,-44.274588901401216,12.71248935159689,2959.3955045236944
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,2007,4.36921984003656,-49.710552824054396,11.815843763816831,2963.764724363731
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,2008,23.4712996136146,437.19658137911875,10.899687365563631,2987.2360239773457
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,2008,2.07494387260396,-91.15965495408535,10.838920007306552,2989.3109678499495
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,2008,9.65799265540479,365.45801951184586,9.652320096785052,2998.9689605053545
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,2008,13.850341613981,43.408077725448415,10.68475951912818,3012.8193021193356
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,2008,6.21565957314621,-55.12269844036255,11.05404746575011,3019.034961692482
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,2009,23.4889425989956,277.89943806568687,11.057576062826309,3042.5239042914773
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,2009,2.93866600782635,-87.48915156380002,11.230320489870788,3045.4625702993035
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,2009,6.0184103184778,104.80076002000148,10.50240402248539,3051.4809806177814
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,2009,24.2150455665264,302.3495289475537,12.57534481299447,3075.696026184308
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,2009,6.03629720988844,-75.07212120123904,12.539472340342915,3081.732323394196
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,2010,18.3752189034516,204.4120967627305,11.516727601234116,3100.107542297648
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,2010,2.98355828743565,-83.76314152711825,11.525706057155976,3103.0911005850835
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,2010,6.81923327447653,128.5604173779229,11.68587064835572,3109.91033385956
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,2010,11.6105921214783,70.26242766815412,9.164979959346102,3121.5209259810385
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,2010,5.62216072697793,-51.57731261114961,9.082152662763999,3127.1430867080167
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,2011,18.7304465826475,233.15387965999403,9.153198198603178,3145.873533290664
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,2011,2.91674348513287,-84.42779528900802,9.139835238142624,3148.790276775797
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,2011,6.4138689129389,119.89828538681802,9.058762365835097,3155.204145688736
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,2011,7.24533647742146,12.963588370277002,8.185711237023728,3162.4494821661574
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,2011,4.87454506221729,-32.72161924559658,8.036188104071602,3167.3240272283747
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,2012,15.6603007623962,221.26691952813297,7.422158940021342,3182.984327990771
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,2012,3.0843881126822,-80.30441330929933,7.455687865531208,3186.068716103453
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,2012,6.71310406387204,117.64783868377347,7.515534895717835,3192.781820167325
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,2012,7.85316580531965,16.982631739363143,7.637100761297472,3200.6349859726447
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,2012,8.36556106902147,6.524696872625935,8.33530396265831,3209.0005470416663
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,2013,28.0022486784635,234.73246381714543,10.80369354587177,3237.0027957201296
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,2013,3.03960039525814,-89.14515605457109,10.794736002386957,3240.042396115388
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,2013,8.07419350339043,165.633387730387,11.066953890290636,3248.116589618778
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,2013,8.03180148787662,-0.5250309581509183,11.102681026802028,3256.148391106655
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,2013,10.996913026563,36.91714172918721,11.628951418310335,3267.145304133218
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,2014,22.8977520770946,108.21981606824727,10.608052098036556,3290.0430562103124
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,2014,3.01978813140049,-86.8118576826531,10.604089645265026,3293.062844341713
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,2014,18.6296205367074,516.9181322024576,12.715175051928417,3311.6924648784207
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,2014,14.5696694797791,-21.792988477294315,14.022748650308916,3326.2621343581995
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,2014,7.20456374914335,-50.55094585953104,13.264278794824985,3333.466698107343
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,2015,39.7320404043592,451.48433392769255,16.631136460277908,3373.1987385117022
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,2015,4.90399015520467,-87.65734126590029,17.007976865038742,3378.102728666907
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,2015,11.2063383547997,128.5146992578332,15.523320428657204,3389.3090670217066
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,2015,23.4788447359432,109.51397318721109,17.305155479890022,3412.78791175765
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,2015,20.7575755612245,-11.59030269727358,20.01575784230625,3433.5454873188746
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,2016,50.989942869944,145.64498257298447,22.26733833542321,3484.5354301888187
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,2016,6.92121458759239,-86.42631429251493,22.670783221900756,3491.456644776411
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,2016,17.2633780366708,149.42700183893635,23.882191158274974,3508.720022813082
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,2016,19.1789613271685,11.096225121344293,23.022214476520038,3527.8989841402504
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,2016,14.637706399312,-23.67831526634061,21.798240644137536,3542.536690539562
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,2017,34.605473882271,136.413225803583,18.521346846602935,3577.142164421833
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,2017,7.59278591631209,-78.05900320237484,18.655661112346877,3584.734950338145
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,2017,10.0850558636744,32.82418304469772,17.219996677747595,3594.8200062018195
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,2017,17.7512396480022,76.01528328604314,16.934452341914337,3612.571245849822
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,2017,13.4498955358848,-24.231232282425374,16.696890169228897,3626.021141385707
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,2018,33.1458787794675,146.43967450180648,16.404971148668196,3659.1670201651746
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,2018,8.31413555789883,-74.9165330229558,16.549241076985545,3667.4811557230732
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,2018,11.3975539281985,37.086457742083276,16.811740689890364,3678.878709651272
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,2018,19.588452675076,71.8654090033523,17.179183295305123,3698.467162326348
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,2018,24.7375759796931,26.286523953822826,19.436719384066784,3723.2047383060412
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Brazil,BRA,2019,53.1280205603174,114.76647753979536,23.433147740236763,3776.3327588663587
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,China,CHN,2019,9.5782885043246,-81.97130553085418,23.68597832952192,3785.9110473706833
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,India,IND,2019,9.0350268758593,-5.67180272571679,23.213472919054077,3794.9460742465426
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,Russian Federation,RUS,2019,17.5834611035907,94.61437519983447,22.812474604757018,3812.5295353501333
+"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,South Africa,ZAF,2019,14.8267493880895,-15.677867396301492,20.830309286436297,3827.3562847382227

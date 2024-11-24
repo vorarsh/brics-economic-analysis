@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1970,9.16738384258218e-12,,,9.16738384258218e-12
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1970,0.0,-100.0,,9.16738384258218e-12
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1970,4.55948729490511,inf,,4.559487294914278
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1970,0.0,-100.0,,4.559487294914278
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1970,1.66973105809728,inf,1.2458436706023115,6.229218353011557
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1971,1.1023551426690098e-11,-99.9999999993398,1.2458436706026828,6.22921835302258
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1971,0.0,-100.0,1.2458436706026828,6.22921835302258
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1971,4.80793830017996,inf,1.2955338716576528,11.03715665320254
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1971,0.0,-100.0,1.2955338716576528,11.03715665320254
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1971,1.80325078920686,inf,1.3222378178795686,12.8404074424094
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1972,1.30963837569293e-11,-99.99999999927374,1.3222378178799832,12.840407442422498
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1972,0.0,-100.0,1.3222378178799832,12.840407442422498
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1972,5.22200951825381,inf,1.4050520614947533,18.06241696067631
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1972,0.0,-100.0,1.4050520614947533,18.06241696067631
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1972,1.93587606912496,inf,1.4315771174783734,19.998293029801268
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1973,1.6192425569420298e-11,-99.99999999916356,1.4315771174789926,19.99829302981746
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1973,0.0,-100.0,1.4315771174789926,19.99829302981746
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1973,6.11972476457652,inf,1.6111201667435346,26.11801779439398
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1973,0.0,-100.0,1.6111201667435346,26.11801779439398
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1973,2.11813317227439,inf,1.6475715873734207,28.236150966668372
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1974,2.25864004809065e-11,-99.99999999893366,1.6475715873746997,28.23615096669096
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1974,0.0,-100.0,1.6475715873746997,28.23615096669096
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1974,7.49673349742943,inf,1.9229733339452815,35.73288446412039
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1974,0.0,-100.0,1.9229733339452815,35.73288446412039
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1974,2.43568652450184,inf,1.9864840043907712,38.16857098862223
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1975,3.05571045452502e-11,-99.99999999874544,1.9864840043923653,38.16857098865279
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1975,0.0,-100.0,1.9864840043923653,38.16857098865279
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1975,7.56798059934602,inf,2.000733424775684,45.73655158799881
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1975,0.0,-100.0,2.000733424775684,45.73655158799881
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1975,2.8311030115733,inf,2.0798167221899755,48.56765459957211
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1976,4.3330559363070296e-11,-99.99999999846948,2.0798167221925303,48.56765459961544
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1976,0.0,-100.0,2.0798167221925303,48.56765459961544
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1976,7.59394109352956,inf,2.085008821029238,56.161595693144996
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1976,0.0,-100.0,2.085008821029238,56.161595693144996
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1976,3.18908865468072,inf,2.1566059496507224,59.35068434782571
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1977,6.20851634596529e-11,-99.9999999980532,2.156605949654473,59.3506843478878
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1977,0.0,-100.0,2.156605949654473,59.3506843478878
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1977,7.96137421063693,inf,2.230092573075947,67.31205855852473
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1977,0.0,-100.0,2.230092573075947,67.31205855852473
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1977,3.53097567645813,inf,2.298469977431429,70.84303423498285
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1978,8.80385560217713e-11,-99.99999999750668,2.2984699774366195,70.84303423507089
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1978,0.0,-100.0,2.2984699774366195,70.84303423507089
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1978,8.24770698926629,inf,2.3557365331624913,79.09074122433718
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1978,0.0,-100.0,2.3557365331624913,79.09074122433718
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1978,3.87663494771755,inf,2.4248683874143753,82.96737617205473
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1979,1.36905128047801e-10,-99.99999999646846,2.424868387424149,82.96737617219163
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1979,0.0,-100.0,2.424868387424149,82.96737617219163
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1979,9.27438631393287,inf,2.630204252357465,92.2417624861245
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1979,0.0,-100.0,2.630204252357465,92.2417624861245
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1979,4.39008151577759,inf,2.7328935659694733,96.6318440019021
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1980,2.60622430774796e-10,-99.99999999406339,2.7328935659942166,96.63184400216272
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1980,0.0,-100.0,2.7328935659942166,96.63184400216272
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1980,10.2170712529819,inf,2.921430553804022,106.84891525514462
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1980,0.0,-100.0,2.921430553804022,106.84891525514462
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1980,5.15179207881813,inf,3.0737726664121303,112.00070733396275
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1981,5.34050154966163e-10,-99.99999998963371,3.073772666466816,112.0007073344968
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1981,0.0,-100.0,3.073772666466816,112.0007073344968
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1981,11.5044376688084,inf,3.331245949632116,123.50514500330519
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1981,0.0,-100.0,3.331245949632116,123.50514500330519
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1981,6.00154956533047,inf,3.5011974469345843,129.50669456863565
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1982,1.08674896404649e-09,-99.9999999818922,3.5011974470451235,129.5066945697224
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1982,0.0,-100.0,3.5011974470451235,129.5066945697224
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1982,12.5578092823825,inf,3.7118717697599437,142.0645038521049
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1982,0.0,-100.0,3.7118717697599437,142.0645038521049
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1982,6.75596378326213,inf,3.862754613346276,148.82046763536704
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1983,2.48845807020138e-09,-99.9999999631665,3.862754613626618,148.8204676378555
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1983,0.0,-100.0,3.862754613626618,148.8204676378555
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1983,13.5580760269779,inf,4.062807962545698,162.3785436648334
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1983,0.0,-100.0,4.062807962545698,162.3785436648334
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1983,7.62031938542264,inf,4.235679082977799,169.99886305025603
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1984,7.56034332627096e-09,-99.99999990078705,4.235679083992176,169.99886305781638
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1984,0.0,-100.0,4.235679083992176,169.99886305781638
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1984,14.688568551047,inf,4.4617775888059965,184.6874316088634
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1984,0.0,-100.0,4.4617775888059965,184.6874316088634
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1984,8.54668347961656,inf,4.647050407644781,193.23411508847994
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1985,2.60819177726073e-08,-99.99999969482995,4.647050411349096,193.23411511456186
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1985,0.0,-100.0,4.647050411349096,193.23411511456186
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1985,15.7902039045498,inf,4.867377482049656,209.02431901911166
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1985,0.0,-100.0,4.867377482049656,209.02431901911166
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1985,9.96148314549539,inf,5.150337415225421,218.98580216460704
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1986,6.57014339029209e-08,-99.99999934044527,5.150337423149325,218.98580223030848
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1986,0.0,-100.0,5.150337423149325,218.98580223030848
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1986,17.0381898011058,inf,5.399934602460524,236.02399203141428
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1986,0.0,-100.0,5.399934602460524,236.02399203141428
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1986,11.9097646822855,inf,5.789590909818547,247.93375671369978
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1987,2.03162433947219e-07,-99.9999982941524,5.789590937310747,247.93375691686222
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1987,0.0,-100.0,5.789590937310747,247.93375691686222
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1987,18.4188595983954,inf,6.065724896768666,266.35261651525764
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1987,0.0,-100.0,6.065724896768666,266.35261651525764
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1987,13.4094660618931,inf,6.365665172690186,279.76208257715075
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1988,1.50210552760405e-06,-99.99998879817048,6.365665432478805,279.7620840792563
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1988,0.0,-100.0,6.365665432478805,279.7620840792563
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1988,20.2468331680343,inf,6.731260146406585,300.0089172472906
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1988,0.0,-100.0,6.731260146406585,300.0089172472906
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1988,15.6448366677311,inf,7.178334267574185,315.6537539150217
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1989,2.03055832856286e-05,-99.99987020904267,7.178338028269737,315.653774220605
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1989,0.0,-100.0,7.178338028269737,315.653774220605
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1989,21.8014568434656,inf,7.489262763355997,337.4552310640706
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1989,0.0,-100.0,7.489262763355997,337.4552310640706
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1989,18.3680933033411,inf,8.033914090477998,355.82332436741166
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1990,0.0005776227922886,-99.996855292584,8.034025553919799,355.8239019902039
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1990,0.0,-100.0,8.034025553919799,355.8239019902039
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1990,23.9826244354896,inf,8.470259072324598,379.8065264256935
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1990,0.0007760913593211,-99.9967639431564,8.470414290596462,379.80730251705285
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1990,21.1969661818506,2731146.2543576094,9.03618886629836,401.00426869890345
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1991,0.0028656754940284,-99.98648072809362,9.036646476838708,401.0071343743975
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1991,0.0,-100.0,9.036646476838708,401.0071343743975
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1991,26.9671829991283,inf,9.633558189566449,427.97431737352576
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1991,0.0017549199138622,-99.99349238697302,9.633753955277358,427.97607229343964
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1991,24.2784065723404,1383348.1209406797,10.250042033375317,452.25447886578
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1992,0.0302696344259768,-99.87532281273985,10.255522825161707,452.284748500206
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1992,0.0,-100.0,10.255522825161707,452.284748500206
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1992,29.5683431973474,inf,10.775754864805526,481.8530916975534
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1992,0.0271011670534536,-99.90834397831297,10.780824114233445,481.88019286460684
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1992,27.2580130265399,100478.74250498858,11.376745405073345,509.13820589114675
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1993,0.644797778845252,-97.63446521865905,11.4996510339572,509.783003669992
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1993,0.0,-100.0,11.4996510339572,509.783003669992
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1993,32.3278737820889,inf,12.0515571509055,542.1108774520809
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1993,0.308678527454518,-99.04516291564607,12.107872622985713,542.4195559795354
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1993,30.098102403954,9650.630421932663,12.675890498468535,572.5176583834894
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1994,15.4383281596529,-48.70663953344527,15.634596574630063,587.9559865431423
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1994,0.0,-100.0,15.634596574630063,587.9559865431423
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1994,35.8188827673438,inf,16.332798371681044,623.7748693104861
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1994,1.30197928635527,-96.36510358290045,16.531458523461193,625.0768485968414
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1994,33.3680530976434,2462.8712720194753,17.18544866219907,658.4449016944848
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1995,29.1199815078699,-12.730954297341125,19.921779331842473,687.5648832023546
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1995,68.5419430624669,135.37770119786273,33.63016794433585,756.1068262648215
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1995,39.2284457391273,-42.76724004836605,34.31208053869255,795.3352720039488
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1995,3.24899472858608,-91.71775820486953,34.701483627138714,798.584266732535
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1995,36.400789349845,1020.370834386861,35.308030877579036,834.98505608238
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1996,34.7186662251359,-4.621117164637156,36.42776782103223,869.7037223075158
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1996,71.1530809831027,104.94186188405106,36.94999540515939,940.8568032906185
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1996,42.4333611371075,-40.36328356999117,37.59097848475543,983.2901644277259
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1996,4.6605930205645,-89.01667721888553,37.87329814315111,987.9507574482905
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1996,39.4147512667978,745.7024909251529,38.47609052654168,1027.3655087150883
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1997,37.427945935945,-5.0407658731730915,39.0179464687035,1064.7934546510332
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1997,72.1820744860603,92.85609370493984,39.223745169295015,1136.9755291370936
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1997,45.0430150397141,-37.59805968390013,39.745675949816345,1182.0185441768078
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1997,5.54392188829777,-87.6919387314332,39.922341723363,1187.5624660651056
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1997,42.6708393491051,669.6868788713571,40.57355933982445,1230.2333054142107
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1998,39.264288186846,-7.983323539499443,40.940827790004654,1269.4975936010567
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1998,70.5029134663903,79.55989200896707,40.60499558607065,1340.000507067447
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1998,48.1792142815506,-31.663513019900535,41.23223543443795,1388.1797213489976
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1998,6.75727449436944,-85.9747100588209,41.47490595565229,1394.9369958433672
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1998,45.7542265205758,577.1106687866671,42.09158338994642,1440.6912223639429
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,1999,42.9414636224142,-6.147547695723132,42.827018477060065,1483.632685986357
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,1999,68.6396616499451,59.84471850679349,42.454368113771025,1552.2723476363021
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,1999,50.8702478230162,-25.88796826760452,42.99257482206415,1603.1425954593183
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,1999,11.5270030371918,-77.34038356310815,43.946520530628625,1614.6695984965102
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,1999,49.0942881172312,325.9067856478288,44.6145328499597,1663.7638866137413
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,2000,45.9870567359499,-6.32910976091885,45.223651472666845,1709.7509433496912
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,2000,69.0245777815385,50.09566317293634,45.30063469898552,1778.7755211312297
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,2000,52.6669030828513,-23.698333585551122,45.65996575095254,1831.442424214081
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,2000,14.3311741893519,-72.78903191477339,46.22079998138456,1845.773598403433
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,2000,52.9996377394253,269.8206234825069,47.001869905823376,1898.7732361428582
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,2001,49.8151951636399,-6.008423286668174,47.76749759136138,1948.588431306498
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,2001,68.6285445001872,37.76628652110383,47.68829093509112,2017.2169758066852
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,2001,54.2798325278429,-20.907790011931795,48.010876824089436,2071.496808334528
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,2001,17.6144173635935,-67.54887304680211,48.66752545893776,2089.1112256981214
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,2001,56.5332685224168,220.9488418235339,49.37425161553606,2145.644494220538
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,2002,54.0078150621467,-4.467198742044598,50.21277559523742,2199.6523092826847
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,2002,67.870804386786,25.66848762292493,50.06122757255717,2267.5231136694706
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,2002,55.8369180099571,-17.730578686307453,50.37264466898002,2323.3600316794277
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,2002,20.7490412776462,-62.83992380463024,50.999569451790556,2344.1090729570737
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,2002,62.1497049361938,199.53048964797352,52.12285673454596,2406.2587778932675
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,2003,61.9314011888875,-0.3512546801797689,53.70757395989413,2468.190179082155
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,2003,68.5741336012815,10.725952077418732,53.84823980279323,2536.7643126834364
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,2003,58.112041208505,-15.256616224431585,54.3032644425028,2594.8763538919416
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,2003,23.4737044220204,-59.606126486252386,54.84819707137764,2618.350058313962
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,2003,65.1221621742414,177.42601254342745,55.44268851898717,2683.4722204882037
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,2004,66.5561797451509,2.2020423202052664,56.36764423023984,2750.0284002333547
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,2004,71.5878274650081,7.560000798008226,56.97038300298516,2821.6162276983628
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,2004,61.1574575006014,-14.570032830658297,57.57946626140445,2882.7736851989644
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,2004,27.1249148706819,-55.647412467375446,58.309708351136734,2909.8986000696464
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,2004,69.2092001739295,155.14992582975665,59.12711595107436,2979.107800243576
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,2005,71.3262834704402,3.0589622350644996,60.08113669613222,3050.434083714016
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,2005,72.4883357142255,1.6292062157800213,60.2612383459757,3122.9224194282415
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,2005,63.7895442605464,-12.000263722390859,60.7876556979647,3186.711963688788
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,2005,31.0155020437544,-51.37839217494242,61.5657731325792,3217.7274657325424
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,2005,72.7050846372575,134.41530797950807,62.2649500252448,3290.4325503698
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,2006,75.8034756642114,4.261587813854417,63.16038846399904,3366.2360260340115
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,2006,73.8501745812896,-2.5767962033487746,63.43275623741185,3440.086200615301
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,2006,68.7855613372513,-6.8579570363283215,64.43195965275284,3508.8717619525523
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,2006,34.7515803714246,-49.47837933452374,65.17917531828688,3543.623342323977
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,2006,75.3150628163961,116.72413746779088,65.7011709541146,3618.938405140373
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,2007,81.1043361316563,7.686740339543174,66.76134304760357,3700.0427412720296
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,2007,78.3188733332168,-3.434419084471474,67.65508279798902,3778.3616146052464
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,2007,73.0781085012573,-6.691573319322464,68.51359223079022,3851.4397231065036
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,2007,38.8007554327486,-46.90509069199425,69.32342724305502,3890.2404785392523
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,2007,81.2388321581618,109.37435689614081,70.50818111140816,3971.479310697414
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,2008,88.2020249383572,8.571261544773234,71.92771887274833,4059.681335635771
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,2008,84.2502502761793,-4.4803672760798,73.11399426134084,4143.931585911951
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,2008,79.1070634009773,-6.104654714190416,74.31978524128483,4223.038649312928
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,2008,45.0922671329227,-42.99843124708176,75.57808758131966,4268.130916445851
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,2008,89.4282977276788,98.32291302644558,77.21598069522307,4357.55921417353
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,2009,92.1446841268874,3.0375020751042037,78.00451253292911,4449.703898300417
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,2009,82.9500265449391,-9.978500299905345,77.74446778668106,4532.6539248453555
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,2009,84.8929300736051,2.34225787452087,78.90164112120661,4617.546854918961
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,2009,51.2790734403801,-39.59559012049723,80.1390023826981,4668.825928359341
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,2009,95.40090063035,86.04255933225544,81.33352296323234,4764.226828989691
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,2010,100.0,4.820813366815213,82.90458613785486,4864.226828989691
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,2010,87.2214648442385,-12.778535155761507,83.75887379771474,4951.44829383393
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,2010,91.8380701752229,5.292969269925485,85.1479018180383,5043.286364009153
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,2010,55.2748442338734,-39.81271151668203,85.94705597673695,5098.561208243026
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,2010,99.9999953499789,80.91411515674093,86.86687492066274,5198.561203593005
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,2011,107.2163871241,7.216392109684855,88.31015234548273,5305.777590717105
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,2011,94.6587369757638,-11.71243546362093,89.7976067717878,5400.436327692869
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,2011,99.9999969908664,5.642648725040744,91.4299921349165,5500.436324683736
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,2011,65.2456066059708,-34.75439143070167,93.42414460933598,5565.681931289706
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,2011,104.936721992667,60.83339162803332,94.4114899378736,5670.618653282373
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,2012,115.553848548789,10.117646477335107,96.0789822228114,5786.172501831162
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,2012,97.3693863235775,-15.736786315285457,96.62111209237415,5883.541888154739
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,2012,107.474279867083,10.377895892169796,98.11596866761747,5991.0161680218225
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,2012,71.0242898714144,-33.91508186028091,99.27170532070618,6062.040457893237
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,2012,111.318533016086,56.733046141851084,100.54806752538998,6173.3589909093225
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,2013,124.634482321223,11.96202370292896,102.36419427987678,6297.9934732305455
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,2013,99.7619197974883,-19.9564053707305,102.84270097465894,6397.755393028034
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,2013,114.41901653894,14.692075664947968,104.23164830903033,6512.174409566974
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,2013,76.0806809040435,-33.50696133788992,105.24292651555615,6588.255090471017
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,2013,118.768297737196,56.10835277222623,106.73287945977816,6707.023388208213
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,2014,134.805702856624,13.503102616587736,108.76712356685837,6841.829091064837
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,2014,100.748218859903,-25.26412701764086,108.9643833793413,6942.57730992474
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,2014,119.742836220513,18.85355153228392,110.0291473156559,7062.320146145253
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,2014,82.4255216419679,-31.164548758326728,111.29811546324079,7144.745667787221
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,2014,125.800281044702,52.622972276889236,112.70451212474197,7270.545948831923
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,2015,145.292851911643,15.494854784954315,114.8019419357458,7415.838800743566
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,2015,100.0,-31.173489483974727,114.65229816376518,7515.838800743566
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,2015,122.338341018286,22.338341018286002,115.17139912331977,7638.177141761852
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,2015,93.5314255980821,-23.54692337694698,117.39257991454262,7731.708567359934
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,2015,131.10044554045,40.16726966592743,118.45261281369221,7862.809012900384
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,2016,156.951183049257,19.718268234893934,120.78427904121502,8019.760195949641
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,2016,100.921187431012,-35.69899540079334,120.9685165274174,8120.681383380653
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,2016,126.256807108304,25.104361454933333,121.75220974542103,8246.938190488956
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,2016,100.0,-20.796349685748606,123.0459246258046,8346.938190488956
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,2016,139.757240589689,39.75724058968899,124.77728363565238,8486.695431078646
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,2017,163.154947632292,16.741677886511752,126.0180365522594,8649.850378710938
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,2017,105.6264383078,-35.26004583945931,126.959086727617,8755.476817018738
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,2017,130.363055344352,23.418963502743928,127.78033637482659,8885.83987236309
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,2017,102.891150627788,-21.073382059048395,128.3585665003842,8988.731022990878
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,2017,145.821471098841,41.724016311524004,129.5714126022146,9134.55249408972
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,2018,167.886113426704,15.131271246678835,130.517645761097,9302.438607516424
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,2018,109.735259585219,-34.6370838269912,131.33941001658079,9412.173867101643
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,2018,135.640561885158,23.60709073624716,132.394911324742,9547.814428986801
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,2018,108.093206668694,-20.309083679399208,133.43532253292318,9655.907635655496
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,2018,151.823452867378,40.456054128098295,134.63571888663063,9807.731088522874
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Brazil,BRA,2019,175.526815067207,15.612451009485696,136.1638592147312,9983.257903590082
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,China,CHN,2019,0.0,-100.0,114.21680729768738,9983.257903590082
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,India,IND,2019,140.313902817352,inf,115.1514754841262,10123.571806407434
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,Russian Federation,RUS,2019,114.054763305491,-18.714567113169668,116.3437868114856,10237.626569712924
+Gross national expenditure deflator (base year varies by country),NE.DAB.DEFL.ZS,South Africa,ZAF,2019,157.107891972472,37.74776907095496,117.40067463250439,10394.734461685395

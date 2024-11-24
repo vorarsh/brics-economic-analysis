@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1970,0.0,,,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1970,0.0,,,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1970,0.0,,,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1970,0.0,,,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1970,0.0,,0.0,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1971,0.0,,0.0,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1971,0.0,,0.0,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1971,0.0,,0.0,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1971,0.0,,0.0,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1971,0.0,,0.0,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1972,0.0,,0.0,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1972,0.0,,0.0,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1972,0.0,,0.0,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1972,0.0,,0.0,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1972,0.0,,0.0,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1973,0.0,,0.0,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1973,0.0,,0.0,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1973,0.0,,0.0,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1973,0.0,,0.0,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1973,0.0,,0.0,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1974,0.0,,0.0,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1974,0.0,,0.0,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1974,0.0,,0.0,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1974,0.0,,0.0,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1974,0.0,,0.0,0.0
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1975,18.5348100744542,inf,3.70696201489084,18.5348100744542
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1975,0.0,-100.0,3.70696201489084,18.5348100744542
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1975,13.8880238001686,inf,6.484566774924559,32.422833874622796
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1975,0.0,-100.0,6.484566774924559,32.422833874622796
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1975,0.0,,6.484566774924559,32.422833874622796
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1976,18.86493461668,inf,6.55059168336972,51.2877684913028
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1976,0.0,-100.0,6.55059168336972,51.2877684913028
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1976,16.8863022716248,inf,7.1502473776609605,68.1740707629276
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1976,0.0,-100.0,7.1502473776609605,68.1740707629276
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1976,0.0,,7.1502473776609605,68.1740707629276
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1977,21.9646288119911,inf,7.7701862167231806,90.1386995749187
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1977,0.0,-100.0,7.7701862167231806,90.1386995749187
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1977,14.5944441988572,inf,7.31181460216966,104.73314377377591
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1977,0.0,-100.0,7.31181460216966,104.73314377377591
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1977,0.0,,7.31181460216966,104.73314377377591
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1978,31.893832092622,inf,9.297655258295839,136.6269758663979
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1978,0.0,-100.0,9.297655258295839,136.6269758663979
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1978,14.2162364258735,inf,9.2220137036991,150.8432122922714
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1978,0.0,-100.0,9.2220137036991,150.8432122922714
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1978,0.0,,9.2220137036991,150.8432122922714
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1979,36.8181405550617,inf,10.20687539618704,187.6613528473331
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1979,0.0,-100.0,10.20687539618704,187.6613528473331
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1979,10.695918182962,inf,9.502811747604742,198.3572710302951
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1979,0.0,-100.0,9.502811747604742,198.3572710302951
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1979,0.0,,9.502811747604742,198.3572710302951
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1980,35.1672736975295,inf,9.1726383760983,233.5245447278246
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1980,0.0,-100.0,9.1726383760983,233.5245447278246
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1980,9.27104075857953,inf,8.887662891221805,242.79558548640412
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1980,0.0,-100.0,8.887662891221805,242.79558548640412
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1980,0.0,,8.887662891221805,242.79558548640412
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1981,34.5159957653308,inf,8.757407304782067,277.31158125173494
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1981,0.0,-100.0,8.757407304782067,277.31158125173494
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1981,10.100158204858,inf,8.92323079403776,287.41173945659295
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1981,0.0,-100.0,8.92323079403776,287.41173945659295
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1981,0.0,,8.92323079403776,287.41173945659295
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1982,44.2438718684222,inf,10.86880601465604,331.6556113250152
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1982,7.58958385984067,-82.84602242224302,12.386722786624173,339.24519518485585
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1982,10.9856459244786,44.746354047258976,12.563820330548293,350.23084110933445
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1982,0.0,-100.0,12.563820330548293,350.23084110933445
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1982,0.0,,12.563820330548293,350.23084110933445
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1983,31.0076258103611,inf,9.916571118936073,381.23846691969555
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1983,9.76105095896503,-68.52048261075376,10.350864538760945,390.9995178786606
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1983,13.505419317598,38.360299258492844,10.854819217384826,404.5049371962586
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1983,0.0,-100.0,10.854819217384826,404.5049371962586
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1983,0.0,,10.854819217384826,404.5049371962586
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1984,26.5283929683827,inf,9.958972648989146,431.0333301646413
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1984,6.61442691129369,-75.06661289593775,9.329647839454877,437.647757075935
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1984,14.6672021030753,121.74562210419224,9.56200439655034,452.31495917901026
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1984,0.0,-100.0,9.56200439655034,452.31495917901026
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1984,0.0,,9.56200439655034,452.31495917901026
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1985,26.1573215442356,inf,9.487790111720917,478.47228072324583
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1985,6.36970960224014,-75.64846388622745,9.438846649910207,484.841990325486
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1985,19.1470509981572,200.5953519674342,10.334816428926587,503.9890413236432
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1985,0.0,-100.0,10.334816428926587,503.9890413236432
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1985,0.0,,10.334816428926587,503.9890413236432
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1986,33.497866145796,inf,11.802925349238668,537.4869074694392
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1986,8.34258792034677,-75.09516610987542,12.197501012859993,545.829495389786
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1986,28.4831084438931,241.41813926138602,14.064712502007174,574.3126038336791
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1986,0.0,-100.0,14.064712502007174,574.3126038336791
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1986,0.0,,14.064712502007174,574.3126038336791
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1987,32.4558427413853,inf,13.856307821125034,606.7684465750643
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1987,7.99967191272075,-75.35213620406115,13.787724619599828,614.768118487785
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1987,27.8445018083083,248.07054729370986,13.660003292482866,642.6126202960934
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1987,0.0,-100.0,13.660003292482866,642.6126202960934
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1987,0.0,,13.660003292482866,642.6126202960934
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1988,37.3556336219211,inf,14.63996146859003,679.9682539180145
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1988,8.5067382015998,-77.22769666364898,14.741374726365839,688.4749921196143
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1988,26.6977098412376,213.8419122410133,14.512016332951697,715.1727019608519
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1988,0.0,-100.0,14.512016332951697,715.1727019608519
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1988,0.0,,14.512016332951697,715.1727019608519
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1989,27.2570976113559,inf,12.492309130838658,742.4297995722078
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1989,10.1016352161233,-62.93943192280773,12.811288533743356,752.5314347883311
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1989,26.5236308066954,162.5676956178424,12.77647272683492,779.0550655950266
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1989,0.0,-100.0,12.77647272683492,779.0550655950266
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1989,0.0,,12.77647272683492,779.0550655950266
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1990,18.5978745566658,inf,11.044628115896899,797.6529401516924
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1990,10.61087782865,-42.945750083861725,11.14647663840224,808.2638179803424
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1990,27.1649347717067,156.01024920256611,11.2747374314045,835.4287527520491
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1990,0.0,-100.0,11.2747374314045,835.4287527520491
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1990,0.0,,11.2747374314045,835.4287527520491
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1991,16.6366901685174,inf,10.882500553774818,852.0654429205665
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1991,10.8471167581194,-34.80003144708408,10.929748339668699,862.912559678686
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1991,26.7618728355772,146.71876805921832,10.849135952442799,889.6744325142631
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1991,0.0,-100.0,10.849135952442799,889.6744325142631
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1991,0.0,,10.849135952442799,889.6744325142631
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1992,14.7261882460548,inf,10.46703556795028,904.4006207603179
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1992,9.38499580272947,-36.27002693488082,10.174611376872292,913.7856165630474
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1992,25.4384275810079,171.05422437812445,9.909922325958433,939.2240441440553
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1992,0.0,-100.0,9.909922325958433,939.2240441440553
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1992,0.0,,9.909922325958433,939.2240441440553
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1993,13.0744275574015,inf,9.579570188227772,952.2984717014567
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1993,10.2438423904562,-21.649782787949988,9.75133950577312,962.5423140919129
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1993,25.1974013511108,145.97607412025653,9.703134259793696,987.7397154430237
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1993,0.0,-100.0,9.703134259793696,987.7397154430237
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1993,0.0,,9.703134259793696,987.7397154430237
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1994,17.2321206340311,inf,10.534672875119618,1004.9718360770547
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1994,8.13551420499848,-52.78866497178565,10.113007238028073,1013.1073502820532
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1994,29.7222092147053,265.33903654724,11.017968810746973,1042.8295594967585
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1994,4.37524946262674,-85.2795280760555,11.893018703272322,1047.2048089593852
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1994,4.91402785788154,12.314232590782082,12.875824274848629,1052.1188368172668
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1995,23.6497187193839,381.2695288540631,14.159343891919189,1075.7685555366506
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1995,8.98416222815204,-62.011547220693174,14.329073496549901,1084.7527177648026
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1995,30.5446476375183,239.98326011752184,14.4935611811125,1115.2973654023208
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1995,6.33164963097484,-79.27083754209818,14.884841214782123,1121.6290150332957
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1995,5.10877883602173,-19.313620718536704,14.92379141041016,1126.7377938693173
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1996,22.5986868464809,342.35007174588867,14.713585035829562,1149.3364807157982
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1996,8.32007878237502,-63.18335291384138,14.580768346674153,1157.6565594981732
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1996,25.4117956076489,205.42734356651056,13.554197940700277,1183.068355105822
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1996,6.81739112907681,-73.17233605080315,13.651346240320668,1189.885746234899
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1996,6.21934394405755,-8.77237602619767,13.873459261927835,1196.1050901789565
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1997,20.7094466758625,232.98442507991433,13.495611227804153,1216.814536854819
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1997,11.5007594228784,-44.46611924072849,14.13174735590483,1228.3152962776974
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1997,24.5403661403625,113.38039722441704,13.957461462447549,1252.8556624180599
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1997,6.73682054051216,-72.54800314722343,13.94134734473462,1259.592482958572
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1997,6.86511839032442,1.9044273042562843,14.070502233987991,1266.4576013488963
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1998,27.3205612091519,297.961981947129,15.392725140645874,1293.7781625580483
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1998,8.70614978223589,-68.1333420803981,14.83380321251737,1302.484312340284
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1998,22.4906010281906,158.33004934145097,14.423850190082991,1324.9749133684747
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1998,9.71117991254416,-56.82116320336754,15.018722064489392,1334.6860932810189
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1998,8.56312986432096,-11.821941911921929,15.358324359288698,1343.2492231453398
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,1999,41.8337159426657,388.5330084385335,18.26095530599146,1385.0829390880056
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,1999,9.17518947476203,-78.06747675167827,18.354763244496688,1394.2581285627675
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,1999,15.5898678884257,69.91330730889393,16.974616616543706,1409.8479964511932
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,1999,11.2378758261541,-27.915515983959203,17.279955799265696,1421.0858722773473
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,1999,2.98235235221793,-73.46160076553747,16.16380029684509,1424.0682246295653
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,2000,37.0146941966454,1141.1241136252106,15.199995947641032,1461.0829188262107
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,2000,7.10365634221398,-80.808550505713,14.785689321131418,1468.1865751684247
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,2000,15.3785252750562,116.48746130451477,14.743420798457521,1483.565100443481
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,2000,7.47464808622591,-51.39554702069054,13.99077525047188,1491.039748529707
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,2000,5.5967301931463,-25.123830197975327,14.513650818657556,1496.636478722853
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,2001,22.9153206153309,309.44122415250195,11.693776102394654,1519.551799338184
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,2001,6.09499146981097,-73.40211131179515,11.492043127914053,1525.646790807995
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,2001,12.7873723803292,109.8013170923402,10.973812548968652,1538.4341631883242
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,2001,11.7438293058616,-8.160731098070473,11.82764879289579,1550.177992494186
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,2001,6.68005061979073,-43.118633234420635,12.044312878224677,1556.8580431139767
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,2002,37.3860186473394,459.66669678486073,14.938452484626378,1594.244061761316
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,2002,5.0875246442465,-86.39190577569416,14.736959119513482,1599.3315864055626
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,2002,16.0936630679547,216.33582524568374,15.398217257038585,1615.4252494735172
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,2002,7.85792735375363,-51.17377988731392,14.621036866616986,1623.2831768272708
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,2002,4.65770311559408,-40.72606037304283,14.21656736577766,1627.940879942865
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,2003,39.5031159,748.1243849085788,14.639986816309777,1667.443995842865
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,2003,3.0261099488842,-92.33956643687391,14.227703877237321,1670.4701057917491
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,2003,20.4370578603135,575.3574128345581,15.096382835709079,1690.9071636520625
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,2003,8.05513599637599,-60.58563785730543,15.135824564233554,1698.9622996484386
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,2003,4.39874656933847,-45.39202601523464,15.08403325498243,1703.3610462177771
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,2004,23.4856293559478,433.9164006322787,11.880535946171989,1726.846675573725
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,2004,1.27717652001248,-94.56188079673909,11.530749260397645,1728.1238520937375
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,2004,7.72064797144166,504.5090753286176,8.987467282623276,1735.844500065179
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,2004,5.771266754409,-25.248932787032075,8.530693434229878,1741.615766819588
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,2004,3.08810120311644,-46.491795743850105,8.268564360985472,1744.7038680227045
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,2005,30.165756414293,876.8383362517529,9.604589772654512,1774.8696244369974
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,2005,1.09280937491999,-96.37731817524656,9.567716343636015,1775.9624338119174
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,2005,9.68673187832864,786.4063669876417,9.960933125013412,1785.649165690246
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,2005,10.9448438264622,12.987991862851445,10.995648539424051,1796.5940095167082
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,2005,5.41435198556277,-50.530568810200194,11.460898695913317,1802.0083615022709
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,2006,19.535415437446,260.80800600952216,9.334830500543918,1821.543776939717
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,2006,0.845878125304847,-95.67002745340422,9.28544425062089,1822.3896550650218
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,2006,3.04097340030301,259.50491085309363,7.956292555015763,1825.4306284653248
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,2006,9.97634404233625,228.06416660343635,7.762592598190572,1835.406972507661
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,2006,4.93148226164903,-50.56824182564797,7.666018653407825,1840.3384547693101
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,2007,10.8218981771797,119.44514048725345,5.923315201354564,1851.1603529464899
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,2007,0.641474400585568,-94.07244098878832,5.882434456410708,1851.8018273470755
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,2007,4.08674197262603,537.0857463517577,6.091588170875312,1855.8885693197014
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,2007,3.77015648475571,-7.746647329116573,4.850350659359204,1859.6587258044572
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,2007,2.59053633057106,-31.288360548277993,4.38216147314361,1862.2492621350282
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,2008,9.30401801573839,259.15412209978166,4.078585440855347,1871.5532801507666
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,2008,0.581913692851671,-93.7455657129283,4.066673299308568,1872.1351938436183
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,2008,4.67088966817266,702.6773945261438,4.183502838417895,1876.8060835117908
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,2008,5.64447847138918,20.8437550955342,4.558367235744589,1882.45056198318
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,2008,3.62265145547936,-35.81955403246001,4.764790260726249,1886.0732134386594
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,2009,7.09766455076036,95.92457728785769,4.323519567730642,1893.1708779894198
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,2009,0.634303367821277,-91.06321011249644,4.333997502724563,1893.805181357241
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,2009,2.42993180000253,283.0866937296782,3.8858059290905382,1896.2351131572436
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,2009,5.76460892453449,137.23336286757052,3.9098320197195995,1901.9997220817781
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,2009,3.54715819524796,-38.466629017086284,3.8947333676733202,1905.546880277026
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,2010,5.93309257179779,67.26326386418873,3.6618189718808054,1911.4799728488238
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,2010,0.786207140652964,-86.74878014898839,3.692199726447143,1912.2661799894768
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,2010,1.74480879947485,121.92736611699355,3.555175126341607,1914.0109887889516
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,2010,6.61367916180243,279.04893440433165,3.7249891737951955,1920.624667950754
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,2010,2.90019712260307,-56.14850597299497,3.595596959266217,1923.524865073357
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,2011,6.75487214973483,132.91079413498622,3.7599528748536253,1930.2797372230918
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,2011,0.651163979492955,-90.36008432049277,3.732944242621623,1930.930901202585
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,2011,1.7610880638326,170.45231605162115,3.736200095493173,1932.6919892664175
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,2011,3.88571459885289,120.64283318101268,3.1906071829032654,1936.5777038652705
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,2011,2.71138384499728,-30.221744906388317,3.1528445273821073,1939.2890877102677
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,2012,4.0324217433161,48.72190637103044,2.608354446098361,1943.3215094535838
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,2012,0.439684688631342,-89.09626233019557,2.566058587926039,1943.7611941422151
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,2012,1.68118836519349,282.3622720242367,2.550078648198217,1945.4423825074086
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,2012,2.58536618637006,53.78206510919477,2.290008965701651,1948.0277486937787
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,2012,4.27134698649648,65.21245651833922,2.6020015940014907,1952.299095680275
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,2013,7.11169914484882,66.49780894251589,3.217857074308035,1959.410794825124
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,2013,0.471714934039544,-93.36705723299306,3.224263123389675,1959.8825097591634
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,2013,2.25526710697942,378.0995775703723,3.339078871746861,1962.1377768661428
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,2013,3.53252373288843,56.63438365931284,3.5285103810505354,1965.6703005990312
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,2013,6.53727872302032,85.05972549192187,3.9816967283553026,1972.2075793220515
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,2014,5.47912415308048,-16.186468632791538,3.6551817300016354,1977.686703475132
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,2014,0.534538705852067,-90.24408480410983,3.6677464843641396,1978.221242180984
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,2014,2.70822956830356,406.64798239195414,3.7583389766289677,1980.9294717492876
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,2014,8.20491767892922,202.96241407883292,4.692817765837126,1989.1343894282168
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,2014,2.93548457295793,-64.22286380158997,3.9724589358246485,1992.0698740011746
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,2015,12.7477715826758,334.2646423731859,5.426188421743712,2004.8176455838504
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,2015,1.3309970915437,-89.55898226673183,5.585480098882039,2006.148642675394
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,2015,3.0858683950826,131.84636650885452,5.661007864237847,2009.2345110704766
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,2015,10.2629420960796,232.57873577608902,6.072612747667923,2019.4974531665562
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,2015,3.05306827987021,-70.25152971450098,6.096129489050378,2022.5505214464263
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,2016,10.6361770478972,248.3766517121379,5.673810582094659,2033.1866984943235
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,2016,0.670607862957967,-93.69502914498261,5.541732736377513,2033.8573063572815
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,2016,5.06402475865708,655.1394843955904,5.937364009092408,2038.9213311159385
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,2016,8.14708855818151,60.881688902761645,5.51419330151279,2047.0684196741202
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,2016,4.53370559361041,-44.351831194254665,5.8103207642608306,2051.6021252677306
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,2017,10.8794010093623,139.96708177732611,5.85896555655385,2062.481526277093
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,2017,0.637057806712271,-94.14436689883892,5.852255545304711,2063.118584083805
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,2017,2.78334764663435,336.9066067958032,5.396120122900165,2065.9019317304396
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,2017,5.92805098152186,112.98277233496559,4.952312607568235,2071.8299827119613
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,2017,4.08136657180363,-31.151628342510396,4.861844803206879,2075.911349283765
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,2018,11.3524685259237,178.15361169351758,4.956458306519158,2087.2638178096886
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,2018,0.75674536877782,-93.33408969996464,4.980395818932268,2088.0205631784665
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,2018,4.21951669954616,457.5873832384177,5.267629629514631,2092.2400798780127
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,2018,11.0568565162543,162.04082845420533,6.293390736461118,2103.296936394267
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,2018,10.1757783446215,-7.968613595894613,7.512273091024693,2113.4727147388885
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Brazil,BRA,2019,0.0,-100.0,5.241779385839953,2113.4727147388885
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,China,CHN,2019,0.0,,5.090430312084389,2113.4727147388885
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,India,IND,2019,0.0,,4.246526972175157,2113.4727147388885
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,Russian Federation,RUS,2019,0.0,,2.0351556689242973,2113.4727147388885
+"Debt service (PPG and IMF only, % of exports of goods, services and primary income)",DT.TDS.DPPF.XP.ZS,South Africa,ZAF,2019,0.0,,0.0,2113.4727147388885

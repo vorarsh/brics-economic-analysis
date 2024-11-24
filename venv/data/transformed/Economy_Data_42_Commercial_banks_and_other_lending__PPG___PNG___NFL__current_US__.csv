@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1970,1143487000.0,,,1143487000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1970,0.0,-100.0,,1143487000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1970,-48444000.0,-inf,,1095043000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1970,0.0,-100.0,,1095043000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1970,0.0,,219008600.0,1095043000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1971,1233192000.0,inf,236949600.0,2328235000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1971,0.0,-100.0,236949600.0,2328235000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1971,-19010000.0,-inf,242836400.0,2309225000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1971,0.0,-100.0,242836400.0,2309225000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1971,0.0,,242836400.0,2309225000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1972,3174186000.0,inf,631035200.0,5483411000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1972,0.0,-100.0,631035200.0,5483411000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1972,-38383000.0,-inf,627160600.0,5445028000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1972,0.0,-100.0,627160600.0,5445028000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1972,0.0,,627160600.0,5445028000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1973,2275668000.0,inf,447457000.0,7720696000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1973,0.0,-100.0,447457000.0,7720696000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1973,-97505000.0,-inf,435632600.0,7623191000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1973,0.0,-100.0,435632600.0,7623191000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1973,0.0,,435632600.0,7623191000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1974,5511440000.0,inf,1082787000.0,13134631000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1974,0.0,-100.0,1082787000.0,13134631000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1974,7501000.0,inf,1103788200.0,13142132000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1974,0.0,-100.0,1103788200.0,13142132000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1974,0.0,,1103788200.0,13142132000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1975,4216869000.0,inf,844874000.0,17359001000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1975,0.0,-100.0,844874000.0,17359001000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1975,78033000.0,inf,858980400.0,17437034000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1975,0.0,-100.0,858980400.0,17437034000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1975,0.0,,858980400.0,17437034000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1976,5031308000.0,inf,1021868200.0,22468342000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1976,0.0,-100.0,1021868200.0,22468342000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1976,-14428000.0,-inf,1003376000.0,22453914000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1976,0.0,-100.0,1003376000.0,22453914000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1976,0.0,,1003376000.0,22453914000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1977,4940453000.0,inf,985205000.0,27394367000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1977,0.0,-100.0,985205000.0,27394367000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1977,87288000.0,inf,1005548200.0,27481655000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1977,0.0,-100.0,1005548200.0,27481655000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1977,0.0,,1005548200.0,27481655000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1978,8010937000.0,inf,1619645000.0,35492592000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1978,0.0,-100.0,1619645000.0,35492592000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1978,-9652000.0,-inf,1600257000.0,35482940000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1978,0.0,-100.0,1600257000.0,35482940000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1978,0.0,,1600257000.0,35482940000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1979,4601533000.0,inf,918376200.0,40084473000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1979,0.0,-100.0,918376200.0,40084473000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1979,13092000.0,inf,922925000.0,40097565000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1979,0.0,-100.0,922925000.0,40097565000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1979,0.0,,922925000.0,40097565000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1980,3398491000.0,inf,682316600.0,43496056000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1980,0.0,-100.0,682316600.0,43496056000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1980,789044000.0,inf,837507000.0,44285100000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1980,0.0,-100.0,837507000.0,44285100000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1980,0.0,,837507000.0,44285100000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1981,7568736000.0,inf,1671556000.0,51853836000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1981,106519000.0,-98.59264479564357,1692859800.0,51960355000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1981,828828000.0,678.1034369455215,1700816600.0,52789183000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1981,0.0,-100.0,1700816600.0,52789183000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1981,0.0,,1700816600.0,52789183000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1982,7744225000.0,inf,1735914400.0,60533408000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1982,-144089000.0,-101.86059934983811,1685792800.0,60389319000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1982,1175039000.0,-915.4952841646482,1755035000.0,61564358000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1982,0.0,-100.0,1755035000.0,61564358000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1982,0.0,,1755035000.0,61564358000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1983,2896152000.0,inf,785420400.0,64460510000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1983,359428000.0,-87.58946353644423,886123800.0,64819938000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1983,1311306000.0,264.83134313409084,913377200.0,66131244000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1983,0.0,-100.0,913377200.0,66131244000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1983,0.0,,913377200.0,66131244000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1984,4884807000.0,inf,1311108200.0,71016051000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1984,161298000.0,-96.69796575381586,1271482200.0,71177349000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1984,1727843000.0,971.2116703244925,1354789600.0,72905192000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1984,0.0,-100.0,1354789600.0,72905192000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1984,0.0,,1354789600.0,72905192000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1985,388580000.0,inf,455544200.0,73293772000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1985,1892092000.0,386.92470019043697,801703000.0,75185864000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1985,1954536000.0,3.300262355107475,847041600.0,77140400000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1985,0.0,-100.0,847041600.0,77140400000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1985,0.0,,847041600.0,77140400000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1986,4168000.0,inf,770159200.0,77144568000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1986,2356755000.0,56444.02591170825,863091800.0,79501323000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1986,2480229000.0,5.2391529879007415,968230400.0,81981552000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1986,0.0,-100.0,968230400.0,81981552000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1986,0.0,,968230400.0,81981552000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1987,-59496000.0,-inf,955497600.0,81922056000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1987,4397640000.0,-7491.488503428802,1363674600.0,86319696000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1987,2716366000.0,-38.23127859488271,1410902000.0,89036062000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1987,0.0,-100.0,1410902000.0,89036062000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1987,0.0,,1410902000.0,89036062000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1988,3127559000.0,inf,2048313000.0,92163621000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1988,4654316000.0,48.8162493497325,2099648200.0,96817937000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1988,5003925000.0,7.511501152908395,2557160000.0,101821862000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1988,0.0,-100.0,2557160000.0,101821862000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1988,0.0,,2557160000.0,101821862000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1989,-3326845000.0,-inf,1266279200.0,98495017000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1989,3384451000.0,-201.7315504629762,1012306200.0,101879468000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1989,2201692000.0,-34.946849577671536,451859600.0,104081160000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1989,0.0,-100.0,451859600.0,104081160000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1989,0.0,,451859600.0,104081160000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1990,-539113000.0,-inf,1009406000.0,103542047000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1990,4667616000.0,-965.7954825797189,1266039000.0,108209663000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1990,1457250000.0,-68.77956541412146,1117150600.0,109666913000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1990,0.0,-100.0,1117150600.0,109666913000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1990,0.0,,1117150600.0,109666913000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1991,533027000.0,inf,1331578600.0,110199940000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1991,2468905000.0,363.1857298035559,891836400.0,112668845000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1991,89264000.0,-96.38447003833683,618239200.0,112758109000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1991,0.0,-100.0,618239200.0,112758109000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1991,0.0,,618239200.0,112758109000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1992,2965370000.0,inf,1104707800.0,115723479000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1992,8952102000.0,201.88819607671218,2401347200.0,124675581000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1992,1767071000.0,-80.26082589318129,2736908600.0,126442652000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1992,9334506000.0,428.2473652728159,4603809800.0,135777158000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1992,0.0,-100.0,4603809800.0,135777158000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1993,4693539000.0,inf,4949443600.0,140470697000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1993,5979429000.0,27.397023866212677,4354909000.0,146450126000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1993,2179887000.0,-63.543559092348126,4437472200.0,148630013000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1993,2468313000.0,13.231236298028293,3064233600.0,151098326000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1993,0.0,-100.0,3064233600.0,151098326000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1994,2866215000.0,inf,2698768800.0,153964541000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1994,3814393000.0,33.08118895477137,2265761600.0,157778934000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1994,1455160000.0,-61.85081086296037,2120816200.0,159234094000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1994,-280440000.0,-119.27210753456666,1571065600.0,158953654000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1994,20393000.0,-107.27178719155613,1575144200.0,158974047000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1995,8282394000.0,40513.906732702395,2658380000.0,167256441000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1995,4696140000.0,-43.29972710788692,2834729400.0,171952581000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1995,956018000.0,-79.64247232833775,2734901000.0,172908599000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1995,555448000.0,-41.899838705965784,2902078600.0,173464047000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1995,747519000.0,34.5794745862799,3047503800.0,174211566000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1996,9751649000.0,1204.5352693376356,3341354800.0,183963215000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1996,5263514000.0,-46.02436982709284,3454829600.0,189226729000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1996,35443000.0,-99.32662856031162,3270714600.0,189262172000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1996,224140000.0,532.3956775667974,3204453000.0,189486312000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1996,-844727000.0,-476.8747211564201,2886003800.0,188641585000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1997,15021738000.0,-1878.2949994495261,3940021600.0,203663323000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1997,4804615000.0,-68.01558514733782,3848241800.0,208467938000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1997,-790440000.0,-116.45168239286603,3683065200.0,207677498000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1997,-674451000.0,-14.673979049643238,3503347000.0,207003047000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1997,-1120037000.0,66.06647480691703,3448285000.0,205883010000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1998,19913386000.0,-1877.9221579287114,4426614600.0,225796396000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1998,-3935672000.0,-119.76395174582564,2678557200.0,221860724000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1998,-938128000.0,-76.1634607762029,2649019600.0,220922596000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1998,1246122000.0,-232.8307011409957,3033134200.0,222168718000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1998,-698047000.0,-156.01754884353215,3117532200.0,221470671000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,1999,-13994526000.0,1904.8114238726048,-3664050200.0,207476145000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,1999,-1725694000.0,-87.66879278369271,-3222054600.0,205750451000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,1999,-380798000.0,-77.93363133904388,-3110588600.0,205369653000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,1999,-153618000.0,-59.65892678007763,-3390536600.0,205216035000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,1999,-1401862000.0,812.5636318660573,-3531299600.0,203814173000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,2000,2262024000.0,-261.35853600425725,-279989600.0,206076197000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,2000,-2138296000.0,-194.5302083443854,-362510000.0,203937901000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,2000,-1406986000.0,-34.20059711097061,-567747600.0,202530915000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,2000,-468790000.0,-66.68126051005483,-630782000.0,202062125000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,2000,-148298000.0,-68.36579278568229,-380069200.0,201913827000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,2001,-5623564000.0,3692.0700211735825,-1957186800.0,196290263000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,2001,-5651338000.0,0.49388608362952446,-2659795200.0,190638925000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,2001,-1040930000.0,-81.5808220991206,-2586584000.0,189597995000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,2001,-618675000.0,-40.565167686587955,-2616561000.0,188979320000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,2001,-1302719000.0,110.56596759203137,-2847445200.0,187676601000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,2002,-9769582000.0,649.9377839733664,-3676648800.0,177907019000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,2002,-3395153000.0,-65.24771479475785,-3225411800.0,174511866000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,2002,1246676000.0,-136.7192877611112,-2767890600.0,175758542000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,2002,-386984000.0,-131.0412649317064,-2721552400.0,175371558000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,2002,-1978123000.0,411.16402745333136,-2856633200.0,173393435000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,2003,-7341189000.0,271.1189344646415,-2370954600.0,166052246000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,2003,-2932125000.0,-60.05926287962345,-2278349000.0,163120121000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,2003,7237986000.0,-346.8512085944494,-1080087000.0,170358107000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,2003,9609870000.0,32.76994456745288,919283800.0,179967977000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,2003,-2125388000.0,-122.11671958101411,889830800.0,177842589000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,2004,-471109000.0,-77.83421191801214,2263846800.0,177371480000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,2004,4148865000.0,-980.6592529541996,3680044800.0,181520345000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,2004,374473000.0,-90.97408568367493,2307342200.0,181894818000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,2004,20045712000.0,5253.046013998339,4394510600.0,201940530000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,2004,-668167000.0,-103.33321660013873,4685954800.0,201272363000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,2005,-1940940000.0,190.48725842491473,4391988600.0,199331423000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,2005,2625096000.0,-235.24869393180623,4087234800.0,201956519000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,2005,2812811000.0,7.150786104584372,4574902400.0,204769330000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,2005,33436558000.0,1088.7239491028727,7253071600.0,238205888000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,2005,902618000.0,-97.30050563218857,7567228600.0,239108506000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,2006,13582768000.0,1404.8190929053044,10671970200.0,252691274000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,2006,5794863000.0,-57.33665626917871,11305923600.0,258486137000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,2006,13541431000.0,133.67991616022672,13451647600.0,272027568000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,2006,25195034000.0,86.05887368919873,11803342800.0,297222602000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,2006,-416480000.0,-101.65302416341252,11539523200.0,296806122000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,2007,19109489000.0,-4688.332933154053,12644867400.0,315915611000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,2007,13851610000.0,-27.51449293071102,14256216800.0,329767221000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,2007,20668665000.0,49.214892709222966,15681663600.0,350435886000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,2007,52579574000.0,154.39269541598355,21158571600.0,403015460000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,2007,937501000.0,-98.21698631487581,21429367800.0,403952961000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,2008,24682678000.0,2532.81617832941,22544005600.0,428635639000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,2008,14238099000.0,-42.31542055525741,22621303400.0,442873738000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,2008,10399396000.0,-26.96078317758571,20567449600.0,453273134000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,2008,45733454000.0,339.77029050533315,19198225600.0,499006588000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,2008,-85191000.0,-100.18627720530358,18993687200.0,498921397000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,2009,6044986000.0,-7195.803547323074,15266148800.0,504966383000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,2009,-10477226000.0,-273.3209307680779,10323083800.0,494489157000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,2009,10650169000.0,-201.65065638557382,10373238400.0,505139326000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,2009,-18508121000.0,-273.7824160349005,-2475076600.0,486631205000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,2009,-197787000.0,-98.93135018946549,-2497595800.0,486433418000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,2010,15320878000.0,-7846.150151425523,-642417400.0,501754296000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,2010,24119960000.0,57.431969629938976,6277019800.0,525874256000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,2010,8829215000.0,-63.39457030608675,5912829000.0,534703471000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,2010,23425587000.0,165.31902326537522,14299570600.0,558129058000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,2010,1302165000.0,-94.44127056453272,14599561000.0,559431223000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,2011,48347761000.0,3612.8751732691326,21204937600.0,607778984000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,2011,28416365000.0,-41.22506521036207,22064218600.0,636195349000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,2011,18179921000.0,-36.02305924772574,23934359800.0,654375270000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,2011,46982405000.0,158.43019339853015,28645723400.0,701357675000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,2011,2204631000.0,-95.30753906701881,28826216600.0,703562306000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,2012,41406386000.0,1778.1549384001223,27437941600.0,744968692000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,2012,15943029000.0,-61.49620737245699,24943274400.0,760911721000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,2012,22710104000.0,42.44535338924618,25849311000.0,783621825000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,2012,70765914000.0,211.6054158096326,30606012800.0,854387739000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,2012,1343699000.0,-98.10120589977825,30433826400.0,855731438000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,2013,45660825000.0,3298.143855134223,31284714200.0,901392263000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,2013,18894747000.0,-58.61934820494373,31875057800.0,920287010000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,2013,41821756000.0,121.34065092271413,35697388200.0,962108766000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,2013,43574589000.0,4.1911989539607175,30259123200.0,1005683355000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,2013,1702764000.0,-96.09230049192202,30330936200.0,1007386119000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,2014,67590159000.0,3869.4378669034586,34716803000.0,1074976278000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,2014,45056776000.0,-33.338260086057794,39949208800.0,1120033054000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,2014,19738104000.0,-56.1928177018258,35532478400.0,1139771158000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,2014,-35185869000.0,-278.26367213385845,19780386800.0,1104585289000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,2014,4694025000.0,-113.34065388579717,20378639000.0,1109279314000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,2015,28124920000.0,499.16425668802356,12485591200.0,1137404234000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,2015,19772777000.0,-29.696592914753182,7428791400.0,1157177011000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,2015,15424413000.0,-21.99167066922365,6566053200.0,1172601424000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,2015,-60024689000.0,-489.15379794355863,1598289200.0,1112576735000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,2015,8814877000.0,-114.68541886156211,2422459600.0,1121391612000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,2016,20259684000.0,129.83512986057545,849412400.0,1141651296000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,2016,12234386000.0,-39.612157820427996,-658265800.0,1153885682000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,2016,-22211282000.0,-281.54799104752783,-8185404800.0,1131674400000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,2016,22895118000.0,-203.0787777130559,8398556600.0,1154569518000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,2016,3427659000.0,-85.02886510565266,7321113000.0,1157997177000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,2017,14565077000.0,324.9278297520261,6182191600.0,1172562254000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,2017,3804870000.0,-73.87676014345821,4496288400.0,1176367124000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,2017,3714862000.0,-2.3655998759484542,9681517200.0,1180081986000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,2017,2225490000.0,-40.0922564552869,5547591600.0,1182307476000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,2017,9156156000.0,311.42202391383466,6693291000.0,1191463632000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,2018,29618885000.0,223.48602404764623,9704052600.0,1221082517000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,2018,-5377239000.0,-118.15476511016536,7867630800.0,1215705278000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,2018,10898806000.0,-302.68405402847077,9304419600.0,1226604084000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,2018,-55893838000.0,-612.8436821427962,-2319446000.0,1170710246000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,2018,4538484000.0,-108.11982887988476,-3242980400.0,1175248730000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Brazil,BRA,2019,-3689440000.0,-181.2923434345037,-9904645400.0,1171559290000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,China,CHN,2019,53016816000.0,-1536.9881608048918,1774165600.0,1224576106000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,India,IND,2019,20684619000.0,-60.98479584288879,3731328200.0,1245260725000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,Russian Federation,RUS,2019,-31614581000.0,-252.84101196159332,8587179600.0,1213646144000.0
+"Commercial banks and other lending (PPG + PNG) (NFL, current US$)",DT.NFL.PCBO.CD,South Africa,ZAF,2019,-2628420000.0,-91.6860514456921,7153798800.0,1211017724000.0

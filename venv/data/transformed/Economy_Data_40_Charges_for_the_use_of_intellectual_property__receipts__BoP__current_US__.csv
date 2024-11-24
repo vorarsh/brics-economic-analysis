@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1970,0.0,,,0.0
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1970,0.0,,,0.0
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1970,0.0,,,0.0
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1970,0.0,,,0.0
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1970,4199998.32168067,inf,839999.664336134,4199998.32168067
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1971,0.0,-100.0,839999.664336134,4199998.32168067
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1971,0.0,,839999.664336134,4199998.32168067
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1971,0.0,,839999.664336134,4199998.32168067
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1971,0.0,,839999.664336134,4199998.32168067
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1971,6985476.14225652,inf,1397095.228451304,11185474.46393719
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1972,0.0,-100.0,1397095.228451304,11185474.46393719
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1972,0.0,,1397095.228451304,11185474.46393719
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1972,0.0,,1397095.228451304,11185474.46393719
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1972,0.0,,1397095.228451304,11185474.46393719
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1972,10251867.9728003,inf,2050373.59456006,21437342.43673749
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1973,0.0,-100.0,2050373.59456006,21437342.43673749
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1973,0.0,,2050373.59456006,21437342.43673749
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1973,0.0,,2050373.59456006,21437342.43673749
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1973,0.0,,2050373.59456006,21437342.43673749
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1973,5773073.19604799,inf,1154614.6392095978,27210415.632785477
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1974,0.0,-100.0,1154614.6392095978,27210415.632785477
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1974,0.0,,1154614.6392095978,27210415.632785477
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1974,0.0,,1154614.6392095978,27210415.632785477
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1974,0.0,,1154614.6392095978,27210415.632785477
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1974,7377986.34929872,inf,1475597.269859744,34588401.9820842
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1975,134000000.0,1716.2137154501072,28275597.269859742,168588401.9820842
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1975,0.0,-100.0,28275597.269859742,168588401.9820842
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1975,0.0,,28275597.269859742,168588401.9820842
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1975,0.0,,28275597.269859742,168588401.9820842
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1975,8305088.20645571,inf,28461017.64129114,176893490.18853992
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1976,131000000.0,1477.3462815021169,27861017.64129114,307893490.1885399
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1976,0.0,-100.0,27861017.64129114,307893490.1885399
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1976,111523.92688918,inf,27883322.42666898,308005014.1154291
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1976,0.0,-100.0,27883322.42666898,308005014.1154291
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1976,10349999.991,inf,28292304.783577837,318355014.1064291
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1977,127000000.0,1127.053141163621,27492304.783577837,445355014.1064291
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1977,0.0,-100.0,27492304.783577837,445355014.1064291
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1977,113459.994886484,inf,27492691.997177295,445468474.10131556
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1977,0.0,-100.0,27492691.997177295,445468474.10131556
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1977,10349999.991,inf,27492691.997177295,455818474.09231555
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1978,159000000.0,1436.2318853938248,33892691.997177295,614818474.0923156
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1978,0.0,-100.0,33892691.997177295,614818474.0923156
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1978,0.0,,33869999.9982,614818474.0923156
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1978,0.0,,33869999.9982,614818474.0923156
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1978,9199999.992,inf,33639999.9984,624018474.0843155
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1979,11000000.0,19.56521749527409,4039999.9984,635018474.0843155
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1979,0.0,-100.0,4039999.9984,635018474.0843155
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1979,0.0,,4039999.9984,635018474.0843155
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1979,0.0,,4039999.9984,635018474.0843155
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1979,11892085.2724528,inf,4578417.054490561,646910559.3567684
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1980,12000000.0,0.907449997833254,4778417.054490561,658910559.3567684
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1980,0.0,-100.0,4778417.054490561,658910559.3567684
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1980,0.0,,4778417.054490561,658910559.3567684
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1980,0.0,,4778417.054490561,658910559.3567684
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1980,16688942.5017713,inf,5737788.50035426,675599501.8585397
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1981,19000000.0,13.847836661810152,7137788.50035426,694599501.8585397
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1981,0.0,-100.0,7137788.50035426,694599501.8585397
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1981,111305.389516412,inf,7160049.578257543,694710807.248056
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1981,0.0,-100.0,7160049.578257543,694710807.248056
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1981,18119817.2554672,inf,7446224.528996723,712830624.5035232
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1982,15000000.0,-17.217708167149826,6646224.528996723,727830624.5035232
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1982,0.0,-100.0,6646224.528996723,727830624.5035232
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1982,625124.175325906,inf,6748988.286158621,728455748.6788491
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1982,0.0,-100.0,6748988.286158621,728455748.6788491
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1982,18482154.7296672,inf,6821455.780998622,746937903.4085163
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1983,11000000.0,-40.48313001977518,6021455.780998622,757937903.4085163
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1983,0.0,-100.0,6021455.780998622,757937903.4085163
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1983,896690.489893738,inf,6075769.043912188,758834593.8984101
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1983,0.0,-100.0,6075769.043912188,758834593.8984101
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1983,17970565.2961061,inf,5973451.157199968,776805159.1945162
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1984,11000000.0,-38.78879256857043,5973451.157199968,787805159.1945162
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1984,0.0,-100.0,5973451.157199968,787805159.1945162
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1984,173389.201559159,inf,5828790.899533052,787978548.3960754
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1984,0.0,-100.0,5828790.899533052,787978548.3960754
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1984,13899193.0637458,inf,5014516.453060992,801877741.4598212
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1985,7000000.0,-49.63736406929572,4214516.453060992,808877741.4598212
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1985,0.0,-100.0,4214516.453060992,808877741.4598212
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1985,165407.730054585,inf,4212920.158760076,809043149.1898758
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1985,0.0,-100.0,4212920.158760076,809043149.1898758
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1985,10799651.5192685,inf,3593011.849864617,819842800.7091444
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1986,4000000.0,-62.96176786016393,2993011.849864617,823842800.7091444
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1986,0.0,-100.0,2993011.849864617,823842800.7091444
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1986,397330.037929544,inf,3039396.3114396087,824240130.7470739
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1986,0.0,-100.0,3039396.3114396087,824240130.7470739
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1986,12689753.829651,inf,3417416.7735161087,836929884.5767249
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1987,5000000.0,-60.59813242147415,3617416.7735161087,841929884.5767249
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1987,0.0,-100.0,3617416.7735161087,841929884.5767249
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1987,771836.313459158,inf,3692318.028622032,842701720.890184
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1987,0.0,-100.0,3692318.028622032,842701720.890184
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1987,14743861.8772103,inf,4103139.638133892,857445582.7673943
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1988,6000000.0,-59.305098962747024,4303139.638133892,863445582.7673943
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1988,0.0,-100.0,4303139.638133892,863445582.7673943
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1988,1032024.35151543,inf,4355177.245745147,864477607.1189097
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1988,0.0,-100.0,4355177.245745147,864477607.1189097
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1988,14142618.5724591,inf,4234928.584794906,878620225.6913688
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1989,12000000.0,-15.150083851031448,5434928.584794906,890620225.6913688
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1989,0.0,-100.0,5434928.584794906,890620225.6913688
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1989,1292412.28765816,inf,5487006.172023451,891912637.979027
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1989,0.0,-100.0,5487006.172023451,891912637.979027
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1989,12182024.7840304,inf,5094887.414337712,904094662.7630575
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1990,12000000.0,-1.4942079601497738,5094887.414337712,916094662.7630575
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1990,0.0,-100.0,5094887.414337712,916094662.7630575
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1990,1323398.8097299,inf,5101084.71875206,917418061.5727874
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1990,0.0,-100.0,5101084.71875206,917418061.5727874
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1990,18910416.8458018,inf,6446763.131106339,936328478.4185892
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1991,13000000.0,-31.25482052561914,6646763.131106339,949328478.4185892
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1991,0.0,-100.0,6646763.131106339,949328478.4185892
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1991,615524.763325468,inf,6505188.321825453,949944003.1819147
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1991,0.0,-100.0,6505188.321825453,949944003.1819147
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1991,89679379.7978977,inf,20658980.912244633,1039623382.9798124
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1992,12000000.0,-86.61899755881083,20458980.912244633,1051623382.9798124
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1992,0.0,-100.0,20458980.912244633,1051623382.9798124
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1992,731658.988919697,inf,20482207.757363476,1052355041.9687321
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1992,0.0,-100.0,20482207.757363476,1052355041.9687321
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1992,53306031.2434429,inf,13207538.04647252,1105661073.2121751
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1993,34000000.0,-36.21734875604289,17607538.04647252,1139661073.2121751
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1993,0.0,-100.0,17607538.04647252,1139661073.2121751
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1993,290980.453742414,inf,17519402.339437064,1139952053.6659176
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1993,0.0,-100.0,17519402.339437064,1139952053.6659176
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1993,50402694.4092463,inf,16938734.97259774,1190354748.0751638
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1994,19000000.0,-62.303602569876745,13938734.972597742,1209354748.0751638
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1994,0.0,-100.0,13938734.972597742,1209354748.0751638
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1994,446175.135529177,inf,13969773.908955097,1209800923.2106931
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1994,3610000.0,709.0993227846354,14691773.908955097,1213410923.2106931
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1994,51273706.5587749,1320.324281406507,14865976.338860815,1264684629.769468
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1995,32000000.0,-37.58984448819106,17465976.338860817,1296684629.769468
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1995,0.0,-100.0,17465976.338860817,1296684629.769468
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1995,1395550.26340294,inf,17655851.36443557,1298080180.032871
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1995,4030000.0,188.77498042766015,17739851.36443557,1302110180.032871
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1995,44672003.8886802,1008.4864488506252,16419510.830416625,1346782183.9215512
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1996,78000000.0,74.60600199259262,25619510.830416627,1424782183.9215512
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1996,0.0,-100.0,25619510.830416627,1424782183.9215512
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1996,6899307.42773766,inf,26720262.26328357,1431681491.349289
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1996,159210000.0,2207.62292690306,57756262.263283566,1590891491.349289
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1996,66941851.7253898,-57.95373925922379,62210231.83062549,1657833343.0746787
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1997,97000000.0,44.90187752486343,66010231.83062549,1754833343.0746787
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1997,55000000.0,-43.29896907216495,77010231.83062549,1809833343.0746787
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1997,12414145.5187344,-77.42882632957382,78113199.44882485,1822247488.593413
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1997,176070000.0,1318.3014024951597,81485199.44882484,1998317488.593413
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1997,52112946.0234619,-70.40214345234173,78519418.30843927,2050430434.616875
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1998,142000000.0,172.4850748911217,87519418.30843925,2192430434.6168747
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1998,63000000.0,-55.6338028169014,89119418.30843925,2255430434.6168747
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1998,19303913.3226733,-69.35886774178842,90497371.86922704,2274734347.939548
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1998,27030000.0,40.0234219258127,60689371.86922705,2301764347.939548
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1998,48962908.643681,81.14283626963004,60059364.393270865,2350727256.583229
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,1999,133000000.0,171.63418939810998,58259364.393270865,2483727256.583229
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,1999,75000000.0,-43.609022556390975,60659364.393270865,2558727256.583229
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,1999,22883886.5633397,-69.4881512488804,61375359.04140414,2581611143.146569
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,1999,42540000.0,85.89499594946281,64477359.04140413,2624151143.146569
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,1999,44195432.6643811,3.891473117962163,63523863.84554416,2668346575.81095
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,2000,125190000.0,183.26456480399096,61961863.84554416,2793536575.81095
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,2000,80348000.0,-35.81915488457545,63031463.84554416,2873884575.81095
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,2000,82548708.7700892,2.7389714368611484,74964428.28689405,2956433284.581039
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,2000,91340000.0,10.649822826903211,84724428.28689405,3047773284.581039
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,2000,49094178.9315161,-46.251172617127104,85704177.54032105,3096867463.512555
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,2001,112092000.0,128.32034762484298,83084577.54032107,3208959463.512555
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,2001,110000000.0,-1.8663240909253087,89014977.54032107,3318959463.512555
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,2001,37156159.5439439,-66.22167314186919,79936467.69509201,3356115623.056499
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,2001,60370000.0,62.47642582275363,73742467.69509201,3416485623.056499
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,2001,21490396.2330755,-64.40219275621087,68221711.15540388,3437976019.2895746
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,2002,100258000.0,366.5246694972271,65854911.155403875,3538234019.2895746
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,2002,132822320.4866,32.48052074308285,70419375.25272389,3671056339.7761745
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,2002,20159947.9368238,-84.82186739174033,67020132.931299865,3691216287.7129984
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,2002,146790000.0,628.126880386809,84304132.93129987,3838006287.7129984
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,2002,19454588.5677067,-86.7466526550128,83896971.39822611,3857460876.280705
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,2003,108116000.0,455.73521703494276,85468571.39822611,3965576876.280705
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,2003,106978898.2646,-1.0517423280550608,80299886.9538261,4072555774.545305
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,2003,24088615.6906115,-77.48283438942222,81085620.50458364,4096644390.235916
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,2003,173610000.0,620.7138933586135,86449620.50458364,4270254390.235916
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,2003,26550160.131383,-84.70700988918668,87868734.81731889,4296804550.367299
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,2004,114479000.0,331.1800736172689,89141334.81731889,4411283550.367299
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,2004,236359258.2114,106.46516672175683,115017406.80667892,4647642808.578699
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,2004,52796059.5739589,-77.66279181383365,120758895.5833484,4700438868.152658
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,2004,226060000.0,328.175893853074,131248895.5833484,4926498868.152658
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,2004,37391888.5875072,-83.45930788838928,133417241.2745732,4963890756.740166
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,2005,101660000.0,171.8771472644071,130853441.2745732,5065550756.740166
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,2005,157401785.777,54.83158152370648,115061946.78769322,5222952542.517166
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,2005,205974583.701422,30.859114897996022,145697651.61318585,5428927126.218588
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,2005,256340000.0,24.45224813348186,151753651.61318585,5685267126.218588
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,2005,45302063.011666,-82.32735312020519,153335686.4980176,5730569189.230254
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,2006,150307000.0,231.78842200032602,163065086.4980176,5880876189.230254
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,2006,204503785.234955,36.05739269292516,172485486.38960862,6085379974.465209
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,2006,60913260.3059551,-70.21411597053245,143473221.7105152,6146293234.771164
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,2006,273290000.0,348.6543629865142,146863221.7105152,6419583234.771164
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,2006,55106998.0117651,-79.83570638817187,148824208.71053505,6474690232.782929
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,2007,319410000.0,479.6178553072468,182644808.71053505,6794100232.782929
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,2007,342634074.968637,7.270929203417853,210270866.65727144,7136734307.751566
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,2007,163126496.583273,-52.390463033133884,230713513.91273504,7299860804.334839
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,2007,351530000.0,115.49534095495675,246361513.91273504,7651390804.334839
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,2007,75106030.2632775,-78.634531828499,250361320.36303753,7726496834.598116
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,2008,465444000.0,519.7158848210024,279568120.36303747,8191940834.598116
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,2008,570536223.222954,22.57891888668755,325148550.0139009,8762477057.82107
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,2008,147815443.392231,-74.09183897961415,322086339.3756925,8910292501.2133
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,2008,406370000.0,174.9171471357629,333054339.3756925,9316662501.2133
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,2008,78842738.1260898,-80.59828773627733,333801680.94825494,9395505239.33939
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,2009,433807800.0,450.2190947582641,327474440.94825494,9829313039.33939
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,2009,429452520.0,-1.0039653505538593,299257700.30366415,10258765559.33939
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,2009,191939516.593492,-55.30599829906877,308082514.9439164,10450705075.932882
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,2009,380760000.0,98.37499164198178,302960514.9439164,10831465075.932882
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,2009,75704499.3644478,-80.1175282686081,302332867.191588,10907169575.29733
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,2010,189605958.45,150.45533626372855,253492498.88158798,11096775533.747332
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,2010,830483814.0,338.0051243057336,333698757.681588,11927259347.747332
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,2010,127378163.310578,-84.66217388427295,320786487.02500516,12054637511.057909
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,2010,386220000.0,203.2073865426247,321878487.02500516,12440857511.057909
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,2010,113985144.628534,-70.48699067149965,329534616.0778224,12554842655.686443
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,2011,300800012.92,163.89404856244792,351773426.9718224,12855642668.606443
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,2011,743301698.0,147.10826664681247,334337003.7718224,13598944366.606443
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,2011,302615975.492119,-59.28759798257328,369384566.2081306,13901560342.098562
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,2011,555780000.0,83.6585127722294,403296566.20813066,14457340342.098562
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,2011,134505552.106637,-75.79877791452788,407400647.7037512,14591845894.2052
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,2012,276418446.25,105.50709016892732,402524334.3697512,14868264340.4552
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,2012,1044102041.0,277.7251681878304,462684402.9697512,15912366381.4552
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,2012,321445173.962871,-69.21324148978739,466450242.6639016,16233811555.418072
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,2012,664200000.0,106.62932711402888,488134242.6639016,16898011555.418072
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,2012,124888029.217752,-81.19722535113641,486210738.0861246,17022899584.635824
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,2013,368127587.4,194.76611145664,504552566.3161246,17391027172.035824
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,2013,886670295.0,140.85950777618902,473066217.11612463,18277697467.035824
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,2013,445568319.526626,-49.748139523877256,497890846.2288755,18723265786.56245
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,2013,737890000.0,65.60647776393485,512628846.2288755,19461155786.56245
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,2013,119974977.559124,-83.74080451569692,511646235.89715004,19581130764.121574
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,2014,375097938.44,212.6468085856909,513040306.1051499,19956228702.561573
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,2014,676381923.65,80.32141857750914,470982631.83514994,20632610626.211575
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,2014,658722433.043535,-2.6108755998634603,513613454.5385318,21291333059.255108
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,2014,665790000.0,1.0729203382083607,499193454.5385318,21957123059.255108
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,2014,116468991.146991,-82.50664756950525,498492257.2561051,22073592050.4021
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,2015,581080520.4,398.91435881559306,539688773.6481051,22654672570.8021
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,2015,1084600061.07,86.652283632463,621332401.1321052,23739272631.8721
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,2015,466556838.054459,-56.983513573272106,582899282.13429,24205829469.92656
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,2015,726170000.0,55.64448761015428,594975282.13429,24931999469.92656
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,2015,103118206.650559,-85.7997154040295,592305125.2350036,25035117676.577118
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,2016,650833689.72,531.1530338434875,606255759.0990036,25685951366.29712
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,2016,1161195654.71,78.41664822384449,621574877.8270037,26847147021.00712
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,2016,524879155.063454,-54.79838794311208,633239341.2288027,27372026176.07057
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,2016,547760000.0,4.3592595963884095,597557341.2288027,27919786176.07057
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,2016,109422730.800168,-80.02359960563605,598818246.0587244,28029208906.87074
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,2017,642157301.16,486.8591438580823,597082968.3467245,28671366208.03074
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,2017,4803034260.13,647.952916124094,1325450689.4307246,33474400468.16074
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,2017,659628260.998322,-86.26642606999708,1352400510.6176982,34134028729.15906
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,2017,732790000.0,11.091359077149065,1389406510.6176982,34866818729.15906
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,2017,119040051.607493,-83.75522979196045,1391329974.7791631,34985858780.76655
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,2018,825475487.44,593.4434892231181,1427993612.0351634,35811334268.20655
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,2018,5561288668.09,573.7073059960759,1579644493.6271634,41372622936.296555
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,2018,784900902.149806,-85.88634848873298,1604699021.8574603,42157523838.44636
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,2018,876100000.0,11.619186269298964,1633361021.85746,43033623838.44636
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,2018,120715706.695771,-86.22124110309657,1633696152.8751159,43154339545.14213
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Brazil,BRA,2019,641114074.37,431.09416489251265,1596823870.2611156,43795453619.51213
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,China,CHN,2019,6604705952.4,930.1920073881095,1805507327.1231155,50400159571.91213
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,India,IND,2019,871605164.428633,-86.80327071772345,1822848179.578881,51271764736.34077
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,Russian Federation,RUS,2019,1013670000.0,16.2992191154002,1850362179.578881,52285434736.34077
+"Charges for the use of intellectual property, receipts (BoP, current US$)",BX.GSR.ROYL.CD,South Africa,ZAF,2019,108148202.159057,-89.33102467676295,1847848678.671538,52393582938.499825

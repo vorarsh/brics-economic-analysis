@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1970,-599032024.248814,,,-599032024.248814
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1970,0.0,-100.0,,-599032024.248814
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1970,-378666666.666667,-inf,,-977698690.915481
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1970,0.0,-100.0,,-977698690.915481
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1970,-663599734.825546,-inf,-328259685.1482054,-1641298425.7410269
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1971,-520302243.54305,-21.593964518410726,-312513729.0070526,-2161600669.2840767
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1971,0.0,-100.0,-312513729.0070526,-2161600669.2840767
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1971,-391044936.57278,-inf,-314989382.9882752,-2552645605.856857
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1971,0.0,-100.0,-314989382.9882752,-2552645605.856857
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1971,-655745116.337859,-inf,-313418459.2907378,-3208390722.194716
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1972,-463660646.806538,-29.292550526957108,-302090139.9434354,-3672051369.001254
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1972,0.0,-100.0,-302090139.9434354,-3672051369.001254
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1972,-390655317.827853,-inf,-302012216.19445,-4062706686.8291073
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1972,0.0,-100.0,-302012216.19445,-4062706686.8291073
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1972,-702461651.928696,-inf,-311355523.3126174,-4765168338.757803
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1973,-898254736.047859,27.872423153860225,-398274341.1608816,-5663423074.805662
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1973,0.0,-100.0,-398274341.16088164,-5663423074.805662
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1973,-413328246.216457,-inf,-402808926.83860236,-6076751321.0221195
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1973,0.0,-100.0,-402808926.83860236,-6076751321.0221195
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1973,-925126569.89546,-inf,-447341910.43195516,-7001877890.91758
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1974,-810415500.006078,-12.399500092440807,-429774063.2235991,-7812293390.923657
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1974,0.0,-100.0,-429774063.2235991,-7812293390.923657
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1974,-364862831.636491,-inf,-420080980.30760586,-8177156222.560148
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1974,0.0,-100.0,-420080980.30760586,-8177156222.560148
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1974,-1249490410.32883,-inf,-484953748.39427984,-9426646632.888979
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1975,-1692729017.77704,35.47355015966567,-661416451.9484723,-11119375650.66602
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1975,0.0,-100.0,-661416451.9484723,-11119375650.66602
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1975,-294681859.153628,-inf,-647380257.4518996,-11414057509.819647
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1975,0.0,-100.0,-647380257.4518996,-11414057509.819647
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1975,-1538861481.64055,-inf,-705254471.7142437,-12952918991.460197
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1976,-2320083832.3662,50.766255445734096,-830725434.6320755,-15273002823.826397
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1976,0.0,-100.0,-830725434.6320755,-15273002823.826397
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1976,-260675967.465849,-inf,-823924256.2945198,-15533678791.292246
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1976,0.0,-100.0,-823924256.2945198,-15533678791.292246
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1976,-1501899998.694,-inf,-816531959.7052097,-17035578789.986246
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1977,-2917873473.22267,94.27881188893743,-936089887.8765037,-19953452263.208916
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1977,0.0,-100.0,-936089887.8765037,-19953452263.208916
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1977,-272116788.321168,-inf,-938378052.0475677,-20225569051.530083
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1977,0.0,-100.0,-938378052.0475677,-20225569051.530083
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1977,-1737649998.489,-inf,-985528052.0065676,-21963219050.01908
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1978,-4720098101.91149,171.6368719831913,-1345972977.7443318,-26683317151.930573
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1978,0.0,-100.0,-1345972977.7443318,-26683317151.930573
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1978,-190100168.165533,-inf,-1329569653.7132049,-26873417320.096104
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1978,0.0,-100.0,-1329569653.7132049,-26873417320.096104
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1978,-1952699998.302,-inf,-1372579653.6758046,-28826117318.3981
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1979,-6024274804.95134,208.51000205816766,-1633414994.2837746,-34850392123.34944
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1979,0.0,-100.0,-1633414994.2837746,-34850392123.34944
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1979,189440839.978208,inf,-1557506792.6550264,-34660951283.37123
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1979,0.0,-100.0,-1557506792.6550264,-34660951283.37123
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1979,-2339604656.06624,-inf,-1634887724.2078743,-37000555939.43747
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1980,-7724708204.37072,230.17151783920946,-1974974404.0917504,-44725264143.80819
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1980,0.0,-100.0,-1974974404.0917504,-44725264143.80819
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1980,437107236.975471,inf,-1925441124.6922977,-44288156906.83272
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1980,0.0,-100.0,-1925441124.6922977,-44288156906.83272
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1980,-3325485114.52327,-inf,-2122617216.3837037,-47613642021.35599
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1981,-10902032026.5667,227.83283193644897,-2758081980.8229,-58515674047.92268
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1981,-83333333.3333333,-99.235616505893,-2774748647.4895663,-58599007381.25602
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1981,44795842.9457746,-153.75501153492954,-2853210926.2955055,-58554211538.31024
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1981,0.0,-100.0,-2853210926.2955055,-58554211538.31024
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1981,-3579165186.12914,-inf,-2903946940.6166797,-62133376724.439384
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1982,-14453060026.9443,303.81092448474715,-3614152540.6921997,-76586436751.38368
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1982,271595419.847312,-101.87915513628938,-3543166790.056071,-76314841331.53638
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1982,-658475535.660501,-342.44721653652664,-3683821065.777326,-76973316867.19688
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1982,0.0,-100.0,-3683821065.777326,-76973316867.19688
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1982,-3127602210.73271,-inf,-3593508470.69804,-80100919077.9296
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1983,-11858046681.7018,279.1417796358377,-3074505801.6495395,-91958965759.6314
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1983,876574942.528739,-107.39223723820707,-2953509897.1132536,-91082390817.10266
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1983,-915429446.960367,-204.43253651758982,-3004900679.373227,-91997820264.06303
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1983,0.0,-100.0,-3004900679.373227,-91997820264.06303
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1983,-3356969752.12211,-inf,-3050774187.6511073,-95354790016.18515
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1984,-11879186473.896,253.8663542138432,-3055002146.0899477,-107233976490.08115
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1984,1274863571.42854,-110.73190975013311,-2975344420.3099875,-105959112918.6526
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1984,-1197967493.35397,-193.96828964307102,-3031852029.588708,-107157080412.00658
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1984,0.0,-100.0,-3031852029.588708,-107157080412.00658
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1984,-2993335152.70743,-inf,-2959125109.705772,-110150415564.714
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1985,-11878935989.4013,296.84617269325713,-2959075012.8068323,-122029351554.11531
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1985,840056020.408105,-107.07181199694674,-3046036523.0109186,-121189295533.7072
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1985,-1167731707.71569,-239.00640901881732,-3039989365.883263,-122357027241.42288
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1985,0.0,-100.0,-3039989365.883263,-122357027241.42288
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1985,-2570585662.55712,-inf,-2955439467.853201,-124927612903.98
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1986,-11963350754.6114,365.3939733994594,-2972322420.8952208,-136890963658.5914
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1986,-23018666.666703,-99.80759013809045,-3144937358.3101826,-136913982325.2581
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1986,-1411645094.43554,6032.6101762336875,-3193720035.654153,-138325627419.69363
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1986,0.0,-100.0,-3193720035.654153,-138325627419.69363
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1986,-2945692219.02968,-inf,-3268741346.9486647,-141271319638.72333
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1987,-11128636522.9583,277.79359469619357,-3101798500.6180444,-152399956161.68164
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1987,-179428587.443897,-98.38768579534666,-3133080484.7734833,-152579384749.12555
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1987,-2019508809.80838,1025.5223253874367,-3254653227.848051,-154598893558.93393
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1987,0.0,-100.0,-3254653227.848051,-154598893558.93393
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1987,-3116844845.36927,-inf,-3288883753.115969,-157715738404.3032
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1988,-13220010132.7362,324.1471997676532,-3707158475.0715494,-170935748537.0394
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1988,-123304135.802464,-99.06729166948874,-3695933584.7432623,-171059052672.84186
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1988,-3105680161.91535,2418.7153226479927,-3913167855.1646566,-174164732834.7572
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1988,1764950166.11296,-156.829746596458,-3560177821.942065,-172399782668.64426
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1988,-3172246799.21749,-279.7357715886048,-3571258212.711708,-175572029467.86176
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1989,22913690000.0,-822.317381032655,3655481813.8355317,-152658339467.86176
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1989,174536012.145757,-99.23828937135067,3715049843.4251757,-152483803455.716
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1989,-3439480507.00979,-2070.6423131390447,3648289774.406288,-155923283962.7258
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1989,88394445.7173245,-102.56999408885072,3312978630.327161,-155834889517.00848
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1989,-3369457357.98626,-3911.842848996877,3273536518.573407,-159204346874.99475
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1990,-12280000000.0,264.4503756931081,-3765201481.426593,-171484346874.99475
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1990,964871128.107044,-107.85725674354269,-3607134458.2343354,-170519475746.8877
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1990,-4203693901.99738,-535.674130932335,-3759977137.2318535,-174723169648.88507
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1990,-1033548322.29507,-75.41333059945252,-3984365690.8343325,-175756717971.18015
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1990,-4267348624.78401,312.8833197956385,-4163943944.193883,-180024066595.96414
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1991,-13510000000.0,216.59002317120982,-4409943944.193883,-193534066595.96414
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1991,779019512.195068,-105.76624361358304,-4447114267.376278,-192755047083.76907
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1991,-4109941024.36518,-627.5787011784171,-4428363691.849837,-196864988108.13425
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1991,-1417777777.77778,-65.50369532378461,-4505209582.94638,-198282765885.91202
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1991,-3208254038.38389,126.28751054431793,-4293390665.666355,-201491019924.2959
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1992,-7556875000.0,135.5447826010269,-3102765665.666356,-209047894924.2959
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1992,214697142.857166,-102.84108368680396,-3215630139.5339365,-208833197781.43872
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1992,-4409097621.094,-2153.6359088985596,-3275461458.8796997,-213242295402.5327
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1992,-4500832929.78208,2.080591462733783,-3892072489.2805605,-217743128332.3148
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1992,-2945637542.123,-34.553501805595324,-3839549190.0283813,-220688765874.43777
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1993,-10658074534.1615,261.82572980380814,-4459789096.860682,-231346840408.59927
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1993,-922345255.756526,-91.34604235689848,-4687197576.583421,-232269185664.3558
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1993,-3851512707.12243,317.5781989536382,-4575680593.789106,-236120698371.47824
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1993,-4459241755.45408,15.778970356447308,-4567362358.923506,-240579940126.9323
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1993,-2662389230.64577,-40.29502375848062,-4510712696.62806,-243242329357.5781
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1994,-20992236821.5235,688.4736228606127,-6577545154.10046,-264234566179.1016
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1994,-1035999999.99999,-95.06484226141269,-6600276102.949152,-265270566179.1016
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1994,-4166865725.83342,302.2071163931911,-6663346706.691351,-269437431904.935
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1994,-1840000000.0,-55.84210960788809,-6139498355.600534,-271277431904.935
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1994,-2421708920.85771,31.614615264005973,-6091362293.642923,-273699140825.7927
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1995,-11446327666.9936,372.6549738661239,-4182180462.7369432,-285145468492.7863
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1995,-11774422982.5045,2.8663805987049207,-6329865059.237845,-296919891475.29083
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1995,-4029621483.34539,-65.77648442447698,-6302416210.74024,-300949512958.6362
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1995,-3371600000.0,-16.32961026401668,-6608736210.74024,-304321112958.6362
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1995,-2874484606.78479,-14.744198398837637,-6699291347.925655,-307195597565.421
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1996,-22909530196.0004,696.9960994720893,-8991931853.727015,-330105127761.42145
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1996,-12436999999.9999,-45.712548910447836,-9124447257.226095,-342542127761.4213
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1996,-3684987380.56607,-70.37076963442873,-9055520436.67023,-346227115141.98737
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1996,-5434500000.0,47.47676012842079,-9468100436.67023,-351661615141.98737
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1996,-3111401163.62573,-42.74724144584175,-9515483748.03842,-354773016305.6131
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1997,-28180350742.115,805.7125475030776,-10569647857.261341,-382953367047.7281
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1997,-11003670000.4824,-60.95268614227138,-10282981857.35784,-393957037048.2105
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1997,-3553714782.43084,-67.7042770068982,-10256727337.730793,-397510751830.64136
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1997,-8691600000.0,144.57787223021606,-10908147337.730793,-406202351830.64136
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1997,-3221163949.2082,-62.93934431855814,-10930099894.847286,-409423515779.84955
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1998,-38187248772.081,1085.5108704252038,-12931479500.840488,-447610764551.93054
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1998,-16643705999.4444,-56.4155404365953,-14059486700.632889,-464254470551.37494
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1998,-3558539496.26981,-78.61930812531415,-14060451643.400684,-467813010047.6448
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1998,-11789700000.0,231.30726839925174,-14680071643.400684,-479602710047.6448
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1998,-3163368501.46843,-73.1683715321982,-14668512553.852728,-482766078549.1132
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,1999,-31310007769.8793,889.7679563840016,-13293064353.412388,-514076086318.9925
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,1999,-14470281999.9274,-53.78384411054656,-12858379553.50899,-528546368318.9199
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,1999,-3560928781.42437,-75.39143479413714,-12858857410.5399,-532107297100.3443
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,1999,-7715900000.0,116.68223302443144,-12044097410.5399,-539823197100.3443
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,1999,-3208290498.06578,-58.419750151430414,-12053081809.859371,-543031487598.4101
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,2000,-18874906313.2003,488.31662296726665,-9566061518.52357,-561906393911.6104
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,2000,-14665541196.3662,-22.301382835952143,-9605113357.811329,-576571935107.9766
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,2000,-4975977060.55532,-66.07028002629553,-9888123013.63752,-581547912168.5319
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,2000,-6736500000.0,35.380447257291124,-9692243013.63752,-588284412168.5319
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,2000,-3173565532.48075,-52.88999432226304,-9685298020.520514,-591457977701.0126
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,2001,-18161826502.8484,472.28459021772426,-9542682058.450134,-609619804203.861
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,2001,-19173026754.5396,5.567723331860974,-10444179170.084814,-628792830958.4005
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,2001,-4207692436.72107,-78.05410439056101,-10290522245.317965,-633000523395.1216
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,2001,-4238100000.0,0.7226660155471354,-9790842245.317965,-637238623395.1216
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,2001,-3737397202.99215,-11.814322385216258,-9903608579.420244,-640976020598.1138
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,2002,-17041311337.8143,355.96735942786796,-9679505546.413425,-658017331935.9281
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,2002,-14945148120.0918,-12.300480732789376,-8833929819.523865,-672962480056.0199
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,2002,-3447912556.47532,-76.9295524623135,-8681973843.474714,-676410392612.4952
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,2002,-6583000000.0,90.92711581785503,-9150953843.474714,-682993392612.4952
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,2002,-2789188573.81388,-57.63043333109707,-8961312117.63906,-685782581186.3091
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,2003,-17717946571.3357,535.2365966818994,-9096639164.343342,-703500527757.6448
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,2003,-10218488498.2483,-42.32690308040612,-8151307239.97464,-713719016255.8931
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,2003,-4506392470.48583,-55.899617920416155,-8363003222.776743,-718225408726.3789
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,2003,-13170700000.0,192.26704256808947,-9680543222.776743,-731396108726.3789
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,2003,-4609435932.68735,-65.00234662783792,-10044592694.551435,-736005544659.0663
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,2004,-19774090324.7863,328.991542860165,-10455821445.241556,-755779634983.8525
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,2004,-5131610464.18901,-74.04881650734309,-9438445838.429699,-760911245448.0415
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,2004,-4979769339.3098,-2.9589370810359505,-9533121212.194492,-765891014787.3513
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,2004,-12771200000.0,156.46167783687144,-9453221212.194492,-778662214787.3513
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,2004,-4311345728.12979,-66.24165522323831,-9393603171.28298,-782973560515.4811
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,2005,-25774314615.511,497.8252787138828,-10593648029.427921,-808747875130.9921
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,2005,-16108690294.4726,-37.50099455688968,-12789063995.484638,-824856565425.4647
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,2005,-5898774890.67977,-63.381412251101345,-12972865105.758633,-830755340316.1445
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,2005,-18526400000.0,214.07199534385066,-14123905105.758633,-849281740316.1445
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,2005,-4941581620.61862,-73.3268113577456,-14249952284.2564,-854223321936.7632
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,2006,-27717364225.6241,460.9006660939106,-14638562206.279016,-881940686162.3873
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,2006,-5142352826.89968,-81.44717951880256,-12445294712.764433,-887083038989.287
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,2006,-7344611542.66898,42.82589682001729,-12734462043.162273,-894427650531.9559
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,2006,-28803400000.0,292.1705025877114,-14789862043.162273,-923231050531.9559
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,2006,-5135494351.32541,-82.17052725954086,-14828644589.30363,-928366544883.2814
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,2007,-29675243028.0931,477.845889761991,-15220220349.797434,-958041787911.3745
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,2007,8040749260.59809,-127.09581604095386,-12583599932.297882,-950001038650.7764
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,2007,-5094794675.70112,-163.36218815660666,-12133636558.904308,-955095833326.4775
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,2007,-28828500000.0,465.8422337899763,-12138656558.904308,-983924333326.4775
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,2007,-9767791750.64581,-66.11758589366146,-13065116038.768389,-993692125077.1233
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,2008,-41582259624.8228,325.7078845080162,-15446519358.114328,-1035274384701.946
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,2008,28565055334.0913,-168.69529359832867,-11341658143.415684,-1006709329367.8547
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,2008,-7158169832.3245,-125.0591841976287,-11754333174.740362,-1013867499200.1792
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,2008,-46482500000.0,549.3629110348386,-15285133174.740362,-1060349999200.1792
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,2008,-8942042318.30727,-80.76256156982247,-15119983288.272654,-1069292041518.4865
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,2009,-36886943433.0299,312.51139415332807,-14180920049.914074,-1106178984951.5164
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,2009,-8531194191.52736,-76.87204902998761,-21600169955.037807,-1114710179143.0437
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,2009,-8009493357.38992,-6.1152146162088306,-21770434660.05089,-1122719672500.4336
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,2009,-39739400000.0,396.15372941578926,-20421814660.05089,-1162459072500.4336
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,2009,-6627447278.04855,-83.32272938683386,-19958895651.99915,-1169086519778.4822
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,2010,-68232531718.9632,929.5446927954176,-26228013309.185806,-1237319051497.4453
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,2010,-26072699880.3598,-61.78846186193372,-29736314446.952293,-1263391751377.8052
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,2010,-17955015341.6648,-31.134806045958975,-31725418843.80727,-1281346766719.47
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,2010,-47104700000.0,162.34842523744913,-33198478843.80727,-1328451466719.47
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,2010,-8004015735.12539,-83.00803160804465,-33473792535.222637,-1336455482454.5955
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,2011,-67228445839.3113,739.9339539561525,-33272975359.29226,-1403683928293.9067
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,2011,-70376847481.235,4.68313911264433,-42133804879.4673,-1474060775775.1418
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,2011,-16031217720.6473,-77.22089253156473,-41749045355.2638,-1490091993495.789
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,2011,-60399400000.0,276.76114848224535,-44407985355.2638,-1550491393495.789
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,2011,-10650039250.2513,-82.36730952583751,-44937190058.28898,-1561141432746.0403
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,2012,-61507417541.3445,477.53230853016015,-43792984398.695625,-1622648850287.3848
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,2012,-19818449693.4556,-67.77876476421093,-33681304841.13974,-1642467299980.8403
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,2012,-21460196915.5895,8.283933645304419,-34767100680.12818,-1663927496896.43
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,2012,-67660800000.0,215.28508459700402,-36219380680.12818,-1731588296896.43
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,2012,-10759692566.2919,-84.09759777257747,-36241311343.3363,-1742347989462.722
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,2013,-34360076712.5829,219.34069213303155,-30811843177.583984,-1776708066175.305
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,2013,-77826915006.9402,126.50390352137788,-42413536240.2809,-1854534981182.245
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,2013,-23120564441.7779,-70.29232825210131,-42745609745.51858,-1877655545624.023
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,2013,-79604400000.0,244.30128295725407,-45134329745.51858,-1957259945624.023
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,2013,-9615137510.10342,-87.92134918408603,-44905418734.28088,-1966875083134.1265
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,2014,-45765828899.2775,375.97685265746384,-47186569171.619804,-2012640912033.404
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,2014,13300452518.1496,-129.06197230125898,-28961095666.601845,-1999340459515.2544
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,2014,-24112069639.3408,-281.28758857217696,-29159396706.11442,-2023452529154.5952
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,2014,-67962200000.0,181.85967034996509,-26830956706.11442,-2091414729154.5952
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,2014,-9363726900.52008,-86.22215452042448,-26780674584.197754,-2100778456055.1152
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,2015,-33912135411.3439,262.16493466357235,-24409935886.611034,-2134690591466.4592
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,2015,-41790445604.175,23.231536726512793,-35428115511.07595,-2176481037070.6343
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,2015,-24405491298.8688,-41.60030852499305,-35486799842.98155,-2200886528369.503
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,2015,-37748800000.0,54.6733869756175,-29444119842.981556,-2238635328369.503
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,2015,-7871410981.35789,-79.1479173341725,-29145656659.14912,-2246506739350.861
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,2016,-38096506258.4138,383.9857345606646,-29982530828.5631,-2284603245609.2744
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,2016,-44951463616.5249,17.993664068859715,-30614734431.03308,-2329554709225.7993
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,2016,-46857854246.1832,4.240997903697785,-35105207020.49596,-2376412563471.9824
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,2016,-35496600000.0,-24.246211075934255,-34654767020.49596,-2411909163471.9824
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,2016,-8190335037.52855,-76.92642383346983,-34718551831.73009,-2420099498509.5107
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,2017,-38577403427.9627,371.0112986977821,-34814731265.63987,-2458676901937.4736
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,2017,-9686630762.85731,-74.8904024063061,-27761764694.90635,-2468363532700.331
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,2017,-28673176251.9219,196.00773430806444,-24124829096.05409,-2497036708952.253
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,2017,-42053300000.0,46.664253832643524,-25436169096.05409,-2539090008952.253
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,2017,-10483365758.0242,-75.07124112013992,-25894775240.15322,-2549573374710.2773
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,2018,-53311759072.7462,408.5366694559922,-28841646369.109924,-2602885133783.0234
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,2018,-51296856106.4087,-3.7794719239859997,-37163691437.820206,-2654181989889.432
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,2018,-28935365962.496,-43.59232093586141,-37216129379.93501,-2683117355851.928
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,2018,-41794500000.0,44.440889581873996,-37164369379.93502,-2724911855851.928
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,2018,-11640181654.6899,-72.14901086341527,-37395732559.26816,-2736552037506.618
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Brazil,BRA,2019,-48789538217.7716,319.14756715256243,-36491288388.27324,-2785341575724.3896
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,China,CHN,2019,-34843089572.1151,-28.584916265053938,-33200535081.41452,-2820184665296.505
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,India,IND,2019,-31240566372.37,-10.339276005616316,-33661575163.38932,-2851425231668.875
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,Russian Federation,RUS,2019,-53350900000.0,70.77443271702326,-35972855163.38932,-2904776131668.875
+Net primary income (Net income from abroad) (current US$),NY.GSR.NFCY.CD,South Africa,ZAF,2019,-9908571191.27378,-81.42754631829308,-35626533070.70609,-2914684702860.149

@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1970,31840000.0,,,31840000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1970,0.0,-100.0,,31840000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1970,45890000.0,inf,,77730000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1970,0.0,-100.0,,77730000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1970,0.0,,15546000.0,77730000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1971,37470000.0,inf,16672000.0,115200000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1971,0.0,-100.0,16672000.0,115200000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1971,58320000.0,inf,19158000.0,173520000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1971,0.0,-100.0,19158000.0,173520000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1971,0.0,,19158000.0,173520000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1972,35760000.0,inf,18816000.0,209280000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1972,0.0,-100.0,18816000.0,209280000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1972,49870000.0,inf,17126000.0,259150000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1972,0.0,-100.0,17126000.0,259150000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1972,0.0,,17126000.0,259150000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1973,41620000.0,inf,18298000.0,300770000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1973,0.0,-100.0,18298000.0,300770000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1973,46430000.0,inf,17610000.0,347200000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1973,0.0,-100.0,17610000.0,347200000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1973,0.0,,17610000.0,347200000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1974,43190000.0,inf,17924000.0,390390000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1974,0.0,-100.0,17924000.0,390390000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1974,54750000.0,inf,19588000.0,445140000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1974,0.0,-100.0,19588000.0,445140000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1974,0.0,,19588000.0,445140000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1975,42170000.0,inf,19384000.0,487310000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1975,0.0,-100.0,19384000.0,487310000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1975,76190000.0,inf,23672000.0,563500000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1975,0.0,-100.0,23672000.0,563500000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1975,0.0,,23672000.0,563500000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1976,39150000.0,inf,23068000.0,602650000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1976,0.0,-100.0,23068000.0,602650000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1976,63080000.0,inf,20446000.0,665730000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1976,0.0,-100.0,20446000.0,665730000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1976,0.0,,20446000.0,665730000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1977,42590000.0,inf,21134000.0,708320000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1977,0.0,-100.0,21134000.0,708320000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1977,82510000.0,inf,25020000.0,790830000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1977,0.0,-100.0,25020000.0,790830000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1977,0.0,,25020000.0,790830000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1978,55540000.0,inf,27610000.0,846370000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1978,0.0,-100.0,27610000.0,846370000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1978,105150000.0,inf,32138000.0,951520000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1978,0.0,-100.0,32138000.0,951520000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1978,0.0,,32138000.0,951520000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1979,63590000.0,inf,33748000.0,1015110000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1979,13300000.0,-79.08476175499293,36408000.0,1028410000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1979,119600000.0,799.2481203007518,39298000.0,1148010000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1979,0.0,-100.0,39298000.0,1148010000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1979,0.0,,39298000.0,1148010000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1980,82680000.0,inf,43116000.0,1230690000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1980,47210000.0,-42.900338655055634,49898000.0,1277900000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1980,147440000.0,212.30671467909343,55466000.0,1425340000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1980,0.0,-100.0,55466000.0,1425340000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1980,0.0,,55466000.0,1425340000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1981,81000000.0,inf,55130000.0,1506340000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1981,67970000.0,-16.086419753086425,59282000.0,1574310000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1981,143970000.0,111.8140356039429,58588000.0,1718280000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1981,0.0,-100.0,58588000.0,1718280000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1981,0.0,,58588000.0,1718280000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1982,75270000.0,inf,57442000.0,1793550000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1982,78840000.0,4.742925468314074,59616000.0,1872390000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1982,166430000.0,111.09842719431762,64108000.0,2038820000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1982,0.0,-100.0,64108000.0,2038820000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1982,0.0,,64108000.0,2038820000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1983,72480000.0,inf,63550000.0,2111300000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1983,95810000.0,32.188189845474625,66944000.0,2207110000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1983,176420000.0,84.13526771735727,68942000.0,2383530000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1983,0.0,-100.0,68942000.0,2383530000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1983,0.0,,68942000.0,2383530000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1984,70600000.0,inf,68566000.0,2454130000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1984,101300000.0,43.4844192634561,69664000.0,2555430000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1984,168120000.0,65.96248766041461,68004000.0,2723550000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1984,0.0,-100.0,68004000.0,2723550000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1984,0.0,,68004000.0,2723550000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1985,72840000.0,inf,68452000.0,2796390000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1985,125870000.0,72.80340472267986,73366000.0,2922260000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1985,173980000.0,38.221975053626764,74538000.0,3096240000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1985,0.0,-100.0,74538000.0,3096240000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1985,0.0,,74538000.0,3096240000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1986,98390000.0,inf,79648000.0,3194630000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1986,184130000.0,87.14300233763595,91300000.0,3378760000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1986,221020000.0,20.034758051376755,100708000.0,3599780000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1986,0.0,-100.0,100708000.0,3599780000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1986,0.0,,100708000.0,3599780000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1987,120560000.0,inf,105142000.0,3720340000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1987,275680000.0,128.66622428666227,123452000.0,3996020000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1987,264030000.0,-4.225914103308181,132054000.0,4260050000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1987,0.0,-100.0,132054000.0,4260050000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1987,0.0,,132054000.0,4260050000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1988,138860000.0,inf,135714000.0,4398910000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1988,323820000.0,133.19890537231745,145342000.0,4722730000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1988,330500000.0,2.062874436415285,158636000.0,5053230000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1988,0.0,-100.0,158636000.0,5053230000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1988,0.0,,158636000.0,5053230000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1989,134580000.0,inf,157780000.0,5187810000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1989,308370000.0,129.13508693713774,154690000.0,5496180000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1989,404700000.0,31.238447319778185,169530000.0,5900880000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1989,0.0,-100.0,169530000.0,5900880000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1989,0.0,,169530000.0,5900880000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1990,140850000.0,inf,170784000.0,6041730000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1990,376690000.0,167.44053958111468,184448000.0,6418420000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1990,333200000.0,-11.545302503384747,170148000.0,6751620000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1990,20000.0,-99.99399759903962,170152000.0,6751640000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1990,0.0,-100.0,170152000.0,6751640000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1991,157880000.0,inf,173558000.0,6909520000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1991,381390000.0,141.56954649100584,174498000.0,7290910000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1991,329210000.0,-13.681533338577312,173700000.0,7620120000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1991,19330000.0,-94.12836791105981,177562000.0,7639450000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1991,0.0,-100.0,177562000.0,7639450000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1992,175320000.0,inf,181050000.0,7814770000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1992,441300000.0,151.71115674195755,193032000.0,8256070000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1992,428870000.0,-2.8166779968275546,212964000.0,8684940000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1992,132730000.0,-69.05122764474083,235644000.0,8817670000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1992,0.0,-100.0,235644000.0,8817670000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1993,183140000.0,inf,237208000.0,9000810000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1993,477900000.0,160.9479087037239,244528000.0,9478710000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1993,375530000.0,-21.42079933040385,233860000.0,9854240000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1993,302760000.0,-19.377945836551003,267866000.0,10157000000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1993,135410000.0,-55.274805126172545,294948000.0,10292410000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1994,193920000.0,43.20951185289121,297104000.0,10486330000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1994,478900000.0,146.95750825082507,297304000.0,10965230000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1994,380510000.0,-20.544998955940695,298300000.0,11345740000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1994,262030000.0,-31.13715802475625,290154000.0,11607770000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1994,146910000.0,-43.933900698393316,292454000.0,11754680000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1995,237300000.0,61.52746579538493,301130000.0,11991980000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1995,557740000.0,135.03581963758955,316898000.0,12549720000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1995,426520000.0,-23.52709147631513,326100000.0,12976240000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1995,525800000.0,23.276751383287998,378854000.0,13502040000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1995,211570000.0,-59.76226702168125,391786000.0,13713610000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1996,221650000.0,4.7643805832584984,388656000.0,13935260000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1996,528950000.0,138.64200315813218,382898000.0,14464210000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1996,403630000.0,-23.69222043671424,378320000.0,14867840000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1996,819110000.0,102.93585709684612,436982000.0,15686950000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1996,205320000.0,-74.9337695791774,435732000.0,15892270000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1997,200730000.0,-2.2355347749853927,431548000.0,16093000000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1997,465560000.0,131.9334429332935,418870000.0,16558560000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1997,330440000.0,-29.023111951198555,404232000.0,16889000000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1997,431830000.0,30.683331315821327,326776000.0,17320830000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1997,243620000.0,-43.584280851260914,334436000.0,17564450000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1998,195670000.0,-19.682292094245135,333424000.0,17760120000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1998,511540000.0,161.42995860377164,342620000.0,18271660000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1998,308830000.0,-39.62739961684326,338298000.0,18580490000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1998,828340000.0,168.21876113071917,417600000.0,19408830000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1998,210320000.0,-74.60945988362266,410940000.0,19619150000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,1999,188540000.0,-10.355648535564853,409514000.0,19807690000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,1999,559600000.0,196.80704359817548,419126000.0,20367290000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,1999,291250000.0,-47.95389563974267,415610000.0,20658540000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,1999,859730000.0,195.18626609442057,421888000.0,21518270000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,1999,212860000.0,-75.24106405499401,422396000.0,21731130000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,2000,179290000.0,-15.770929249271825,420546000.0,21910420000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,2000,536790000.0,199.3976239611802,415984000.0,22447210000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,2000,286860000.0,-46.560107304532494,415106000.0,22734070000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,2000,582780000.0,103.15833507634386,359716000.0,23316850000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,2000,224460000.0,-61.48460825697519,362036000.0,23541310000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,2001,162000000.0,-27.826784282277462,358578000.0,23703310000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,2001,513090000.0,216.72222222222223,353838000.0,24216400000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,2001,313940000.0,-38.81385332008029,359254000.0,24530340000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,2001,799620000.0,154.70472064725743,402622000.0,25329960000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,2001,220700000.0,-72.3993897101123,401870000.0,25550660000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,2002,170800000.0,-22.60987766198459,403630000.0,25721460000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,2002,564540000.0,230.52693208430912,413920000.0,26286000000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,2002,327970000.0,-41.90491373507634,416726000.0,26613970000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,2002,1110590000.0,238.6254840381742,478920000.0,27724560000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,2002,220210000.0,-80.17180057446942,478822000.0,27944770000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,2003,213470000.0,-3.0607147722628403,487356000.0,28158240000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,2003,788610000.0,269.42427507378085,532170000.0,28946850000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,2003,418440000.0,-46.9395518697455,550264000.0,29365290000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,2003,875630000.0,109.26058694197494,503272000.0,30240920000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,2003,264880000.0,-69.74978015828603,512206000.0,30505800000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,2004,194660000.0,-26.51011778918756,508444000.0,30700460000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,2004,878140000.0,351.11476420425356,526350000.0,31578600000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,2004,387080000.0,-55.92046826246384,520078000.0,31965680000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,2004,731150000.0,88.88860183941306,491182000.0,32696830000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,2004,238170000.0,-67.42528892840048,485840000.0,32935000000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,2005,191600000.0,-19.553260276273253,485228000.0,33126600000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,2005,857650000.0,347.625260960334,481130000.0,33984250000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,2005,352370000.0,-58.91447560193552,474188000.0,34336620000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,2005,0.0,-100.0,327958000.0,34336620000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,2005,249510000.0,inf,330226000.0,34586130000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,2006,204170000.0,-18.171616368081445,332740000.0,34790300000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,2006,973500000.0,376.8085419013567,355910000.0,35763800000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,2006,358350000.0,-63.18952234206472,357106000.0,36122150000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,2006,0.0,-100.0,357106000.0,36122150000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,2006,281730000.0,inf,363550000.0,36403880000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,2007,246900000.0,-12.362900649558084,372096000.0,36650780000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,2007,948260000.0,284.06642365330094,367048000.0,37599040000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,2007,279720000.0,-70.50176112036783,351322000.0,37878760000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,2007,0.0,-100.0,351322000.0,37878760000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,2007,167650000.0,inf,328506000.0,38046410000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,2008,235440000.0,40.43543095735163,326214000.0,38281850000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,2008,969550000.0,311.80343187223923,330472000.0,39251400000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,2008,282110000.0,-70.90299623536693,330950000.0,39533510000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,2008,0.0,-100.0,330950000.0,39533510000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,2008,180740000.0,inf,333568000.0,39714250000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,2009,230900000.0,27.752572756445716,332660000.0,39945150000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,2009,929540000.0,302.5725422260719,324658000.0,40874690000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,2009,266040000.0,-71.37939195731222,321444000.0,41140730000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,2009,0.0,-100.0,321444000.0,41140730000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,2009,186030000.0,inf,322502000.0,41326760000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,2010,239010000.0,28.47927753588131,324124000.0,41565770000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,2010,959150000.0,301.30120078657797,330046000.0,42524920000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,2010,282580000.0,-70.53849762810822,333354000.0,42807500000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,2010,0.0,-100.0,333354000.0,42807500000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,2010,173470000.0,inf,330842000.0,42980970000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,2011,213280000.0,22.949213120424282,325696000.0,43194250000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,2011,834350000.0,291.19936234058514,300736000.0,44028600000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,2011,329020000.0,-60.56570983400251,310024000.0,44357620000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,2011,0.0,-100.0,310024000.0,44357620000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,2011,198710000.0,inf,315072000.0,44556330000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,2012,241830000.0,21.699964772784462,320782000.0,44798160000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,2012,678710000.0,180.6558326096845,289654000.0,45476870000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,2012,356150000.0,-47.52545269702818,295080000.0,45833020000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,2012,0.0,-100.0,295080000.0,45833020000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,2012,201050000.0,inf,295548000.0,46034070000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,2013,235930000.0,17.348918179557327,294368000.0,46270000000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,2013,557750000.0,136.40486585004027,270176000.0,46827750000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,2013,369980000.0,-33.6656207978485,272942000.0,47197730000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,2013,0.0,-100.0,272942000.0,47197730000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,2013,193070000.0,inf,271346000.0,47390800000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,2014,237620000.0,23.074532552960058,271684000.0,47628420000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,2014,552470000.0,132.50147293998822,270628000.0,48180890000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,2014,403620000.0,-26.94263941933499,277356000.0,48584510000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,2014,0.0,-100.0,277356000.0,48584510000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,2014,165190000.0,inf,271780000.0,48749700000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,2015,189580000.0,14.764816272171434,262172000.0,48939280000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,2015,476440000.0,151.31342968667582,246966000.0,49415720000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,2015,389260000.0,-18.298211737049787,244094000.0,49804980000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,2015,0.0,-100.0,244094000.0,49804980000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,2015,119740000.0,inf,235004000.0,49924720000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,2016,200840000.0,67.73008184399532,237256000.0,50125560000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,2016,478550000.0,138.27424815773753,237678000.0,50604110000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,2016,352550000.0,-26.329537143454186,230336000.0,50956660000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,2016,0.0,-100.0,230336000.0,50956660000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,2016,115320000.0,inf,229452000.0,51071980000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,2017,201990000.0,75.15608740894902,229682000.0,51273970000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,2017,504420000.0,149.7252339224714,234856000.0,51778390000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,2017,495580000.0,-1.75250783077594,263462000.0,52273970000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,2017,0.0,-100.0,263462000.0,52273970000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,2017,117980000.0,inf,263994000.0,52391950000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,2018,180680000.0,53.144600779793194,259732000.0,52572630000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,2018,515540000.0,185.3331857427496,261956000.0,53088170000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,2018,409620000.0,-20.545447491950185,244764000.0,53497790000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,2018,0.0,-100.0,244764000.0,53497790000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,2018,116370000.0,inf,244442000.0,53614160000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Brazil,BRA,2019,0.0,-100.0,208306000.0,53614160000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,China,CHN,2019,0.0,,105198000.0,53614160000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,India,IND,2019,0.0,,23274000.0,53614160000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,Russian Federation,RUS,2019,0.0,,23274000.0,53614160000.0
+"Technical cooperation grants (BoP, current US$)",BX.GRT.TECH.CD.WD,South Africa,ZAF,2019,0.0,,0.0,53614160000.0

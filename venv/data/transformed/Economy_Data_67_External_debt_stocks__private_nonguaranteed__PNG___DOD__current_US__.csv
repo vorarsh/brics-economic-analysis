@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1970,1706300000.0,,,1706300000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1970,0.0,-100.0,,1706300000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1970,100000000.0,inf,,1806300000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1970,0.0,-100.0,,1806300000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1970,0.0,,361260000.0,1806300000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1971,2427100000.0,inf,505420000.0,4233400000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1971,0.0,-100.0,505420000.0,4233400000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1971,100000000.0,inf,505420000.0,4333400000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1971,0.0,-100.0,505420000.0,4333400000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1971,0.0,,505420000.0,4333400000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1972,4238800000.0,inf,867760000.0,8572200000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1972,0.0,-100.0,867760000.0,8572200000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1972,100000000.0,inf,867760000.0,8672200000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1972,0.0,-100.0,867760000.0,8672200000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1972,0.0,,867760000.0,8672200000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1973,5150000000.0,inf,1050000000.0,13822200000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1973,0.0,-100.0,1050000000.0,13822200000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1973,139100000.0,inf,1057820000.0,13961300000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1973,0.0,-100.0,1057820000.0,13961300000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1973,0.0,,1057820000.0,13961300000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1974,8181900000.0,inf,1664200000.0,22143200000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1974,0.0,-100.0,1664200000.0,22143200000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1974,267000000.0,inf,1689780000.0,22410200000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1974,0.0,-100.0,1689780000.0,22410200000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1974,0.0,,1689780000.0,22410200000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1975,9592900000.0,inf,1971980000.0,32003100000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1975,0.0,-100.0,1971980000.0,32003100000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1975,277000000.0,inf,1973980000.0,32280100000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1975,0.0,-100.0,1973980000.0,32280100000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1975,0.0,,1973980000.0,32280100000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1976,11133300000.0,inf,2282060000.0,43413400000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1976,0.0,-100.0,2282060000.0,43413400000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1976,295000000.0,inf,2285660000.0,43708400000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1976,0.0,-100.0,2285660000.0,43708400000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1976,0.0,,2285660000.0,43708400000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1977,13005800000.0,inf,2660160000.0,56714200000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1977,0.0,-100.0,2660160000.0,56714200000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1977,295000000.0,inf,2660160000.0,57009200000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1977,0.0,-100.0,2660160000.0,57009200000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1977,0.0,,2660160000.0,57009200000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1978,16151800000.0,inf,3289360000.0,73161000000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1978,0.0,-100.0,3289360000.0,73161000000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1978,348000000.0,inf,3299960000.0,73509000000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1978,0.0,-100.0,3299960000.0,73509000000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1978,0.0,,3299960000.0,73509000000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1979,15864100000.0,inf,3242420000.0,89373100000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1979,0.0,-100.0,3242420000.0,89373100000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1979,335000000.0,inf,3239820000.0,89708100000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1979,0.0,-100.0,3239820000.0,89708100000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1979,0.0,,3239820000.0,89708100000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1980,16605300000.0,inf,3388060000.0,106313400000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1980,0.0,-100.0,3388060000.0,106313400000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1980,336000000.0,inf,3388260000.0,106649400000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1980,0.0,-100.0,3388260000.0,106649400000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1980,0.0,,3388260000.0,106649400000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1981,19791600000.0,inf,4025520000.0,126441000000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1981,0.0,-100.0,4025520000.0,126441000000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1981,873000000.0,inf,4132920000.0,127314000000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1981,0.0,-100.0,4132920000.0,127314000000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1981,0.0,,4132920000.0,127314000000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1982,23123600000.0,inf,4799320000.0,150437600000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1982,0.0,-100.0,4799320000.0,150437600000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1982,1029000000.0,inf,4830520000.0,151466600000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1982,0.0,-100.0,4830520000.0,151466600000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1982,0.0,,4830520000.0,151466600000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1983,21512000000.0,inf,4508200000.0,172978600000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1983,0.0,-100.0,4508200000.0,172978600000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1983,1185000000.0,inf,4539400000.0,174163600000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1983,0.0,-100.0,4539400000.0,174163600000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1983,0.0,,4539400000.0,174163600000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1984,19303955000.0,inf,4097791000.0,193467555000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1984,0.0,-100.0,4097791000.0,193467555000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1984,1341000000.0,inf,4128991000.0,194808555000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1984,0.0,-100.0,4128991000.0,194808555000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1984,0.0,,4128991000.0,194808555000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1985,17176533000.0,inf,3703506600.0,211985088000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1985,0.0,-100.0,3703506600.0,211985088000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1985,1497000000.0,inf,3734706600.0,213482088000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1985,0.0,-100.0,3734706600.0,213482088000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1985,0.0,,3734706600.0,213482088000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1986,14641200000.0,inf,3227640000.0,228123288000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1986,0.0,-100.0,3227640000.0,228123288000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1986,1388123000.0,inf,3205864600.0,229511411000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1986,0.0,-100.0,3205864600.0,229511411000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1986,0.0,,3205864600.0,229511411000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1987,14434321000.0,inf,3164488800.0,243945732000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1987,0.0,-100.0,3164488800.0,243945732000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1987,1652372000.0,inf,3217338600.0,245598104000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1987,0.0,-100.0,3217338600.0,245598104000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1987,0.0,,3217338600.0,245598104000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1988,11514120000.0,inf,2633298400.0,257112224000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1988,0.0,-100.0,2633298400.0,257112224000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1988,1473113000.0,inf,2597446600.0,258585337000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1988,0.0,-100.0,2597446600.0,258585337000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1988,0.0,,2597446600.0,258585337000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1989,6007453000.0,inf,1496113200.0,264592790000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1989,0.0,-100.0,1496113200.0,264592790000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1989,1551000000.0,inf,1511690600.0,266143790000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1989,0.0,-100.0,1511690600.0,266143790000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1989,0.0,,1511690600.0,266143790000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1990,6671030000.0,inf,1644406000.0,272814820000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1990,0.0,-100.0,1644406000.0,272814820000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1990,1488016000.0,inf,1631809200.0,274302836000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1990,0.0,-100.0,1631809200.0,274302836000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1990,0.0,,1631809200.0,274302836000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1991,7836905000.0,inf,1864984200.0,282139741000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1991,0.0,-100.0,1864984200.0,282139741000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1991,1545370000.0,inf,1876455000.0,283685111000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1991,0.0,-100.0,1876455000.0,283685111000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1991,0.0,,1876455000.0,283685111000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1992,13179826000.0,inf,2945039200.0,296864937000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1992,200401000.0,-98.47948675498446,2985119400.0,297065338000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1992,1204960000.0,501.2744447382997,2917037400.0,298270298000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1992,0.0,-100.0,2917037400.0,298270298000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1992,0.0,,2917037400.0,298270298000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1993,20915844000.0,inf,4464241000.0,319186142000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1993,555514000.0,-97.34405171505391,4535263600.0,319741656000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1993,1769970000.0,218.61843265876288,4648265600.0,321511626000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1993,0.0,-100.0,4648265600.0,321511626000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1993,0.0,,4648265600.0,321511626000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1994,24700613000.0,inf,5405219400.0,346212239000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1994,582652000.0,-97.6411435619027,5410647000.0,346794891000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1994,6426520000.0,1002.9774204842685,6341957000.0,353221411000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1994,0.0,-100.0,6341957000.0,353221411000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1994,5246000000.0,inf,7391157000.0,358467411000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1995,30830193000.0,487.6895348837209,8617073000.0,389297604000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1995,1089863000.0,-96.46494914903711,8718515200.0,390387467000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1995,6618200000.0,507.25063608912313,8756851200.0,397005667000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1995,0.0,-100.0,8756851200.0,397005667000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1995,4935000000.0,inf,8694651200.0,401940667000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1996,48975253000.0,892.4063424518744,12323663200.0,450915920000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1996,1149828000.0,-97.65222652346482,12335656200.0,452065748000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1996,7382036000.0,542.0121966067969,12488423400.0,459447784000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1996,0.0,-100.0,12488423400.0,459447784000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1996,3987000000.0,inf,12298823400.0,463434784000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1997,75833027000.0,1802.007198394783,17670378200.0,539267811000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1997,2411592000.0,-96.81986583497452,17922731000.0,541679403000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1997,9208043000.0,281.8242472192643,18287932400.0,550887446000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1997,1905000000.0,-79.31156490038111,18668932400.0,552792446000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1997,2413000000.0,26.66666666666666,18354132400.0,555205446000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1998,108116376000.0,4380.57919602155,24810802200.0,663321822000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1998,27242623000.0,-74.80250077934541,29777008400.0,690564445000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1998,8409214000.0,-69.13214267216486,29617242600.0,698973659000.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1998,22163094250.0,163.55726290233545,33668861450.0,721136753250.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1998,2640916000.0,-88.08417285867021,33714444650.0,723777669250.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,1999,113536099000.0,4199.118146885398,34798389250.0,837313768250.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,1999,37688000000.0,-66.80527133489058,36887464650.0,875001768250.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,1999,7943879000.0,-78.92199373805985,36794397650.0,882945647250.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,1999,22583122258.0,184.28331118840055,36878403251.6,905528769508.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,1999,5221446000.0,-76.87898980332395,37394509251.6,910750215508.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,2000,112681696000.0,2058.0553739328147,37223628651.6,1023431911508.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,2000,37789000000.0,-66.46394104682271,37243828651.6,1061220911508.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,2000,15586000000.0,-58.75519331022255,38772252851.6,1076806911508.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,2000,21762085470.3,39.625853139355826,38608045494.06,1098568996978.3
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,2000,6507359000.0,-70.097723359827,38865228094.06,1105076355978.3
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,2001,96280218000.0,1379.5590346252604,35584932494.06,1201356573978.3
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,2001,36744000000.0,-61.836397171431415,35375932494.06,1238100573978.3
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,2001,16924112000.0,-53.940474635314615,35643554894.06,1255024685978.3
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,2001,22326181600.0,31.91936805901545,35756374120.0,1277350867578.3
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,2001,8030933000.0,-64.02907965238444,36061088920.0,1285381800578.3
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,2002,87547344000.0,990.1266888915646,34314514120.0,1372929144578.3
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,2002,31839000000.0,-63.63224908342164,33333514120.0,1404768144578.3
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,2002,18670394000.0,-41.359986180470486,33682770520.0,1423438538578.3
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,2002,28514282452.7,52.724588740334035,34920390690.54,1451952821031.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,2002,10599184000.0,-62.82850877421827,35434040890.54,1462552005031.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,2003,82399047000.0,677.4093458515298,34404381490.54,1544951052031.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,2003,35030000000.0,-57.48737239643076,35042581490.54,1579981052031.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,2003,47872860000.0,36.66246074793034,40883074690.54,1627853912031.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,2003,56987681521.0,19.03964275583285,46577754504.2,1684841593552.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,2003,11227298000.0,-80.29872825083658,46703377304.2,1696068891552.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,2004,72384316000.0,544.7171527824415,44700431104.2,1768453207552.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,2004,42158000000.0,-41.758101299181995,46126031104.2,1810611207552.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,2004,50843133000.0,20.60138763698467,46720085704.2,1861454340552.0
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,2004,83256985972.5,63.752666407280614,51973946594.5,1944711326524.5
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,2004,13297015000.0,-84.02894982963707,52387889994.5,1958008341524.5
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,2005,69504729000.0,422.709262191552,51811972594.5,2027513070524.5
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,2005,50492000000.0,-27.354583311877956,53478772594.5,2078005070524.5
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,2005,56679772000.0,12.254955240434118,54646100394.5,2134684842524.5
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,2005,138589019611.2,144.5123096317325,65712507122.240005,2273273862135.7
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,2005,9402954000.0,-93.21522439051867,64933694922.240005,2282676816135.7
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,2006,88888766000.0,845.3280958303104,68810502322.24,2371565582135.7
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,2006,63666000000.0,-28.375650979337475,71445302322.24,2435231582135.7
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,2006,73360730000.0,15.22748405742469,74781493922.24,2508592312135.7
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,2006,164936481125.0,124.82938913639492,80050986225.0,2673528793260.7
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,2006,17941510000.0,-89.12217001501159,81758697425.0,2691470303260.7
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,2007,118761665000.0,561.9379583992652,87733277225.0,2810231968260.7
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,2007,82284000000.0,-30.715016499642367,91456877225.0,2892515968260.7
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,2007,96980458000.0,17.86065091633853,96180822825.0,2989496426260.7
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,2007,181864067580.8,87.52650928994375,99566340116.16,3171360493841.5
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,2007,28733224000.0,-84.20071409255478,101724682916.16,3200093717841.5
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,2008,145842194000.0,407.573372204943,107140788716.16,3345935911841.5
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,2008,101774197000.0,-30.216219182769567,111038828116.16,3447710108841.5
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,2008,105924840000.0,4.07828616913577,112827704516.16,3553634948841.5
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,2008,211082698132.0,99.27591878543313,118671430626.4,3764717646973.5
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,2008,24879414000.0,-88.21342809231967,117900668626.4,3789597060973.5
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,2009,149825820000.0,502.2079941271929,118697393826.4,3939422880973.5
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,2009,102157209000.0,-31.816018760985255,118773996226.4,4041580089973.5
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,2009,118179578000.0,15.684031657521103,121224943826.4,4159759667973.5
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,2009,198577860211.2,68.03060526345763,118723976242.23999,4358337528184.7
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,2009,32617384000.0,-83.57451129480931,120271570242.23999,4390954912184.7
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,2010,184940323200.0,466.9992516873824,127294470882.23999,4575895235384.7
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,2010,117375367000.0,-36.53338278582613,130338102482.23999,4693270602384.7
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,2010,127289639000.0,8.446637700395865,132160114682.23999,4820560241384.7
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,2010,183272989705.6,43.98107430063496,129099140581.12,5003833231090.3
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,2010,47638000000.0,-74.00708087071469,132103263781.12,5051471231090.3
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,2011,262761260340.0,451.57911822494646,147667451209.12,5314232491430.3
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,2011,157485067000.0,-40.06534037923926,155689391209.12,5471717558430.3
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,2011,142313869000.0,-9.633420037215334,158694237209.12,5614031427430.3
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,2011,270290681286.2,89.92574875903347,176097775525.24002,5884322108716.5
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,2011,52103169000.0,-80.72328326227792,176990809325.24002,5936425277716.5
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,2012,286829874000.0,450.5037016078619,181804532057.24002,6223255151716.5
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,2012,206804046000.0,-27.900102204835186,191668327857.24002,6430059197716.5
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,2012,173217995000.0,-16.240519298157253,197849153057.24002,6603277192716.5
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,2012,291182364801.4,68.10168296971688,202027489760.28,6894459557517.9
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,2012,57844581000.0,-80.13458643367612,203175772160.28,6952304138517.9
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,2013,309255259000.0,434.63134083381124,207660849160.28,7261559397517.9
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,2013,240132128000.0,-22.351481175620037,214326465560.28,7501691525517.9
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,2013,206950691000.0,-13.817991485087743,221073004760.27997,7708642216517.9
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,2013,301930812895.0,45.89504941300244,223222694379.0,8010573029412.9
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,2013,55205240230.0,-81.71593031506914,222694826225.0,8065778269642.9
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,2014,319628585000.0,478.9823278883321,224769491425.0,8385406854642.9
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,2014,349747765000.0,9.423180971126222,246692618825.0,8735154619642.9
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,2014,213654172000.0,-38.91192642789297,248033315025.0,8948808791642.9
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,2014,251312902025.8,17.62602137523437,237909732851.16,9200121693668.701
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,2014,53832423296.0,-78.57952263410913,237635169464.36002,9253954116964.701
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,2015,314167771000.0,483.60324831103065,236543006664.36002,9568121887964.701
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,2015,355777187000.0,13.244329890222883,237748891064.36002,9923899074964.701
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,2015,229444505000.0,-35.508932729854884,240906957664.36002,10153343579964.701
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,2015,223554532947.8,-2.5670573597742163,235355283848.75995,10376898112912.502
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,2015,48740406275.1,-78.19753165708302,234336880444.58,10425638519187.602
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,2016,307491712000.0,530.8763826556124,233001668644.58,10733130231187.602
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,2016,442820102637.9,44.010418933795535,250410251772.15997,11175950333825.502
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,2016,213247629000.0,-51.84328179103118,247170876572.15997,11389197962825.502
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,2016,291055567132.2,36.487129304588905,260671083409.03998,11680253529957.701
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,2016,51654834117.5,-82.25258680792115,261253968977.51996,11731908364075.201
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,2017,305319744000.0,491.07680668470397,260819575377.52002,12037228108075.201
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,2017,467634848578.0,53.16233482037769,265782524565.53998,12504862956653.201
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,2017,225284025000.0,-51.82479969466532,268189803765.53998,12730146981653.201
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,2017,239000000545.6,6.088303662720862,257778690448.22003,12969146982198.8
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,2017,59732275823.1,-75.00741603065254,259394178789.34,13028879258021.9
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,2018,296690101000.0,396.69981080021455,257668250189.34003,13325569359021.9
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,2018,473216656003.9,59.49863322332416,258784611674.52002,13798786015025.8
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,2018,231178894000.0,-51.14734634401906,259963585474.52002,14029964909025.8
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,2018,220470000098.9,-4.632297402158181,256257585385.18,14250434909124.701
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,2018,62110794346.3,-71.82800638706495,256733289089.82,14312545703471.002
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Brazil,BRA,2019,291736960000.0,369.7041199850297,255742660889.82,14604282663471.002
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,China,CHN,2019,581120148422.9,99.19318704866878,277323359373.62,15185402811893.902
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,India,IND,2019,255956581000.0,-55.95461941998747,282278896773.62,15441359392893.902
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,Russian Federation,RUS,2019,231011820010.2,-9.74570018568891,284387260755.88,15672371212904.102
+"External debt stocks, private nonguaranteed (PNG) (DOD, current US$)",DT.DOD.DPNG.CD,South Africa,ZAF,2019,64907424788.1,-71.90298540341611,284946586844.24,15737278637692.201

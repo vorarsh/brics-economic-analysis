@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1970,126388646742.408,,,126388646742.408
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1970,45577701938.94,-63.93845245306593,,171966348681.34802
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1970,52515817170.1124,15.222608723158793,,224482165851.46042
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1970,0.0,-100.0,,224482165851.46042
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1970,65914413144.0436,inf,58079315799.10081,290396578995.504
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1971,141356698022.536,114.45491400132384,61072926055.12639,431753277018.04004
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1971,51229336978.779,-63.758818863601576,62203253063.0942,482982613996.81903
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1971,53833938580.2602,5.084199318371274,62466877345.123764,536816552577.0792
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1971,0.0,-100.0,62466877345.123764,536816552577.0792
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1971,66555509479.4765,inf,62595096612.21034,603372062056.5557
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1972,161628970049.285,142.84837020010488,66649551017.56014,765001032105.8407
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1972,54661702564.6245,-66.18075178728375,67336024134.72925,819662734670.4652
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1972,55848584090.9898,2.1713219140258255,67738953236.87517,875511318761.455
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1972,0.0,-100.0,67738953236.87517,875511318761.455
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1972,66254121923.3593,inf,67678675725.65172,941765440684.8142
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1973,189318486281.921,185.74597441789163,73216578972.17892,1131083926966.735
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1973,59198623878.9618,-68.73066912715169,74123963235.04637,1190282550845.697
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1973,56179622751.7484,-5.099782612153425,74190170967.19809,1246462173597.4453
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1973,0.0,-100.0,74190170967.19809,1246462173597.4453
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1973,68344606017.3503,inf,74608267785.9963,1314806779614.7957
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1974,205123356858.96,200.13101078801498,77769241901.4041,1519930136473.7556
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1974,60027404614.5936,-70.73594858538337,77934998048.53047,1579957541088.349
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1974,57058800394.9392,-4.945414912929092,78110833577.16861,1637016341483.2883
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1974,0.0,-100.0,78110833577.16861,1637016341483.2883
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1974,68023853287.9441,inf,78046683031.28738,1705040194771.2324
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1975,214928313570.469,215.96021569181062,80007674373.58919,1919968508341.7014
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1975,69451707129.344,-67.68610613669905,81892534876.53926,1989420215471.0454
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1975,61291866743.7386,-11.748941419695914,82739148146.29915,2050712082214.784
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1975,0.0,-100.0,82739148146.29915,2050712082214.784
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1975,67772378784.107,inf,82688853245.53172,2118484460998.8909
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1976,240102333397.367,254.27756514527465,87723657210.91133,2358586794396.258
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1976,67784866161.0691,-71.7683434384264,87390289017.25635,2426371660557.327
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1976,66445385824.2943,-1.976075800742827,88420992833.36748,2492817046381.6216
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1976,0.0,-100.0,88420992833.36748,2492817046381.6216
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1976,70626968976.2538,inf,88991910871.79684,2563444015357.8755
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1977,247561935708.722,250.52040218794787,90483831334.06784,2811005951066.5977
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1977,76732468499.1638,-69.00473884262797,92273351801.68678,2887738419565.761
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1977,70978732417.9435,-7.498437354824583,93180021120.41661,2958717151983.7046
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1977,0.0,-100.0,93180021120.41661,2958717151983.7046
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1977,70214981733.2539,inf,93097623671.81664,3028932133716.9585
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1978,275362122498.53,292.1700407822198,98657661029.77824,3304294256215.4883
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1978,88469319799.5791,-67.87164516425044,101005031289.8613,3392763576015.0674
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1978,75676727471.0141,-14.459919390751175,101944630300.47543,3468440303486.0815
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1978,0.0,-100.0,101944630300.47543,3468440303486.0815
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1978,72218458921.9043,inf,102345325738.2055,3540658762407.986
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1979,294078978724.011,307.20749669003953,106088696983.3017,3834737741131.997
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1979,95723804023.1447,-67.44962715849876,107539593828.01482,3930461545155.1416
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1979,73437270710.8126,-23.282122497914436,107091702475.97452,4003898815865.954
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1979,0.0,-100.0,107091702475.97452,4003898815865.954
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1979,75830881987.0571,inf,107814187089.00508,4079729697853.011
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1980,321319001361.092,323.73106172750977,113262191616.4213,4401048699214.104
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1980,108640324713.883,-66.18926230515851,115845495754.56894,4509689023927.986
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1980,77586879142.7991,-28.583719399649045,116675417440.96623,4587275903070.785
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1980,0.0,-100.0,116675417440.96623,4587275903070.785
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1980,78899580081.0611,inf,117289157059.76704,4666175483151.847
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1981,292889102632.273,271.21756837154265,111603177314.00322,4959064585784.12
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1981,110675119069.274,-62.212619699877195,112010136185.08145,5069739704853.395
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1981,84022426149.9992,-24.08191935406212,113297245586.52145,5153762131003.394
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1981,0.0,-100.0,113297245586.52145,5153762131003.394
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1981,81907455166.0024,inf,113898820603.50972,5235669586169.3955
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1982,292956501872.167,257.6676888305589,113912300451.48853,5528626088041.5625
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1982,116867971455.244,-60.10739795553679,115150870928.68253,5645494059496.807
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1982,85668547460.6343,-26.696299769828645,115480095190.80954,5731162606957.441
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1982,0.0,-100.0,115480095190.80954,5731162606957.441
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1982,80888056079.1355,inf,115276215373.43616,5812050663036.577
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1983,275833595470.312,241.00658223317265,111851634093.06516,6087884258506.889
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1983,128988268267.786,-53.23692603583924,114275693455.57356,6216872526774.675
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1983,92135498783.6689,-28.57063667806512,115569083720.18047,6309008025558.344
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1983,0.0,-100.0,115569083720.18047,6309008025558.344
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1983,78268984579.0312,inf,115045269420.15962,6387277010137.375
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1984,294041486928.686,275.68072271562556,118686847711.83443,6681318497066.061
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1984,147655294745.498,-49.78419668333779,122420253007.3768,6828973791811.559
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1984,95750427077.524,-35.152730389681174,123143238666.14783,6924724218889.083
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1984,0.0,-100.0,123143238666.14783,6924724218889.083
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1984,81403415162.6498,inf,123770124782.87155,7006127634051.732
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1985,318356353567.448,291.0847633743,128633098110.62398,7324483987619.181
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1985,174815375923.969,-45.088146046084155,134065114346.31816,7499299363543.149
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1985,100026105789.745,-42.78186042785589,134920250088.76236,7599325469332.895
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1985,0.0,-100.0,134920250088.76236,7599325469332.895
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1985,79659049447.5843,inf,134571376945.74927,7678984518780.479
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1986,355803966854.679,346.6585646227152,142060899603.19547,8034788485635.157
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1986,192686178523.484,-45.8448481542133,145635060123.09845,8227474664158.642
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1986,106154326580.821,-44.908177953260285,146860704281.31366,8333628990739.463
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1986,0.0,-100.0,146860704281.31366,8333628990739.463
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1986,78145156569.5497,inf,146557925705.70673,8411774147309.013
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1987,359547368249.469,360.10192318121403,147306605984.66473,8771321515558.481
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1987,218873097184.158,-39.12537915385472,152543989716.79953,8990194612742.639
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1987,111959878265.019,-48.84712662021825,153705100053.63913,9102154491007.658
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1987,0.0,-100.0,153705100053.63913,9102154491007.658
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1987,77188216985.2627,inf,153513712136.78174,9179342707992.922
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1988,350251763073.869,353.76325137908225,151654591101.66174,9529594471066.791
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1988,250191236393.21,-28.56817216350628,157918218943.47214,9779785707460.002
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1988,122612034442.132,-50.99267416008517,160048650178.89474,9902397741902.135
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1988,0.0,-100.0,160048650178.89474,9902397741902.135
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1988,78888942873.1981,inf,160388795356.48184,9981286684775.332
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1989,360323824619.41,356.74819752443045,162403207665.59003,10341610509394.742
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1989,259568984291.965,-27.962303195983974,164278757245.341,10601179493686.707
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1989,132733169171.543,-48.86401026162517,166302984191.2232,10733912662858.25
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1989,0.0,-100.0,166302984191.2232,10733912662858.25
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1989,79621273722.2249,inf,166449450361.0286,10813533936580.475
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1990,330770370820.345,315.4296400410587,160538759601.21558,11144304307400.82
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1990,267885100353.126,-19.011760428014433,162201982813.44778,11412189407753.947
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1990,142761828517.585,-46.70781304021895,164207714682.65616,11554951236271.533
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1990,586667465429.219,310.94140606146345,281541207768.49994,12141618701700.752
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1990,78531505414.1106,-86.61396616622413,281323254106.8771,12220150207114.863
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1991,316737975727.603,303.32599516256226,278516775088.32874,12536888182842.467
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1991,304776806709.55,-3.7763608833377593,285895116359.6135,12841664989552.018
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1991,143599386898.807,-52.883755017600095,286062628035.8579,12985264376450.824
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1991,543892687911.501,278.7569708043228,277507672532.31433,13529157064362.324
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1991,76099130545.2099,-86.00842919263656,277021197558.5342,13605256194907.533
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1992,304038980559.345,299.53016332915627,274481398524.88257,13909295175466.879
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1992,368828594244.446,21.309640482909998,287291756031.86176,14278123769711.324
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1992,148020693954.847,-59.86734860997671,288176017443.06976,14426144463666.172
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1992,426433518022.016,188.09047345237926,264684183465.17276,14852577981688.188
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1992,75505492521.382,-82.2937247354267,264565455860.40717,14928083474209.57
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1993,327878970270.577,334.2451910736516,269333453802.65363,15255962444480.146
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1993,441727313759.298,34.7226732457923,283913197705.62396,15697689758239.445
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1993,155723750964.69,-64.74663302130654,285453809107.5926,15853413509204.135
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1993,369940066081.287,137.56174879525608,274155118719.44678,16223353575285.422
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1993,76026579336.8437,-79.44894692208376,274259336082.53912,16299380154622.266
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1994,354270584811.278,365.98253913495853,279537658990.6793,16653650739433.543
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1994,521792048177.917,47.286303336721744,295550605874.40314,17175442787611.46
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1994,169967419161.179,-67.4262151455354,298399339513.7009,17345410206772.64
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1994,296466208531.636,74.4253163310664,283704568003.77075,17641876415304.277
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1994,77566927062.9959,-73.8361658661956,284012637549.00116,17719443342367.273
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1995,371059167689.859,378.3729119351392,287370354124.7174,18090502510057.133
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1995,593983013134.374,60.07770858550532,301808547116.0088,18684485523191.508
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1995,188482715952.241,-68.26799558498462,305511606474.2212,18872968239143.75
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1995,282972032762.646,50.13155521079573,302812771320.4232,19155940271906.395
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1995,78965016767.9383,-72.09440947325938,303092389261.4117,19234905288674.332
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1996,367479804968.167,365.3703880645191,302376516717.07324,19602385093642.5
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1996,665820100811.633,81.18549422581462,316743934252.525,20268205194454.133
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1996,199810713908.837,-69.99028511376147,319009533843.84424,20468015908362.97
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1996,267202331885.418,33.727729939110375,315855593668.3986,20735218240248.387
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1996,80058129315.1684,-70.03838673477631,316074216177.84467,20815276369563.555
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1997,383010536380.173,378.41554587462116,319180362460.2459,21198286905943.727
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1997,735533924813.701,92.04012812942995,333123127260.6595,21933820830757.426
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1997,208597653234.662,-71.63996843687441,334880515125.8245,22142418483992.086
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1997,269552677153.863,29.22133733241459,335350584179.5135,22411971161145.95
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1997,82037448552.184,-69.56533712875857,335746448026.9166,22494008609698.133
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1998,374262206002.728,356.20897846994825,333996781951.4276,22868270815700.86
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1998,801089690785.189,114.0450405989831,347107935145.7252,23669360506486.047
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1998,217137841262.528,-72.89469034987829,348815972751.2984,23886498347748.574
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1998,255914727535.069,17.85818908720671,346088382827.5396,24142413075283.645
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1998,81075885405.076,-68.31917952280966,345896070198.11804,24223488960688.72
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,1999,364687702137.335,349.8103231500481,343981169425.0394,24588176662826.055
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,1999,866733926076.477,137.66469804075822,357110016483.297,25454910588902.53
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,1999,229884897376.278,-73.47687791374237,359659427706.047,25684795486278.81
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,1999,280183028503.558,21.879702277680057,364513087899.7448,25964978514782.367
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,1999,80724017053.2386,-71.1888270019847,364442714229.3773,26045702531835.605
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,2000,380904367496.589,371.86002555519167,367686047301.22815,26426606899332.195
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,2000,948921924170.286,149.1234034429347,384123646919.9899,27375528823502.48
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,2000,243212124725.159,-74.36963795121314,386789092389.7661,27618740948227.64
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,2000,314200996630.791,29.18804808183504,393592686015.21277,27932941944858.43
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,2000,83822236945.4097,-73.32209705117297,394212329993.6469,28016764181803.84
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,2001,378541167860.391,351.59993535715444,393739690066.40735,28395305349664.23
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,2001,1029429005187.9,171.94638062921643,409841106269.9302,29424734354852.13
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,2001,249465253577.778,-75.76663836742743,411091732040.454,29674199608429.906
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,2001,332332853983.187,33.218093188105094,414718103510.93317,30006532462413.094
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,2001,85031395978.3047,-74.41378576955063,414959935317.51215,30091563858391.4
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,2002,391513174170.077,360.433666489457,417554336579.44934,30483077032561.477
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,2002,1131345661597.02,188.96745658565064,437937667861.2733,31614422694158.496
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,2002,267613983712.561,-76.34551553989307,441567413888.22986,31882036677871.06
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,2002,344834959821.009,28.85535913974866,444067835055.7943,32226871637692.066
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,2002,87082110575.5568,-74.74672793595003,444477977975.24475,32313953748267.625
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,2003,390343601296.044,348.24774998690737,444244063400.4382,32704297349563.668
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,2003,1274665959672.34,226.5497257903324,472908123015.50214,33978963309236.008
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,2003,286552272054.654,-77.5194222548852,476695780683.9207,34265515581290.66
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,2003,376045034428.987,31.230868187729488,482937795605.5164,34641560615719.65
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,2003,88267967430.4215,-76.52728813067463,483174966976.48926,34729828583150.07
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,2004,424848318383.356,381.31653050496357,490075910393.95166,35154676901533.426
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,2004,1416659217950.66,233.4505885162424,518474562049.6156,36571336119484.086
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,2004,314480450811.034,-77.80126322363104,524060197800.8917,36885816570295.12
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,2004,412556386914.251,31.186655911450956,531362468297.94446,37298372957209.37
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,2004,91920071625.8169,-77.71939193249666,532092889137.02356,37390293028835.19
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,2005,430776302296.498,368.6422613442668,533278485919.652,37821069331131.69
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,2005,1588555106321.25,268.7656674363362,567657663593.7699,39409624437452.94
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,2005,344586567331.612,-78.30817665937948,573678886897.8855,39754211004784.55
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,2005,429419720949.953,24.6188219916019,577051553705.026,40183630725734.5
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,2005,96257595865.6031,-77.5842628622961,577919058552.9832,40279888321600.1
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,2006,437096988119.6,354.09090491921705,579183195717.6035,40716985309719.7
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,2006,1802208513637.22,312.3131850874464,621913877180.7976,42519193823356.92
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,2006,390212701283.552,-78.34808245933628,631039103971.1857,42909406524640.48
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,2006,448685991134.676,14.984978617760003,634892358008.1302,43358092515775.16
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,2006,100156285184.081,-77.6778666677787,635672095871.8258,43458248800959.234
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,2007,466593746703.047,365.86566768673265,641571447588.5153,43924842547662.28
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,2007,2073455448142.74,344.3813194655486,695820834489.6191,45998297995805.02
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,2007,421522863067.069,-79.67051264860113,702082866846.3226,46419820858872.09
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,2007,470255427951.875,11.561072756580737,706396754209.7625,46890076286823.97
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,2007,104287053814.932,-77.82331736836336,707222907935.9326,46994363340638.9
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,2008,486090966575.716,366.10863841099,711122351910.4664,47480454307214.62
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,2008,2277465699600.57,368.52664546396585,751924402202.0325,49757920006815.19
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,2008,438380517912.961,-80.75138879194336,755295933171.2107,50196300524728.15
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,2008,478960535881.228,9.256802323574975,757036954757.0813,50675261060609.375
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,2008,104415734834.406,-78.19951185700634,757062690960.9762,50779676795443.78
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,2009,466497949636.198,346.7697807959901,753144087573.0725,51246174745079.98
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,2009,2511820927749.65,438.44200809639415,800015133202.8885,53757995672829.625
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,2009,477153412057.576,-81.00368514386655,807769712031.8116,54235149084887.2
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,2009,429098927871.917,-10.071076297754832,797797390429.9495,54664248012759.12
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,2009,98155685294.4444,-77.12516184059469,796545380521.957,54762403698053.56
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,2010,513959185993.633,423.61631876123533,806037627793.4441,55276362884047.195
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,2010,2830398948347.93,450.7050025530614,869753231913.1001,58106761832395.125
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,2010,514834122665.28,-81.81054571950776,877289374034.6409,58621595955060.41
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,2010,457468961199.161,-11.142455198801004,882963380700.0896,59079064916259.57
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,2010,102775690392.285,-77.53384401798985,883887381719.6578,59181840606651.85
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,2011,535103925306.958,420.65223134431636,888116329582.3229,59716944531958.81
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,2011,3132964022062.49,485.48701923001045,948629344325.2347,62849908554021.305
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,2011,533504370130.642,-82.97125768525659,952363393818.3073,63383412924151.945
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,2011,486714419284.611,-8.770303200060624,958212485435.3972,63870127343436.555
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,2011,104226756301.379,-78.58564444123621,958502698617.2161,63974354099737.94
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,2012,531234644668.031,409.6912381422757,957728842489.4307,64505588744405.97
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,2012,3395010147308.86,539.0792056550463,1010138067538.7047,67900598891714.83
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,2012,550945546372.331,-83.77190280833028,1013626302787.0426,68451544438087.16
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,2012,504248580308.783,-8.475786104638017,1017133134991.8767,68955793018395.94
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,2012,104679949229.838,-79.24040774378861,1017223773577.5686,69060472967625.77
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,2013,542743556161.892,418.47900209640943,1019525555876.3408,69603216523787.664
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,2013,3666168612494.57,575.4881879060041,1073757248913.4828,73269385136282.23
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,2013,571803749211.409,-84.40323373936866,1077928889481.2985,73841188885493.64
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,2013,506282494015.398,-11.45869632480957,1078335672222.6213,74347471379509.03
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,2013,106956685747.847,-78.87410941279869,1078791019526.2233,74454428065256.88
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,2014,534558708503.866,399.78989603707544,1077154049994.6182,74988986773760.73
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,2014,3928480145700.32,634.901533396665,1129616356635.768,78917466919461.05
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,2014,611833633964.724,-84.42569107459104,1137622333586.431,79529300553425.77
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,2014,506747541165.774,-17.175599209540813,1137715343016.5063,80036048094591.55
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,2014,106992496783.636,-78.88643000861939,1137722505223.6638,80143040591375.19
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,2015,503758355218.281,370.83521776017517,1131562434566.5469,80646798946593.47
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,2015,4161331395412.81,726.0570474527782,1178132684509.045,84808130342006.28
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,2015,670431059042.756,-83.88902504179799,1189852169524.6516,85478561401049.03
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,2015,502775872599.709,-25.007073312269522,1189057835811.4385,85981337273648.73
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,2015,107872010585.242,-78.54471217414094,1189233738571.7595,86089209284233.97
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,2016,480758086061.846,345.67453916319107,1184633684740.4727,86569967370295.81
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,2016,4412318855684.21,817.783597115951,1234831176794.7527,90982286225980.02
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,2016,722188899825.264,-83.63244082202043,1245182744951.2542,91704475125805.28
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,2016,511235383362.704,-29.210296158470584,1246874647103.853,92215710509167.98
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,2016,107022560144.624,-79.0658933971526,1246704757015.7295,92322733069312.61
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,2017,478350786152.797,346.96257079477624,1246223297033.9197,92801083855465.4
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,2017,4671268554737.57,876.5361926771145,1298013236844.5918,97472352410202.97
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,2017,768036905854.294,-83.55827979371138,1307182838050.398,98240389316057.27
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,2017,520474188606.408,-32.23317985904855,1309030599099.1387,98760863504663.67
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,2017,108185483613.256,-79.21405403350985,1309263183792.865,98869048988276.92
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,2018,480922324067.758,344.53498566126524,1309777491375.8572,99349971312344.69
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,2018,4941807734684.69,927.5687959098424,1363885327365.2812,104291779047029.38
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,2018,805530898414.434,-83.69967142265136,1371384125877.309,105097309945443.81
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,2018,531715433902.432,-33.991925704025306,1373632374936.5142,105629025379346.25
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,2018,108041654812.167,-79.68054942110402,1373603609176.2964,105737067034158.42
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Brazil,BRA,2019,483114805707.14,347.1560589728532,1374042105504.1726,106220181839865.56
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,China,CHN,2019,5221193846611.77,980.7356315585185,1429919327889.5884,111441375686477.33
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,India,IND,2019,820378880003.527,-84.28752304349125,1432888924207.4072,112261754566480.86
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,Russian Federation,RUS,2019,536778428179.466,-34.56944818263017,1433901523062.814,112798532994660.33
+"Industry (including construction), value added (constant 2010 US$)",NV.IND.TOTL.KD,South Africa,ZAF,2019,106369764201.215,-80.18367381826837,1433567144940.6235,112904902758861.55

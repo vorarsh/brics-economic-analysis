@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1970,0.0,,,0.0
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1970,0.0,,,0.0
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1970,0.331746426072453,inf,,0.331746426072453
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1970,0.0,-100.0,,0.331746426072453
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1970,0.0,,0.0663492852144906,0.331746426072453
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1971,0.0,,0.0663492852144906,0.331746426072453
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1971,0.0,,0.0663492852144906,0.331746426072453
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1971,0.277414360085477,inf,0.0554828720170954,0.60916078615793
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1971,0.0,-100.0,0.0554828720170954,0.60916078615793
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1971,0.0,,0.0554828720170954,0.60916078615793
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1972,0.0,,0.0554828720170954,0.60916078615793
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1972,0.0,,0.0554828720170954,0.60916078615793
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1972,0.271192288545732,inf,0.054238457709146405,0.8803530747036621
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1972,0.0,-100.0,0.054238457709146405,0.8803530747036621
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1972,0.0,,0.054238457709146405,0.8803530747036621
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1973,0.0,,0.054238457709146405,0.8803530747036621
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1973,0.0,,0.054238457709146405,0.8803530747036621
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1973,0.391082237980545,inf,0.07821644759610899,1.271435312684207
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1973,0.0,-100.0,0.07821644759610899,1.271435312684207
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1973,0.0,,0.07821644759610899,1.271435312684207
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1974,0.0,,0.07821644759610899,1.271435312684207
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1974,0.0,,0.07821644759610899,1.271435312684207
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1974,0.405002914645295,inf,0.081000582929059,1.676438227329502
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1974,0.0,-100.0,0.081000582929059,1.676438227329502
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1974,0.0,,0.081000582929059,1.676438227329502
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1975,0.0,,0.081000582929059,1.676438227329502
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1975,0.0,,0.081000582929059,1.676438227329502
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1975,0.884441273482943,inf,0.1768882546965886,2.5608795008124448
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1975,0.0,-100.0,0.1768882546965886,2.5608795008124448
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1975,0.0,,0.1768882546965886,2.5608795008124448
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1976,0.0,,0.1768882546965886,2.5608795008124448
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1976,0.0,,0.1768882546965886,2.5608795008124448
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1976,0.564183349913679,inf,0.11283666998273581,3.125062850726124
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1976,0.0,-100.0,0.11283666998273581,3.125062850726124
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1976,0.0,,0.11283666998273581,3.125062850726124
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1977,0.0,,0.11283666998273581,3.125062850726124
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1977,0.0,,0.11283666998273581,3.125062850726124
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1977,1.50756605143459,inf,0.301513210286918,4.6326289021607145
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1977,0.0,-100.0,0.301513210286918,4.6326289021607145
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1977,0.0,,0.301513210286918,4.6326289021607145
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1978,0.0,,0.301513210286918,4.6326289021607145
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1978,0.0,,0.301513210286918,4.6326289021607145
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1978,1.3480449557868,inf,0.26960899115736,5.980673857947514
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1978,0.0,-100.0,0.26960899115736,5.980673857947514
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1978,0.0,,0.26960899115736,5.980673857947514
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1979,0.0,,0.26960899115736,5.980673857947514
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1979,0.0,,0.26960899115736,5.980673857947514
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1979,0.565061161930612,inf,0.11301223238612239,6.545735019878126
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1979,0.0,-100.0,0.11301223238612239,6.545735019878126
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1979,0.0,,0.11301223238612239,6.545735019878126
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1980,0.0,,0.11301223238612239,6.545735019878126
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1980,0.0,,0.11301223238612239,6.545735019878126
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1980,0.556946492211301,inf,0.1113892984422602,7.102681512089427
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1980,0.0,-100.0,0.1113892984422602,7.102681512089427
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1980,0.0,,0.1113892984422602,7.102681512089427
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1981,0.0,,0.1113892984422602,7.102681512089427
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1981,0.0,,0.1113892984422602,7.102681512089427
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1981,0.480080241964132,inf,0.0960160483928264,7.58276175405356
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1981,0.0,-100.0,0.0960160483928264,7.58276175405356
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1981,0.0,,0.0960160483928264,7.58276175405356
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1982,0.0,,0.0960160483928264,7.58276175405356
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1982,0.0,,0.0960160483928264,7.58276175405356
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1982,0.708412004025165,inf,0.141682400805033,8.291173758078724
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1982,0.0,-100.0,0.141682400805033,8.291173758078724
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1982,0.0,,0.141682400805033,8.291173758078724
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1983,1.33531277862146,inf,0.40874495652932497,9.626486536700185
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1983,0.0,-100.0,0.40874495652932497,9.626486536700185
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1983,0.457107809529054,inf,0.3584841176301028,10.083594346229239
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1983,0.0,-100.0,0.3584841176301028,10.083594346229239
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1983,0.0,,0.3584841176301028,10.083594346229239
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1984,0.887060735658395,inf,0.2688337090374898,10.970655081887633
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1984,0.0,-100.0,0.2688337090374898,10.970655081887633
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1984,0.39963281106843,inf,0.25733870934536507,11.370287892956064
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1984,0.0,-100.0,0.25733870934536507,11.370287892956064
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1984,0.0,,0.25733870934536507,11.370287892956064
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1985,0.632545161070795,inf,0.20643559442784504,12.002833054026858
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1985,0.0,-100.0,0.20643559442784504,12.002833054026858
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1985,0.269791416388064,inf,0.18046731549177183,12.272624470414922
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1985,0.0,-100.0,0.18046731549177183,12.272624470414922
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1985,0.0,,0.18046731549177183,12.272624470414922
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1986,0.596916313723354,inf,0.17334154602228363,12.869540784138275
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1986,0.0,-100.0,0.17334154602228363,12.869540784138275
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1986,0.460963354645965,inf,0.21157593367386385,13.33050413878424
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1986,0.0,-100.0,0.21157593367386385,13.33050413878424
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1986,0.0,,0.21157593367386385,13.33050413878424
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1987,0.619300084059685,inf,0.21605268774113004,13.949804222843925
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1987,0.0,-100.0,0.21605268774113004,13.949804222843925
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1987,0.384540022532715,inf,0.20076802131848,14.33434424537664
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1987,0.0,-100.0,0.20076802131848,14.33434424537664
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1987,0.0909707449261188,inf,0.21896217030370382,14.425314990302759
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1988,0.560889208395146,516.5599818388515,0.20727999517079604,14.986204198697905
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1988,0.0,-100.0,0.20727999517079604,14.986204198697905
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1988,0.385297470433997,inf,0.20743148475105241,15.371501669131902
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1988,0.0,-100.0,0.20743148475105241,15.371501669131902
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1988,0.105683906399713,inf,0.21037411704577122,15.477185575531616
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1989,0.457912510011273,333.2849963734086,0.18977877736899665,15.935098085542888
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1989,0.0,-100.0,0.18977877736899665,15.935098085542888
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1989,0.386021191052909,inf,0.18992352149277905,16.321119276595798
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1989,0.0,-100.0,0.18992352149277905,16.321119276595798
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1989,0.154397353300534,inf,0.19966621087294323,16.475516629896333
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1990,0.570719083214749,269.64304828713347,0.22222752551363847,17.04623571311108
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1990,0.0,-100.0,0.22222752551363847,17.04623571311108
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1990,0.472620818705124,inf,0.23954745104408146,17.518856531816205
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1990,0.0,-100.0,0.23954745104408146,17.518856531816205
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1990,0.1342166965441,inf,0.23551131969279462,17.653073228360306
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1991,0.426889629017535,218.0600029723355,0.20674542885335184,18.07996285737784
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1991,0.0,-100.0,0.20674542885335184,18.07996285737784
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1991,0.551321340291607,inf,0.22248553317064848,18.631284197669448
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1991,0.0,-100.0,0.22248553317064848,18.631284197669448
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1991,0.119890278533436,inf,0.21962024956851564,18.751174476202884
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1992,0.647053989037651,439.70513452197474,0.26365312157253884,19.398228465240535
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1992,0.0,-100.0,0.26365312157253884,19.398228465240535
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1992,0.539836940765081,inf,0.26135624166723365,19.938065406005617
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1992,0.0,-100.0,0.26135624166723365,19.938065406005617
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1992,0.0914593107565137,inf,0.25567004811184924,20.02952471676213
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1993,0.600323198913599,556.3828154268526,0.2463238900870388,20.62984791567573
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1993,0.0,-100.0,0.2463238900870388,20.62984791567573
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1993,0.548368497758392,inf,0.24803020148570099,21.17821641343412
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1993,0.0,-100.0,0.24803020148570099,21.17821641343412
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1993,0.100716396641374,inf,0.24988161866267306,21.278932810075496
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1994,0.430311131839313,327.250324861744,0.21587920524781587,21.70924394191481
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1994,0.0,-100.0,0.21587920524781587,21.70924394191481
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1994,0.397300610591811,inf,0.18566562781449966,22.10654455250662
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1994,0.0,-100.0,0.18566562781449966,22.10654455250662
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1994,0.17642140660207,inf,0.20080662980663888,22.28296595910869
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1995,0.384568011260285,117.98262391576056,0.19165800569083327,22.667533970368975
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1995,0.0,-100.0,0.19165800569083327,22.667533970368975
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1995,0.43201192420019,inf,0.19860026841250908,23.099545894569165
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1995,0.0,-100.0,0.19860026841250908,23.099545894569165
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1995,0.202156937614706,inf,0.20374737461503628,23.30170283218387
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1996,0.300798753593275,48.79467266494311,0.18699352308163428,23.602501585777144
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1996,0.0,-100.0,0.18699352308163428,23.602501585777144
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1996,0.366863850522691,inf,0.17396390834613445,23.969365436299835
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1996,0.0,-100.0,0.17396390834613445,23.969365436299835
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1996,0.242694659208271,inf,0.18207145266484748,24.212060095508107
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1997,0.268532392139835,10.646189337603463,0.1756181803741595,24.480592487647943
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1997,0.0,-100.0,0.1756181803741595,24.480592487647943
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1997,0.331644278883482,inf,0.16857426604631764,24.812236766531424
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1997,0.0,-100.0,0.16857426604631764,24.812236766531424
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1997,0.234460638267335,inf,0.16692746185813045,25.04669740479876
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1998,0.232671247520283,-0.7631945218078307,0.15975523293422006,25.279368652319043
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1998,0.0,-100.0,0.15975523293422006,25.279368652319043
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1998,0.317379132184692,inf,0.15690220359446205,25.596747784503734
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1998,0.0,-100.0,0.15690220359446205,25.596747784503734
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1998,0.186880951459361,inf,0.14738626623286727,25.783628735963095
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,1999,0.360144816516264,92.71349685662362,0.17288098003206348,26.14377355247936
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,1999,0.0,-100.0,0.17288098003206348,26.14377355247936
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,1999,0.33716901369584,inf,0.17683895633429308,26.480942566175198
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,1999,0.0,-100.0,0.17683895633429308,26.480942566175198
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,1999,0.13695828144654,inf,0.1668544223317289,26.617900847621737
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,2000,0.249145434020223,81.91337638642457,0.14465454583252066,26.86704628164196
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,2000,0.0,-100.0,0.14465454583252066,26.86704628164196
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,2000,0.297609277179731,inf,0.13674259852929888,27.164655558821693
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,2000,0.0,-100.0,0.13674259852929888,27.164655558821693
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,2000,0.183780780237413,inf,0.14610709828747348,27.348436339059106
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,2001,0.258258285791898,40.525187377196325,0.14792966864180848,27.606694624851002
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,2001,0.0,-100.0,0.14792966864180848,27.606694624851002
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,2001,0.288354313609929,inf,0.14607867592784807,27.89504893846093
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,2001,0.0,-100.0,0.14607867592784807,27.89504893846093
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,2001,0.185350048777619,inf,0.14639252963588928,28.08039898723855
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,2002,0.332197671302744,79.22718310223445,0.1611804067380585,28.412596658541293
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,2002,0.0,-100.0,0.1611804067380585,28.412596658541293
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,2002,0.330240208043116,inf,0.16955758562469586,28.74283686658441
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,2002,0.0,-100.0,0.16955758562469586,28.74283686658441
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,2002,0.233143241711056,inf,0.1791162242113833,28.975980108295463
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,2003,0.365933518236618,56.95651975626832,0.1858633935981581,29.34191362653208
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,2003,0.0,-100.0,0.1858633935981581,29.34191362653208
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,2003,0.302860435628016,inf,0.1803874391151381,29.644774062160096
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,2003,0.0,-100.0,0.1803874391151381,29.644774062160096
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,2003,0.256301016234756,inf,0.1850189940198781,29.90107507839485
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,2004,0.228109439158214,-10.999401208273108,0.15745417820419727,30.129184517553064
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,2004,0.0,-100.0,0.15745417820419727,30.129184517553064
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,2004,0.217406696835016,inf,0.14036343044559726,30.34659121438808
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,2004,0.0,-100.0,0.14036343044559726,30.34659121438808
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,2004,0.152581218939172,inf,0.11961947098648049,30.499172433327253
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,2005,0.156816099969181,2.775492986261474,0.10536080314867387,30.655988533296433
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,2005,0.0,-100.0,0.10536080314867387,30.655988533296433
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,2005,0.187676807209083,inf,0.09941482522348728,30.843665340505517
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,2005,0.0,-100.0,0.09941482522348728,30.843665340505517
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,2005,0.181896987632575,inf,0.10527797896216788,31.025562328138093
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,2006,0.141211800826873,-22.367158101531903,0.10215711913370629,31.166774128964967
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,2006,0.0,-100.0,0.10215711913370629,31.166774128964967
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,2006,0.253072651003586,inf,0.1152362878926069,31.41984677996855
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,2006,0.0,-100.0,0.1152362878926069,31.41984677996855
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,2006,0.212585377615499,inf,0.12137396588919169,31.632432157584052
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,2007,0.118923298567912,-44.058570771971276,0.1169162654373995,31.751355456151963
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,2007,0.0,-100.0,0.1169162654373995,31.751355456151963
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,2007,0.268882809370697,inf,0.12007829711082167,32.02023826552266
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,2007,0.0,-100.0,0.12007829711082167,32.02023826552266
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,2007,0.139701286919695,inf,0.10550147897166089,32.15993955244235
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,2008,0.0767135286182064,-45.08745745319875,0.09705952498171977,32.23665308106056
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,2008,0.0,-100.0,0.09705952498171977,32.23665308106056
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,2008,0.266602814707984,inf,0.09660352604917717,32.50325589576855
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,2008,0.0,-100.0,0.09660352604917717,32.50325589576855
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,2008,0.205617059601543,inf,0.10978668058554678,32.70887295537009
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,2009,0.0503833074919623,-75.49653341527299,0.10452063636029793,32.75925626286205
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,2009,0.0,-100.0,0.10452063636029793,32.75925626286205
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,2009,0.230251514934309,inf,0.09725037640556296,32.98950777779636
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,2009,0.0,-100.0,0.09725037640556296,32.98950777779636
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,2009,0.149498516782924,inf,0.08602666784183916,33.13900629457929
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,2010,0.0472607874251761,-68.38711952319896,0.0854021638284819,33.18626708200446
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,2010,0.0,-100.0,0.0854021638284819,33.18626708200446
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,2010,0.335189557954106,inf,0.1063897724324413,33.52145663995857
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,2010,0.0,-100.0,0.1063897724324413,33.52145663995857
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,2010,0.0790762489850503,inf,0.09230531887286655,33.600532888943626
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,2011,0.0644349208580516,-18.515456050231606,0.09574014555944166,33.66496780980168
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,2011,0.0,-100.0,0.09574014555944166,33.66496780980168
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,2011,0.312197051403045,inf,0.09114164424922946,33.97716486120473
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,2011,0.0,-100.0,0.09114164424922946,33.97716486120473
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,2011,0.0542572373191559,inf,0.08617784191605057,34.03142209852388
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,2012,0.0917087365176924,69.02581305096045,0.09163260504797874,34.12313083504158
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,2012,0.0,-100.0,0.09163260504797874,34.12313083504158
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,2012,0.273881892605526,inf,0.08396957328847494,34.3970127276471
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,2012,0.0,-100.0,0.08396957328847494,34.3970127276471
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,2012,0.110232958822835,inf,0.09516471758921077,34.507245686469936
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,2013,0.0873047818784315,-20.799747361633802,0.09428392666135858,34.594550468348366
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,2013,0.0,-100.0,0.09428392666135858,34.594550468348366
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,2013,0.245971601047219,inf,0.08870186834969719,34.84052206939558
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,2013,0.0,-100.0,0.08870186834969719,34.84052206939558
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,2013,0.0608501508614346,inf,0.0788253067574171,34.90137222025702
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,2014,0.0892423780039265,46.6592551383241,0.07921282598251611,34.99061459826094
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,2014,0.0,-100.0,0.07921282598251611,34.99061459826094
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,2014,0.235799582404986,inf,0.0771784222540695,35.22641418066593
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,2014,0.0,-100.0,0.0771784222540695,35.22641418066593
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,2014,0.045781081084792,inf,0.07416460829874098,35.27219526175072
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,2015,0.0813384425675417,77.66824338834036,0.07258382121146403,35.35353370431826
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,2015,0.0,-100.0,0.07258382121146403,35.35353370431826
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,2015,0.273496780337317,inf,0.08012326079793022,35.62703048465558
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,2015,0.0,-100.0,0.08012326079793022,35.62703048465558
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,2015,0.064355971096725,inf,0.08383823880031682,35.6913864557523
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,2016,0.141076756951184,119.21315854149736,0.09578590167704529,35.83246321270349
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,2016,0.0,-100.0,0.09578590167704529,35.83246321270349
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,2016,0.290457272267531,inf,0.09917800006308806,36.12292048497102
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,2016,0.0,-100.0,0.09917800006308806,36.12292048497102
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,2016,0.0415469591631016,inf,0.09461619767636338,36.16446744413412
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,2017,0.117884911951507,183.73896507978884,0.08997782867642799,36.282352356085624
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,2017,0.0,-100.0,0.08997782867642798,36.282352356085624
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,2017,0.20225746703956,inf,0.0723378676308338,36.48460982312518
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,2017,0.0,-100.0,0.0723378676308338,36.48460982312518
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,2017,0.0019827975293505,inf,0.06442503530408358,36.486592620654534
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,2018,0.143417668524736,7133.096995622894,0.06953158661872938,36.63001028917927
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,2018,0.0,-100.0,0.06953158661872938,36.63001028917927
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,2018,0.122123386398277,inf,0.053504770490472774,36.75213367557755
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,2018,0.0,-100.0,0.053504770490472774,36.75213367557755
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,2018,0.0566650706625172,inf,0.06444122511710612,36.808798746240065
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Brazil,BRA,2019,0.0,-100.0,0.03575769141215891,36.808798746240065
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,China,CHN,2019,0.0,,0.03575769141215891,36.808798746240065
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,India,IND,2019,0.0,,0.011333014132503517,36.808798746240065
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,Russian Federation,RUS,2019,0.0,,0.011333014132503517,36.808798746240065
+Adjusted savings: net forest depletion (% of GNI),NY.ADJ.DFOR.GN.ZS,South Africa,ZAF,2019,0.0,,0.0,36.808798746240065

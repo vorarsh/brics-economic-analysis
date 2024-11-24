@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1970,450.0,,,450.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1970,120.0,-73.33333333333334,,570.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1970,120.0,0.0,,690.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1970,0.0,-100.0,,690.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1970,800.0,inf,298.0,1490.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1971,510.0,-36.25000000000001,310.0,2000.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1971,130.0,-74.50980392156863,312.0,2130.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1971,120.0,-7.692307692307687,312.0,2250.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1971,0.0,-100.0,312.0,2250.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1971,870.0,inf,326.0,3120.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1972,590.0,-32.18390804597702,342.0,3710.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1972,130.0,-77.96610169491525,342.0,3840.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1972,120.0,-7.692307692307687,342.0,3960.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1972,0.0,-100.0,342.0,3960.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1972,920.0,inf,352.0,4880.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1973,760.0,-17.391304347826086,386.0,5640.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1973,160.0,-78.94736842105263,392.0,5800.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1973,140.0,-12.5,396.0,5940.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1973,0.0,-100.0,396.0,5940.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1973,1110.0,inf,434.0,7050.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1974,980.0,-11.711711711711715,478.0,8030.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1974,180.0,-81.63265306122449,482.0,8210.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1974,170.0,-5.555555555555558,488.0,8380.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1974,0.0,-100.0,488.0,8380.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1974,1400.0,inf,546.0,9780.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1975,1180.0,-15.714285714285714,586.0,10960.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1975,200.0,-83.05084745762711,590.0,11160.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1975,190.0,-5.000000000000004,594.0,11350.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1975,0.0,-100.0,594.0,11350.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1975,1610.0,inf,636.0,12960.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1976,1360.0,-15.527950310559003,672.0,14320.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1976,190.0,-86.02941176470588,670.0,14510.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1976,180.0,-5.263157894736848,668.0,14690.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1976,0.0,-100.0,668.0,14690.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1976,1560.0,inf,658.0,16250.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1977,1490.0,-4.487179487179482,684.0,17740.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1977,190.0,-87.24832214765101,684.0,17930.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1977,190.0,0.0,686.0,18120.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1977,0.0,-100.0,686.0,18120.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1977,1500.0,inf,674.0,19620.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1978,1680.0,12.00000000000001,712.0,21300.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1978,200.0,-88.09523809523809,714.0,21500.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1978,210.0,5.000000000000004,718.0,21710.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1978,0.0,-100.0,718.0,21710.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1978,1610.0,inf,740.0,23320.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1979,1970.0,22.360248447204967,798.0,25290.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1979,210.0,-89.34010152284264,800.0,25500.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1979,220.0,4.761904761904767,802.0,25720.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1979,0.0,-100.0,802.0,25720.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1979,1940.0,inf,868.0,27660.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1980,2200.0,13.4020618556701,914.0,29860.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1980,220.0,-90.0,916.0,30080.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1980,270.0,22.72727272727273,926.0,30350.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1980,0.0,-100.0,926.0,30350.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1980,2500.0,inf,1038.0,32850.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1981,2090.0,-16.400000000000002,1016.0,34940.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1981,220.0,-89.47368421052632,1016.0,35160.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1981,290.0,31.818181818181813,1020.0,35450.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1981,0.0,-100.0,1020.0,35450.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1981,2880.0,inf,1096.0,38330.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1982,2010.0,-30.208333333333336,1080.0,40340.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1982,220.0,-89.05472636815921,1080.0,40560.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1982,290.0,31.818181818181813,1080.0,40850.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1982,0.0,-100.0,1080.0,40850.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1982,2770.0,inf,1058.0,43620.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1983,1730.0,-37.545126353790614,1002.0,45350.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1983,220.0,-87.28323699421965,1002.0,45570.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1983,280.0,27.27272727272727,1000.0,45850.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1983,0.0,-100.0,1000.0,45850.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1983,2520.0,inf,950.0,48370.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1984,1630.0,-35.317460317460316,930.0,50000.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1984,250.0,-84.66257668711657,936.0,50250.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1984,280.0,12.00000000000001,936.0,50530.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1984,0.0,-100.0,936.0,50530.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1984,2460.0,inf,924.0,52990.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1985,1580.0,-35.77235772357723,914.0,54570.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1985,290.0,-81.64556962025317,922.0,54860.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1985,290.0,0.0,924.0,55150.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1985,0.0,-100.0,924.0,55150.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1985,2130.0,inf,858.0,57280.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1986,1800.0,-15.492957746478876,902.0,59080.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1986,310.0,-82.77777777777777,906.0,59390.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1986,310.0,0.0,910.0,59700.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1986,0.0,-100.0,910.0,59700.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1986,1990.0,inf,882.0,61690.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1987,2050.0,3.015075376884413,932.0,63740.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1987,320.0,-84.39024390243902,934.0,64060.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1987,350.0,9.375,942.0,64410.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1987,0.0,-100.0,942.0,64410.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1987,2210.0,inf,986.0,66620.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1988,2260.0,2.262443438914019,1028.0,68880.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1988,330.0,-85.39823008849558,1030.0,69210.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1988,390.0,18.181818181818187,1038.0,69600.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1988,0.0,-100.0,1038.0,69600.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1988,2670.0,inf,1130.0,72270.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1989,2760.0,3.370786516853941,1230.0,75030.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1989,320.0,-88.40579710144928,1228.0,75350.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1989,390.0,21.875,1228.0,75740.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1989,0.0,-100.0,1228.0,75740.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1989,2830.0,inf,1260.0,78570.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1990,2730.0,-3.5335689045936425,1254.0,81300.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1990,330.0,-87.91208791208791,1256.0,81630.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1990,380.0,15.15151515151516,1254.0,82010.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1990,0.0,-100.0,1254.0,82010.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1990,2860.0,inf,1260.0,84870.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1991,3280.0,14.685314685314687,1370.0,88150.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1991,350.0,-89.32926829268293,1374.0,88500.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1991,350.0,0.0,1368.0,88850.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1991,3440.0,882.8571428571429,2056.0,92290.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1991,3000.0,-12.790697674418606,2084.0,95290.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1992,3170.0,5.666666666666664,2062.0,98460.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1992,390.0,-87.69716088328076,2070.0,98850.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1992,340.0,-12.82051282051282,2068.0,99190.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1992,3090.0,808.8235294117646,1998.0,102280.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1992,3250.0,5.177993527508096,2048.0,105530.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1993,3090.0,-4.923076923076919,2032.0,108620.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1993,420.0,-86.40776699029126,2038.0,109040.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1993,320.0,-23.809523809523814,2034.0,109360.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1993,2920.0,812.5,2000.0,112280.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1993,3380.0,15.753424657534243,2026.0,115660.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1994,3030.0,-10.355029585798814,2014.0,118690.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1994,470.0,-84.48844884488449,2024.0,119160.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1994,340.0,-27.6595744680851,2028.0,119500.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1994,2650.0,679.4117647058823,1974.0,122150.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1994,3510.0,32.452830188679236,2000.0,125660.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1995,3760.0,7.122507122507127,2146.0,129420.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1995,540.0,-85.63829787234043,2160.0,129960.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1995,370.0,-31.481481481481477,2166.0,130330.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1995,2640.0,613.5135135135135,2164.0,132970.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1995,3640.0,37.87878787878789,2190.0,136610.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1996,4460.0,22.527472527472536,2330.0,141070.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1996,650.0,-85.42600896860986,2352.0,141720.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1996,400.0,-38.46153846153846,2358.0,142120.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1996,2600.0,550.0,2350.0,144720.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1996,3660.0,40.76923076923078,2354.0,148380.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1997,5020.0,37.158469945355186,2466.0,153400.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1997,750.0,-85.0597609561753,2486.0,154150.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1997,410.0,-45.333333333333336,2488.0,154560.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1997,2650.0,546.3414634146342,2498.0,157210.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1997,3600.0,35.849056603773576,2486.0,160810.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1998,4840.0,34.44444444444446,2450.0,165650.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1998,800.0,-83.47107438016529,2460.0,166450.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1998,410.0,-48.75000000000001,2460.0,166860.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1998,2130.0,419.5121951219512,2356.0,168990.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1998,3230.0,51.6431924882629,2282.0,172220.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,1999,4120.0,27.554179566563477,2138.0,176340.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,1999,860.0,-79.12621359223301,2150.0,177200.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,1999,440.0,-48.837209302325576,2156.0,177640.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,1999,1750.0,297.7272727272727,2080.0,179390.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,1999,3130.0,78.85714285714285,2060.0,182520.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,2000,3930.0,25.559105431309902,2022.0,186450.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,2000,940.0,-76.08142493638677,2038.0,187390.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,2000,440.0,-53.191489361702125,2038.0,187830.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,2000,1710.0,288.6363636363636,2030.0,189540.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,2000,3070.0,79.53216374269006,2018.0,192610.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,2001,3350.0,9.12052117263844,1902.0,195960.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,2001,1010.0,-69.85074626865672,1916.0,196970.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,2001,450.0,-55.44554455445545,1918.0,197420.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,2001,1780.0,295.55555555555554,1932.0,199200.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,2001,2860.0,60.67415730337078,1890.0,202060.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,2002,3090.0,8.041958041958042,1838.0,205150.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,2002,1110.0,-64.07766990291262,1858.0,206260.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,2002,460.0,-58.55855855855856,1860.0,206720.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,2002,2100.0,356.52173913043475,1924.0,208820.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,2002,2670.0,27.142857142857135,1886.0,211490.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,2003,2980.0,11.610486891385774,1864.0,214470.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,2003,1280.0,-57.04697986577181,1898.0,215750.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,2003,520.0,-59.375,1910.0,216270.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,2003,2590.0,398.0769230769231,2008.0,218860.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,2003,2920.0,12.741312741312738,2058.0,221780.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,2004,3340.0,14.383561643835607,2130.0,225120.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,2004,1510.0,-54.79041916167664,2176.0,226630.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,2004,610.0,-59.602649006622514,2194.0,227240.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,2004,3410.0,459.0163934426229,2358.0,230650.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,2004,3720.0,9.090909090909083,2518.0,234370.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,2005,4000.0,7.526881720430101,2650.0,238370.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,2005,1760.0,-56.00000000000001,2700.0,240130.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,2005,710.0,-59.65909090909092,2720.0,240840.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,2005,4450.0,526.7605633802817,2928.0,245290.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,2005,4990.0,12.134831460674157,3182.0,250280.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,2006,4850.0,-2.8056112224448926,3352.0,255130.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,2006,2060.0,-57.52577319587628,3412.0,257190.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,2006,790.0,-61.6504854368932,3428.0,257980.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,2006,5810.0,635.4430379746835,3700.0,263790.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,2006,5630.0,-3.098106712564541,3828.0,269420.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,2007,6190.0,9.946714031971581,4096.0,275610.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,2007,2510.0,-59.45072697899838,4186.0,278120.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,2007,910.0,-63.745019920318725,4210.0,279030.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,2007,7560.0,730.7692307692308,4560.0,286590.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,2007,5910.0,-21.825396825396826,4616.0,292500.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,2008,7620.0,28.934010152284273,4902.0,300120.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,2008,3100.0,-59.31758530183727,5020.0,303220.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,2008,1000.0,-67.74193548387098,5038.0,304220.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,2008,9580.0,858.0,5442.0,313800.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,2008,5980.0,-37.578288100208766,5456.0,319780.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,2009,8320.0,39.13043478260869,5596.0,328100.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,2009,3680.0,-55.769230769230774,5712.0,331780.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,2009,1120.0,-69.56521739130434,5736.0,332900.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,2009,9230.0,724.1071428571429,5666.0,342130.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,2009,5850.0,-36.61971830985915,5640.0,347980.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,2010,9650.0,64.95726495726495,5906.0,357630.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,2010,4340.0,-55.02590673575129,6038.0,361970.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,2010,1220.0,-71.88940092165899,6058.0,363190.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,2010,9980.0,718.0327868852459,6208.0,373170.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,2010,6190.0,-37.97595190380761,6276.0,379360.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,2011,11080.0,78.99838449111469,6562.0,390440.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,2011,5050.0,-54.42238267148014,6704.0,395490.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,2011,1360.0,-73.06930693069307,6732.0,396850.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,2011,11060.0,713.2352941176471,6948.0,407910.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,2011,6990.0,-36.79927667269439,7108.0,414900.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,2012,12310.0,76.10872675250357,7354.0,427210.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,2012,5930.0,-51.82778229082048,7530.0,433140.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,2012,1480.0,-75.04215851602024,7554.0,434620.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,2012,13490.0,811.4864864864865,8040.0,448110.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,2012,7570.0,-43.88435878428466,8156.0,455680.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,2013,12790.0,68.9564068692206,8252.0,468470.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,2013,6770.0,-47.068021892103204,8420.0,475240.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,2013,1520.0,-77.5480059084195,8428.0,476760.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,2013,15190.0,899.3421052631579,8768.0,491950.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,2013,7350.0,-51.61290322580645,8724.0,499300.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,2014,12120.0,64.89795918367346,8590.0,511420.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,2014,7510.0,-38.03630363036304,8738.0,518930.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,2014,1560.0,-79.22769640479362,8746.0,520490.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,2014,14630.0,837.8205128205128,8634.0,535120.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,2014,6760.0,-53.793574846206425,8516.0,541880.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,2015,10190.0,50.73964497041421,8130.0,552070.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,2015,7940.0,-22.080471050049066,8216.0,560010.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,2015,1600.0,-79.84886649874056,8224.0,561610.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,2015,11780.0,636.25,7654.0,573390.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,2015,6050.0,-48.64176570458404,7512.0,579440.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,2016,8920.0,47.43801652892563,7258.0,588360.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,2016,8270.0,-7.286995515695072,7324.0,596630.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,2016,1680.0,-79.68561064087062,7340.0,598310.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,2016,9730.0,479.1666666666667,6930.0,608040.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,2016,5470.0,-43.782117163412124,6814.0,613510.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,2017,8700.0,59.04936014625228,6770.0,622210.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,2017,8740.0,0.45977011494253706,6864.0,630950.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,2017,1830.0,-79.06178489702518,6894.0,632780.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,2017,9210.0,403.2786885245901,6790.0,641990.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,2017,5410.0,-41.25950054288816,6778.0,647400.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,2018,9080.0,67.83733826247689,6854.0,656480.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,2018,9620.0,5.947136563876643,7030.0,666100.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,2018,2010.0,-79.10602910602911,7066.0,668110.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,2018,10250.0,409.9502487562189,7274.0,678360.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,2018,5750.0,-43.90243902439024,7342.0,684110.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Brazil,BRA,2019,9130.0,58.78260869565217,7352.0,693240.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,China,CHN,2019,10410.0,14.019715224534512,7510.0,703650.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,India,IND,2019,2130.0,-79.53890489913545,7534.0,705780.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,Russian Federation,RUS,2019,11260.0,428.6384976525822,7736.0,717040.0
+"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,South Africa,ZAF,2019,6040.0,-46.358792184724685,7794.0,723080.0

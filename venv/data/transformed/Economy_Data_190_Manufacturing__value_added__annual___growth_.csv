@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1970,0.0,,,0.0
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1970,0.0,,,0.0
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1970,2.34873448783554,inf,,2.34873448783554
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1970,0.0,-100.0,,2.34873448783554
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1970,6.63419739172461,inf,1.79658637591203,8.98293187956015
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1971,0.0,-100.0,1.79658637591203,8.98293187956015
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1971,0.0,,1.79658637591203,8.98293187956015
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1971,3.26757090012349,inf,1.98035365836962,12.25050277968364
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1971,0.0,-100.0,1.98035365836962,12.25050277968364
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1971,6.35658797683831,inf,1.92483177539236,18.60709075652195
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1972,0.0,-100.0,1.92483177539236,18.60709075652195
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1972,0.0,,1.92483177539236,18.60709075652195
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1972,3.92039800994984,inf,2.0553971973576304,22.527488766471787
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1972,0.0,-100.0,2.0553971973576304,22.527488766471787
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1972,3.7968214308526,inf,1.543443888160488,26.324310197324387
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1973,0.0,-100.0,1.543443888160488,26.324310197324387
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1973,0.0,,1.543443888160488,26.324310197324387
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1973,4.44912549470213,inf,1.649189385110946,30.773435692026517
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1973,0.0,-100.0,1.649189385110946,30.773435692026517
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1973,9.27784996238819,inf,2.745395091418064,40.051285654414706
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1974,0.0,-100.0,2.745395091418064,40.051285654414706
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1974,0.0,,2.745395091418064,40.051285654414706
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1974,2.91511336551994,inf,2.438592665581626,42.96639901993465
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1974,0.0,-100.0,2.438592665581626,42.96639901993465
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1974,6.48635456235102,inf,1.8802935855741922,49.452753582285666
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1975,0.0,-100.0,1.8802935855741922,49.452753582285666
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1975,0.0,,1.8802935855741922,49.452753582285666
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1975,2.10807600950112,inf,1.7188861143704284,51.560829591786785
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1975,0.0,-100.0,1.7188861143704284,51.560829591786785
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1975,3.84751001986325,inf,1.191117205872874,55.408339611650035
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1976,0.0,-100.0,1.191117205872874,55.408339611650035
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1976,0.0,,1.191117205872874,55.408339611650035
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1976,8.76999127653374,inf,2.5235002592793983,64.17833088818378
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1976,0.0,-100.0,2.5235002592793983,64.17833088818378
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1976,2.50694644868146,inf,2.2553875450430403,66.68527733686524
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1977,0.0,-100.0,2.2553875450430403,66.68527733686524
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1977,0.0,,2.2553875450430403,66.68527733686524
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1977,6.22360049189979,inf,1.7461093881162497,72.90887782876503
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1977,0.0,-100.0,1.7461093881162497,72.90887782876503
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1977,-3.34880947780451,-inf,0.574958202819056,69.56006835096052
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1978,0.0,-100.0,0.574958202819056,69.56006835096052
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1978,0.0,,0.574958202819056,69.56006835096052
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1978,12.3521417425883,inf,1.800666452956758,81.91221009354882
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1978,0.0,-100.0,1.800666452956758,81.91221009354882
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1978,7.25583042502309,inf,3.921594433522278,89.16804051857191
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1979,0.0,-100.0,3.921594433522278,89.16804051857191
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1979,0.0,,3.921594433522278,89.16804051857191
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1979,-3.22118184669178,-inf,0.8069297156662621,85.94685867188014
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1979,0.0,-100.0,0.8069297156662621,85.94685867188014
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1979,8.25664621676891,inf,1.0070928740154261,94.20350488864905
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1980,0.0,-100.0,1.0070928740154261,94.20350488864905
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1980,0.0,,1.0070928740154261,94.20350488864905
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1980,0.194426441996299,inf,1.690214531753042,94.39793133064535
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1980,0.0,-100.0,1.690214531753042,94.39793133064535
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1980,8.18329397874807,inf,1.6755440841488738,102.58122530939342
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1981,0.0,-100.0,1.6755440841488738,102.58122530939342
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1981,0.0,,1.6755440841488738,102.58122530939342
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1981,8.1696271797904,inf,3.2705842317076943,110.75085248918381
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1981,0.0,-100.0,3.2705842317076943,110.75085248918381
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1981,9.21719755360067,inf,3.4773649466782137,119.96805004278448
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1982,0.0,-100.0,3.4773649466782137,119.96805004278448
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1982,0.0,,3.4773649466782137,119.96805004278448
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1982,3.28815277059948,inf,2.5010700648400297,123.25620281338396
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1982,0.0,-100.0,2.5010700648400297,123.25620281338396
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1982,-5.22097549805362,-inf,-0.38656454549082786,118.03522731533035
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1983,0.0,-100.0,-0.38656454549082786,118.03522731533035
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1983,0.0,,-0.38656454549082786,118.03522731533035
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1983,10.2319886973748,inf,1.0022026398642363,128.26721601270515
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1983,0.0,-100.0,1.0022026398642363,128.26721601270515
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1983,-1.79709635616852,-inf,1.686978468241256,126.47011965653662
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1984,0.0,-100.0,1.686978468241256,126.47011965653662
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1984,0.0,,1.686978468241256,126.47011965653662
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1984,4.20797101279304,inf,0.48217493132490397,130.67809066932966
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1984,0.0,-100.0,0.48217493132490397,130.67809066932966
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1984,6.63911180296464,inf,2.169416563151536,137.3172024722943
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1985,0.0,-100.0,2.169416563151536,137.3172024722943
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1985,0.0,,2.169416563151536,137.3172024722943
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1985,3.18748976411926,inf,1.96532031341678,140.50469223641355
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1985,0.0,-100.0,1.96532031341678,140.50469223641355
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1985,-3.28990419302336,-inf,-0.02048288578081996,137.2147880433902
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1986,0.0,-100.0,-0.02048288578081996,137.2147880433902
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1986,0.0,,-0.02048288578081996,137.2147880433902
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1986,5.49423951206937,inf,0.4408670638092021,142.70902755545956
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1986,0.0,-100.0,0.4408670638092021,142.70902755545956
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1986,-0.163519884798873,-inf,1.0661439254540994,142.5455076706607
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1987,0.0,-100.0,1.0661439254540994,142.5455076706607
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1987,0.0,,1.0661439254540994,142.5455076706607
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1987,5.6000217184413,inf,1.0873003667284853,148.145529389102
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1987,0.0,-100.0,1.0873003667284853,148.145529389102
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1987,2.20526901153902,inf,1.561058145996064,150.35079840064103
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1988,0.0,-100.0,1.561058145996064,150.35079840064103
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1988,0.0,,1.561058145996064,150.35079840064103
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1988,8.49631239760818,inf,2.14031628182944,158.84711079824922
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1988,0.0,-100.0,2.14031628182944,158.84711079824922
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1988,6.50663968850425,inf,3.0005904172224858,165.35375048675346
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1989,0.0,-100.0,3.0005904172224858,165.35375048675346
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1989,0.0,,3.0005904172224858,165.35375048675346
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1989,8.83941725273279,inf,3.0692113882474077,174.19316773948626
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1989,0.0,-100.0,3.0692113882474077,174.19316773948626
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1989,1.86822265414538,inf,2.141527981375634,176.06139039363163
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1990,0.0,-100.0,2.141527981375634,176.06139039363163
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1990,0.0,,2.141527981375634,176.06139039363163
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1990,4.77354551402669,inf,1.328353633634414,180.83493590765832
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1990,0.0,-100.0,1.328353633634414,180.83493590765832
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1990,-2.24729666196518,-inf,0.505249770412302,178.58763924569314
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1991,-4.50859184097693,100.62290472297187,-0.39646859778308396,174.07904740471622
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1991,0.0,-100.0,-0.39646859778308396,174.07904740471622
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1991,-2.3984637991816,-inf,-1.830870460424742,171.68058360553462
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1991,0.0,-100.0,-1.830870460424742,171.68058360553462
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1991,-4.56826344898296,-inf,-2.295063817828298,167.11232015655168
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1992,-4.2107138334932,-7.82681689624013,-2.235488216331552,162.90160632305847
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1992,0.0,-100.0,-2.235488216331552,162.90160632305847
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1992,3.09018346417975,inf,-1.1377587636592819,165.99178978723822
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1992,0.0,-100.0,-1.1377587636592819,165.99178978723822
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1992,-3.27963175110933,-inf,-0.8800324240845561,162.7121580361289
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1993,9.27831849059129,-382.90732602686,1.817774040732342,171.9904765267202
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1993,0.0,-100.0,1.8177740407323424,171.9904765267202
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1993,8.59134107345719,inf,2.9180055625878305,180.58181760017737
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1993,0.0,-100.0,2.9180055625878305,180.58181760017737
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1993,-0.181938969307964,-inf,3.537544118948104,180.3998786308694
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1994,8.13593942846116,-4571.795932123611,3.3090683065220774,188.53581805933058
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1994,0.0,-100.0,3.3090683065220774,188.53581805933058
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1994,10.8211832447252,inf,3.7550367407756795,199.35700130405579
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1994,0.0,-100.0,3.7550367407756795,199.35700130405579
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1994,2.70002396148736,inf,4.331429326934744,202.05702526554313
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1995,4.93454708551144,82.75938124612607,3.6911508583447996,206.99157235105457
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1995,0.0,-100.0,3.6911508583447996,206.99157235105457
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1995,15.4614629252251,inf,4.61920679444478,222.45303527627968
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1995,0.0,-100.0,4.61920679444478,222.45303527627968
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1995,6.49999469737945,inf,5.379200941623198,228.95302997365914
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1996,-10.407312946943,-260.11263749397875,2.3108289351323092,218.54571702671615
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1996,0.0,-100.0,2.3108289351323092,218.54571702671615
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1996,9.50127678071739,inf,1.1187917062307675,228.04699380743352
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1996,0.0,-100.0,1.1187917062307675,228.04699380743352
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1996,1.39997156002806,inf,0.09878707876048956,229.4469653674616
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1997,2.49340780445284,78.10417551645577,2.6789312290396574,231.94037317191442
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1997,0.0,-100.0,2.6789312290396574,231.94037317191442
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1997,0.0511869083445333,inf,0.788913254565086,231.99156008025895
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1997,0.0,-100.0,0.788913254565086,231.99156008025895
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1997,2.70000604942142,inf,1.048920152443758,234.69156612968038
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1998,-4.84114430044652,-279.30123902810965,-0.41799026853611404,229.85042182923385
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1998,0.0,-100.0,-0.41799026853611404,229.85042182923385
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1998,3.13184359295001,inf,0.19814106838498127,232.98226542218387
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1998,0.0,-100.0,0.19814106838498127,232.98226542218387
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1998,-0.199966952668902,-inf,-0.38185353203308314,232.78229846951496
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,1999,-1.86260101801888,831.4544194224468,0.21385512445244492,230.91969745149606
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,1999,0.0,-100.0,0.21385512445244492,230.91969745149606
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,1999,5.39377451470322,inf,0.666241308803087,236.31347196619927
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,1999,0.0,-100.0,0.666241308803087,236.31347196619927
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,1999,0.59995308914138,inf,0.8262253171651434,236.91342505534067
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,2000,5.68958369082625,848.3380940614659,2.3366622589341697,242.60300874616692
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,2000,0.0,-100.0,2.3366622589341697,242.60300874616692
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,2000,7.29909784909624,inf,2.717726925812774,249.90210659526315
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,2000,0.0,-100.0,2.717726925812774,249.90210659526315
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,2000,8.10005722214306,inf,4.217747752413109,258.0021638174062
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,2001,0.713388284695867,-91.19279944411154,3.2225086711870325,258.71555210210204
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,2001,0.0,-100.0,3.2225086711870325,258.71555210210204
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,2001,2.27032519468722,inf,2.216754140305228,260.9858772967893
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,2001,0.0,-100.0,2.216754140305228,260.9858772967893
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,2001,3.19999520700284,inf,1.2367417372771847,264.1858725037921
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,2002,2.09300491559621,-34.593498421000845,1.5126650634572534,266.2788774193883
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,2002,0.0,-100.0,1.5126650634572534,266.2788774193883
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,2002,6.86676360870099,inf,2.431952746260007,273.1456410280893
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,2002,0.0,-100.0,2.431952746260007,273.1456410280893
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,2002,2.79997896370283,inf,2.3519494976000055,275.9456199917921
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,2003,2.65936947334262,-5.021805241502985,2.465222409149287,278.60498946513474
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,2003,0.0,-100.0,2.465222409149287,278.60498946513474
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,2003,6.33661032068866,inf,2.3591917515468213,284.94159978582337
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,2003,8.79937060438269,38.86557889875699,4.119065872423359,293.7409703902061
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,2003,-1.50418750786892,-117.09426248190672,3.258232578109009,292.2367828823372
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,2004,9.08282063282557,-703.8356644574047,4.542922810005599,301.3196035151628
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,2004,0.0,-100.0,4.542922810005599,301.3196035151628
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,2004,7.38325331165221,inf,4.752251408198309,308.702856826815
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,2004,8.05280369585132,9.068500780576372,4.602938026492035,316.7556605226663
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,2004,4.89459804659927,-39.21870901781834,5.882695137385673,321.65025856926553
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,2005,2.24270687027652,-54.17995821261081,4.514672384875864,323.892965439542
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,2005,0.0,-100.0,4.514672384875864,323.892965439542
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,2005,9.34908869103208,inf,4.907839460751838,333.2420541305741
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,2005,4.43722963475798,-52.53837265428554,4.1847246485331695,337.67928376533206
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,2005,6.20419168858177,39.821289391531934,4.44664337692967,343.88347545391383
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,2006,1.23359974393178,-80.11667263276046,4.244821951660722,345.1170751978456
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,2006,0.0,-100.0,4.244821951660722,345.1170751978456
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,2006,17.7877923176037,inf,5.932562676975046,362.9048675154493
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,2006,6.57207092960361,-63.052913974605175,6.359530935944171,369.47693844505295
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,2006,6.4381737683557,-2.037366344370639,6.406327351898957,375.91511221340863
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,2007,6.14130939786261,-4.611002765290517,7.3878692826851236,382.0564216112712
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,2007,0.0,-100.0,7.3878692826851236,382.0564216112712
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,2007,6.98058873205282,inf,5.226428565574947,389.037010343324
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,2007,7.5223785274225,7.761376814564924,5.416490085138725,396.55938887074655
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,2007,5.35233029014532,-28.847900027449636,5.199321389496649,401.9117191608919
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,2008,4.14954925956101,-22.472100288707196,4.80096936183633,406.0612684204529
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,2008,0.0,-100.0,4.80096936183633,406.0612684204529
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,2008,4.66361548186231,inf,4.3375747117982275,410.72488390231524
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,2008,-2.12223887337814,-145.50630045791578,2.408651231638099,408.6026450289371
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,2008,2.31505005272827,-209.08527224568348,1.8011951841546896,410.9176950816654
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,2009,-9.26395621375252,-500.1622428350961,-0.8815059105080169,401.65373886791286
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,2009,0.0,-100.0,-0.8815059105080169,401.65373886791286
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,2009,10.967629778288,inf,0.37929694877712095,412.62136864620084
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,2009,-14.6159124833075,-233.26409423704106,-2.119437773208751,398.0054561628933
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,2009,-10.626996066382,-27.291600312201858,-4.707846997030805,387.37846009651133
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,2010,9.18981405790866,-186.47612176107037,-1.017092942698569,396.56827415442
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,2010,0.0,-100.0,-1.017092942698569,396.56827415442
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,2010,7.69510646498904,inf,-1.6715976053583614,404.2633806194091
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,2010,8.60857223264044,11.87073592558412,2.9732993378312274,412.8719528520495
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,2010,5.907380047217,-31.377934835483458,6.280174560551027,418.7793328992665
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,2011,2.24733179461556,-61.95721662305627,4.891678107892408,421.026664693882
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,2011,0.0,-100.0,4.891678107892408,421.026664693882
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,2011,3.12505623927184,inf,3.9776680627489673,424.15172093315385
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,2011,8.59058248611639,174.89369241297416,3.9740701134441574,432.74230341927023
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,2011,3.03401678397009,-64.68205981522794,3.399397460794775,435.77632020324035
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,2012,-2.37887557404977,-178.40680337097373,2.4741559870617094,433.3974446291906
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,2012,0.0,-100.0,2.4741559870617094,433.3974446291906
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,2012,5.45308330601735,inf,2.939761400410811,438.85052793520794
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,2012,5.18473218298161,-4.921089739076989,2.2585913397838553,444.03526011818957
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,2012,2.09644723341805,-59.56498504784029,2.071077429673447,446.13170735160764
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,2013,3.01356509562056,43.746288844448515,3.149565563607513,449.1452724472282
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,2013,0.0,-100.0,3.149565563607513,449.1452724472282
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,2013,4.96584744012347,inf,3.0521183904287374,454.11111988735166
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,2013,1.40535643467847,-71.69956484519938,2.296243240768109,455.51647632203014
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,2013,1.01833803522375,-27.538807231011496,2.080621401129249,456.5348143572539
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,2014,-4.68738799633161,-560.2978416004754,0.5404307827388152,451.84742636092227
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,2014,0.0,-100.0,0.5404307827388151,451.84742636092227
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,2014,7.89566976577332,inf,1.126395247868785,459.7430961266956
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,2014,0.761974100205506,-90.34946847057152,0.9977187809741924,460.5050702269011
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,2014,0.347716128896863,-54.36641103640094,0.863594399708815,460.852786355798
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,2015,-8.48281101153313,-2539.579388636654,0.10450979666851126,452.36997534426484
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,2015,0.0,-100.0,0.10450979666851108,452.36997534426484
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,2015,13.0593935819322,inf,1.137254559900287,465.42936892619707
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,2015,-0.915451791661042,-107.00991042131986,0.8017693815269776,464.51391713453603
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,2015,-0.448995342202736,-50.953687972137104,0.6424270873070577,464.0649217923333
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,2016,-4.76819569729737,961.969969199452,1.3853501501542096,459.2967260950359
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,2016,0.0,-100.0,1.3853501501542096,459.2967260950359
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,2016,7.92682142085729,inf,0.3588357179392275,467.2235475158932
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,2016,1.08646645443149,-86.29379423670696,0.759219367157734,468.3100139703247
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,2016,0.819893849745654,-24.535741862856142,1.012997205547412,469.12990782007034
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,2017,2.30954190752686,181.68791706918182,2.428544726512258,471.4394497275972
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,2017,0.0,-100.0,2.428544726512258,471.4394497275972
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,2017,6.62007572484409,inf,2.167195587309618,478.0595254524413
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,2017,4.38598997245994,-33.74713289154657,2.8271002909153076,482.4455154249012
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,2017,-0.185984480454692,-104.24042192577974,2.6259246248752386,482.2595309444465
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,2018,1.54896931146634,-932.8486912883503,2.4738101056631345,483.80850025591286
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,2018,0.0,-100.0,2.4738101056631345,483.80850025591286
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,2018,5.74455853882583,inf,2.298706668459482,489.5530587947387
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,2018,1.93767067634971,-66.26945894530367,1.8090428092374364,491.4907294710884
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,2018,0.964276114397862,-50.23529404829421,2.0390949282079474,492.4550055854863
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Brazil,BRA,2019,0.0945498991092251,-90.19472766176871,1.7482110457365245,492.5495554845955
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,China,CHN,2019,0.0,-100.0,1.7482110457365245,492.5495554845955
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,India,IND,2019,0.851350254532377,inf,0.7695693888778338,493.40090573912784
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,Russian Federation,RUS,2019,1.29384146105637,51.9752245527948,0.6408035458191657,494.6947472001842
+"Manufacturing, value added (annual % growth)",NV.IND.MANF.KD.ZG,South Africa,ZAF,2019,-0.789076622450125,-160.98711829854915,0.29013299844956836,493.9056705777341

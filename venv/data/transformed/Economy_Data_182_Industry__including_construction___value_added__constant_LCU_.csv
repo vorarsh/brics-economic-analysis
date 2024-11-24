@@ -1,0 +1,251 @@
+SeriesName,SeriesCode,CountryName,CountryCode,Year,Value,Value_Change,5yr_Rolling_Avg,Cumulative_Sum
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1970,222342907349.244,,,222342907349.244
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1970,308141296849.472,38.58831861250272,,530484204198.71594
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1970,2593801115624.04,741.7570582534156,,3124285319822.756
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1970,0.0,-100.0,,3124285319822.756
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1970,482572867987.96,inf,721371637562.1432,3606858187810.716
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1971,248674703161.246,-48.46898372093097,726637996724.5436,3855532890971.962
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1971,346350817654.821,39.2786693828844,734279900885.6134,4201883708626.7827
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1971,2658904259179.71,667.691058789305,747300529596.7473,6860787967806.492
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1971,0.0,-100.0,747300529596.7473,6860787967806.492
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1971,487266465070.746,inf,748239249013.3046,7348054432877.238
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1972,284337684110.703,-41.64636713314138,755371845203.1959,7632392116987.941
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1972,369556322493.587,29.970926523304332,760012946170.9492,8001948439481.528
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1972,2758409323651.82,646.4110761356782,779913959065.3712,10760357763133.348
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1972,0.0,-100.0,779913959065.3712,10760357763133.348
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1972,485059945276.456,inf,779472655106.5132,11245417708409.803
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1973,333049081067.155,-31.338572827872568,789214934497.8036,11578466789476.957
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1973,400229497270.517,20.171326096472832,795349569453.1896,11978696286747.475
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1973,2774759606173.54,593.2921299146691,798619625957.5336,14753455892921.016
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1973,0.0,-100.0,798619625957.5336,14753455892921.016
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1973,500364805876.76,inf,801680598077.5944,15253820698797.775
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1974,360853009386.282,-27.882016251326803,807241383741.4198,15614673708184.057
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1974,405832710241.271,12.464826310160992,808362026335.5706,16020506418425.328
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1974,2818182941744.1,594.4198608507103,817046693449.6826,18838689360169.43
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1974,0.0,-100.0,817046693449.6826,18838689360169.43
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1974,498016509697.497,inf,816577034213.8301,19336705869866.926
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1975,378101889233.17,-24.078442808485413,820026810183.2076,19714807759100.098
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1975,469548445683.295,24.18569149061596,832769957271.6124,20184356204783.395
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1975,3027257708351.28,544.7167989121895,874584910593.0483,23211613913134.676
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1975,0.0,-100.0,874584910593.0483,23211613913134.676
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1975,496175413543.348,inf,874216691362.2185,23707789326678.023
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1976,422388024912.648,-14.87123033843224,883073918498.114,24130177351590.67
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1976,458279283006.025,8.497224347399413,880820085962.6602,24588456634596.695
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1976,3281794422447.06,616.1123236731419,931727428781.8162,27870251057043.754
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1976,0.0,-100.0,931727428781.8162,27870251057043.754
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1976,517074450798.587,inf,935907236232.864,28387325507842.34
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1977,435510957298.783,-15.774032805882133,938531822710.0911,28822836465141.12
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1977,518772148395.499,19.11804736513083,950630395787.9857,29341608613536.62
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1977,3505700287113.1,575.7687932854177,995411568721.1937,32847308900649.723
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1977,0.0,-100.0,995411568721.1937,32847308900649.723
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1977,514058208129.56,inf,994808320187.3884,33361367108779.28
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1978,484417045899.415,-5.766110094418419,1004589537907.5149,33845784154678.695
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1978,598122541828.773,23.47264550078776,1020459616594.1696,34443906696507.47
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1978,3737738279978.72,524.9117895725017,1066867215167.2937,38181644976486.19
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1978,0.0,-100.0,1066867215167.2937,38181644976486.19
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1978,528726073422.734,inf,1069800788225.9285,38710371049908.92
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1979,517343739371.28,-2.1527847071679096,1076386126920.3015,39227714789280.2
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1979,647168590258.733,25.094505066443283,1086195336606.2933,39874883379538.94
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1979,3627129595662.02,460.4613156846691,1064073599742.9535,43502012975200.96
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1979,0.0,-100.0,1064073599742.9535,43502012975200.96
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1979,555173359771.58,inf,1069363057012.7224,44057186334972.54
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1980,565264387194.434,1.8176353827578984,1078947186577.3535,44622450722166.98
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1980,734494481365.733,29.938219708344892,1096412364798.7533,45356945203532.71
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1980,3832082304394.03,421.7305781887677,1137402906545.1555,49189027507926.74
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1980,0.0,-100.0,1137402906545.1555,49189027507926.74
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1980,577639924663.488,inf,1141896219523.5369,49766667432590.23
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1981,515250509350.695,-10.800745005487434,1131893443954.7893,50281917941940.92
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1981,748251299827.795,45.220875331248365,1134644807647.2017,51030169241768.72
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1981,4149939474032.18,454.61841162016833,1198216241574.8315,55180108715800.9
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1981,0.0,-100.0,1198216241574.8315,55180108715800.9
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1981,599661191895.552,inf,1202620495021.2444,55779769907696.45
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1982,515369078093.517,-14.056623130068557,1202644208769.809,56295138985789.97
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1982,790119877755.809,53.31146383067178,1211017924355.4116,57085258863545.78
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1982,4231242813141.37,435.5190942872418,1227278592177.2495,61316501676687.15
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1982,0.0,-100.0,1227278592177.2495,61316501676687.15
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1982,592197963179.571,inf,1225785946434.0535,61908699639866.72
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1983,485246461151.373,-18.06009285374177,1219761423045.6245,62393946101018.09
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1983,872062665986.351,79.7154097563445,1236149980691.733,63266008767004.445
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1983,4550651068792.01,421.8261538171655,1300031631821.8608,67816659835796.45
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1983,0.0,-100.0,1300031631821.8608,67816659835796.45
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1983,573023206324.665,inf,1296196680450.8796,68389683042121.12
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1984,517277783804.945,-9.728301036404385,1302602944981.5942,68906960825926.06
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1984,998266522312.222,92.98461166633984,1327843716246.7683,69905227348238.28
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1984,4729195468303.68,373.74076587780803,1363552596149.1023,74634422816541.97
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1984,0.0,-100.0,1363552596149.1023,74634422816541.97
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1984,595971012185.282,inf,1368142157321.2258,75230393828727.25
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1985,560052497195.854,-6.02688960621146,1376697099999.4075,75790446325923.11
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1985,1181890142653.66,111.03202799225183,1413421824067.695,76972336468576.77
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1985,4940374895977.52,318.00626959160985,1455657709602.4631,81912711364554.28
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1985,0.0,-100.0,1455657709602.4631,81912711364554.28
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1985,583200154860.049,inf,1453103538137.4165,82495911519414.33
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1986,625930338490.751,7.326847099510125,1466279106396.396,83121841857905.08
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1986,1302710896103.07,108.1239422336004,1490443257086.2778,84424552754008.14
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1986,5243052961010.67,302.4724884619251,1550978870092.908,89667605715018.81
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1986,0.0,-100.0,1550978870092.908,89667605715018.81
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1986,572116636201.039,inf,1548762166361.106,90239722351219.84
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1987,632515730224.466,10.55712947354377,1550079244707.849,90872238081444.31
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1987,1479755168484.38,133.94756806431474,1585488099184.1108,92351993249928.69
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1987,5529794122944.95,273.69655742502124,1642836331570.967,97881787372873.64
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1987,0.0,-100.0,1642836331570.967,97881787372873.64
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1987,565110686247.856,inf,1641435141580.3306,98446898059121.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1988,616162901599.551,9.034020519177322,1638164575855.3474,99063060960721.05
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1988,1691490548291.77,174.52002447740398,1680511651816.8254,100754551509012.81
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1988,6055913225052.74,258.0222917100296,1785735472238.3835,106810464734065.55
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1988,0.0,-100.0,1785735472238.3835,106810464734065.55
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1988,577562047494.278,inf,1788225744487.668,107388026781559.83
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1989,633881672270.466,9.751268287195746,1791769498621.8508,108021908453830.3
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1989,1754891537725.62,176.8484426186153,1804449696508.6206,109776799991555.92
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1989,6555804723789.0,273.5732142332553,1904427996255.8726,116332604715344.92
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1989,0.0,-100.0,1904427996255.8726,116332604715344.92
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1989,582923591066.829,inf,1905500304970.3833,116915528306411.75
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1990,581891236347.151,-0.17709949219736343,1895102217785.72,117497419542758.9
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1990,1811115056657.53,211.24631950583895,1906346921572.102,119308534599416.44
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1990,7051128784266.21,289.32528103870385,2005411733667.5437,126359663383682.64
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1990,28662964535627.9,306.5017873391568,7738004640793.123,155022627919310.53
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1990,574945174923.764,-97.99411824897209,7736408957564.511,155597573094234.28
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1991,557205446900.0,-3.085464283810413,7731471799675.081,156154778541134.28
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1991,2060532156600.12,269.79756175461756,7781355219663.599,158215310697734.4
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1991,7092496508900.0,244.20702856696136,7789628764590.356,165307807206634.4
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1991,26573106134987.4,274.6650576654103,7371657084462.256,191880913341621.8
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1991,557137262200.0,-97.90337923097952,7368095501917.503,192438050603821.8
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1992,534865374600.0,-3.997558431481263,7363627487457.503,192972915978421.8
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1992,2493572876884.16,366.2057024627894,7450235631514.3125,195466488855305.97
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1992,7310868645000.0,193.18848920651095,7493910058734.3125,202777357500305.97
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1992,20834373003666.7,184.97807873918788,6346163432470.172,223611730503972.66
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1992,552791117100.0,-97.3467350469212,6345294203450.172,224164521621072.66
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1993,576804684500.0,4.344058118368044,6353682065430.172,224741326305572.66
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1993,2986425851351.06,417.75339757162806,6452252660323.552,227727752156923.72
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1993,7691329217500.0,157.54294934262103,6528344774823.552,235419081374423.72
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1993,18074257768219.6,134.99524278710413,5976321727734.132,253493339142643.3
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1993,556606100000.0,-96.92044836840441,5977084724314.132,254049945242643.3
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1994,623232812800.0,11.97017294636189,5986370349974.132,254673178055443.3
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1994,3527726751706.1,466.036748908818,6094630530045.141,258200904807149.4
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1994,8394836169300.0,137.9673018960451,6235331920405.141,266595740976449.4
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1994,14484526451347.2,72.54090680551049,5517385657030.659,281080267427796.6
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1994,567883300000.0,-96.07937959237057,5519641097030.659,281648150727796.6
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1995,652767287800.0,14.947435115630281,5525547992030.659,282300918015596.6
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1995,4015794745838.38,515.1954641251525,5623161590857.115,286316712761435.0
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1995,9309322510000.0,131.81768738672145,5806058858997.115,295626035271435.0
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1995,13825238005513.4,48.50960411633005,5674201169830.356,309451273276948.4
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1995,578119000000.0,-95.81837940316507,5676248309830.356,310029392276948.4
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1996,646470472900.0,11.823080178994294,5674988946850.356,310675862749848.4
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1996,4501470249803.35,596.3149035423409,5772124047643.35,315177332999651.75
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1996,9868822015500.0,119.23552679107736,5884023948743.35,325046155015151.75
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1996,13054773639212.2,32.28299809955366,5729931075483.11,338100928654363.94
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1996,586121900000.0,-95.51028676407314,5731531655483.11,338687050554363.94
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1997,673792135600.0,14.957679554372572,5736995988023.11,339360842689963.94
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1997,4972790812764.42,638.03040285358,5831260100615.325,344333633502728.4
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1997,10302816462400.0,107.18378975351608,5918058989995.325,354636449965128.4
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1997,13169605067654.6,27.82529045059581,5941025275683.805,367806055032783.0
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1997,600612900000.0,-95.43940082550277,5943923475683.805,368406667932783.0
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1998,658402072800.0,9.621700233211783,5940845463123.805,369065070005583.0
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1998,5415999616259.54,722.5975949964445,6029487223822.828,374481069621842.56
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1998,10724623651700.0,98.01743743672498,6113848661682.828,385205693273542.56
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1998,12503292225547.1,16.584904343614483,5980586093261.328,397708985499089.7
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1998,593573100000.0,-95.25266554366222,5979178133261.328,398302558599089.7
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,1999,641558605600.0,8.08417793865659,5975809439821.328,398944117204689.7
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,1999,5859806542296.49,813.370421836407,6064570825028.719,404803923746986.2
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,1999,11354211653000.0,93.76427482792329,6190488425288.719,416158135399986.2
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,1999,13688974900980.3,20.56297098674755,6427624960375.358,429847110300966.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,1999,590997000000.0,-95.68267891295734,6427109740375.359,430438107300966.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,2000,670086963300.0,13.382464428753437,6432815411915.359,431108194264266.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,2000,6415462383655.42,857.4074314266577,6543946580187.1455,437523656647921.94
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,2000,12012454807700.0,87.2422296217332,6675595211127.1455,449536111455621.94
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,2000,15350999593779.0,27.79236084150749,7008000149686.885,464887111049400.94
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,2000,613679700000.0,-96.0023469725796,7012536689686.885,465500790749400.94
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,2001,665929622500.0,8.51420089339765,7011705221526.885,466166720371900.94
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,2001,6959753896719.6,945.1185322844832,7120563524139.721,473126474268620.56
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,2001,12321302188700.0,77.03646381099057,7182333000339.721,485447776457320.56
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,2001,16236872451713.2,31.778867225610384,7359507571926.56,501684648909033.75
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,2001,622532200000.0,-96.16593526954561,7361278071926.56,502307181109033.75
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,2002,688749976000.0,10.636843523917317,7365842142626.56,502995931085033.75
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,2002,7648791064906.35,1010.5323167236451,7503649576263.911,510644722149940.1
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,2002,13217683488800.0,72.80748521742808,7682925836283.911,523862405638740.1
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,2002,16847691079584.4,27.463266115127418,7805089561858.15,540710096718324.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,2002,637545900000.0,-96.21582626967465,7808092301858.15,541347642618324.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,2003,686692463400.0,7.708709819951798,7807680799338.15,542034335081724.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,2003,8617749582668.96,1154.9649285504245,8001472502890.672,550652084664393.44
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,2003,14153061743900.0,64.23152713050553,8188548153910.672,564805146408293.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,2003,18372529790366.3,29.8131112745615,8493515896067.053,583177676198659.8
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,2003,646227800000.0,-96.48264116388124,8495252276067.053,583823903998659.8
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,2004,747393161700.0,15.654752348939493,8507392415727.053,584571297160359.8
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,2004,9577736262304.14,1181.4856695395613,8699389751654.089,594149033422663.9
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,2004,15532458373700.0,62.17254211553447,8975269077614.09,609681491796363.9
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,2004,20156374409510.6,29.769376647034495,9332038001442.95,629837866205874.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,2004,672965600000.0,-96.66127654543632,9337385561442.95,630510831805874.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,2005,757821671000.0,12.60927319316174,9339471263302.95,631268653476874.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,2005,10739888361077.5,1317.2052307379186,9571901683057.621,642008541837952.0
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,2005,17019425212000.0,58.46929353269825,9869295050717.621,659027967049952.0
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,2005,20980270694715.6,23.27249853257618,10034074307758.621,680008237744667.6
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,2005,704721500000.0,-96.64102760991781,10040425487758.621,680712959244667.6
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,2006,768941021500.0,9.112751845941979,10042649357858.621,681481900266167.6
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,2006,12184354299593.9,1484.562919510453,10331542545561.902,693666254565761.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,2006,19272938982200.0,58.17776230327083,10782245299601.902,712939193547961.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,2006,21921567854657.0,13.742734696058578,10970504731590.182,734860761402618.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,2006,733264600000.0,-96.65505403235004,10976213351590.182,735594026002618.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,2007,820831719200.0,11.942090099535685,10986591491130.182,736414857721818.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,2007,14018198012841.0,1607.8041314611273,11353360233779.602,750433055734659.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,2007,20819374645600.0,48.51676817896966,11662647366459.602,771252430380259.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,2007,22975391424185.5,10.355819112180464,11873412080365.3,794227821804445.0
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,2007,763506800000.0,-96.6768496522924,11879460520365.3,794991328604445.0
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,2008,855131228400.0,12.000473132655799,11886320422205.3,795846459832845.0
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,2008,15397468594298.1,1700.5971578312785,12162174538496.723,811243928427143.1
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,2008,21651988633200.0,40.620443552767085,12328697336016.723,832895917060343.1
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,2008,23400699140329.8,8.076442939049123,12413758879245.582,856296616200672.9
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,2008,764448900000.0,-96.73322196308864,12413947299245.582,857061065100672.9
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,2009,820663193000.0,7.353571049680374,12407053692165.582,857881728293672.9
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,2009,16981895207602.5,1969.2892470934175,12723939014826.463,874863623501275.4
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,2009,23567015029200.0,38.77729629758553,13106944294026.463,898430638530475.4
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,2009,20964597624090.7,-11.042626322785697,12619723990778.643,919395236154566.1
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,2009,718617800000.0,-96.5722318506403,12610557770778.64,920113853954566.1
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,2010,904157000000.0,25.818898446434257,12627256532178.64,921018010954566.1
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,2010,19135734480727.9,2016.41722408032,13058024386803.72,940153745435294.0
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,2010,25428097546400.0,32.882788335139715,13430240890243.723,965581842981694.0
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,2010,22350679701334.3,-12.102430547350906,13707457305692.441,987932522683028.2
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,2010,752441800000.0,-96.63347240417444,13714222105692.441,988684964483028.2
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,2011,941354825400.0,25.106662787739854,13721661670772.441,989626319308428.2
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,2011,21181313573782.3,2150.088171033908,14130777489383.322,1010807632882210.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,2011,26350237033400.0,24.403224293018646,14315205386783.322,1037157869915610.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,2011,23779532633068.2,-9.755906169167773,14600975973130.104,1060937402548678.8
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,2011,763065349600.0,-96.79108348606115,14603100683050.104,1061700467898278.8
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,2012,934547986900.0,22.47286387593035,14601739315350.104,1062635015885178.8
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,2012,22952952542679.2,2356.04857796727,14956067109129.48,1085587968427858.0
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,2012,27211671641700.0,18.55412322707526,15128354030789.48,1112799640069558.0
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,2012,24636203686456.4,-9.464570898675973,15299688241467.12,1137435843756014.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,2012,766383267500.0,-96.88919901274677,15300351825047.12,1138202227023514.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,2013,954794464000.0,24.584461129300415,15304401120467.12,1139157021487514.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,2013,24786198133384.4,2495.9721246754525,15671050238608.162,1163943219620899.0
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,2013,28241876115500.0,13.941944478613543,15877091133368.162,1192185095736399.0
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,2013,24735575136002.5,-12.415255152164395,15896965423277.38,1216920670872401.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,2013,783051720100.0,-96.83430962977582,15900299113797.38,1217703722592501.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,2014,940395680000.0,20.093686772044418,15897419356997.38,1218644118272501.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,2014,26559631469906.7,2724.3038579150743,16252106024301.84,1245203749742408.2
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,2014,30218986352500.0,13.777882749388004,16647528071701.84,1275422736094908.2
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,2014,24758296065258.2,-18.070395292362416,16652072257552.98,1300181032160166.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,2014,783313900000.0,-96.8361558568678,16652124693532.98,1300964346060166.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,2015,886211698500.0,13.13621506014384,16641287897232.98,1301850557758666.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,2015,28133890000000.0,3074.6240822164004,16956139603251.64,1329984447758666.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,2015,33113163283000.0,17.69848848843867,17534974989351.64,1363097611041666.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,2015,24564251223904.8,-25.81726181226586,17496166021080.963,1387661862265571.2
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,2015,789753000000.0,-96.78494983298556,17497453841080.963,1388451615265571.2
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,2016,845749625000.0,7.090397250785996,17489361426380.963,1389297364890571.2
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,2016,29830763651168.2,3427.138856392422,17828736156614.6,1419128128541739.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,2016,35669527296704.5,19.57296069860299,18340008959355.5,1454797655838444.0
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,2016,24977559735586.3,-29.975075005005824,18422670661691.805,1479775215574030.2
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,2016,783534000000.0,-96.86304823892114,18421426861691.805,1480558749574030.2
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,2017,841514703000.0,7.3998962393463374,18420579877291.805,1481400264277030.2
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,2017,31581468331101.0,3652.9312581839704,18770720813278.363,1512981732608131.2
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,2017,37933999518511.9,20.11474299044864,19223615257639.84,1550915732126643.2
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,2017,25428942439854.9,-32.965300884117156,19313891798493.562,1576344674566498.2
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,2017,792048000000.0,-96.88524993961755,19315594598493.562,1577136722566498.2
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,2018,846038552500.0,6.816575826212556,19316499368393.562,1577982761118998.2
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,2018,33410527064013.4,3849.054917803335,19682311114976.04,1611393288183011.8
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,2018,39785859871682.6,19.081808543320157,20052683185610.18,1651179148054694.2
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,2018,25978158877177.7,-34.70504606168502,20162526473074.74,1677157306931872.0
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,2018,790995000000.0,-96.95515373610675,20162315873074.74,1677948301931872.0
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Brazil,BRA,2019,849895566200.0,7.446389193357739,20163087275814.74,1678798197498072.0
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,China,CHN,2019,35299398051108.7,4053.380656983207,20540861473233.8,1714097595549180.8
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,India,IND,2019,40519214378683.8,14.787267250329638,20687532374634.04,1754616809927864.5
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,Russian Federation,RUS,2019,26225522901873.6,-35.276329257582475,20737005179573.22,1780842332829738.0
+"Industry (including construction), value added (constant LCU)",NV.IND.TOTL.KN,South Africa,ZAF,2019,778754747700.0,-97.03054634748821,20734557129113.22,1781621087577438.0
