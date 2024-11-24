@@ -4,6 +4,7 @@ import numpy as np
 import os
 import plotly.express as px
 from modeling import build_prophet_model, prepare_data_for_prophet
+from correlation_chart import plot_gdp_expenditure_correlation
 
 DATA_PATH = r'C:\Users\ARSH\brics-economic-analysis\venv\data\transformed'
 NUMERICAL_COLUMNS = ['Value']
@@ -85,6 +86,11 @@ st.plotly_chart(fig_predictive)
 if not aggregated_data['Value'].isna().all():
     st.markdown(f"📈 **Highest Value**: {max_value_row['Value']} in {max_value_row['Year']}")
     st.markdown(f"📉 **Lowest Value**: {min_value_row['Value']} in {min_value_row['Year']}")
+
+st.subheader("GDP and Expenditure Correlation for BRICS Nations")
+
+if st.button("Generate GDP vs Expenditure Chart"):
+    plot_gdp_expenditure_correlation(DATA_PATH, selected_country)
 
 st.markdown("---")
 st.markdown("""
