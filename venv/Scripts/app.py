@@ -18,6 +18,7 @@ Analyze economic indicators of BRICS countries from 1970 to 2020.
 Click on the flags below to explore trends for Brazil, Russia, India, China, and South Africa.
 """)
 
+
 st.image("venv/images/Brics.jpg", use_container_width=True)
 
 def load_data(folder_path):
