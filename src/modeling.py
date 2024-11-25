@@ -3,7 +3,7 @@ import os
 from prophet import Prophet
 import matplotlib.pyplot as plt
 
-transformed_path = 'C:/Users/ARSH/brics-economic-analysis/venv/data/transformed'
+transformed_path = 'src/data/transformed'
 files = os.listdir(transformed_path)
 
 def load_transformed_data(files, path):

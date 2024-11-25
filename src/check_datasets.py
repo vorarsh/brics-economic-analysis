@@ -5,7 +5,7 @@ data_folder = r"C:\Users\ARSH\brics-economic-analysis\venv\data\transformed"
 
 files = os.listdir(data_folder)
 
-log_file = open("dataset_issues_log.txt", "w")
+log_file = open("../venv/Scripts/dataset_issues_log.txt", "w")
 
 country_files = {}
 
@@ -41,7 +41,7 @@ log_file.close()
 
 print("\nCheck 'dataset_issues_log.txt' for details on problematic files.")
 
-data_path = 'C:/Users/ARSH/brics-economic-analysis/venv/data/raw'
+data_path = '/src/data/raw'
 file_name = 'WorldExpenditures.csv'
 
 file_path = os.path.join(data_path, file_name)

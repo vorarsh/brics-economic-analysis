@@ -4,7 +4,7 @@ import seaborn as sns
 import os
 
 sns.set(style="whitegrid")
-data_path = 'C:/Users/ARSH/brics-economic-analysis/venv/data/processed'
+data_path = '/src/data/processed'
 files = os.listdir(data_path)
 
 def load_data(files, data_path):

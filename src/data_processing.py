@@ -1,8 +1,8 @@
 import pandas as pd
 import os
 
-data_path = 'C:/Users/ARSH/brics-economic-analysis/venv/data/processed'
-output_path = 'C:/Users/ARSH/brics-economic-analysis/venv/data/transformed'
+data_path = '/src/data/processed'
+output_path = '/src/data/transformed'
 
 if not os.path.exists(output_path):
     os.makedirs(output_path)

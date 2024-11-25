@@ -3,7 +3,7 @@ import pandas as pd
 import os
 
 # Path to the folder containing the dataset files
-folder_path = r'C:\Users\ARSH\brics-economic-analysis\venv\data\transformed'
+folder_path = r'/src/data/transformed'
 
 # Check if the folder exists
 if not os.path.exists(folder_path):

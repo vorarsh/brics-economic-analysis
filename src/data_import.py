@@ -2,7 +2,7 @@
 import pandas as pd
 import os
 
-data_path = 'C:/Users/ARSH/brics-economic-analysis/venv/data/raw'
+data_path = '/src/data/raw'
 
 files = os.listdir(data_path)
 print(f"Total files: {len(files)}")

@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-data_path = 'C:/Users/ARSH/brics-economic-analysis/venv/data/raw'
+data_path = '/src/data/raw'
 files = os.listdir(data_path)
 
 data_dict = {}
@@ -55,7 +55,7 @@ for file in files:
 
 countries_of_interest = ['Brazil', 'India', 'China', 'Russian Federation', 'South Africa']
 
-cleaned_data_path = 'C:/Users/ARSH/brics-economic-analysis/venv/data/processed'
+cleaned_data_path = '/src/data/processed'
 os.makedirs(cleaned_data_path, exist_ok=True)
 clean_and_save_world_expenditures(data_path, cleaned_data_path, countries_of_interest)
 

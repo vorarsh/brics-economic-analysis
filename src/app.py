@@ -6,7 +6,7 @@ import plotly.express as px
 from modeling import build_prophet_model, prepare_data_for_prophet
 from correlation_chart import plot_gdp_expenditure_correlation
 
-DATA_PATH = r'C:\Users\ARSH\brics-economic-analysis\venv\data\transformed'
+DATA_PATH = 'src/data/transformed'
 NUMERICAL_COLUMNS = ['Value']
 
 st.set_page_config(page_title='BRICS Economic Data Analysis', layout='wide')
@@ -19,7 +19,7 @@ Click on the flags below to explore trends for Brazil, Russia, India, China, and
 """)
 
 
-st.image("venv/images/Brics.jpg", use_container_width=True)
+st.image("images/Brics.jpg", use_container_width=True)
 
 def load_data(folder_path):
     file_list = os.listdir(folder_path)
@@ -52,11 +52,11 @@ if 'CountryName' not in data.columns:
     st.stop()
 
 country_flags = {
-    "Brazil": {"emoji": "🇧🇷", "image": "venv/flags/brazil-flag.png"},
-    "Russian Federation": {"emoji": "🇷🇺", "image": "venv/flags/russia.png"},
-    "India": {"emoji": "🇮🇳", "image": "venv/flags/india.png"},
-    "China": {"emoji": "🇨🇳", "image": "venv/flags/china.png"},
-    "South Africa": {"emoji": "🇿🇦", "image": "venv/flags/south-africa.png"}
+    "Brazil": {"emoji": "🇧🇷", "image": "flags/brazil-flag.png"},
+    "Russian Federation": {"emoji": "🇷🇺", "image": "flags/russia.png"},
+    "India": {"emoji": "🇮🇳", "image": "flags/india.png"},
+    "China": {"emoji": "🇨🇳", "image": "flags/china.png"},
+    "South Africa": {"emoji": "🇿🇦", "image": "flags/south-africa.png"}
 }
 
 if "selected_country" not in st.session_state:
