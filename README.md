@@ -46,7 +46,7 @@ The project leverages **Streamlit** for building the web-based application and *
 
 3. Run the Streamlit application:
     ```bash
-    streamlit run venv/Scripts/app.py
+    streamlit run src/app.py
     ```
 
 4. Visit `http://localhost:8501` in your browser to view the app.
